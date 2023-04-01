@@ -1,0 +1,44 @@
+footer {
+  display: grid;
+  gap: 2rem;
+  place-items: center;
+  font-size: 0.7rem;
+  padding: 0 16px 2rem;
+  background: rgb(1,180,40);
+background: linear-gradient(352deg, rgba(1,180,40,1) 0%, rgba(255,255,255,1) 23%);
+}
+
+footer h4{
+  color: var(--secundario);
+  text-transform: uppercase;
+}
+
+footer a{
+  color: var(--accion);
+  transition: all .2s ease-in;
+}
+
+footer a:hover{
+  color: var(--principal);
+  transform: scale(1.02);
+}
+
+footer section{
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+footer div{
+  display: grid;
+  gap: .7rem;
+}
+
+footer div img{
+  justify-self: center;
+  aspect-ratio: 16 / 9;
+}
+
+footer section p{
+  font-size: .7rem;
+}

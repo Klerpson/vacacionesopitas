@@ -1,0 +1,27 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+     <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+     <link href="{{ site.url }}/feed.xml" rel="self" type="application/atom+xml"/>
+     <link href="{{ site.url }}" rel="alternate" type="text/html"/>
+     <id>{{ site.url }}</id>
+     <updated>{{ site.time | date_to_xmlschema }}</updated>
+     <title type="html">{{ site.title }}</title>
+     <author>
+       <name>Julian Andres Franco</name>
+       <email>contacto@sanagustinhuila.com.co</email>
+     </author>
+
+ {% for post in site.posts limit: 10 %}
+ <entry>
+   <title>{{ post.h1 }}</title>
+   <link href="{{ site.url }}{{ post.url }}"/>
+   <id>{{ site.url }}{{ post.id }}</id>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <content type="html">{{ post.excerpt | xml_escape | truncatewords:50 }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>

@@ -1,0 +1,10 @@
+<section class="categorias">
+<h3>¡Viajar por Colombia es maravilloso!</h3>
+<p>¿A qué parte de Colombia deseas llegar? <strong>Aquí están todas las terminales de Colombia separadas por departamentos. Haz clic en el botón de la terminal de transporte que estás buscando.</strong></p>
+<div>
+  {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="{{ site.baseurl }}/#{{ category_name }}" title="Terminales de transporte {{ category_name }}">{{ category_name | capitalize | normalize_whitespace }}</a>
+  {% endfor %}
+</div>
+</section>

@@ -1,0 +1,36 @@
+---
+layout: compress
+---
+{% include head.html %}
+{% include header.html %}
+{% include breadcrumbs.html %}
+<main class="post-content">
+  {{ content }}
+  {% if page.referencias %}
+  <section id="fuentes">
+    <h4>Créditos y referencias</h4>
+    <div>
+      {% for link_hash in page.referencias %}
+      {% for link in link_hash %}
+      <ul>
+        <li>
+          <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+        </li>
+      </ul>
+      {% endfor %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</main>
+{% include comentarios.html %}
+<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #DEE5E5;"></path></svg></div>
+<section class="conclusion">
+  <div>
+    <h2>¿Te gustaría obtener la mejor guía de viajes por Colombia?</h2>
+    <p>Planea tus próximos viajes y <span class="destacado">disfrútalos seguro y tranquilo</span>. Haz clic en el enlace para comprar la <a href="https://go.hotmart.com/M80153395U">"Guía Turística de Colombia"</a></p>
+  </div>
+</section>
+
+
+{% include footer.html %}

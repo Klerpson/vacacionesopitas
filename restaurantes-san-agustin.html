@@ -1,0 +1,57 @@
+---
+layout: default
+title: Los restaurantes mejor calificados de San Agustín Huila
+description: Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila** y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!
+h1: Los restaurantes de San Agustín Huila bien recomendados
+---
+<section class="intro">
+  <p>Aquí te mostramos cuáles son <strong>los mejores restaurantes de San Agustín Huila y sus alrededores</strong>. También, te contaremos cuáles son los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!</p>
+  <lord-icon
+  src="https://cdn.lordicon.com/albqovim.json"
+  trigger="loop" state="intro"
+    colors="primary:#2F7CBA"
+    style="width:50px;height:50px">
+  </lord-icon>
+</section>
+
+<main class="blog-posts">
+  <h2>Restaurantes de San Agustín y sus alrededores</h2>
+{% for post in site.posts %}
+{% if post.category == "restaurantes"%}
+  <article>
+    <a href="{{post.url}}" title="{{post.title}}">
+      <h3>{{post.h1 | truncate: 60}}</h3>
+      <img src="{{site.baseurl}}/img/{{post.webps}}" alt="{{post.alt}}" loading="lazy" width="120">
+    </a>
+  </article>
+
+{% endif %}
+{% endfor %}
+</main>
+
+
+
+<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #9DC5BB;"></path></svg></div>
+<section class="conclusion">
+  <h2>En San Agustín encontrarás descanso y aventura</h2>
+<p>San Agustín tiene una variedad deliciosa de productos autóctonos que son muy bien aprovechados en estos restaurantes. Y por supuesto, también encontrarás los clásicos platos colombianos e internacionales con deliciosas técnicas de preparación.</p>
+<p>No pierdas la oportunidad de conocer este hermoso pueblo colonial y visitar todas sus deliciosas opciones gastronómicas. Aquí te contamos <strong>cuáles son los restaurantes de San Agustín más conocidos</strong>. Pero encontrarás muchas delicias más por venir a probar.</p>
+<p>Ven y diviértete en un pueblo colonial que es muy acogedor. Tiene un cálido ambiente campestre.<strong>Y sus restaurantes son muy bien recomendados</strong>. En la mayoría de ellos te ofrecen:</p>
+<ol>
+  <li>Coberturas en terrazas para que la lluvia no interrumpa tu buen rato.</li>
+  <li>Son ideales para salir en grupo y con niños.</li>
+  <li>La mayoría tienen un ambiente familiar muy relajado.</li>
+  <li>No solo se aceptan dinero en efectivo, sino también tarjetas y transacciones en línea.</li>
+  <li>Casi todos tienen Wi-Fi gratis.</li>
+  <li>Y también tienen entrega a domicilio.</li>
+</ol>
+<p>No lo pienses más, ¡<a href="{{'magia-san-agustin-huila'|relative_url}}" title="Artículo sobre San Agustín Huila">visita San Agustín Huila</a> y descubre la magia de este destino turístico único en Colombia! Con su rica historia, paisajes impresionantes y actividades de aventura, San Agustín te espera con los brazos abiertos para que vivas una experiencia inolvidable.</p>
+<div>
+  <h2>¿Te ayudamos a preparar tu viaje a San Agustín?</h2>
+  <p><span class="destacado">Escríbenos por WhatsApp</span> y te recomendaremos todo lo que necesitas para que tengas las mejores vacaciones de tu vida.<br><a href="{{site.whatsapp}}">Escribir por WhatsApp</a></p>
+</div>
+</section>
+
+{% include footer.html %}
+
+<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>

@@ -1,0 +1,44 @@
+<footer>
+  <section>
+    <div>
+      <h3>San Agustín Huila</h3>
+      <a href="{{site.baseurl}}/">
+        <img src="{{'apple-touch-icon-120x120.png'|relative_url}}" alt="Logo de sanagustinhuila.com.co" width="120"  loading="lazy">
+      </a>
+    </div>
+    <div>
+      <h4>Sitios turístiso</h4>
+      <a href="{{ site.baseurl }}/turismo/parque-arqueologico-san-agustin">Parque arqueológico de San Agustín</a>
+      <a href="{{ site.baseurl }}/turismo/estrecho-del-magdalena">Estrecho del Magdalena</a>
+      <a href="{{ site.baseurl }}/turismo/laguna-del-magdalena">Laguna del Magdalena</a>
+      <a href="{{ site.baseurl }}/turismo" title="Turismo en San Agustín">Buscar más</a>
+    </div>
+    <div>
+      <h4>Noticias de San Agustín</h4>
+      {% assign post1 = site.posts[0] %}
+      <a href="{{site.baseurl}}{{ post1.url }}">{{ post1.h1 | truncate: 45}}</a>
+      {% assign post2 = site.posts[1] %}
+      <a href="{{site.baseurl}}{{ post2.url }}">{{ post2.h1 | truncate: 45}}</a>
+      {% assign post3 = site.posts[2] %}
+      <a href="{{site.baseurl}}{{ post3.url }}">{{ post3.h1 | truncate: 45}}</a>
+      <a href="{{site.baseurl}}/hoteles">Buscar más</a>
+    </div>
+    <!-- <div>
+      <h4>Síguenos</h4>
+      <a href="{{site.instagram}}">Perfil de Instagram</a>
+      <a href="{{site.facebook}}">Perfil de Facebook</a>
+      <a href="{{site.pinterest}}">Perfil de Pinterest</a>
+    </div> -->
+    <div>
+      <h4>Legal </h4>
+      <a href="{{site.baseurl}}/legal">Privacidad, términos y condiciones</a>
+      <a href="mailto:contacto@sanagustinhuila.com.co">E-mail</a> 
+      <a href="{{site.baseurl}}/contacto">Escríbenos</a>
+    </div>
+  </section>
+  <section>
+    <p>Las normas y leyes de turismo son reguladas por <a href="https://www.mincit.gov.co/minturismo/inicio"
+      rel="nofollow noopener noreferrer" target="_blank" title="Link del ministerio de turismo">El Ministerio de comercio, industria y turismo</a></p>
+  <p>&copy; sanagustinhuila.com.co - {{ "now" | date:"%Y"}} - Todos los derechos reservados</p>
+  </section>
+</footer>

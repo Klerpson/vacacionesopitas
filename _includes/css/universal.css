@@ -1,0 +1,233 @@
+:root {
+
+  /*** COLORES ***/
+  --principal: #5EB671;
+  --accion: #01b428;
+  --secundario: #2F7CBA;
+  --complemento1: #9dc5bb;
+  --complemento2: #DEE5E5;
+
+  --gris1: rgba(191, 191, 191, 1);
+  --gris2: rgba(140, 140, 140, 1);
+  --gris3: rgba(89, 89, 89, 1);
+  --gris4: rgba(64, 64, 64, 1);
+  --grisFuentes: #111413;
+
+  /*** FUENTES ***/
+  --fuenteTitulos: 'Sarala', sans-serif;
+  --fuenteTexto: 'Trykker', serif;
+
+  /* BORDERS */
+  --radius: 12px;
+
+  /* SOMBRA */
+  --shadow: 0 2px 8px rgba(22, 22, 22, .3);
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  font-size: calc(15px + 0.390625vw)
+}
+
+body {
+  font-family: var(--fuenteTexto);
+  font-size: var(--sizeTexto);
+  color: var(--grisFuentes);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--fuenteTitulos);
+  text-transform: initial;
+}
+
+h1 {
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+p, .post-content li {
+  line-height: 1.326;
+  word-wrap: break-word;
+  font-size: .90rem;
+}
+
+pre {
+  font-family: monospace, monospace;
+}
+
+a {
+  background: transparent;
+  font-family: var(--fuenteTexto);
+  text-decoration-thickness: 2.6px;
+  font-size: .90rem;
+}
+
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -.25em;
+}
+
+sup {
+  top: -.5em;
+}
+
+img {
+  border-style: none;
+}
+
+input {
+  border: inset;
+  padding: .7rem;
+  border-radius: var(--radius);
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+  border-radius: var(--radius);
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+li {
+  list-style: none;
+}
+
+header,
+.intro,
+.blog-home,
+.conclusion,
+.categorias,
+.blog-posts,
+.contacto {
+  width: min(90vw, 1200px);
+  margin-inline: auto;
+  margin-bottom: 4rem;
+}
+
+.destacado{
+  background-image: url('/img/underline-text-img.png');
+}
+
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: var(--secundario);
+}
+
+.svg-icon circle {
+  stroke: var(--secundario);
+  stroke-width: 1;
+}
+
+blockquote{
+  border: .8px solid var(--gris1);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 1.2rem 0;
+  background-color: var(--secundario);
+  color: white;
+}
+
+blockquote a {
+  margin: 1rem 0 0;
+  display: block;
+  float: right;
+  background-color: var(--accion);
+  color: white !important;
+  text-decoration: none;
+  padding: 12px 22px;
+  border-radius: 12px;
+  box-shadow: none;
+  transition: .2s all ease-out;
+}
+
+blockquote a:hover{
+  box-shadow: var(--shadow);
+}
+
+blockquote a:active{
+  box-shadow: none;
+ }
+ 
+ table tr{
+   border-bottom: 2px solid var(--gris1);
+   display: block;
+   margin-bottom: .625em;
+  }
+
+  table th,
+  table tr{
+    display: flex;
+    flex-wrap: wrap;
+    gap: .3rem 1.8rem;
+  }

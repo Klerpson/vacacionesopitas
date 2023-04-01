@@ -1,0 +1,79 @@
+.hoteles{
+  margin-inline: auto;
+  padding: 1.5rem 16px;
+  width: min(100%, 1200px);
+  display: grid;
+  gap: 1.5rem;
+}
+
+.hoteles div{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.hoteles div{
+  color: var(--grisFuentes);
+}
+
+.hoteles div article{
+  position: relative;
+  background-color: white;
+  width: min(100%, 320px);
+  display: grid;
+  justify-content: left;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding-bottom: .7rem;
+}
+
+.hoteles div article span{
+  display: flex;
+  padding: 0.7rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-weight: 700;
+}
+
+.hoteles div article img{
+  max-width: 100%;
+}
+
+.hoteles div article h3{
+  line-height: 1.1;
+  color: var(--secundario);
+  text-align: center;
+  padding: .7rem;
+}
+
+.hoteles div article ul {
+  padding: .7rem 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.hoteles div article ul li{
+  font-size: .9rem;
+  list-style: none;
+}
+
+.hoteles div article ul a{
+  color: var(--accion);
+  text-align: right;
+}
+
+.hoteles div article > a{
+  display: block;
+  padding: 0 .5rem;
+  color: var(--accion);
+  line-height: 1.1;
+  font-size: .9rem;
+}

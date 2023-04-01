@@ -1,0 +1,147 @@
+header {
+  display: grid;
+  gap: 2rem;
+}
+
+header .tooltip {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: 1px solid var(--gris1);
+}
+
+header .tooltip span{
+  color: var(--gris2);
+  font-size: clamp(14px, 0.9rem, 18px);
+}
+
+header .title{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+header .title h1{
+  text-transform: initial;
+  width: min(100%, 580px);
+}
+
+header .title a {
+  color: var(--principal);
+  text-transform: initial;
+  font-size: .8rem;
+}
+
+header .title img{
+  width: min(100%, 1200px);
+  border-radius: var(--radius);
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+nav a{
+  height: min-content;
+  flex: 1 0 80px;
+  text-align: center;
+  font-size: clamp(14px, 0.9rem, 18px);
+  color: var(--principal);
+  text-transform: capitalize;
+  display: grid;
+  place-items: center;
+  transition: all .7s ease;
+}
+
+nav a:hover{
+  color: var(--secundario);
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+nav .active{
+  color: var(--secundario);
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+nav a .svg-icon {
+  width: 32px;
+  height: 32px;
+}
+
+nav a .svg-icon path,
+nav a .svg-icon polygon,
+nav a .svg-icon rect {
+  fill: var(--secundario);
+}
+
+nav a .svg-icon circle {
+  stroke: var(--accion);
+  stroke-width: 1;
+}
+
+.gallery{
+  overflow: auto;
+  display: flex;
+  gap: .5rem;
+  scroll-snap-type: x mandatory;
+}
+
+.gallery .item{
+  position: relative;
+  flex-shrink: 0;
+  scroll-snap-align: start;
+  height: 340px;
+  width: min(90%, 600px);
+  background-repeat: no-repeat;
+  border: 1px solid var(--gris1);
+  border-radius: var(--radius);
+}
+
+.gallery a{
+  color: var(--accion);
+}
+
+.gallery a h3{
+  background-color: rgba(255, 255, 255, 0.78);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.8rem;
+}
+
+.item-1 {
+  background-image: url('/img/blog/parque-arqueologico-san-agustin-600.webp');
+  background-size: cover;
+  background-position: center center;
+}
+
+.item-2 {
+  background-image: url('/img/blog/san-agustin-parajes-600.webp');
+  background-size: cover;
+  background-position: center center;
+}
+
+.item-3 {
+  background-image: url('/img/blog/parque-sumak-san-agustin-huila-600.webp');
+  background-size: cover;
+  background-position: center center;
+}
+
+.item-4 {
+  background-image: url('/img/blog/san-agustin-parajes-600.webp');
+  background-size: cover;
+  background-position: center center;
+}
+
+.item-5 {
+  background-image: url('/img/blog/parque-sumak-san-agustin-huila.jpg');
+  background-size: cover;
+  background-position: center center;
+}

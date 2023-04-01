@@ -1,0 +1,12 @@
+<section class="noticias">
+  <h2>Noticias de la {{page.title}} hoy</h2>
+  {% for link_hash in page.noticias %}
+      {% for link in link_hash %}
+      <ul>
+        <li>
+          <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+        </li>
+      </ul>
+      {% endfor %}
+      {% endfor %}
+</section>

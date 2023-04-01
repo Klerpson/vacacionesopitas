@@ -1,0 +1,14 @@
+<section class="destinos">
+  <div>
+    <h2>Promoción del mes:</h2>
+    {% for promo in site.data.promociones %}
+    <a href="https://api.whatsapp.com/send?phone=573209673925&text=%C2%A1Hola!%20%F0%9F%A7%B3Por%20favor,%20me%20regalas%20m%C3%A1s%20informaci%C3%B3n%20de%20las%20promociones%20para%20los%20viajes%20de%20este%20mes%20.%20Gracias%20%F0%9F%A4%A9">
+      <picture>
+        <source type="image/webp" srcset="{{ site.baseurl }}/{{ promo.webp }}">
+        <img src="{{ site.baseurl }}/{{ promo.img }}" class="wow flipInY" alt="{{ promo.alt }}">
+        <h4>{{ promo.title }}</h4>
+      </picture>
+    </a>
+    {% endfor %}
+  </div>
+</section>

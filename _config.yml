@@ -1,0 +1,23 @@
+baseurl: ''
+url: 'https://sanagustinhuila.com.co'
+name: 'sanagustinhuila.com.co'
+author: Julian Franco
+email: contacto@sanagustinhuila.com.co
+# instagram: https://www.instagram.com/terminaldetransporte/
+# twitter: https://twitter.com/bloglaterminal
+
+markdown: kramdown
+
+permalink: :slug/
+
+keep_files: [/img]
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
