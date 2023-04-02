@@ -1,108 +1,1455 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-     <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-     <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
-     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-     <id>http://localhost:4000</id>
-     <updated>2023-04-01T15:19:34-05:00</updated>
-     <title type="html"></title>
-     <author>
-       <name>Julian Andres Franco</name>
-       <email>contacto@sanagustinhuila.com.co</email>
-     </author>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-01T22:45:32-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sanagustinhuila.com.co</title><author><name>Julian Franco</name></author><entry><title type="html">El Mirador “La mano del Gigante” en Gigante Huila</title><link href="http://localhost:4000/turismo/mirador-mano-del-gigante-en-gigante-huila" rel="alternate" type="text/html" title="El Mirador “La mano del Gigante” en Gigante Huila" /><published>2023-02-27T00:00:00-05:00</published><updated>2023-02-27T00:00:00-05:00</updated><id>http://localhost:4000/turismo/mirador-mano-del-gigante-en-gigante-huila</id><content type="html" xml:base="http://localhost:4000/turismo/mirador-mano-del-gigante-en-gigante-huila"><![CDATA[<p>“La mano del Gigante” en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador. Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
+<!-- excerpt --></p>
 
- 
- <entry>
-   <title>El mirador "La mano del Gigante" en Gigante Huila: ¡aventura y muchas fotografías!</title>
-   <link href="http://localhost:4000/turismo/mirador-mano-del-gigante-en-gigante-huila"/>
-   <id>http://localhost:4000/turismo/mirador-mano-del-gigante-en-gigante-huila</id>
-   <updated>2023-02-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;“La mano del Gigante” en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador. Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras. &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
- </entry>
- 
- <entry>
-   <title>Parque arqueológico de San Agustín - Patrimonio de la humanidad</title>
-   <link href="http://localhost:4000/turismo/parque-arqueologico-san-agustin"/>
-   <id>http://localhost:4000/turismo/descubre-misterio-parque-arqueologico-san-agustin</id>
-   <updated>2023-02-11T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con &lt;strong&gt;esculturas y monumentos de hace más de 1.800 años&lt;/strong&gt;.
-&lt;!-- excerpt --&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Despierta tus sentidos con el café de Pitalito Huila y mira nuestras recomendaciones</title>
-   <link href="http://localhost:4000/cafe-pitalito-huila/"/>
-   <id>http://localhost:4000/cafe-pitalito-huila</id>
-   <updated>2022-12-26T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Tomar café en Pitalito, Huila, es toda una experiencia. Esta ciudad colombiana es conocida por sus cafés de alta calidad y su vibrante cultura generada alrededor de este producto.
-&lt;!-- excerpt --&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>¡Descubre la majestuosidad del Salto del Mortiño y las emociones del Vuelo del Halcón en Isnos!</title>
-   <link href="http://localhost:4000/turismo/salto-del-mortino-majuestuosidad-emociones"/>
-   <id>http://localhost:4000/turismo/cascada-salto-mortino-isnos</id>
-   <updated>2022-11-25T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El Salto del Mortiño es una finca turística, para los amantes de los deportes extremos y la diversión en parejas, amigos o familiares muy aventureros.
-&lt;!-- excerpt --&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>El museo de Obando en San Agustín</title>
-   <link href="http://localhost:4000/turismo/museo-obando-san-agustin-viaje-lleno-misterio"/>
-   <id>http://localhost:4000/turismo/museo-obando-san-agustin-huila</id>
-   <updated>2022-03-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Obando en San Agustín es famoso por su museo arqueológico. Se encuentra en un corregimiento a 20 minutos desde el municipio.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Cascada Los Tres Chorros</title>
-   <link href="http://localhost:4000/turismo/tres-chorros-cascada-imponente-san-agustin"/>
-   <id>http://localhost:4000/turismo/cascada-los-tres-chorros-de-san-agustin</id>
-   <updated>2022-01-31T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La cascada Los Tres Chorros es un tesoro de San Agustín&lt;/strong&gt;. Muchas de los visitantes de este lugar lo describen como “una de las maravillas naturales de Colombia”. Otros dicen que es un “lugar mágico”. ¡Realmente es espectacular!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Laguna del Magdalena, origen del gran río</title>
-   <link href="http://localhost:4000/laguna-del-magdalena/"/>
-   <id>http://localhost:4000/laguna-del-magdalena</id>
-   <updated>2021-09-09T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas&lt;/strong&gt;, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Finca Agroturística Tierra Activa</title>
-   <link href="http://localhost:4000/hoteles/finca-tierra-activa-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/finca-tierra-activa-san-agustin</id>
-   <updated>2021-07-25T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas&lt;/strong&gt;.&lt;/p&gt;
+<ul id="markdown-toc">
+  <li><a href="#turismo-en-gigante-huila" id="markdown-toc-turismo-en-gigante-huila">Turismo en Gigante Huila</a></li>
+  <li><a href="#necesitas-hospedaje-en-gigante-huila" id="markdown-toc-necesitas-hospedaje-en-gigante-huila">¿Necesitas hospedaje en Gigante Huila?</a></li>
+  <li><a href="#la-mano-del-gigante-el-mirador-más-importante-de-gigante-huila" id="markdown-toc-la-mano-del-gigante-el-mirador-más-importante-de-gigante-huila">La mano del Gigante: el mirador más importante de Gigante Huila</a>    <ul>
+      <li><a href="#cómo-llegar-a-la-mano-del-gigante" id="markdown-toc-cómo-llegar-a-la-mano-del-gigante">¿Cómo llegar a la mano del Gigante?</a></li>
+      <li><a href="#atractivos-turísticos-de-la-mano-del-gigante" id="markdown-toc-atractivos-turísticos-de-la-mano-del-gigante">Atractivos turísticos de la mano del Gigante</a></li>
+    </ul>
+  </li>
+  <li><a href="#recomendaciones-para-venir-al-mirador-de-la-mano-del-gigante" id="markdown-toc-recomendaciones-para-venir-al-mirador-de-la-mano-del-gigante">Recomendaciones para venir al mirador de la mano del Gigante</a></li>
+  <li><a href="#la-mano-del-gigante-un-mirador-espectacular" id="markdown-toc-la-mano-del-gigante-un-mirador-espectacular">La mano del Gigante: un mirador espectacular</a></li>
+</ul>
 
-</content>
- </entry>
- 
- <entry>
-   <title>Estrecho del río Magdalena en San Agustín</title>
-   <link href="http://localhost:4000/estrecho-rio-magdalena/"/>
-   <id>http://localhost:4000/estrecho-rio-magdalena</id>
-   <updated>2021-06-22T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que &lt;strong&gt;este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Hotel Masaya</title>
-   <link href="http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila</id>
-   <updated>2021-06-15T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El &lt;a href=&quot;https://www.masaya-experience.com/san-agustin/&quot; title=&quot;Página web del hotel Masaya&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;hotel Masaya&lt;/a&gt; es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena. El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.&lt;/p&gt; &lt;p&gt;Abarca 2 municipios, San Agustín...</content>
- </entry>
- 
+<h2 id="turismo-en-gigante-huila">Turismo en Gigante Huila</h2>
 
-</feed>
+<p>Pero antes de contarte más sobre esta increíble atracción, hablemos un poco del <strong>turismo en Gigante Huila</strong>.</p>
+
+<p>¿Te gustan las aventuras y nuevas experiencias? Tienes que venir a Gigante Huila. La región es conocida por su riqueza natural, la cultura y las tradiciones locales, y por supuesto, la deliciosa comida típica.</p>
+
+<p>Hay muchas actividades turísticas, desde <strong>caminatas por la montaña y paseos en bicicleta hasta visitas a cascadas y ríos</strong>.</p>
+
+<p>En otras palabras, <em>Gigante Huila es el destino perfecto para aquellos que buscan una escapada única y emocionante</em>.</p>
+
+<h2 id="necesitas-hospedaje-en-gigante-huila">¿Necesitas hospedaje en Gigante Huila?</h2>
+
+<blockquote>
+  <p><strong>¿Te gustaría obtener la mejor guía de viajes por Colombia?</strong><br />
+Planea tus próximos viajes y <em>disfrútalos con seguridad y tranquilidad</em>.<br />
+<a href="https://go.hotmart.com/M80153395U" title="Comprar la guía turística de Colombia." rel="nofollow noopener noreferrer" target="_blank">Compra la Guía turística de Colombia</a></p>
+</blockquote>
+
+<p>Y cuando vengas, ¿dónde vas a <a href="https://www.booking.com/searchresults.es.html?aid=306396&amp;label=gigante-NPVifzbX7Y_C7rbzs0hwwAS638077279638%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-405510400211%3Alp20204%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YdnZzv7u3SiOco5fpqS0M1M&amp;sid=2e40722a3292c597967d092624e3142a&amp;city=-585173&amp;redirected=1&amp;redirected_from_city=1&amp;source=city&amp;" rel="nofollow noopener noreferrer" target="_blank">alojarte en Gigante Huila</a>? Bueno, ¡tienes muchas opciones! Desde cabañas y alojamientos rurales hasta hoteles y posadas. Si prefieres la tranquilidad del campo, entonces alojarte en una cabaña en las montañas puede ser la mejor opción para ti.</p>
+
+<p>Ahora, si necesitas <em>una estadía más económica, cómoda y conveniente</em>, los hoteles y posadas en el centro del pueblo pueden ser lo que necesitas.</p>
+
+<p>Recuerda que <strong>Gigante Huila es un lugar pequeño</strong>, por lo que no tendrás problemas para desplazarte entre los diferentes alojamientos y atracciones.</p>
+
+<h2 id="la-mano-del-gigante-el-mirador-más-importante-de-gigante-huila">La mano del Gigante: el mirador más importante de Gigante Huila</h2>
+
+<p>Ahora, volvamos al tema principal: el mirador “La mano del Gigante”. Este mirador es una de las atracciones más icónicas de la zona, y una visita obligada para todos los turistas que visitan Gigante Huila.</p>
+
+<h3 id="cómo-llegar-a-la-mano-del-gigante">¿Cómo llegar a la mano del Gigante?</h3>
+
+<p>El Mirador “La mano del Gigante” se encuentra ubicado a unos 20 minutos en carro desde el pueblo de Gigante. Puedes <em>pagar un taxi desde el centro del pueblo hasta la entrada del mirador</em>. Ya te contaremos porqué es lo más recomendado.</p>
+
+<p>Al llegar a este punto, <strong>deberás subir cerca de 2 kilómetros</strong> hasta la cima de una montaña. Como el acceso es muy empinado, <em>hay que dejar tu vehículo particular en un parqueadero en la parte baja de la montaña</em>. Por eso es mejor venir en un transporte público, claro, si el presupuesto te lo permite.</p>
+
+<p>Desde aquí <strong>puedes pagar transporte en vehículos con más tracción</strong>, que cobra 15000 pesos en promedio. También, <strong>puedes hacer una caminata por un sendero de cerca de 40 minutos</strong>. Al bajar, el tiempo es mucho menor. Por esto, te recomendamos bajar caminando.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7972.532998113206!2d-75.49886052910924!3d2.417791499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b33a8784635f7%3A0xc4466883657f3f23!2sMirador%20La%20Mano%20del%20Gigante!5e0!3m2!1ses!2sco!4v1677818982556!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><em>Ubicacion en Google maps del mirador La mano del Gigante</em></p>
+
+<h3 id="atractivos-turísticos-de-la-mano-del-gigante">Atractivos turísticos de la mano del Gigante</h3>
+
+<p><strong>El principal atractivo de la mano del Gigante es su escultura hecha en pino y eucalipto</strong>, la cual se asemeja a una mano gigante que emerge de la tierra.</p>
+
+<p>Ya en la cima del mirador, tendrás <strong>vistas panorámicas muy… pero muy impresionantes</strong> de la región. Se ve todo: montañas, valles, ríos y el pueblo de Gigante Huila.</p>
+
+<p>Una vez en el mirador, ¡recuerda tomar muchas fotos! Todos queremos estar allá por esas fotos. El paisaje es impresionante, y seguramente querrás compartirlo con tus amigos y familiares en las redes sociales.</p>
+
+<p>También, <strong>hay áreas de picnic en el mirador</strong>. Asi que te recomendamos llevar una manta y unos snacks para disfrutar de una tarde de picnic en el mirador.</p>
+
+<p>Y si necesitas algo más, <strong>en el lugar hay servicios como restaurante, cafetería, hospedaje, más esculturas artísticas para disfrutar de la vista.</strong></p>
+
+<h2 id="recomendaciones-para-venir-al-mirador-de-la-mano-del-gigante">Recomendaciones para venir al mirador de la mano del Gigante</h2>
+
+<p>Ten en cuenta las siguientes recomendaciones:</p>
+
+<ul>
+  <li>Te recomendamos <strong>visitar el mirador en la tarde</strong> para disfrutar de la mejor puesta del sol. Es el momento perfecto para disfrutar de los colores anaranjados y rojizos del cielo.</li>
+  <li>No te preocupes si no eres una experta en fotografía. Desde cualquier ángulo que tomes la foto, el resultado será espectacular. <strong>Solo ten en cuenta que tu fotografía puede quedar a contra luz en ciertas horas del día.</strong></li>
+  <li>Si deseas tomar tus fotos con calma y disfrutar el momento, <strong>debes llegar muy temprano o mejor entre semana</strong>. Los fines de semana hay muuuuchaaaa gente. Hasta te dan un turno para pasar por número. Y solamente tendrás 1 minuto para sacar las fotos que más puedas.</li>
+  <li>Utiliza ropa de aventura. Sobre para caminar por senderos empinados.</li>
+</ul>
+
+<p>En el siguiente <strong>video sobre el mirador de la mano del Gigante</strong> podrás ver más sobre estas recomendaciones.</p>
+
+<iframe width="100%" height="455" src="https://www.youtube-nocookie.com/embed/AbJvSf4voNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe>
+<p><em>Créditos del canal <a href="https://www.youtube.com/@roadxelmundo" rel="nofollow noopener noreferrer" target="_blank">Roadxelmundo</a></em></p>
+
+<h2 id="la-mano-del-gigante-un-mirador-espectacular">La mano del Gigante: un mirador espectacular</h2>
+
+<p>Ir a la mano del Gigante es la sensación de estar frente a una obra de arte de la naturaleza es indescriptible. Es como si la mano del gigante te estuviera dando la bienvenida a un mundo de ensueño.</p>
+
+<p><strong>La mezcla de colores y paisajes</strong> que se pueden ver desde allí son simplemente espectaculares. Puedes ver el <a href="/laguna-del-magdalena" title="Estrecho del río Magdalena" target="_blank">río Magdalena</a>, los <a href="/cafe-pitalito-huila" title="Café de Pitalito Huila" target="_blank">cultivos de café</a> y la cordillera de los Andes en su máximo esplendor.</p>
+
+<p>En resumen, <strong>el Mirador “La mano del Gigante” en Gigante Huila es un lugar que no puedes perderte si eres una amante de la naturaleza y los paisajes espectaculares</strong>. La vista es impresionante y te aseguramos que te dejará sin palabras.</p>
+
+<p>Así que si pasas por <a href="/visita-san-agustin-huila" title="San Agustín Huila" target="_blank">San Agustín Huila</a> y quieres seguir una gran aventura… ¡No lo pienses más y planifica tu visita al Mirador “La mano del Gigante”!</p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[¡Prepárate para una aventura inolvidable en Gigante Huila! Y en este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La mano del Gigante".]]></summary></entry><entry><title type="html">Parque arqueológico de San Agustín Huila</title><link href="http://localhost:4000/turismo/parque-arqueologico-san-agustin" rel="alternate" type="text/html" title="Parque arqueológico de San Agustín Huila" /><published>2023-02-11T00:00:00-05:00</published><updated>2023-02-11T00:00:00-05:00</updated><id>http://localhost:4000/turismo/descubre-misterio-parque-arqueologico-san-agustin</id><content type="html" xml:base="http://localhost:4000/turismo/parque-arqueologico-san-agustin"><![CDATA[<p>El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con <strong>esculturas y monumentos de hace más de 1.800 años</strong>.
+<!-- excerpt --></p>
+
+<ul id="markdown-toc">
+  <li><a href="#qué-es-el-parque-arqueológico-de-san-agustín" id="markdown-toc-qué-es-el-parque-arqueológico-de-san-agustín">Qué es el Parque Arqueológico de San Agustín</a></li>
+  <li><a href="#cómo-llegar-al-parque-arqueológico-de-san-agustín" id="markdown-toc-cómo-llegar-al-parque-arqueológico-de-san-agustín">Cómo llegar al parque arqueológico de San Agustín</a>    <ul>
+      <li><a href="#llegar-al-parque-arqueológico-desde-bogotá" id="markdown-toc-llegar-al-parque-arqueológico-desde-bogotá">Llegar al parque arqueológico desde Bogotá</a></li>
+      <li><a href="#llegar-al-parque-desde-neiva" id="markdown-toc-llegar-al-parque-desde-neiva">Llegar al parque desde Neiva</a></li>
+      <li><a href="#llegar-al-parque-de-san-agustín-desde-popayán-o-mocoa" id="markdown-toc-llegar-al-parque-de-san-agustín-desde-popayán-o-mocoa">Llegar al parque de San Agustín desde Popayán o Mocoa</a></li>
+    </ul>
+  </li>
+  <li><a href="#cuánto-vale-la-entrada-al-parque-arqueológico-de-san-agustín" id="markdown-toc-cuánto-vale-la-entrada-al-parque-arqueológico-de-san-agustín">¿Cuánto vale la entrada al parque arqueológico de San Agustín?</a>    <ul>
+      <li><a href="#entrar-gratis-al-parque-arqueológico-de-san-agustín" id="markdown-toc-entrar-gratis-al-parque-arqueológico-de-san-agustín">Entrar gratis al parque arqueológico de San Agustín</a></li>
+      <li><a href="#horarios-del-parque-arqueológico" id="markdown-toc-horarios-del-parque-arqueológico">Horarios del parque arqueológico</a></li>
+    </ul>
+  </li>
+  <li><a href="#información-sobre-el-parque-arqueológico-de-san-agustín" id="markdown-toc-información-sobre-el-parque-arqueológico-de-san-agustín">Información sobre el Parque Arqueológico de San Agustín</a>    <ul>
+      <li><a href="#el-parque-arqueológico-de-san-agustín-y-sus-hallazgos-arqueológicos" id="markdown-toc-el-parque-arqueológico-de-san-agustín-y-sus-hallazgos-arqueológicos">El parque arqueológico de San Agustín y sus hallazgos arqueológicos</a></li>
+      <li><a href="#las-zonas-del-parque-arqueológico-de-san-agustín-huila" id="markdown-toc-las-zonas-del-parque-arqueológico-de-san-agustín-huila">Las zonas del parque arqueológico de San Agustín Huila</a>        <ul>
+          <li><a href="#el-tablón" id="markdown-toc-el-tablón">El Tablón</a></li>
+          <li><a href="#la-chaquira" id="markdown-toc-la-chaquira">La Chaquira</a></li>
+          <li><a href="#la-pelota" id="markdown-toc-la-pelota">La Pelota</a></li>
+          <li><a href="#el-purutal" id="markdown-toc-el-purutal">El Purutal</a></li>
+          <li><a href="#el-museo-luis-duque-gómez" id="markdown-toc-el-museo-luis-duque-gómez">El museo Luis Duque Gómez</a></li>
+          <li><a href="#la-fuente-ceremonial-del-lavapatas" id="markdown-toc-la-fuente-ceremonial-del-lavapatas">La Fuente Ceremonial del Lavapatas</a></li>
+          <li><a href="#el-bosque-de-las-estatuas" id="markdown-toc-el-bosque-de-las-estatuas">El bosque de las estatuas</a></li>
+          <li><a href="#el-alto-del-lavapatas" id="markdown-toc-el-alto-del-lavapatas">El alto del Lavapatas</a></li>
+          <li><a href="#la-zona-de-las-mesitas" id="markdown-toc-la-zona-de-las-mesitas">La zona de “Las Mesitas”</a></li>
+          <li><a href="#el-alto-de-los-ídolos" id="markdown-toc-el-alto-de-los-ídolos">El Alto de los Ídolos</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#ven-a-conocer-las-ruinas-del-parque-arqueológico-de-san-agustín-huila" id="markdown-toc-ven-a-conocer-las-ruinas-del-parque-arqueológico-de-san-agustín-huila">Ven a conocer las ruinas del parque arqueológico de San Agustín Huila</a>    <ul>
+      <li><a href="#video-de-una-visita-al-parque-arqueológico" id="markdown-toc-video-de-una-visita-al-parque-arqueológico">Video de una visita al parque arqueológico</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="qué-es-el-parque-arqueológico-de-san-agustín">Qué es el Parque Arqueológico de San Agustín</h2>
+
+<p>El Parque Arqueológico de San Agustín es un lugar de gran importancia cultural y turística. Fue <strong>declarado Patrimonio de la Humanidad por la UNESCO</strong>. Muchos turistas visitan el parque cada año para ver las esculturas y aprender más sobre la historia y la cultura de la región.</p>
+
+<p><strong>Las esculturas de San Agustín son únicas por su tamaño y por la cantidad de detalles que muestran.</strong> Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas.</p>
+
+<p>Sus ruinas y estatuas fueron talladas en piedra y están dispersas en varias zonas entre los municipios de San Agustín e Isnos. Aún en lugares cercanos <em>siguen apareciendo más hallazgos</em>.</p>
+
+<p>Aquí puedes hacer caminatas ecológicas y de interés arqueológico por los alrededores, con visitas guiadas por los diferentes parques arqueológicos.</p>
+
+<p><strong>El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2</strong> de extensión.</p>
+
+<p>Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.</p>
+
+<h2 id="cómo-llegar-al-parque-arqueológico-de-san-agustín">Cómo llegar al parque arqueológico de San Agustín</h2>
+
+<blockquote>
+  <p>Si vienes por el páramo, desde la ciudad de Popayán, no será necesario llegar hasta Pitalito.</p>
+</blockquote>
+
+<p>Para llegar al parque debes ubicar el municipio el municipio de San Agustín Huila. Después de llegar a San Agustín, te diriges hasta la plaza principal.</p>
+
+<p>Desde el parque principal de San Agustin Huila, <strong>recorres 3 kilómetros hasta llegar al Parque Arqueológico</strong>.</p>
+
+<p>Puede servirte como punto de referencia llegar a nuestra <a href="https://gurcoff.com/contacto" title="Página de contacto de la heladería GurCoff">heladería GurCoff</a>. Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="360" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<p><em>Ubicación del parque arqueológico en google maps</em></p>
+
+<p>Por la gran afluencia de visitantes encontrarás en el camino artesanías, <a href="https://gurcoff.com/hoteles" title="Hoteles de San Agustín Huila">hoteles</a>, <a href="/mejores-restaurantes-san-agustin">restaurantes</a> con comida típica y comidas rápidas, entre otros.</p>
+
+<blockquote>
+  <p>¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de <a href="/hoteles">Hoteles en San Agustín</a></p>
+</blockquote>
+
+<h3 id="llegar-al-parque-arqueológico-desde-bogotá">Llegar al parque arqueológico desde Bogotá</h3>
+
+<p>Para llegar al parque arqueológico de San Agustín desde Bogotá puedes <strong>utilizar el transporte terrestre desde Bogotá (9 horas aproximadamente) hasta Pitalito</strong>. Desde allí viajarás hasta San Agustín (30 minutos más).</p>
+
+<p>También, puedes tomar vuelos desde Bogotá. <strong>El aeropuerto más cercano está ubicado en Pitalito, justo en la vía entre Pitalito y San Agustín.</strong></p>
+
+<p>Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos están un poco más retirados de tu destino. Pero igual te ahorrarán mucho tiempo.</p>
+
+<blockquote>
+  <p>En el artículo “La magia de San Agustín Huila” encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo. <a href="/turismo/magia-san-agustin-huila" title="Artículo sobre San Agustín Huila">La magia de San Agustín Huila</a></p>
+</blockquote>
+
+<h3 id="llegar-al-parque-desde-neiva">Llegar al parque desde Neiva</h3>
+
+<p>La ruta al <strong>parque arqueológico desde Neiva es de 4 horas aproximadamente</strong>, pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.</p>
+
+<p>Por lo tanto, <strong>desde la ciudad de Neiva, la ruta es Neiva - Pitalito - San Agustín</strong>.</p>
+
+<h3 id="llegar-al-parque-de-san-agustín-desde-popayán-o-mocoa">Llegar al parque de San Agustín desde Popayán o Mocoa</h3>
+
+<p><strong>La ruta desde la ciudad de Mocoa es llegando primero a la ciudad de Pitalito, y finalmente hasta San Agustín.</strong> Son 5 horas de viaje aproximadamente.</p>
+
+<p>Esta es la misma ruta que recorres si tomas un vuelo hasta los aeropuertos del Putumayo. Luego viajarás por una difícil vía hasta el municipio de Pitalito.</p>
+
+<p>Por otra parte, <strong>la vía que viene desde Popayán Cauca, por el páramo,</strong> hasta San Agustín Huila, tiene un largo trayecto sin pavimentar. Son aproximadamente 4 horas. Solo <em>dile al conductor que después del municipio de Isnos, te quedas en el cruce</em> de la entrada a San Agustín.</p>
+
+<p>Si vienes en carro particular, ten en cuenta el cruce para desviarte. Las señales de tránsito te guiarán.</p>
+
+<h2 id="cuánto-vale-la-entrada-al-parque-arqueológico-de-san-agustín">¿Cuánto vale la entrada al parque arqueológico de San Agustín?</h2>
+
+<p>Según la resolución 070 de 27 de marzo de 2017 se debe cancelar un pasaporte para entrar al parque. Cómpralo solamente en las taquilla de entrada de los parques. <em>No la compres en otra parte a revendedores</em>.</p>
+
+<p>Según la misma resolución, <strong>este pasaporte te sirve para las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras</strong>.</p>
+
+<p>El pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.Según la temporada, el precio puede variar. Las tarifas promedio son las siguientes:</p>
+
+<ul>
+  <li><strong>Entrada al parque para adultos</strong>: 45.000 mil pesos.</li>
+  <li><strong>Entrada al parque para estudiantes</strong>: 15.000 mil pesos.</li>
+  <li><strong>Entrada al parque para extranjeros</strong>: 60.000 mil pesos.</li>
+</ul>
+
+<h3 id="entrar-gratis-al-parque-arqueológico-de-san-agustín">Entrar gratis al parque arqueológico de San Agustín</h3>
+
+<p>Hay algunas excepciones para no pagar y <em>entrar gratis a visitar las ruinas de San Agustín</em>. Son las siguientes:</p>
+
+<ul>
+  <li>Niños menores de 12 años</li>
+  <li>Adultos mayores de 62 años</li>
+  <li>Personas oriundas de la región</li>
+  <li>Miembros de comunidades indígenas</li>
+</ul>
+
+<blockquote>
+  <p><strong>¿Te gustaría obtener la mejor guía de viajes por Colombia?</strong><br />
+Planea tus próximos viajes y <em>disfrútalos con seguridad y tranquilidad</em>.<br />
+<a href="https://go.hotmart.com/M80153395U" title="Comprar la guía turística de Colombia." rel="nofollow noopener noreferrer" target="_blank">Compra la Guía turística de Colombia</a></p>
+</blockquote>
+
+<h3 id="horarios-del-parque-arqueológico">Horarios del parque arqueológico</h3>
+
+<p>De acuerdo a la página oficial, <strong>el parque arqueológico de San Agustín abre a las 8:00 a.m. y la atención al público termina a las 4:00 p.m.</strong></p>
+
+<p>Además, hay que tener en cuenta que en temporada normal <em>el parque arqueológico no abre los días martes</em>. En la temporada alta sí atienden toda la semana.</p>
+
+<h2 id="información-sobre-el-parque-arqueológico-de-san-agustín">Información sobre el Parque Arqueológico de San Agustín</h2>
+
+<p><img src="/img/magazine/estatuas-parque-arqueologico-san-agustin.webp" alt="Estatuas del parque arqueológico de San Agustín" title="Estatuas del parque" width="360" height="240" loading="lazy" /></p>
+
+<p><strong>El Parque con las ruinas de San Agustín es una amplia reserva natural del valle alto del río Magdalena</strong>, al suroccidente de Colombia.</p>
+
+<p>Muchos de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar.</p>
+
+<p>En 1931 se restauraron muchas de sus ruinas. En la actualidad, <strong>el parque arqueológico tiene casi 300 estatuas</strong> muy bien conservadas para el turismo.</p>
+
+<h3 id="el-parque-arqueológico-de-san-agustín-y-sus-hallazgos-arqueológicos">El parque arqueológico de San Agustín y sus hallazgos arqueológicos</h3>
+
+<p>El parque de San Agustín <strong>es la zona con más allazgos arqueológicos de la época conocida como América Precolombina</strong>. Se considera que esta cultura fue <em>la necrópolis más grande de Suramérica</em>.</p>
+
+<p><img src="/img/magazine/estatuas-parque-arqueologico-san-agustin-huila.webp" alt="Estatuas del parque arqueológico de San Agustín Huila" title="Estatuas del parque" width="360" height="240" loading="lazy" /></p>
+
+<p>El parque tiene 78 hectáreas pertenecientes a los campesinos de la región. Fueron vendidas al gobierno con el tiempo; y desde 1935, se creó oficialmente el Parque Arqueológico de San Agustín para el público en general.</p>
+
+<p>En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de <strong>trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra) trabajaba también la cerámica, la madera y conocía la orfebrería.</strong></p>
+
+<h3 id="las-zonas-del-parque-arqueológico-de-san-agustín-huila">Las zonas del parque arqueológico de San Agustín Huila</h3>
+
+<blockquote>
+  <p><strong>¿Te gustaría hacer voluntariados y ahorrar costos mientras viajas?</strong><br />
+Aprende cómo con el libro <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank">“Como me lance al voluntariado ( guia paso a paso)”</a></p>
+</blockquote>
+
+<p>Las concentraciones de los hallazgos de ruinas en el parque de San Agustín son tan grandes, que <strong>se dividieron en 3 zonas principales: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.</strong></p>
+
+<ul>
+  <li>
+    <p><strong>La zona de Mesitas</strong> está cerca del sector con más servicios hoteleros, de hostelería y de turismo de la región.</p>
+  </li>
+  <li>
+    <p><strong>La sede del Alto de los Ídolos</strong> son 13 hectáreas, a 18 kilómetros por carretera desde San Agustín y a 8 kilómetros desde la cabecera municipal de Isnos.</p>
+  </li>
+  <li>
+    <p><strong>La sede del Alto de las Piedras</strong> (11 hectáreas) está aún más al norte, a 9 kilómetros por carretera desde Isnos.</p>
+  </li>
+</ul>
+
+<p>En estas 3 zonas se encuentran los siguientes lugares importantes del parque.</p>
+
+<h4 id="el-tablón">El Tablón</h4>
+
+<p>El sector de El Tablón debe su nombre posiblemente al arroyo que lo recorre. <strong>Esta zona contiene 5 litoesculturas muy grandes y diferentes entre ellas.</strong></p>
+
+<p>Parece que fueron ubicadas en zonas cercanas y se agruparon después en este lugar.</p>
+
+<h4 id="la-chaquira">La Chaquira</h4>
+
+<p>Es parte del reservorio arqueológico regional y se encuentra a un lado del río Magdalena. <strong>Este es un mirador natural magnífico con figuras talladas en sus rocas, algunas en alto relieve</strong>.</p>
+
+<p>Parece que tales imágenes tienen relación con registros astrológicos. Y es un balcón espectacular <em>para ver los amaneceres y atardeceres pintorescos del cañón del Magdalena</em>.</p>
+
+<h4 id="la-pelota">La Pelota</h4>
+
+<p>Esta zona del parque está ubicada en el cerro que lleva ese mismo nombre, <em>La Pelota</em>. <strong>Tienes 3 esculturas, 2 con representaciones antroporzoomorfas y 1 zoomorfa conocida como el búho</strong>. Al parecer, en la Mesita B, del parque de las Mesitas, hay una figura de búho igual.</p>
+
+<blockquote>
+  <p><strong>¿Te gustaría obtener la mejor guía de viajes por Colombia?</strong><br />
+Planea tus próximos viajes y <em>disfrútalos con seguridad y tranquilidad</em>.<br />
+<a href="https://go.hotmart.com/M80153395U" title="Comprar la guía turística de Colombia." rel="nofollow noopener noreferrer" target="_blank">Compra la Guía turística de Colombia</a></p>
+</blockquote>
+
+<h4 id="el-purutal">El Purutal</h4>
+
+<p>En este sitio del parque arqueológico de San Agustín hay 2 templos dolménicos (estos son momumentos megalíticos con una losa grande horizontal que se apoya sobre grandes piedras verticales). <em>Lo interesante en este lugar es que sus figuras tienen colores</em>.</p>
+
+<h4 id="el-museo-luis-duque-gómez">El museo Luis Duque Gómez</h4>
+
+<p><strong>Es sin duda el mayor museo del municipio de San Agustín.</strong> Te muestra con un guión moderno en 9 salas de exposición, los testimonios de los distintos grupos que habitaron la región en los diferentes períodos (arcaico, formativo y clásico), a lo largo de casi 6.000 años.</p>
+
+<p>Este museo te permite apreciar muchas estatuas y herramientas de la época, y muy bien conservadas. También verás los artefactos de cerámica en menor escala.</p>
+
+<h4 id="la-fuente-ceremonial-del-lavapatas">La Fuente Ceremonial del Lavapatas</h4>
+
+<p><img src="/img/magazine/fuente-lavapatas-parque-arquelogico-san-agustin.webp" alt="Fuente Lavapatas en el parque arqueológico de San Agustín Huila" title="Fuente Lavapatas" width="360" height="240" loading="lazy" /></p>
+
+<p>Una de las creaciones más significativas de la cultura de San Agustín fue <strong>la Fuente Ceremonial de Lavapatas</strong>. Es una obra de ingeniería hidráulica en la que se representaba una serie de figuras talladas, canales y estanques sobre un lecho de roca.</p>
+
+<p>Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida.</p>
+
+<h4 id="el-bosque-de-las-estatuas">El bosque de las estatuas</h4>
+
+<p>Es un sendero con un recorrido de unos 700 metros. Tiene una <strong>colección de esculturas que fueron traídas de diferentes lugares, algunas encontradas en las mesitas B y C, otras en caminos colindantes al pueblo</strong>.</p>
+
+<p>Todas las esculturas fueron ubicadas estratégicamente para decorar este sendero del parque y transportarte a su historia.</p>
+
+<p>Estas ruinas son originales, simétricas y perfectamente elaboradas. Además de la estatuaria, encontrarás un frondoso bosque con fauna y flora de la zona.</p>
+
+<h4 id="el-alto-del-lavapatas">El alto del Lavapatas</h4>
+
+<p>Es uno de los sitios más importantes del parque arqueológico de San Agustín. Está ubicado al final del recorrido, en la cima de una montaña.</p>
+
+<p>En este lugar <strong>se encontraron restos de una vivienda, se encontró un fogón y en él se encontraron restos orgánicos</strong>. Al ser analizados en un laboratorio con carbono 14, estos restos se ubican históricamente en un época de <strong>300 años</strong> antes de Cristo. <em>Esto lo convierte en el hallazgo más antigua de la cultura en San Agustín.</em></p>
+
+<p>En la antigüedad las zonas altas de las montañas eran lugares importantes y estratégicos para el dominio del territorio. En la estrategia de las guerras, eran una enorme ventaja. Lo anterior se debía a que se podía ver todo el panorama completo. Tener esta visibilidad era una ventaja al momento del combate. <strong>Y desde el Alto de Lavapatas se podía tener esa ventaja.</strong></p>
+
+<blockquote>
+  <p>Haz planes para visitar <a href="/museo-obando-san-agustin-huila">El museo de Obando de San Agustín</a></p>
+</blockquote>
+
+<h4 id="la-zona-de-las-mesitas">La zona de “Las Mesitas”</h4>
+
+<p><strong>La zona más grande del parque arqueológico de San Agustín se conoce como Mesitas</strong>. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio.</p>
+
+<p>Muchas de las esculturas megalíticas revelan un culto hacia la muerte y los aspectos funerarios de quienes habitaron el lugar. <em>Hay varios sectores del parque que se formaron a manera de dolmen.</em> Esto significa que son momumentos en forma de mesas.</p>
+
+<p>Como puedes notar en la siguiente fotografía, <strong>hacían 2 guardianes a los lados y el protector a la mitad, con una cubierta sobre los 3. Así formaban lo que aparentan mesitas</strong>.</p>
+
+<p><img src="/img/magazine/alto-de-los-idolos-san-agustin.webp" alt="Alto de los Ídolos San Agustín Huila" title="Alto de los Ídolos" width="360" height="240" loading="lazy" /></p>
+
+<p>En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol.</p>
+
+<h4 id="el-alto-de-los-ídolos">El Alto de los Ídolos</h4>
+
+<p><img src="/img/magazine/tumba-parque-arqueologico-san-agustin.webp" alt="Tumba del parque arqueológico de San Agustín Huila" title="Tumbas del parque arqueológico" width="360" height="240" loading="lazy" /></p>
+
+<p>El Alto de los Ídolos es un sitio arqueolgico muy importante para la región. <strong>Se encuentra en el municipio de San Jos de Isnos, a tan solo 20 minutos desde San Agustín</strong>.</p>
+
+<blockquote>
+  <p>Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes ingresar al Alto de los Ídolos en Isnos.</p>
+</blockquote>
+
+<p>El Alto de los Ídolos es una llanura artificial en forma de U**, en la que existió un enorme asentamiento. Las conclusiones se sacan de los vertederos encontrados en sus laderas.</p>
+
+<p>El lugar está rodeado por reductos de bosque natural primario en la que predominan muchos arboles frutales. Tiene muchos hallazgos de tumbas simples, tumbas de pozo, tumbas con cámaras laterales de formas variadas, pintadas o acompañadas de un sarcófago monolítico.</p>
+
+<p><strong>Lo interesante es que se encontraron los cadaveres en muchas posiciones: de pie, tumbado, en posición fetal, etc. Hasta se encontraron funerales colectivos.</strong></p>
+
+<h2 id="ven-a-conocer-las-ruinas-del-parque-arqueológico-de-san-agustín-huila">Ven a conocer las ruinas del parque arqueológico de San Agustín Huila</h2>
+
+<p><strong>El parque arqueológico de San Agustín e Isnos se caracteriza por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre, rodeados de profundos cañones, ríos con rápidos y saltos de agua</strong>. Todos estos lugares se prestan para disfrutar de un paseo delicioso.</p>
+
+<p>Estamos seguros de que los conocedores del tema arqueológico vivirán intensos e inolvidables momentos llenos de historia.</p>
+
+<p>Si eres de los amantes de la aventura y el misterio, te cautivará con sus figuras majestuosas, que lo convierten en uno de los baluartes más importantes de Colombia.</p>
+
+<h3 id="video-de-una-visita-al-parque-arqueológico">Video de una visita al parque arqueológico</h3>
+
+<p>En este <strong>video del parque arqueológico de San Agustín</strong> tienes un pequeño adelanto de lo que disfrutarás en tu visita. Los créditos del video son del canal regional <a href="https://www.youtube.com/watch?v=eGdhBn_WnO8">Canal Trece</a>:</p>
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/eGdhBn_WnO8" style="border-radius: 5px; box-shadow: var(--shadow);" title="Video de un paseo al parque arqueológico de San Agustín Huila" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p><strong>El parque arqueológico de San Agustín Huila, es considerada la joya arqueológica de Colombia</strong>, que nos ofrece además un encuentro inigualable con la naturaleza.</p>
+
+<p>Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocerlo. También, terndrás una cantidad de <a href="/visita-san-agustin-huila" title="Turismo en San Agustín Huila" target="_blank">atractivos turísticos de San Agustín</a>, aún desconocidos para muchos.</p>
+
+<p>Mientras tanto, cuéntanos en los comentarios: <strong>¿qué te gustó más del parque arqueológico de San Agustín?</strong></p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos con más de 1800 años y llenos de muchos misterios.]]></summary></entry><entry><title type="html">¡Despierta tus sentidos con el café de Pitalito - Huila!</title><link href="http://localhost:4000/cafe-pitalito-huila/" rel="alternate" type="text/html" title="¡Despierta tus sentidos con el café de Pitalito - Huila!" /><published>2022-12-26T00:00:00-05:00</published><updated>2022-12-26T00:00:00-05:00</updated><id>http://localhost:4000/cafe-pitalito-huila</id><content type="html" xml:base="http://localhost:4000/cafe-pitalito-huila/"><![CDATA[<p>Tomar café en Pitalito, Huila, es toda una experiencia. Esta ciudad colombiana es conocida por sus cafés de alta calidad y su vibrante cultura generada alrededor de este producto.
+<!-- excerpt --></p>
+
+<ul id="markdown-toc">
+  <li><a href="#tomar-café-en-pitalito" id="markdown-toc-tomar-café-en-pitalito">Tomar café en Pitalito</a></li>
+  <li><a href="#variedades-de-café-en-pitalito" id="markdown-toc-variedades-de-café-en-pitalito">Variedades de café en Pitalito</a></li>
+  <li><a href="#pitalito-ciudad-de-baristas-reconocidos" id="markdown-toc-pitalito-ciudad-de-baristas-reconocidos">Pitalito, ciudad de baristas reconocidos</a></li>
+  <li><a href="#el-café-de-pitalito-tienes-que-probarlo" id="markdown-toc-el-café-de-pitalito-tienes-que-probarlo">El Café de Pitalito tienes que probarlo</a></li>
+</ul>
+
+<h2 id="tomar-café-en-pitalito">Tomar café en Pitalito</h2>
+
+<p>Pitalito tiene una gran cantidad de <strong>cafeterías y bares para disfrutar de un café bien preparado.</strong> La mayoría de estos establecimientos ofrecen una variedad de bebidas de café, desde cappuccinos y latte hasta expresos y mocchachino.</p>
+
+<p>La cultura del café en Pitalito es una de las razones por las que esta ciudad se ha convertido en un destino turístico popular. Los cafés aquí son reconocidos por su calidad y notas de sabor únicas. Todas las cafeterías han logrado ofrecer ambientes relajados y acogedores, con música suave y muchos con paisajes hermosos. <strong>Esto hace que la experiencia de tomar un café sea aún más agradable.</strong></p>
+
+<blockquote>
+  <p>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo <a href="/laguna-del-magdalena/">La laguna del Magdalena</a></p>
+</blockquote>
+
+<h2 id="variedades-de-café-en-pitalito">Variedades de café en Pitalito</h2>
+
+<p>La variedad de sus cultivos está posicionando la ciudad como la mejor zona cafetera en Colombia. Algunas variedades de grano de café son:</p>
+
+<ol>
+  <li><strong>Café geisha</strong>: es una variedad única de café originaria de las regiones montañosas de la provincia de Chiriquí, en Panamá. <strong>El café Geisha se caracteriza por su sabor ligeramente floral y afrutado con notas ligeramente cítricas, y también se caracteriza por su acidez moderada y su sabor a caramelo y frutos secos.</strong> Algunos describen el café Geisha como un café ligero con sabor dulce y una acidez moderada.</li>
+  <li><strong>Café supremo</strong>: una variedad de grano de café de alta calidad, con un sabor robusto y un aroma intenso.</li>
+  <li><strong>Café especial</strong>: una variedad de grano de café de calidad media, con un sabor equilibrado y un aroma suave.</li>
+  <li><strong>Café caturra</strong>: esta variedad de café se caracteriza por su sabor único y su aroma intenso. Esta variedad también se caracteriza por sus granos grandes, su sabor dulce y su acidez moderada.</li>
+  <li><strong>Café borbón rosado</strong>: <strong>El café Borbón Rosado es una variedad de café única y exclusiva</strong>. Su sabor dulce y suave es resultado de un proceso de tostado en el que la temperatura se ajusta a la perfección para preservar la dulzura y suavidad de los granos. El resultado es <strong>un café con notas a chocolate y caramelo, con un toque de ácido y un final suave y sedoso</strong>.</li>
+</ol>
+
+<p><img src="/img/magazine/cafe-pitalito-huila.webp" alt="Entrada al Salto del Mortiño" title="Café del Huila" width="800" style="aspect-ratio: 16 / 9;" loading="lazy" /></p>
+
+<h2 id="pitalito-ciudad-de-baristas-reconocidos">Pitalito, ciudad de baristas reconocidos</h2>
+
+<p>Además de los cafeterías tradicionales, Pitalito también ofrece una variedad de cafés gourmet. Aquí es donde los baristas de la ciudad tienen un papel principal. Por ejemplo, <a href="https://www.radionacional.co/regiones/andina/la-barista-mas-joven-del-pais-esta-en-pitalito-huila" rel="nofollow noopener noreferrer" target="_blank">el reconocimiento a la barista más joven de Colombia se dió en Pitalito.</a></p>
+
+<p>Los baristas de Pitalito experimentan con sabores y recetas únicas para ofrecer a sus clientes. Estos cafés se preparan con ingredientes frescos y se sirven en un ambiente moderno.</p>
+
+<h2 id="el-café-de-pitalito-tienes-que-probarlo">El Café de Pitalito tienes que probarlo</h2>
+
+<p>Cuando visites Pitalito, puedes encontrar muchas fincas que te ofrecen <strong>experiencias campesinas donde cultivas, cosechas, preparas y tomas un café delicioso</strong>. En nuestro blog hicimos un artículo sobre la finca <a href="/hoteles/finca-tierra-activa-san-agustin-huila">Tierra Activa</a> que te ofrece experiencias como esta.</p>
+
+<p><img src="/img/magazine/cafe-pitalito-experiencia.webp" alt="Entrada al Salto del Mortiño" title="Experiencia campesina en finca cafetera de Pitalito" width="800" style="aspect-ratio: 16 / 9;" loading="lazy" /></p>
+
+<p>En Pitalito, el café es más que una bebida, es una forma de vida. La gente aquí se toma el tiempo para disfrutar de su café, disfrutar de la compañía de sus amigos y disfrutar de la cultura cafetera. Los baristas son conocidos por su servicio amable y por su conocimiento profundo del café. Esto hace que la experiencia de tomar café en Pitalito sea única.</p>
+
+<blockquote>
+  <p><strong>¿Te gustaría probar el café de San Agustín?</strong> Conoce más de <a href="/turismo/magia-san-agustin-huila">San Agustín Huila</a></p>
+</blockquote>
+
+<p>Y, por supuesto, en nuestra <a href="https://goo.gl/maps/ZNUryzkyMT2uB5t7A" rel="nofollow noopener noreferrer" target="_blank">heladería GurCoff de Pitalito</a> también te ofrecemos lo mejor del café de Pitalito. Por ejemplo, nuestro <a href="https://wa.me/p/4796946837050081/573026370737" rel="nofollow noopener noreferrer" target="_blank">Affogato GurCoff</a> es uno de los más admirados en la ciudad.</p>
+
+<p><strong>¿Vienes a probar el mejor café de Colombia?</strong> Te esperamos.</p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[Descubre el sabor único del café de Pitalito Huila. Ven y disfruta de una experiencia inolvidable para tus sentidos. ¡No te pierdas la oportunidad de probarlo!]]></summary></entry><entry><title type="html">El Salto del Mortiño en Isnos: su majestuosidad y emociones</title><link href="http://localhost:4000/turismo/salto-del-mortino-majuestuosidad-emociones" rel="alternate" type="text/html" title="El Salto del Mortiño en Isnos: su majestuosidad y emociones" /><published>2022-11-25T00:00:00-05:00</published><updated>2022-11-25T00:00:00-05:00</updated><id>http://localhost:4000/turismo/cascada-salto-mortino-isnos</id><content type="html" xml:base="http://localhost:4000/turismo/salto-del-mortino-majuestuosidad-emociones"><![CDATA[<p>El Salto del Mortiño es una finca turística, para los amantes de los deportes extremos y la diversión en parejas, amigos o familiares muy aventureros.
+<!-- excerpt --></p>
+
+<p>Te contaremos las actividades que puedes hacer cuando vengas a visitarlos, cómo llegar y todo lo necesario para que te animes a venir.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#el-camino-hasta-el-salto-del-mortiño" id="markdown-toc-el-camino-hasta-el-salto-del-mortiño">El camino hasta el Salto del Mortiño</a></li>
+  <li><a href="#el-culumpio-el-vuelo-del-halcón-y-el-puente-el-ojo-del-halcón" id="markdown-toc-el-culumpio-el-vuelo-del-halcón-y-el-puente-el-ojo-del-halcón">El culumpio El Vuelo del Halcón y el puente el Ojo del Halcón</a>    <ul>
+      <li><a href="#el-columpio-el-vuelo-del-halcón" id="markdown-toc-el-columpio-el-vuelo-del-halcón">El columpio el Vuelo del Halcón</a></li>
+      <li><a href="#el-puente-el-ojo-del-halcón" id="markdown-toc-el-puente-el-ojo-del-halcón">El puente El Ojo del Halcón</a></li>
+      <li><a href="#precio-del-puente-y-del-culumpio-en-el-salto-del-mortiño" id="markdown-toc-precio-del-puente-y-del-culumpio-en-el-salto-del-mortiño">Precio del puente y del culumpio en el Salto del Mortiño</a></li>
+      <li><a href="#otros-actividades-en-la-finca-el-salto-del-mortiño" id="markdown-toc-otros-actividades-en-la-finca-el-salto-del-mortiño">Otros actividades en la finca el Salto del Mortiño</a></li>
+    </ul>
+  </li>
+  <li><a href="#información-importante-para-visitar-el-salto-del-mortiño" id="markdown-toc-información-importante-para-visitar-el-salto-del-mortiño">Información importante para visitar el Salto del Mortiño</a></li>
+</ul>
+
+<h2 id="el-camino-hasta-el-salto-del-mortiño">El camino hasta el Salto del Mortiño</h2>
+
+<p><strong>Para llegar al Salto del mortiño debes dirigirte al sur del Huila, en la vía nacional entre <a href="/visita-san-agustin-huila">San Agustín</a> e Isnos, en la vereda El Mortiño.</strong>. Este complejo turístico se encuentra <strong>junto a la cascada El Salto del Mortiño, una caída de agua</strong> catalogada entre las más hermosas de Sudamérica.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.6630613171924!2d-76.21302838479016!3d1.8833470601525717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257114972da5eb%3A0x9c1b9bd07acd0161!2sSalto%20del%20Morti%C3%B1o!5e0!3m2!1ses!2sco!4v1669519733234!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><em>Mapa de Google Maps para llegar al Salto del Mortiño</em></p>
+
+<p><img src="/img/magazine/salto-mortino-entrada.webp" alt="Entrada al Salto del Mortiño" title="Entrada Salto del Mortiño" width="643" height="390" loading="lazy" /></p>
+
+<p>Justo sobre la vía (a mano derecha si vas desde San Agustín a Isnos, o a manos izquierda en la dirección contraria), verás su letrero enorme invitándore a la aventura. Cuando llegues a ese punto, asegúrate de seguir bien las señales de la entrada al lugar. En el mismo sitio hay otras fincas que pueden confundirte al llegar. No es difícil entrar. Solo sigue bien las señales.</p>
+
+<p>Por otra parte, <strong>recuerda que la entrada al lugar tiene un costo</strong>. Hasta el año 2022, costaba 5000 la entrada. Con este pago puedes acceder al lugar y disfrutar de sus miradores. Sin embargo, las atracciones de aventura tienen un costo adicional.</p>
+
+<h2 id="el-culumpio-el-vuelo-del-halcón-y-el-puente-el-ojo-del-halcón">El culumpio El Vuelo del Halcón y el puente el Ojo del Halcón</h2>
+
+<p>¿Y qué podrás hacer en la finca El Salto del Mortiño? Dentro de la finca hay mucha actividad extrema, hermosos miradores para fotografías inolvidables, piscina, restaurantes, cafeterías y hasta cabañas.</p>
+
+<h3 id="el-columpio-el-vuelo-del-halcón">El columpio el Vuelo del Halcón</h3>
+
+<p><img src="/img/magazine/culumpio-vuelo-del-halcon.webp" alt="Culumpio Vuelo del Halcón en el Salto del Mortiño" title="Culumpio Vuelo del Halcón" width="600" height="710" loading="lazy" /></p>
+
+<p><strong>El columpio llamado El vuelo del halcón</strong> es un columpio enorme que, cuando se balancea sobre la cascada del Mortiño, a una altura de unos 215 metros, te regala la más espectacular experiencia llena de adrenalina y de un recuerdo muy difícil de olvidar.</p>
+
+<p>Un cable metálico jala la enorme canasta hasta unos 8 metros de altura. Y cuando te sueltan, sales disparado con todas las ganas de gritar y lanzar al vacío un emocionante grito lleno de adrenalina.</p>
+
+<p>El columpio El Vuelo del Halcón fue construído con 15 metros de altura. Su enorme estructura cumple con todas las normas para que 2 personas disfruten de la mayor aventura en un vuelo de columpio al vacío de la cascada El Salto del Mortiño.</p>
+
+<h3 id="el-puente-el-ojo-del-halcón">El puente El Ojo del Halcón</h3>
+
+<p><img src="/img/magazine/puente-cristal-salto-mortino.webp" alt="Puente de cristal en el Salto del Mortiño" title="Puente de cristal el ojo del Halcón" width="800" height="385" loading="lazy" /></p>
+
+<p>Justo a su lado, está el impresionante <strong>puente de cristal llamado El Ojo del Halcón.</strong> Esta estructura es la primera en Colombia en su clase. Como puede imaginarte, es un atractivo único en el país hasta el momento, pues no es solo la estructura, sino el hecho que esté sobre una de las principales caídas de agua del país.</p>
+
+<blockquote>
+  <p>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo <a href="/laguna-del-magdalena/">La laguna del Magdalena</a></p>
+</blockquote>
+
+<p>Esta es una plataforma de observación de vidrio templado. Tiene tres capas de armadura y tres capas de blindaje. Es una vista muy, pero muy linda, espectacular! El puente sobresale 12 metros, por lo que puedes observar la caída de agua justo desde arriba. Sí, <strong>desde el puente de cristal El Ojo del Halcón podemos estar sobre la misma cascada del Salto del Mortiño.</strong></p>
+
+<p>Las fotografías o videos junto con el sonido de la cascada, hacen un dúo perfecto desde el Mirador del Ojo de Halcón.</p>
+
+<p>La cantidad de personas que ingresan a estos atractivos turísticos pueden ser entre 2 y 20 personas. Se permiten 5 minutos cuando el flujo de visitantes es alto.</p>
+
+<h3 id="precio-del-puente-y-del-culumpio-en-el-salto-del-mortiño">Precio del puente y del culumpio en el Salto del Mortiño</h3>
+
+<p>La entrada al culumpio cuesta alrededor de 15000 0 20000 pesos por persona adulta, según la temporada. Al puente de cristal pagas entre 10000 y 15000. Los menores de 10 a 5 pagan alrededor de 5000 pesos. Y los infantes de 5 años en adelante entran gratis. Solo puedes acceder sin zapatos, utlizando medias.</p>
+
+<h3 id="otros-actividades-en-la-finca-el-salto-del-mortiño">Otros actividades en la finca el Salto del Mortiño</h3>
+
+<p><img src="/img/magazine/cauchera-gigante-salto-mortino.webp" alt="Cauchera gigante en el Salto del Mortiño" title="Cauchera gigante sobre el cañón del Magdalena" width="573" height="751" loading="lazy" /></p>
+
+<p>Como es un complejo lleno de aventura, puedes hacer otras cosas. Por ejemplo, <strong>otra actividad extrema es la cauchera humana</strong>, una atracción de más alto impacto. En el centro del complejo se construyó una estructura de 18 metros de alto. Esta te lanza hasta unos 25 metros de altura a una velocidad de 90 kilómetros por hora en promedio.</p>
+
+<p><img src="/img/magazine/canasta-colgante-salto-mortino.webp" alt="Canasta colgante en el Salto del Mortiño" title="Canasta colgante sobre el cañón del Magdalena" width="800" height="405" loading="lazy" /></p>
+
+<p>También, sobre el cañón del Salto del Mortiño se puede practicar canopy, colgar sobre amacas en el vacío o subirte a la canasta voladora. Con unas líneas reforzadas, te permiten volar y vivir una mezcla de aventura y adrenalina sobre todo el cañón. ¿Te imaginas la foto con esa impresionante vista?</p>
+
+<blockquote>
+  <p>¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de <a href="/hoteles">Hoteles en San Agustín</a></p>
+</blockquote>
+
+<p>Finalmente, puedes pausar a tomar los mejores cafés de la zona, comer un rico postre o un buen almuerzo. O quizá, si el frío no es problema para ti, y si el clima te acompaña, tener una deliciosa tarde de piscina, con aguas naturales que corren hacia la cascada.</p>
+
+<h2 id="información-importante-para-visitar-el-salto-del-mortiño">Información importante para visitar el Salto del Mortiño</h2>
+
+<p>Para tu confianza, te contamos que la construcción del columpio tiene un contrapeso de cemento fabricado con más de 100 bultos de cemento. Su estructura fue anclado en la roca del cañón. Ambas estructuras se contruyeron con toda la normatividad que exige esta clase de juegos. Además, el complejo te ofrece una póliza que también cubre cualquier accidente en alguna eventualidad, para la que están preparados para evitar al mayor grado posible.</p>
+
+<p>Otro punto importante es que trates de venir entre semana. Los fines de semana hay mucha afluencia de público. Y como no se pueden replicar tan fácilmente esta clase de estructuras, deberás esperar pacientemente tu turno.</p>
+
+<p>Recuerda, también, que el clima de la zona es de mucha lluvia. Asegúrate de revisar los pronósticos e ir bien preparado para cualquier clima. Y si el lugar te gusta mucho, también puedes solicitar el hospedaje en las cabañas del lugar.</p>
+
+<p>Así que si eres <em>amante de la aventura extrema y de las hermosas vistas de la naturaleza, tienes que venir a la finca del Salto del Mortiño.</em></p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[Salto del Mortiño en Isnos Huila: descubre la majestuosidad de este paraíso escondido las emociones del Culumpio Vuelo del Halcón ¡Visítanos ahora!]]></summary></entry><entry><title type="html">Museo de Obando en San Agustín ¡Un viaje lleno de misterio!</title><link href="http://localhost:4000/turismo/museo-obando-san-agustin-viaje-lleno-misterio" rel="alternate" type="text/html" title="Museo de Obando en San Agustín ¡Un viaje lleno de misterio!" /><published>2022-03-04T00:00:00-05:00</published><updated>2022-03-04T00:00:00-05:00</updated><id>http://localhost:4000/turismo/museo-obando-san-agustin-huila</id><content type="html" xml:base="http://localhost:4000/turismo/museo-obando-san-agustin-viaje-lleno-misterio"><![CDATA[<p>Obando en San Agustín es famoso por su museo arqueológico. Se encuentra en un corregimiento a 20 minutos desde el municipio.</p>
+
+<!-- excerpt -->
+
+<p>San Agustín Huila es la capital arqueológica del departamento de Huila. Está lleno de lugares únicos abiertos al público. En este artículo te recomendamos uno de estos lugares: <strong>el Parque Arqueológico de Obando</strong>.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#obando-en-san-agustín" id="markdown-toc-obando-en-san-agustín">Obando en San Agustín</a></li>
+  <li><a href="#cómo-llegar-hasta-obando" id="markdown-toc-cómo-llegar-hasta-obando">¿Cómo llegar hasta Obando?</a></li>
+  <li><a href="#el-museo-arqueológico-de-obando" id="markdown-toc-el-museo-arqueológico-de-obando">El museo arqueológico de Obando</a></li>
+  <li><a href="#un-paseo-de-relajación-y-cultura" id="markdown-toc-un-paseo-de-relajación-y-cultura">Un paseo de relajación y cultura</a></li>
+</ul>
+
+<h2 id="obando-en-san-agustín">Obando en San Agustín</h2>
+
+<p>Obando en <a href="https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)" rel="nofollow">San Agustín</a> es un lugar privilegiado para la admiración y aprecio. Es rico en su patrimonio arqueológico indígena colombiano. Da a conocer la grandiosidad del pasado de nuestros ancestros, transmitiendo vitalidad y argumento cultural.</p>
+
+<p>Aunque es un pequeño lugar de clima frío, también es acogedor, muy pintoresco. Muy agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.</p>
+
+<p><img src="/img/magazine/parque-obando-san-agustin-huila.webp" alt="Parque de Obando en San Agustín Huila" title="Parque de Obando" width="360" height="240" loading="lazy" /></p>
+
+<p>En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y frente a la ventana geográfica de las soledades serranas, hay un Parque y Museo Arqueológico donde puedes conocer y disfrutar de la vida de los habitantes prehispánicos y coloniales del altiboqui del río Magdalena.</p>
+
+<p><strong>El parque y el museo de Obando es un ascenso vertiginoso al pasado.</strong> Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interes es el mundo pre-Clásico y sus obras artísticas y tecnológicas. O quizás solo quieres tener una parada más en un tour muy conocido en San Agustín, llamado <strong>el anillo turístico</strong>. Obando es una de sus paradas.</p>
+
+<h2 id="cómo-llegar-hasta-obando">¿Cómo llegar hasta Obando?</h2>
+
+<p>Para llegar hasta Obando solo sigue las siguientes indicaciones:</p>
+
+<ul>
+  <li>Primero, debes tomar la ruta hacia el <a href="/estrecho-rio-magdalena" title="Estrecho del río Magdalena">estrecho del Magdalena</a></li>
+  <li>Segundo, al llegar al punto donde está el Estrecho del Magdalena, continúa por la vía sin desviarte.</li>
+  <li>Ahora vas a continuar subiendo por la carretera cerca de unos 10 minutos.</li>
+</ul>
+
+<p>Te compartimos el mapa para que puedas pedir las indicaciones a Google maps. Toca la opción de las indicaciones en el botón “Cómo llegar”.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31900.773296100146!2d-76.30442889657694!3d1.9121407607769978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2565376da5dab1%3A0x3880cb8707e22466!2sMuseo%20arqueol%C3%B3gico%20de%20Obando!5e0!3m2!1ses!2sco!4v1650558254863!5m2!1ses!2sco" width="400" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<p>Y eso es todo, ya estarás en el hermoso colorido caserío de Obando en San Agustín.</p>
+
+<h2 id="el-museo-arqueológico-de-obando">El museo arqueológico de Obando</h2>
+
+<p>El museo arqueológico es interesante porque se va dando una idea de lo que fue la cosmovisión de los pueblos prehispánicos. <strong>El museo tiene reconstrucción de diversas estructuras religiosas y políticas de los distintos pueblos</strong>.</p>
+
+<blockquote>
+  <p>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de <a href="https://go.hotmart.com/Y72308599B?dp=1" rel="nofollow sponsored" target="_blank">🎒Carolina Colobon y Nando Prieto</a></p>
+</blockquote>
+
+<p>En este parque y pueblito tienes buenos planes para pasar un rato agradable: la plaza principal, con zonas de descanso y recorridos naturales en sus zonas veredales.</p>
+
+<p>El museo fue inaugurado en el año 2011. Cuenta con pinturas rupestres, visitas guiadas y un parque famoso por sus tumbas. <strong>En el museo de Obando puede observar varias piezas tibetanas, samburíes, antigüedades prehispánicas y de época colonial.</strong></p>
+
+<p>Esta belleza arquitectónica fue construida a través de las donaciones de las familias del mismo municipio, la colaboración del arte local, pastores y gobernadores. El objetivo siempre ha sido describir y preservar la historia del departamento de Huila y su cultura.</p>
+
+<h2 id="un-paseo-de-relajación-y-cultura">Un paseo de relajación y cultura</h2>
+
+<p>Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. <strong>El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de <a href="/visita-san-agustin-huila">San Agustín</a>.</strong></p>
+
+<p><img src="/img/magazine/obando-san-agustin.webp" alt="Obando en San Agustín Huila" title="Obando San Agustín" width="360" height="240" loading="lazy" /></p>
+
+<p>Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural de la zona. <strong>Por otra parte, tienes la oportunidad de maravillarte con los ecosistemas nacionales de esta zona del cañón del Magdalena</strong>.</p>
+
+<p>Es una visita que te llevará a la época Medieval Colombiana, cuando se obtenían artes del esfuerzo y el trabajo fuerte sobre la piedra. Deberás visitarlo para conocer mejor nuestra cultura, e identificarte con sus valores.</p>
+
+<p>El lugar es bello y completamente seguro. Se recomienda ir con un guía, puesto que los sitios están expuestos y no están numerados.</p>
+
+<p>Si cuentas con suficiente tiempo para realizar un recorrido completo, incluye el museo y alguna actividad física. <strong>Te recomendamos sus balcones naturales con sus espectaculares vistas.</strong></p>
+
+<p>Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer el Salto del Mortiño con el culumpio más arriesgado del país.</p>
+
+<blockquote>
+  <p>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo <a href="/laguna-del-magdalena/">La laguna del Magdalena</a></p>
+</blockquote>
+
+<p>Obando es un lugar rústico. Sin embargo, tiene un encanto muy hermoso. <strong>Lo puedes visitar en cualquier época del año. Sobre todo a mitad de año, por las fiestas culturales del San Pedro, o para fin de año en las fiestas de diciembre</strong>. Es completamente distinto, pero muy especial.</p>
+
+<p>Por último, al llegar a San Agustín, recuerda que te esperamos en la mejor heladería de toda la región, nuestra <a href="/contacto">heladería GurCoff</a>.</p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[El museo de Obando es una parada obligada para cuando visitas San Agustín Huila. Es parte del tour conocido como El Anillo Turístico. Conócelo.]]></summary></entry><entry><title type="html">Los Tres Chorros - ¡Cascada imponente de San Agustín Huila!</title><link href="http://localhost:4000/turismo/tres-chorros-cascada-imponente-san-agustin" rel="alternate" type="text/html" title="Los Tres Chorros - ¡Cascada imponente de San Agustín Huila!" /><published>2022-01-31T00:00:00-05:00</published><updated>2022-01-31T00:00:00-05:00</updated><id>http://localhost:4000/turismo/cascada-los-tres-chorros-de-san-agustin</id><content type="html" xml:base="http://localhost:4000/turismo/tres-chorros-cascada-imponente-san-agustin"><![CDATA[<p><strong>La cascada Los Tres Chorros es un tesoro de San Agustín</strong>. Muchas de los visitantes de este lugar lo describen como “una de las maravillas naturales de Colombia”. Otros dicen que es un “lugar mágico”. ¡Realmente es espectacular!</p>
+
+<!-- excerpt -->
+
+<ul id="markdown-toc">
+  <li><a href="#los-tres-chorros-imponente-cascada-con-3-caídas-de-agua" id="markdown-toc-los-tres-chorros-imponente-cascada-con-3-caídas-de-agua">Los Tres Chorros: imponente cascada con 3 caídas de agua</a>    <ul>
+      <li><a href="#cómo-llegar-a-la-cascada-los-tres-chorros" id="markdown-toc-cómo-llegar-a-la-cascada-los-tres-chorros">¿Cómo llegar a la cascada los Tres Chorros?</a>        <ul>
+          <li><a href="#la-entrada-correcta-a-los-tres-chorros" id="markdown-toc-la-entrada-correcta-a-los-tres-chorros">La entrada correcta a los Tres Chorros</a></li>
+        </ul>
+      </li>
+      <li><a href="#transporte-público-hasta-la-cascada-los-tres-chorros" id="markdown-toc-transporte-público-hasta-la-cascada-los-tres-chorros">Transporte público hasta la cascada Los Tres Chorros</a>        <ul>
+          <li><a href="#caminata-hasta-la-cascada-los-tres-chorros" id="markdown-toc-caminata-hasta-la-cascada-los-tres-chorros">Caminata hasta la cascada Los Tres Chorros</a></li>
+          <li><a href="#viaja-a-los-tres-chorros-en-bicicleta" id="markdown-toc-viaja-a-los-tres-chorros-en-bicicleta">Viaja a los Tres Chorros en bicicleta</a></li>
+          <li><a href="#visita-los-tres-chorros-montando-caballo" id="markdown-toc-visita-los-tres-chorros-montando-caballo">Visita los Tres Chorros montando caballo</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#qué-puedes-hacer-en-la-cascada-los-tres-chorros" id="markdown-toc-qué-puedes-hacer-en-la-cascada-los-tres-chorros">¿Qué puedes hacer en la cascada Los Tres Chorros?</a>    <ul>
+      <li><a href="#y-al-salir-de-la-cascada-los-tres-chorros" id="markdown-toc-y-al-salir-de-la-cascada-los-tres-chorros">¿Y al salir de la cascada Los Tres Chorros?</a></li>
+    </ul>
+  </li>
+  <li><a href="#disfruta-la-cascada-los-tres-chorros" id="markdown-toc-disfruta-la-cascada-los-tres-chorros">Disfruta la cascada Los Tres Chorros</a></li>
+  <li><a href="#la-cascada-los-tres-chorros-es-un-paseo-delicioso" id="markdown-toc-la-cascada-los-tres-chorros-es-un-paseo-delicioso">La cascada Los Tres Chorros es un paseo delicioso</a></li>
+</ul>
+
+<h2 id="los-tres-chorros-imponente-cascada-con-3-caídas-de-agua">Los Tres Chorros: imponente cascada con 3 caídas de agua</h2>
+
+<p>La cascada Los Tres Chorros es una cascada que es parte del rio Mulales. <strong>Tiene una caída de agua con casi 28 metros que forman 3 chorros paralelos de muy buen caudal</strong>, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.</p>
+
+<p>Tras un paseo de 45 minutos en vehículo y una caminata de 30 minutos por la montaña, en el fondo del valle y en las montañas, nos encontramos con una expectativa de mundo natural de ensueño.</p>
+
+<p><strong>Tres ramales de agua clara que forman una cascada se separan, creando una piscina fría en el fondo</strong>. Un lugar de curación y purificación.</p>
+
+<h3 id="cómo-llegar-a-la-cascada-los-tres-chorros">¿Cómo llegar a la cascada los Tres Chorros?</h3>
+
+<p>Puedes comenzar tu viaje desde el centro urbano del municipio de <a href="/turismo/magia-san-agustin-huila" target="_blank">San Agustín Huila</a>. <strong>Debes llegar hasta una vereda llamada La Pradera</strong>.</p>
+
+<p>La vía es una carretera de 20 kilómetros aproximadamente. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.</p>
+
+<p>Antes de llegar a la vereda La Pradera, encuentras la primera entrada al lado de la carretera. <strong>¡Esta entrada no la recomendamos!</strong> Es un trayecto con senderos más difíciles y más largo. Puedes tardar entre 2 y 3 horas para llegar.</p>
+
+<h4 id="la-entrada-correcta-a-los-tres-chorros">La entrada correcta a los Tres Chorros</h4>
+
+<p>Es mejor avanzar otro poco para <em>llegar hasta la vereda La Pradera</em>. Pregúntale a la gente de la zona cómo llegar. Son muy amables y buenos guías. Es más que recomendado pagar algún guía local que te lleve con tranquilidad.</p>
+
+<p><strong>Para llegar hasta la cascada Los Tres Chorros solo debes pagar 5000 pesos Colombianos</strong> al propietario de un terreno para pasar por su finca.</p>
+
+<p><img srcset="/img/blog/paso-a-cascada-tres-chorros-376.webp 376w, /img/blog/paso-a-cascada-tres-chorros-800.webp 800w" src="/img/blog/paso-a-cascada-tres-chorros-800.webp" alt="Finca de paso a los Tres Chorros" loading="lazy" title="Paso a los Tres Chorros" /></p>
+
+<p>La ubicación de la cascada Los Tres Chorros es privilegiada. Está en medio de un exuberante paisaje de bosque, por lo que el paseo hasta este lugar es muy emocionante.</p>
+
+<blockquote>
+  <p>La cascada Los Tres Chorros es un lugar natural que no es privado. No se cobra entradas. Solo pagas al propietario de una finca para reducir la distancia del trayecto.</p>
+</blockquote>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3987.646812011777!2d-76.3819676!3d1.890434!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257dd66c3c3a0b%3A0x576b9b0775c17c33!2sCascada%20los%20Tres%20Chorros!5e0!3m2!1ses-419!2sco!4v1621019717679!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<p><em>Ubicación de la cascada Los Tres Chorros en Google Maps. Haz clic en “Cómo llegar”</em></p>
+
+<h3 id="transporte-público-hasta-la-cascada-los-tres-chorros">Transporte público hasta la cascada Los Tres Chorros</h3>
+
+<p>Para llegar a los Tres Chorros, en el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte intermunicipal, que te pueden acercar hasta la vereda La Pradera.</p>
+
+<p>Lo mismo pueden hacer los transportes en motocicleta o “motorratones”, como se les conoce localmente. ¡Y hasta puedes llegar en chiva!</p>
+
+<p>Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata. Sí, como acabas de descubrir, no hay acceso en vehículo hasta la cascada.</p>
+
+<p>Pero, en parte, <strong>esa es una de las razones por la que la cascada Los Tres Chorros es tan hermosa</strong>, por la caminata en los senderos naturales.</p>
+
+<h4 id="caminata-hasta-la-cascada-los-tres-chorros">Caminata hasta la cascada Los Tres Chorros</h4>
+
+<p>Como te decíamos, es mejor contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los senderos que llegan hasta la cascada.</p>
+
+<p>Al llegar al sendero, la caminata comienza atravezando por un camino entre antiguas haciendas ganaderas. Luego atravesarás senderos por medio del bosque y descendiendo por la montaña.</p>
+
+<blockquote>
+  <p>Lee en este artículo porqué debes venir a conocer <strong>la magia de San Agustín Huila</strong><br />
+<a href="/turismo/magia-san-agustin-huila" target="_blank">San Agustín Huila</a></p>
+</blockquote>
+
+<p><strong>El grado de dificultad de la caminata hasta la cascada Los Tres Chorros es bajo</strong>. Tiene una duración aproximada de 1 hora en promedio. Esto depende de las condiciones físicas de los turistas.</p>
+
+<p>Cuando llegues al río Mulales, seguirás por la orilla del río, pisando la roca húmeda y evitando las ramas. Finalmente un último descenso por el camino señalado, y ¡allí está!… <em>la cascada imponente de los Tres Chorros</em>.</p>
+
+<h4 id="viaja-a-los-tres-chorros-en-bicicleta">Viaja a los Tres Chorros en bicicleta</h4>
+
+<p><img srcset="/img/blog/tres-chorros-cascada-imponente-san-agustin-huila-376.webp 376w, /img/blog/tres-chorros-cascada-imponente-san-agustin-huila-800.webp 800w" src="/img/blog/tres-chorros-cascada-imponente-san-agustin-huila-800.webp" alt="Foto de los Tres Chorros" loading="lazy" title="Foto de los Tres Chorros" /></p>
+
+<p>¿Quieres una aventura diferente? Pues tienes estas opciones para llegar a esta cascada de San Agustín Huila:</p>
+
+<p>Primero, puedes <strong>hacer el viaje a los Tres Chorros en bicicleta</strong>. Puedes alquilar muy buenas bicicletas y vivir la aventura, el ejercicio y una experiencia que siempre recordarás. ¿Te imaginas las fotos?</p>
+
+<p>Por ejemplo, la agencia <a href="https://www.instagram.com/adventurecolombia_/?hl=es" target="_blank" rel="nofollow sponsored">Adventure-X-Colombia</a> de San Agustín te ofrece un recorrido a los Tres Chorros.</p>
+
+<p>Te incluyen el seguro, un buen snack, fotos con dron y Go-Pro. Dependiendo de tu capacidad en la bicicleta, así mismo dura el tiempo de esta <strong>excursión a los Tres Chorros</strong>.</p>
+
+<h4 id="visita-los-tres-chorros-montando-caballo">Visita los Tres Chorros montando caballo</h4>
+
+<p>También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros. Es una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite.</p>
+
+<p>Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama <a href="https://bit.ly/agenciadisfrutasanagustin" target="_blank" rel="nofollow sponsored">Disfruta San Agustín.</a></p>
+
+<h2 id="qué-puedes-hacer-en-la-cascada-los-tres-chorros">¿Qué puedes hacer en la cascada Los Tres Chorros?</h2>
+
+<p>Para comenzar, disfrutarás del viaje mismo. Durante el recorrido, en <strong>medio de la naturaleza nativa de estas tierras de San Agustín</strong>, se puede observar amplia variedad de aves, fauna y flora, propias de la región y del macizo colombiano.</p>
+
+<p>Esta es una de las razones principales por las que cada año, turistas nacionales y extranjeros, eligen visitar este sitio.</p>
+
+<p>Así que antes de llegar a la cascada, <strong>prepara tu cámara para entrar en contacto con especies exóticas</strong>, como monos capuchinos; y hermosas aves, como loros y turpiales, que le dan el toque mágico a este lugar.</p>
+
+<p>Tendrás de fondo un hermoso panorama que, en contraste con la luz solar, te dejará un hermoso panorama lleno de luz y  hermosos colores.</p>
+
+<blockquote>
+  <p><strong>¿Te gustaría obtener la mejor guía de viajes por Colombia?</strong><br />
+Planea tus próximos viajes y <em>disfrútalos con seguridad y tranquilidad</em>. Compra la mejor “Guía turística de Colombia” para conseguirlo:<br />
+<a href="https://go.hotmart.com/M80153395U" title="Comprar la guía turística de Colombia." rel="nofollow noopener noreferrer" target="_blank">Guía turística de Colombia</a></p>
+</blockquote>
+
+<p><strong>Las aguas de la cascada los Tres Chorros son frías</strong>. Pero si esto no es un problema para ti, podrás bañar en sus aguas.</p>
+
+<p>Y si quieres más emociones, es posible <strong>practicar rappel sobre la cascada Tres Chorros</strong>. Claro, con personal especializado y con todos los equipos de seguridad necesarios.</p>
+
+<p>Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso, deja volar tu imaginación con la vista increíble de los páramos donde nace uno de los principales rios de Colombia.</p>
+
+<h3 id="y-al-salir-de-la-cascada-los-tres-chorros">¿Y al salir de la cascada Los Tres Chorros?</h3>
+
+<p><strong>Al terminar tu visita a la cascada de Los Tres Chorros, te recomendamos visitar el sitio llamado Las Tapias</strong>. Según la cultura local, es en este lugar donde se fundó el municipio de San Agustín Huila por primera vez. Tiene un impresionante paisaje con bosques de roble.</p>
+
+<p>Además, <strong>podrás hacer una caminata por un sendero precolombino</strong>, con fondos llenos de terrazas artificiales, hechas por los antiguos pobladores para sus cultivos y sus viviendas. Quizá este sea el motivo de su nombre.</p>
+
+<p>Sus ruinas y paisajes te llevará a la época en que los antepasados transitaron y habitaron este lugar.</p>
+
+<p>Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de baño en sus aguas. También se puede <strong>practicar la pesca de la trucha</strong>, pez típico de la zona.</p>
+
+<blockquote>
+  <p>Cuando llegues a San Agustín nuevamente, visita la <strong>Heladería GurCoff</strong>. ¡Es el mejor remate del viaje a San Agustín Huila!<br />
+<a href="https://gurcoff.com" target="_blank">😋🍦Heladería GurCoff</a></p>
+</blockquote>
+
+<h2 id="disfruta-la-cascada-los-tres-chorros">Disfruta la cascada Los Tres Chorros</h2>
+
+<p><strong>La cascada Los Tres Chorros es un destino turístico natural hermoso.</strong> Para que puedas disfrutar al máximo esta experiencia turística, te tenemos unas últimas recomendaciones:</p>
+
+<ol>
+  <li>Evita contaminar el aire y el paisaje. Ya sabes que debes evitar fogatas sin supervisión de personas con experiencia.</li>
+  <li>Lo anterior también significa que puedes <strong>hacer gala de tu educación al no dejar tus basuras en el paisaje</strong>. Sobre todo las basuras que sabes que no son biodegradables.</li>
+  <li>Los árboles del lugar no son para dejar grafitis o tallados. Son parte del paisaje que vas a disfrutar. Por favor, <strong>demuestra cultura y no los dañes.</strong></li>
+  <li>Recuerda que el recorrido es por medio de bosques. Te recomendamos preguntar por el clima de San Agustín antes de tu viaje. Si disfrutas la lluvia en tus aventuras, no tendrás ninguna dificultad con este punto.</li>
+  <li>Te aconsejamos contratar a un guía conocedor de la zona y llevar bocadillos o una comida para el camino.</li>
+  <li>Si llevas suficiente dinero, con los lugares puedes comprar almuerzos o hasta cenas.</li>
+  <li>Te recomendamos ropa y zapatos cómodos para hacer la caminata turística y la ropa de tu vestuario para bañar.</li>
+  <li>Lleva tu gorra, sombrero o sombrilla para que no te quemes por el sol, si está soleado el día.</li>
+</ol>
+
+<h2 id="la-cascada-los-tres-chorros-es-un-paseo-delicioso">La cascada Los Tres Chorros es un paseo delicioso</h2>
+
+<p>Si hablamos del <strong>tour a los tres chorros de San Agustín</strong>, estamos hablando de un verdadero viaje de descanso, armonía y encuentro con la naturaleza. Despejarás tu mente. Te quitarás el estrés, como seguramente estarás buscando en tu viaje.</p>
+
+<p><strong>Los sonidos naturales del agua y el bosque te llevarán a un momento hermoso y memorable</strong>. Y seguramente quedarán hermosos recuerdos fotográficos con los paisajes y diferentes escenarios de esta parte de San Agustín. ¡Seguro que te espera un viaje que desearás repetir!</p>
+
+<p>¿Ya conocías la cascada? ¿Cuál es tu actividad favorita en un lugar como este? Y si ya lo conoces, ¿qué te pareció el lugar? <strong>Compártenos tus opiniones y preguntas en los comentarios</strong>.</p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[Los Tres Chorros es una espectacular caída de agua de San Agustín Huila. ¡Ven a conocer esta reserva rodeada de naturaleza! - Y trae buena cámara]]></summary></entry><entry><title type="html">Laguna del Magdalena, nacimiento del río Magdalena</title><link href="http://localhost:4000/laguna-del-magdalena/" rel="alternate" type="text/html" title="Laguna del Magdalena, nacimiento del río Magdalena" /><published>2021-09-09T00:00:00-05:00</published><updated>2021-09-09T00:00:00-05:00</updated><id>http://localhost:4000/laguna-del-magdalena</id><content type="html" xml:base="http://localhost:4000/laguna-del-magdalena/"><![CDATA[<p><strong>La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas</strong>, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.</p>
+
+<!-- excerpt -->
+
+<ul id="markdown-toc">
+  <li><a href="#cómo-llegar-hasta-la-laguna-del-magdalena" id="markdown-toc-cómo-llegar-hasta-la-laguna-del-magdalena">¿Cómo llegar hasta la laguna del Magdalena?</a>    <ul>
+      <li><a href="#cómo-llegar-desde-popayán" id="markdown-toc-cómo-llegar-desde-popayán">Cómo llegar desde Popayán</a></li>
+      <li><a href="#cómo-llegar-desde-san-agustín" id="markdown-toc-cómo-llegar-desde-san-agustín">Cómo llegar desde San Agustín</a></li>
+    </ul>
+  </li>
+  <li><a href="#recorrido-hacia-la-laguna-del-magdalena" id="markdown-toc-recorrido-hacia-la-laguna-del-magdalena">Recorrido hacia la Laguna del Magdalena</a></li>
+  <li><a href="#importancia-de-la-laguna-del-magdalena-y-del-río-magdalena" id="markdown-toc-importancia-de-la-laguna-del-magdalena-y-del-río-magdalena">Importancia de la Laguna del Magdalena y del río Magdalena</a></li>
+  <li><a href="#turismo-en-la-laguna-del-magdalena" id="markdown-toc-turismo-en-la-laguna-del-magdalena">Turismo en la Laguna del Magdalena</a>    <ul>
+      <li><a href="#actividades-turísticas-en-la-laguna-del-magdalena" id="markdown-toc-actividades-turísticas-en-la-laguna-del-magdalena">Actividades turísticas en la laguna del Magdalena</a></li>
+    </ul>
+  </li>
+  <li><a href="#ven-a-la-laguna-del-magdalena" id="markdown-toc-ven-a-la-laguna-del-magdalena">Ven a la laguna del Magdalena</a></li>
+</ul>
+
+<h2 id="cómo-llegar-hasta-la-laguna-del-magdalena">¿Cómo llegar hasta la laguna del Magdalena?</h2>
+
+<p>Para llegar a la laguna del Magdalena debes transitar un sendero montañoso lleno de aventura. Es trayecto muy largo que toma un par de días.</p>
+
+<p>Puedes llegar desde 2 lugares diferentes: <strong>desde <a href="/turismo/magia-san-agustin-huila">San Agustín Huila</a> o desde Popayán.</strong></p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.175535912642!2d-76.6176436767215!3d1.9347221274314712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2f8f882fdec95f%3A0xbae735e5e975da60!2sLaguna%20Magdalena!5e0!3m2!1ses-419!2sco!4v1656416457521!5m2!1ses-419!2sco" width="400" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><em>Ubicación de la laguna del Magdalena</em></p>
+
+<h3 id="cómo-llegar-desde-popayán">Cómo llegar desde Popayán</h3>
+
+<p><strong>Primero, debes viajar hasta la vereda La Hoyola, en el corregimiento de Valencia</strong>. Este está ubicado en el municipio de San Sebastián, Cauca a 6 horas de Popayán.</p>
+
+<p>Después, harás una caminta de 3 horas a través del Parque Nacional Natural Puracé. Allí vas a llegar al Páramo de las Papas. Y finalmente encontrarás la Laguna de la Magdalena.</p>
+
+<h3 id="cómo-llegar-desde-san-agustín">Cómo llegar desde San Agustín</h3>
+
+<p><img src="/img/magazine/llegada-laguna-magdalena.webp" alt="Letrero de bienvenida a la laguna del Magdalena" title="Páramo de las papas" width="360" height="240" loading="lazy" /></p>
+
+<p>Esta es la ruta favorita de muchos. <strong>El motivo es la aventura y la cantidad de paisajes</strong> que ofrece el macizo colombiano desde este punto de origen.</p>
+
+<p>Para llegar desde San Agustín hasta la Laguna del Magdalena, primero debes viajar en auto. Encuentras opciones como camperos y camionetas privadas. También, puedes tomar la ruta de la “<a href="https://es.wikipedia.org/wiki/Chiva_(veh%C3%ADculo)">Chiva</a>” desde San Agustín.</p>
+
+<p>Cualquiera de las opciones te ayudarán a <strong>llegar hasta la vereda Villa Fátima, ubicada a 30 kilómetros de San Agustín</strong>. Desde este punto comenzarás una aventura natural en una muy extensa caminata, o contratando los servicios de transporte a caballo.</p>
+
+<h2 id="recorrido-hacia-la-laguna-del-magdalena">Recorrido hacia la Laguna del Magdalena</h2>
+
+<p>Ahora comenzarás el recorrido de un <strong>sendero conocido como El Camino Nacional o El Camino Nacional de Quinchana</strong>. Este nombre se debe a la vereda de inicio del siguiente recorrido, llamada Alto Quinchana. Sin embargo, es más conocido como <strong>El Camino Nacional de las Papas.</strong></p>
+
+<p><img src="/img/magazine/cabalgata-laguna-del-magdalena.webp" alt="Viaje hacia la laguna del Magdalena a caballo" title="Cabalgata hacia la Laguna del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<p>Cuando lleguen a la vereda El Canelo, pasarás por otro lugar conocido como El Crucero, luego por el puente de Barandillas sobre el Rio Magdalena, y después hasta la vereda San Antonio.</p>
+
+<p><strong>Cuando llegues a San Antonio, podrás contratar hospedaje y alimentacion con los lugareños de la montaña</strong>. Es una oportunidad especial de alimentar tu viaje con las mejores historias y experiencias de tus anfitriones.</p>
+
+<p>Esta hermosa aventura se realiza en 2 dias normalmente. <strong>La primera noche la pasas en el hospedaje de la vereda San Antonio. En el recorrido del segundo día llegarás al Parque Purace</strong>. Luego, podrás observar caídas de agua, hermosos paisajes y naturaleza silvestre.</p>
+
+<p><em>Caminar toda la reserva completa puede tomar entre 10 y 15 días</em></p>
+
+<p>Tu caminata continuará hasta un punto llamado “La Ye”. Es un punto donde el recorrido se divide en el camino antiguo y una camino más reciente. Ambos te llevan al mismo destino. <strong>La diferencia radica en que el camino nuevo es más fácil, pasa por el Páramo de las Papas, cerca de la Laguna del Magdalena.</strong></p>
+
+<h2 id="importancia-de-la-laguna-del-magdalena-y-del-río-magdalena">Importancia de la Laguna del Magdalena y del río Magdalena</h2>
+
+<p><strong>El río Magdalena es el río más importante de Colombia para la vida, la conservación de la naturaleza, la economía, la comunicación de pueblos, etc.</strong> Piensa en estos datos:</p>
+
+<p><img src="/img/magazine/reserva-laguna-del-magdalena.webp" alt="Frailejones en la laguna del Magdalena" title="Reserva Laguna del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<ol>
+  <li>Más del 70% de la producción hidroeléctrica colombiana se realiza con las aguas del río Magdalena</li>
+  <li>Más del 70% de la producción agrícola del país se abastese de sus aguas</li>
+  <li>Más de la mitad de la pesca de agua dulce del país se efectúa en este río</li>
+  <li>Más del 75% del territorio nacional se beneficia de este gran río</li>
+  <li>Las aguas del río Magdalena benefician a más del 80% de Producto Interno Bruto de Colombia</li>
+</ol>
+
+<p>Tan importante es este río y su nacimiento, que <strong>en 1979 fue declarado Reserva de la Biosfera del Cinturón Andino por la Unesco</strong>. Así se vigila y protege la vida de pumas, tigrillos, venados, cusumbos, coatíes, osos, dantas, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete, entre otros.</p>
+
+<p>Por otra parte, este nacimiento es parte de lo que se conoce como la principal estrella fluvial colombiana del Macizo Colombiano. <strong>Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.</strong></p>
+
+<h2 id="turismo-en-la-laguna-del-magdalena">Turismo en la Laguna del Magdalena</h2>
+
+<p>El turismo de la Laguna del Magdalena es del tipo de aventura y naturaleza, la mayoría intacta a los daños que causa el hombre. Encontrarás paisajes hermosos y únicos. La variedad del ecosistema es hermosa. Y el toque de misterio de la arqueología encontrada en el lugar es un complemento perfecto.</p>
+
+<p><img src="/img/magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp" alt="Páramo de las papas en la laguna del Magdalena" title="Páramo de las papas" width="360" height="240" loading="lazy" /></p>
+
+<p>Para visitar este lugar, <strong>los precios varían entre los 70000 COP por día, hasta los 700000 COP en total.</strong> Esto dependerá si contratas a un guía local que cobra solamente el día de trabajo, y con el que pagarías por aparte los servicios como la cabalgata (que cobran en promedio 75000 COP por día que utilices el caballo), la alimentación y el hospedaje. El precio más costoso, es cuando contratas una agencia que ya tienen todo incluido, pero todo perfectamente planeado.</p>
+
+<p>Por el clima de páramo, estará en medio del reino de los frailejones y la bruma. Si haces tu viaje en la época de florecimiento, este paisaje es más hermoso. ¡Parece un bosque de película de fantasía!</p>
+
+<p>Su paisaje apacible, tranquilo y fresco se encuentra dentro del perímetro del Parque Nacional Natural Puracé, en límite sur entre los departamentos de Huila y Cauca. Esto te brinda la posibilidad de terminar tu ruta con otros destinos como <a href="/estrecho-rio-magdalena">el estrecho del magdalena</a>, <a href="/cascada-los-tres-chorros-de-san-agustin">la cascada de los tres chorros</a>, el pueblo de <a href="/visita-san-agustin-huila">San Agustín Huila</a>, los termales de Coconuco, el nacimiento de los ríos antes mecionados, etc.</p>
+
+<p>Todo dependerá de tu tiempo. Aunque si estás por visitar este lugar, seguramente dispones de un buen tiempo para disfrutar con tranquilidad del lugar y su majestuosidad.</p>
+
+<h3 id="actividades-turísticas-en-la-laguna-del-magdalena">Actividades turísticas en la laguna del Magdalena</h3>
+
+<p>Tanto en el recorrido hacia la laguna como en el lugar puedes practicar las siguientes actividades:</p>
+
+<ul>
+  <li>Cabalgatas de excursión y senderos</li>
+  <li>Senderismo</li>
+  <li>Escaladas</li>
+  <li>Hospedaje en viviendas campesina</li>
+  <li>Observación de fauna y flora silvestre</li>
+  <li>Paisajismo</li>
+</ul>
+
+<blockquote>
+  <p>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank">“Como me lance al voluntariado ( guia paso a paso)” 📖</a></p>
+</blockquote>
+
+<p>Recuerda tomar las siguientes precauciones en tu viaje:</p>
+
+<ul>
+  <li><strong>Es obligatorio utilizar calzado de botas de caucho</strong>. El tipo de camino arruinará tu viaje si utilizas otra clase de calzado.</li>
+  <li><strong>Pregunta por las chivas que van desde San Agustín hasta Quinchana</strong>. Normalmente sale una en al medio día.</li>
+  <li><strong>En Quinchana el hospedaje es rudimentario</strong> y puedes llegar a acuerdos económicos con los habitantes locales.</li>
+  <li><strong>Llueve constantemente</strong>. Recuerda que es un páramo. Utiliza ropa para la lluvia. Y protege tu equipaje con implementos para la lluvia.</li>
+  <li><strong>El hospedaje y la comida a mitad de camino no son económicos</strong>. Pero son precios muy razonables si tienes en cuenta el aislamiento. Además, casi siempre tendrás truchas criadas en las aguas potables del hospedaje</li>
+</ul>
+
+<h2 id="ven-a-la-laguna-del-magdalena">Ven a la laguna del Magdalena</h2>
+
+<p>¿Y cuándo te gustaría venir? Este es uno de esos viajes que por todo lo que ofrecen, seguramente lo recordarás por mucho tiempo. Te invitamos a planear tu viaje y ahorrar para que vivas la experiencia. <strong>No es la excursión más económica, pero sí una de las mejores de Colombia.</strong></p>
+
+<p>Si desea más información, mira nuestra <a href="/contacto">página de contacto</a> y escríbenos. Y por supuesto, <strong>cuando pases por San Agustín, recuerda agendar tu visita a tu heladería GurCoff. ¡Te esperamos!</strong></p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><summary type="html"><![CDATA[La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia 🏞️. Te enseñamos cómo llegar hasta este hermoso lugar 🥾.]]></summary></entry><entry><title type="html">Tierra Activa - Finca agroturística</title><link href="http://localhost:4000/hoteles/finca-tierra-activa-san-agustin-huila" rel="alternate" type="text/html" title="Tierra Activa - Finca agroturística" /><published>2021-07-25T00:00:00-05:00</published><updated>2021-07-25T00:00:00-05:00</updated><id>http://localhost:4000/hoteles/finca-tierra-activa-san-agustin</id><content type="html" xml:base="http://localhost:4000/hoteles/finca-tierra-activa-san-agustin-huila"><![CDATA[<p><strong>La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas</strong>.</p>
+
+<!-- excerpt -->
+
+<p>Su actividad principal es el agroturismo y actividades de autoconocimiento y conexión con la naturaleza, para alcanzar un descanso y una experiencia deliciosa y relajante.</p>
+
+<p><img srcset="/img/ 376w,  /img/ 600w,  /img/ 800w,  /img/ 1200w" src="/img/" alt="Fotografías de un visitante estelar del Hotel Finca Tierra Activa de San Agustín Huila" loading="lazy" />
+<em>Hotel Finca Tierra Activa de San Agustín</em></p>
+
+<p>Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de turismo y de hotel.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#cómo-llegar-hasta-el-hotel-finca-tierra-activa-de-san-agustín" id="markdown-toc-cómo-llegar-hasta-el-hotel-finca-tierra-activa-de-san-agustín">¿Cómo llegar hasta el hotel Finca Tierra Activa de San Agustín?</a>    <ul>
+      <li><a href="#teléfono-y-otros-datos-de-contacto-del-hotel-finca-tierra-activa" id="markdown-toc-teléfono-y-otros-datos-de-contacto-del-hotel-finca-tierra-activa">Teléfono y otros datos de contacto del Hotel Finca Tierra Activa</a></li>
+    </ul>
+  </li>
+  <li><a href="#qué-servicios-ofrece-el-hotel-finca-tierra-activa-de-san-agustín" id="markdown-toc-qué-servicios-ofrece-el-hotel-finca-tierra-activa-de-san-agustín">¿Qué servicios ofrece el Hotel Finca Tierra Activa de San Agustín?</a></li>
+  <li><a href="#habitaciones-del-hotel-finca-tierra-activa" id="markdown-toc-habitaciones-del-hotel-finca-tierra-activa">Habitaciones del Hotel Finca Tierra Activa</a></li>
+  <li><a href="#paquetes-de-experiencias-en-el-hotel-tierra-activa" id="markdown-toc-paquetes-de-experiencias-en-el-hotel-tierra-activa">Paquetes de experiencias en el Hotel Tierra Activa</a>    <ul>
+      <li><a href="#experiencia-campesina" id="markdown-toc-experiencia-campesina">Experiencia campesina</a></li>
+      <li><a href="#taller-de-tortas-y-pan-artesanal" id="markdown-toc-taller-de-tortas-y-pan-artesanal">Taller de tortas y pan artesanal</a></li>
+      <li><a href="#tour-alma-verde" id="markdown-toc-tour-alma-verde">Tour Alma verde</a></li>
+      <li><a href="#café-y-mujer" id="markdown-toc-café-y-mujer">Café y mujer</a></li>
+    </ul>
+  </li>
+  <li><a href="#preguntas-sobre-el-hotel-finca-tierra-activa" id="markdown-toc-preguntas-sobre-el-hotel-finca-tierra-activa">Preguntas sobre el Hotel Finca Tierra Activa</a></li>
+  <li><a href="#por-qué-escoger-el-hotel-finca-tierra-activa" id="markdown-toc-por-qué-escoger-el-hotel-finca-tierra-activa">¿Por qué escoger el Hotel Finca Tierra Activa?</a>    <ul>
+      <li><a href="#otros-aspectos-sobre-el-hotel-finca-tierra-activa" id="markdown-toc-otros-aspectos-sobre-el-hotel-finca-tierra-activa">Otros aspectos sobre el Hotel Finca Tierra Activa</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="cómo-llegar-hasta-el-hotel-finca-tierra-activa-de-san-agustín">¿Cómo llegar hasta el hotel Finca Tierra Activa de San Agustín?</h2>
+
+<ol>
+  <li>Toma la salida hacia <a href="/estrecho-rio-magdalena">El Estrecho del Magadalena</a>.</li>
+  <li>Llega hasta el conocido y angituo hotel Monasterio de San Agustín.</li>
+  <li>Continúa tu camino sin desviarte 2 kilómetros más.</li>
+</ol>
+
+<p><strong>Para llegar a la Finca Tierra Activa debes ir hasta la vereda Purutal, a 5,5 kilómetros del casco urbano de San Agustín Huila</strong>. Puedes guiarte fácilmente utilizando tus aplicaciones de mapas favoritos. Aquí te dejamos 2 opciones. Solo haz clic en la que más utilizas:</p>
+
+<p><a href="" title="Ubicación del Hotel Finca Tierra Activa de San Agustín Huila en Google Maps" rel="nofollow noopener noreferrer" target="_blank">Google Maps</a></p>
+
+<p><a href="" title="Ubicación del Hotel Finca Tierra Activa de San Agustín Huila en Waze" rel="nofollow noopener noreferrer" target="_blank">Waze</a></p>
+
+<blockquote>
+  <p>¿No conoces San Agustín? Mira porqué debería venir a <a href="/visita-san-agustin-huila">conocer San Agustín</a></p>
+</blockquote>
+
+<h3 id="teléfono-y-otros-datos-de-contacto-del-hotel-finca-tierra-activa">Teléfono y otros datos de contacto del Hotel Finca Tierra Activa</h3>
+
+<p>Contacta el Hotel Finca Tierra Activa con cualquiera de las siguiente opciones:</p>
+
+<ul>
+  <li><strong>Número de celular</strong>: El número de celular del Hotel Finca Tierra Activa es <strong><a href="tel:+573124762181" title="Celular del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">+573124762181</a></strong>, o <strong><a href="tel:+573104652426" title="Celular del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">+573104652426</a></strong>.</li>
+  <li><strong>WhatsApp</strong>: El número de whatsapp del Hotel Finca Tierra Activa es <strong><a href="https://wa.me/573124762181" title="whatsapp del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">+53124762181.</a></strong>, o, también, <strong><a href="https://wa.me/573104652426" title="whatsapp del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">+573104652426.</a></strong>.</li>
+  <li><strong>Facebook</strong>: El perfil de Facebook del hostal es <strong><a href="https://www.facebook.com/Tierraactivahotel/" title="Facebook del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">@Tierraactivahotel</a></strong>.</li>
+  <li><strong>Instagram</strong>: El perfil de Instagram del hostal es <strong><a href="https://www.instagram.com/hoteltierraactiva/" title="Instagram del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">@hoteltierraactiva</a></strong>.</li>
+  <li><strong>LinkedIn</strong>: El perfil de LinkedIn del hostal es <strong><a href="https://www.linkedin.com/in/tierra-activa-3518a4207" title="LinkedIn del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">@tierra-activa-3518a4207</a></strong>.</li>
+</ul>
+
+<blockquote>
+  <p>Visita la <a href="/cascada-los-tres-chorros-de-san-agustin">Cascada de Los Tres Chorros</a></p>
+</blockquote>
+
+<h2 id="qué-servicios-ofrece-el-hotel-finca-tierra-activa-de-san-agustín">¿Qué servicios ofrece el Hotel Finca Tierra Activa de San Agustín?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Servicio</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Bar y cafetería orgánica</strong></td>
+      <td>Bar y cafetería con productos orgánicos y combinaciones que te sorprenderán exquisitamente</td>
+    </tr>
+    <tr>
+      <td><strong>Servicios de desayuno</strong></td>
+      <td>Puedes pedir desayunos orgánicos con recetas llenas de experiencia y arte. Está incluido</td>
+    </tr>
+    <tr>
+      <td><strong>Recepción</strong></td>
+      <td>Servicio disponible las 24 horas</td>
+    </tr>
+    <tr>
+      <td><strong>Ducha caliente</strong></td>
+      <td>El hotel te regala artículos básicos de aseo</td>
+    </tr>
+    <tr>
+      <td><strong>Actividades temáticas</strong></td>
+      <td>Realiza actividades muy bien pensadas que conectan con la naturaleza del lugar y generan paz, relajación y una experiencia diferente para tu viaje</td>
+    </tr>
+    <tr>
+      <td><strong>Cultivos nativos</strong></td>
+      <td>Conoce productos nuevos y fascinantes</td>
+    </tr>
+    <tr>
+      <td><strong>Gastronomía típica rural</strong></td>
+      <td>Te ofrecen la deliciosa sazón de las campesinas del lugar combinadas con los cultivos orgánicos</td>
+    </tr>
+    <tr>
+      <td><strong>Zona WiFi</strong></td>
+      <td>Servicio gratuito con muy buena cobertura en todo el hotel</td>
+    </tr>
+    <tr>
+      <td><strong>Actividades infantiles</strong></td>
+      <td>Zona familiar y zonas verdes para los más pequeños</td>
+    </tr>
+    <tr>
+      <td><strong>Turismo cultural</strong></td>
+      <td>Más información sobre nuestros paquetes en la siguiente sección</td>
+    </tr>
+    <tr>
+      <td><strong>Bodega</strong></td>
+      <td>Puedes encargar la seguridad de tus pertenencias por un tiempo</td>
+    </tr>
+    <tr>
+      <td><strong>Senderos</strong></td>
+      <td>Caminos llenos de experiencias sencillas, pero muy impactantes en tu descanso</td>
+    </tr>
+    <tr>
+      <td><strong>Masajes y aromaterapias</strong></td>
+      <td>Puedes contrartar en sus paquetes experenciales</td>
+    </tr>
+    <tr>
+      <td><strong>Casa del árbol</strong></td>
+      <td>Construcción sencilla, pero con una de las mejores vistas del paisaje de San Agustín Huila</td>
+    </tr>
+    <tr>
+      <td><strong>Sala de lectura</strong></td>
+      <td>Espacio totalmente adaptado para disfrutar de tu tiempo de lectura</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img srcset="/img/ 376w,  /img/ 600w,  /img/ 800w,  /img/ 1200w" src="/img/" alt="Fotografías de los alrededores del Hotel Finca Tierra Activa de San Agustín Huila" loading="lazy" />
+<em>Hotel Finca Tierra Activa de San Agustín</em></p>
+
+<h2 id="habitaciones-del-hotel-finca-tierra-activa">Habitaciones del Hotel Finca Tierra Activa</h2>
+
+<p>En <strong>el hotel Finca Tierra Activa dispondrás de 4 habitaciones con la temática de los 4 elementos: metal, viento, fuego, agua</strong>, y cocina exclusiva para los visitantes. El costo por persona incluye 1 desayuno, 1 sesión de aromaterapia, 1 tour experiencia campesina, wifi, cocina, baños privados con ducha caliente y te de bienvenida.</p>
+
+<h2 id="paquetes-de-experiencias-en-el-hotel-tierra-activa">Paquetes de experiencias en el Hotel Tierra Activa</h2>
+
+<p>En las instalaciones del Hotel Tierra Activa puedes solicitar cualquiera de estas experiencias:</p>
+
+<h3 id="experiencia-campesina">Experiencia campesina</h3>
+
+<p><img srcset="/img/ 376w,  /img/ 600w,  /img/ 800w,  /img/ 1200w" src="/img/" alt="Fotografías de la experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila" loading="lazy" />
+<em>Experiencia campesina en el Hotel Finca Tierra Activa de San Agustín</em></p>
+
+<p>Aprende cómo viven los campesinos de la localidad. Conoce y participa del cultivo de los alimentos nativos y cómo trabaja una familia campesina. Incluye un recorrido por 3 senderos temáticos: frutas nativas, passifloras y huerta escalonada.</p>
+
+<p>El tour incluye:</p>
+
+<ul>
+  <li>Ingreso y sendero guiado en Tierra Activa</li>
+  <li>Aromática de bienvenida</li>
+  <li>Elaboració participativa artesanal de almuerzo o desayuno campesino</li>
+  <li>Recorridos por los senderos temáticos</li>
+  <li>Degustación de frutas nativas y orgánicas</li>
+  <li>Aprendizaje de la cultura campesina con cultivos</li>
+  <li>Adopción gratuita de una planta</li>
+  <li>Refrigerio, almuerzo o desayuno según el plan</li>
+</ul>
+
+<p>El tour dura aproximadamente 2 horas más el tiempo del almuerzo. Comienza a las 9a.m. El valor por persona es de 40000. Y adicional almuerzo o desayuno de 30000 persona. Es apto para familias, parejas, equipos de trabajo y amigos.</p>
+
+<p><a href="" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">Preguntar por esta experiencia</a></p>
+
+<h3 id="taller-de-tortas-y-pan-artesanal">Taller de tortas y pan artesanal</h3>
+
+<p>La preparación de pan y tortas saludables en horno de leña y con harinas tradicionales de la región (trigo, maíz, almidón de Achira y de yuca, bore y poruto), y otros ingredientes como la cuajada fresca y orgánica, producida en la finca y semillas nutritivas como la quinua, avena y la linaza.</p>
+
+<p>Será realmente otra experiencia para compartir, disfrutar y degustar con una buena taza de café orgánico, aromática o vino. Este plan incluye:</p>
+
+<ul>
+  <li>Ingreso a Tierra Activa</li>
+  <li>Aromática de bienvenida</li>
+  <li>Elaboración participativa artesanal de pan o tortas con harinas tradicionales como maíz, bore, poruto, trigo, cidra, achira, yuca o arracacha.</li>
+  <li>Recorrido de conocimiento de las plantas utilizadas dentro del taller</li>
+  <li>Degustación frutas nativas y orgánicas</li>
+  <li>Degustación del producto elaborado en conjunto</li>
+  <li>Bebida de café orgánico en expresso, capuchino, latte o cacao</li>
+</ul>
+
+<p>La duración aproximada es de 2 horas. El valor por persona es de 60000. Comienza a las 9a.m. También puedes adicionar desayuno o almuerzo con antelación.</p>
+
+<p>Este tour es apto para familias, parejas, equipos de trabajo y amigos.</p>
+
+<p><a href="" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">Preguntar por esta experiencia</a></p>
+
+<h3 id="tour-alma-verde">Tour Alma verde</h3>
+
+<p>Se realiza un recorrido por los senderos temáticos y se hace ejercicios de respiración, abrazos, sonrisa y gratitud, para una conexión directa con la madre naturaleza y a través de sus aromas se genera bienestar, salud y compartir saberes, culminando con una sesión de aromaterapia con el enfoque seleccionado por el grupo en esteras de hoja de plátano, producto nativo con el apoyo de aceites esenciales.</p>
+
+<p>Se hacen también ritual de entrega de la luz y otras dinámicas corporales para niños y adultos. Este tour incluye:</p>
+
+<ul>
+  <li>Ingreso y sendero guiado en Tierra Activa</li>
+  <li>Refrigerio, almuerzo y desayuno. Esto según el plan que escojas.</li>
+  <li>Té antioxidante</li>
+  <li>Pediluvio</li>
+  <li>Aromaterapia con meditación guiada</li>
+  <li>Duración aproximada: 2 horas + tiempo de almuerzo.</li>
+</ul>
+
+<p>Los precios de este tour son:</p>
+
+<ul>
+  <li>Valor persona de 40000.</li>
+  <li>Adicional almuerzo o desayuno 30000 persona.</li>
+</ul>
+
+<p>Cada tour comienza a las 10a.m. Es apto para familias, parejas, equipos de trabajo y amigos.</p>
+
+<p><a href="" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">Preguntar por esta experiencia</a></p>
+
+<h3 id="café-y-mujer">Café y mujer</h3>
+
+<p>Es una experiencia basada en el café que está siendo cultivado de manera orgánica y saludable en la Finca Agroturística Tierra Activa en el municipio de San Agustín, en la Vereda El Purutal, en el sur del Departamento del Huila.</p>
+
+<p>De manera instructiva y pedagógica hacen conocer a los visitantes el proceso integral de la producción del café, iniciando desde la semilla y terminando en la degustación de una excelente taza.</p>
+
+<p>El tour incluye:</p>
+
+<ul>
+  <li>Ingreso y sendero guiado en Tierra Activa</li>
+  <li>Aromática de bienvenida</li>
+  <li>Recorridos por los cultivos de café</li>
+  <li>Practica de recolección de café</li>
+  <li>Taller de beneficio y secado</li>
+  <li>Tostión y molienda artesanal</li>
+  <li>Preparación de una taza de café orgánico</li>
+  <li>Refrigerio, almuerzo o desayuno según el plan</li>
+</ul>
+
+<p>La duración aproximada es de 2 horas. El valor por persona es de 40000. Comienza a las 9a.m. También puedes adicionar desayuno o almuerzo con antelación.</p>
+
+<p>Este tour es apto para familias, parejas, equipos de trabajo y amigos.</p>
+
+<p><a href="" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" rel="nofollow noopener noreferrer" target="_blank">Preguntar por esta experiencia</a></p>
+
+<blockquote>
+  <p>Visita el <a href="/parque-arqueologico-san-agustin-huila">Parque Arqueológico de San Agustín</a></p>
+</blockquote>
+
+<h2 id="preguntas-sobre-el-hotel-finca-tierra-activa">Preguntas sobre el Hotel Finca Tierra Activa</h2>
+
+<ol>
+  <li>
+    <p><strong>¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?</strong> El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. <a href="/parque-arqueologico-san-agustin-huila">El Parque Arqueológico de San Agustín</a> está a 1 hora también caminando. Además, puedes visitar los atractivos naturales de San Agustín: <a href="/cascada-los-tres-chorros-de-san-agustin">la Finca Agroturísitca Tierra Activa - San Agustín Huila</a>, <a href="/estrecho-rio-magdalena">el Estrecho del Rio Magdalena</a>, la Laguna de la Magdalena, el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.</p>
+  </li>
+  <li>
+    <p><strong>¿Hay restaurantes cerca del Hotel Finca Tierra Activa?</strong> Sí. Aunque no están en la misma vereda, todas las opciones están cerca. Puedes ver el artículo <a href="/mejores-restaurantes-san-agustin">los mejores restaurantes de San Agustín</a>.</p>
+  </li>
+  <li>
+    <p><strong>¿Hablan inglés en el Hotel Finca Tierra Activa?</strong> El hotel te ofrece un servicio de traductor contratado.</p>
+  </li>
+  <li>
+    <p><strong>¿Qué actividades turísticas ofrece el hotel Tierra Activa?</strong> Puedes leer la anterior sección con los paquetes experenciales.</p>
+  </li>
+</ol>
+
+<h2 id="por-qué-escoger-el-hotel-finca-tierra-activa">¿Por qué escoger el Hotel Finca Tierra Activa?</h2>
+
+<ol>
+  <li>Este hotel está rescatando el uso de cultivos nativos para alimentos saludables, la conservación de semillas, la conservación de aves y suelos.</li>
+  <li>El apoyo incondicional a las mujeres campesinas que también le apuestan a la cocina típica y natural de San Agustín Huila es un motivo de satisfacción al utilizar sus servicios.</li>
+  <li>Por su ubicación privilegiada puedes disfrutar con seguridad de su parqueadero gratuito, de llevar tus mascotas y de zonas verdes maravillosas.</li>
+  <li>Sus alimentos se preparan con los cultivos orgánicos del lugar. Tendrás una experiencia deliciosa al comer aquí.</li>
+</ol>
+
+<p>También, puedes leer las calificaciones que tienen en <a href="#fuentes">Booking</a> y en <a href="#fuentes">TripAdvisor</a>. Además, puedes visitar su <a href="#fuentes">página web oficial.</a></p>
+
+<h3 id="otros-aspectos-sobre-el-hotel-finca-tierra-activa">Otros aspectos sobre el Hotel Finca Tierra Activa</h3>
+
+<p>El Hotel Finca Tierra Activa mantiene los protocolos de bioseguridad. Recuerda está dispuesto a colaborar. Otros puntos para tener en cuenta:</p>
+
+<ol>
+  <li>Si necesitas un hotel muy cerquita al casco urbano de San Agustín Huila, esta no es tu mejor opción. Caminando puedes tardar casi una hora en llegar. Si tienes vehículo, puedes utilizar sus vías, es están en muy buen estado.</li>
+  <li>Los locales comerciales no están cerca al hotel. Es mejor llegar con todo lo que necesites durante tu estancia. Recuerda que es un lugar de experiencias rodeados de la naturaleza de los campesinos de San Agustín.</li>
+</ol>]]></content><author><name>Julian Franco</name></author><category term="hoteles" /><category term="hoteles" /><summary type="html"><![CDATA[La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.]]></summary></entry><entry><title type="html">Estrecho del Río Magdalena</title><link href="http://localhost:4000/estrecho-rio-magdalena/" rel="alternate" type="text/html" title="Estrecho del Río Magdalena" /><published>2021-06-22T00:00:00-05:00</published><updated>2021-06-22T00:00:00-05:00</updated><id>http://localhost:4000/estrecho-rio-magdalena</id><content type="html" xml:base="http://localhost:4000/estrecho-rio-magdalena/"><![CDATA[<p>El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que <strong>este majestuoso río se reduce a un canal de solo 2,20 metros de ancho</strong>.</p>
+
+<!-- excerpt -->
+
+<ul id="markdown-toc">
+  <li><a href="#ubicación-del-estrecho-del-magdalena" id="markdown-toc-ubicación-del-estrecho-del-magdalena">Ubicación del Estrecho del Magdalena</a></li>
+  <li><a href="#cómo-llegar-al-estrecho-del-río-magdalena" id="markdown-toc-cómo-llegar-al-estrecho-del-río-magdalena">Cómo llegar al estrecho del río Magdalena</a></li>
+  <li><a href="#qué-puedes-hacer-en-el-estrecho-del-magdalena" id="markdown-toc-qué-puedes-hacer-en-el-estrecho-del-magdalena">¿Qué puedes hacer en el Estrecho del Magdalena?</a></li>
+  <li><a href="#información-sobre-el-estrecho-del-magdalena" id="markdown-toc-información-sobre-el-estrecho-del-magdalena">Información sobre el Estrecho del Magdalena</a>    <ul>
+      <li><a href="#videos-del-estrecho-del-magdalena" id="markdown-toc-videos-del-estrecho-del-magdalena">Videos del estrecho del Magdalena</a>        <ul>
+          <li><a href="#escaleras-de-acceso-al-estrecho-del-magdalena" id="markdown-toc-escaleras-de-acceso-al-estrecho-del-magdalena">Escaleras de acceso al Estrecho del Magdalena</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#advertencias-al-visitar-el-estrecho-del-magdalena" id="markdown-toc-advertencias-al-visitar-el-estrecho-del-magdalena">Advertencias al visitar el Estrecho del Magdalena</a></li>
+  <li><a href="#ven-al-estrecho-del-río-magdalena" id="markdown-toc-ven-al-estrecho-del-río-magdalena">Ven al Estrecho del Río Magdalena</a></li>
+</ul>
+
+<h2 id="ubicación-del-estrecho-del-magdalena">Ubicación del Estrecho del Magdalena</h2>
+
+<p>Esta espectacular escena se puede contemplar en el municipio de <a href="https://gurcoff.com/visita-san-agustin-huila">San Agustín Huila</a>, en la vereda La Aguada.</p>
+
+<iframe width="400" height="480" src="https://roundme.com/embed/37271/90578" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<p><em>Imagen del Estrecho del Magdalena tomada de roundme.com</em></p>
+
+<p>Para llegar a este punto del río Magdalena, debes partir desde el casco urbano de San Agustín. <strong>Es un viaje de 9 kilómetros solamente. Y puede tomar entre 30 y 45 minutos, debido al mal estado de las vías.</strong> Pero más allá de la vía, disfrutarás de una vista hermosa sobre el cañón del Magdalena.</p>
+
+<h2 id="cómo-llegar-al-estrecho-del-río-magdalena">Cómo llegar al estrecho del río Magdalena</h2>
+
+<p>A nuestra heladería llegan muchos turistas preguntando cuál es la salida hacia el estrecho, pues tiende a confundirse con la salida al <a href="https://gurcoff.com/parque-arqueologico-san-agustin-huila">parque arqueológico,</a> que es por donde nuestra heladería está ubicada (visita la sección de <a href="https://gurcoff.com/contacto">contacto</a> para más información).</p>
+
+<p><img src="/img/magazine/salida-estrecho-magdalena.webp" alt="Salida hacia el Estrecho del Magdalena" title="Salida al Estrecho del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<p>La salida hacia el estrecho del Magdalena es otra. Debes preguntar por la calle de las artesanías. Cuando llegas a la esquina de esta calle, estarás ubicado en la esquina que se conoce como la esquina de los moto-ratones. La dirección es carrera 14 con calle 5.</p>
+
+<p><strong>Para salir hacia el estrecho del Magdalena continua derecho por la carrera 14</strong>. Esta es la calle que viene desde la iglesia del parque central de San Agustín Huila. Así que cuando estés subiendo por la carrera 14, no te desvíes hacia el parque arqueológico. Solo sigue derecho.</p>
+
+<blockquote>
+  <p>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de <a href="https://go.hotmart.com/Y72308599B?dp=1" rel="nofollow sponsored" target="_blank">🎒Carolina Colobon y Nando Prieto</a></p>
+</blockquote>
+
+<p>Cuando llegas al estrecho del Magdalena, hay un gran letrero que te avisa. Por lo tanto, solo debes seguir sobre la vía hasta llegar al punto..</p>
+
+<h2 id="qué-puedes-hacer-en-el-estrecho-del-magdalena">¿Qué puedes hacer en el Estrecho del Magdalena?</h2>
+
+<p><img src="/img/magazine/recuerdos-estrecho-magdalena.webp" alt="Souvenirs del Estrecho del Magdalena" title="Artesanías en el Estrecho del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<p>Los vecinos de San Agustín han organizado este punto de una manera muy atractiva. <strong>Al llegar encontrarás hermosos souvenirs y artesanías comunes en la localidad.</strong></p>
+
+<p>Adicionalmente, <strong>las aguas del río anteriores y posteriores al estrecho son punto de referencia obligado para 2 rutas de rafting</strong>: la primera es de grado 4 desde el sitio Mulales a El Estrecho. La segunda es de grado 5, y va desde El estrecho hasta el Puente de Sombrerillos.</p>
+
+<p>Por obvias razones, <strong>en sus orillas no es recomendado hacer camping</strong>. Pero muy cerca encuentras zonas donde podrás disfrutar de esta actividad.</p>
+
+<blockquote>
+  <p>¿Necesitas hotel en San Agustín? Mira nuestra lista sobre los <a href="/hoteles">hoteles de San Agustín Huila</a></p>
+</blockquote>
+
+<p>Además, unos 2 kilómetros más arriba de este punto, está<a href="/museo-obando-san-agustin-huila"> el museo de Obando</a>. Un interesante lugar para conocer más de la cultura que habitó el lugar.</p>
+
+<h2 id="información-sobre-el-estrecho-del-magdalena">Información sobre el Estrecho del Magdalena</h2>
+
+<p>Si no has leído algo sobre el <a href="https://es.wikipedia.org/wiki/R%C3%ADo_Magdalena" rel="nofollow" target="_blank">Río Magdalena</a>, o río Yuma como también se le conoce, puede que no te parezca nada impresionante este lugar. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Datos</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Ancho</strong></td>
+      <td>2.20 metros</td>
+    </tr>
+    <tr>
+      <td><strong>Área</strong></td>
+      <td>6000 metros cuadrados</td>
+    </tr>
+    <tr>
+      <td><strong>Altura</strong></td>
+      <td>1400 metros sobre el nivel del mar</td>
+    </tr>
+    <tr>
+      <td><strong>Clima</strong></td>
+      <td>18° - 24° C, Templado</td>
+    </tr>
+    <tr>
+      <td><strong>Horario</strong></td>
+      <td>6a.m. - 5p.m. Todos los días</td>
+    </tr>
+    <tr>
+      <td><strong>Entrada</strong></td>
+      <td>Libre</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="videos-del-estrecho-del-magdalena">Videos del estrecho del Magdalena</h3>
+
+<p>En el siguiente video la gente de <a href="https://www.youtube.com/channel/UChb_TEZX_qm5bqCHYuAHJVg">Renunciamos y Viajamos</a> te muestran más sobre este hermoso lugar:</p>
+
+<iframe width="400" height="480px" src="https://www.youtube.com/embed/l7JTW00vtxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy"></iframe>
+
+<p>Un gran espectáculo en las épocas de lluvia, es observar la capacidad del río. <strong>Sus aguas se crecen hasta cubrir toda la zona transitable sobre la roca</strong>. Llega hasta las escaleras de acceso al lugar. Mejor unas imágenes del evento:</p>
+
+<iframe width="400" height="480" src="https://www.youtube.com/embed/c0uf-zeXD60?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy"></iframe>
+
+<p><img src="/img/magazine/senal-estrecho-magdalena.webp" alt="Señal del Estrecho del Magdalena" title="Estrecho del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<p>En esta antigua señalización los turistas han tenido la costumbre de dejar sus estampas. Es una imagen muy curiosa al llegar al estrecho. Sobre todo hay imágenes de lo que parecen ser clubes de moteros. Otras simplemente no tienen sentido. Así que si tienes un imagen que sea acorde, recuerda dejar tu estampa allí.</p>
+
+<h4 id="escaleras-de-acceso-al-estrecho-del-magdalena">Escaleras de acceso al Estrecho del Magdalena</h4>
+
+<p>En realidad son como 5 niveles de escaleras para acceder hasta el estrecho. No son demasiados escalones. Tampoco tienen un nivel de exigencia para atletas. Lastimosamente, hasta el momento no se han hecho trabajos que permitan el acceso a personas con limitaciones físicas. Sería un buen proyecto para las autoridades encargadas del lugar.</p>
+
+<p>La buena noticia es que llegas hasta el lugar en escaleras muy bonitas para una foto con naturaleza.</p>
+
+<p><img src="/img/magazine/escaleras-estrecho-magdalena.webp" alt="Escaleras de la entrada al Estrecho del Magdalena" title="Entrada al Estrecho del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<h2 id="advertencias-al-visitar-el-estrecho-del-magdalena">Advertencias al visitar el Estrecho del Magdalena</h2>
+
+<p>En el estrecho del Magdalena es muy común que los más osados intenten pasar de un lado al otro saltando el caudal. Sin embargo, estas personas incautas no tienen en cuenta estos factores importantes:</p>
+
+<ol>
+  <li><strong>Las rocas de los 2 lados del caudal del Estrecho del Magdalena normalmente están húmedas</strong>. Recuerda que la zona es lluviosa. Además, como viste en un video anterior, el caudal crece y humedece estas piedras.
+![Estrecho del río Magdalena][img7]</li>
+  <li><strong>La corriente en este punto es muy fuerte</strong>. En este punto se reduce toda la corriente que trae desde la zona alta. Su fuerza lo hace un punto imposible para bañar en él.</li>
+  <li><strong>El caudal que pasa por esta zona es muy peligroso</strong>. Como te decía en el punto anterior, es un sector que no es apto para bañar. La fuerza del caudal hace que se formen remolinos profundos. Esto implica que quienes caen allí pueden perder la vida fácilmente. Lo que nos lleva al último punto.</li>
+  <li><strong>Cuántas personas han muerto en el estrecho del Magdalena</strong>. Muchas son las personas que por no acatar las recomendaciones han perdido la vida. Normalmente, personas con muy buen estado físico. Desde personas que practicaban deportes, hasta militares.</li>
+</ol>
+
+<p><em>Por favor, acata las recomendaciones y <strong>no intentes saltar en el estrecho del Magdalena</strong></em></p>
+
+<blockquote>
+  <p>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el <a href="https://hospedajecasabonita.com">Hospedaje Casa Bonita</a></p>
+</blockquote>
+
+<p><img src="/img/magazine/estrecho-rio-magdalena.webp" alt="Estrecho del río Magdalena" title="Estrecho del Magdalena" width="360" height="240" loading="lazy" /></p>
+
+<h2 id="ven-al-estrecho-del-río-magdalena">Ven al Estrecho del Río Magdalena</h2>
+
+<p>Estamos seguros que pasarás un paseo relajante, muy bonito, rodeado de naturaleza y admirado de la imponencia de la naturaleza, expresada en la humildad de un majestuoso río reducido a un pequeño paso, <strong>el Estrecho del Magdalena</strong>.</p>
+
+<p>¿Te imaginabas que el Magdalena tuviera un punto así? ¿Qué te parece? <strong>Comparte la información a quien también le guste estas formaciones hermosas de la naturaleza</strong>.</p>]]></content><author><name>Julian Franco</name></author><category term="turismo" /><category term="parque" /><category term="turismo" /><summary type="html"><![CDATA[El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano 🏞. Te decimos cómo llegar, sus misterios y recomendaciones para ti.]]></summary></entry><entry><title type="html">Hotel Masaya de San Agustín Huila</title><link href="http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila" rel="alternate" type="text/html" title="Hotel Masaya de San Agustín Huila" /><published>2021-06-15T00:00:00-05:00</published><updated>2021-06-15T00:00:00-05:00</updated><id>http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila</id><content type="html" xml:base="http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila"><![CDATA[<p>El <a href="https://www.masaya-experience.com/san-agustin/" title="Página web del hotel Masaya" rel="nofollow" target="_blank">hotel Masaya</a> es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena. El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.</p>
+
+<p>Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.</p>
+
+<!-- excerpt -->
+
+<ul id="markdown-toc">
+  <li><a href="#hotel-masaya-de-san-agustín" id="markdown-toc-hotel-masaya-de-san-agustín">Hotel Masaya de San Agustín</a></li>
+  <li><a href="#cómo-llegar-al-hotel-masaya-de-san-agustín" id="markdown-toc-cómo-llegar-al-hotel-masaya-de-san-agustín">Cómo llegar al Hotel Masaya de San Agustín</a></li>
+  <li><a href="#datos-de-contacto-del-hotel-masaya" id="markdown-toc-datos-de-contacto-del-hotel-masaya">Datos de contacto del Hotel Masaya</a></li>
+  <li><a href="#habitaciones-del-hotel-masaya" id="markdown-toc-habitaciones-del-hotel-masaya">Habitaciones del hotel Masaya</a></li>
+  <li><a href="#servicios-del-hotel-masaya" id="markdown-toc-servicios-del-hotel-masaya">Servicios del hotel Masaya</a></li>
+  <li><a href="#por-qué-escoger-el-hotel-masaya" id="markdown-toc-por-qué-escoger-el-hotel-masaya">¿Por qué escoger el hotel Masaya?</a>    <ul>
+      <li><a href="#otros-aspectos-sobre-el-hotel-masaya" id="markdown-toc-otros-aspectos-sobre-el-hotel-masaya">Otros aspectos sobre el hotel Masaya</a></li>
+    </ul>
+  </li>
+  <li><a href="#preguntas-frecuentes-sobre-el-hotel-masaya" id="markdown-toc-preguntas-frecuentes-sobre-el-hotel-masaya">Preguntas frecuentes sobre el hotel Masaya</a></li>
+</ul>
+
+<h2 id="hotel-masaya-de-san-agustín">Hotel Masaya de San Agustín</h2>
+
+<p>Esta cadena hotelera <strong>diseñó sus construcciones en San Agustín basándose en un modelo de chozas de las culturas indígenas de la localidad</strong>. Tienen una maloca hermosa (Una maloca es una vivienda indígena construida con pilares sobre los cuales hay un techo de fina paja).</p>
+
+<p>El hotel Masaya es una propiedad enorme. Su ubicación te brinda unas vistas hermosas sobre el cañón del Magdalena. Y los diseñadores del lugar cuidaron un especial detalle: <strong>en el hotel Masaya puedes disfrutar las vistas desde casi cualquiera de los edificios de las instalaciones del hotel.</strong></p>
+
+<blockquote>
+  <p>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de <a href="https://go.hotmart.com/Y72308599B?dp=1" rel="nofollow sponsored" target="_blank">🎒Carolina Colobon y Nando Prieto</a></p>
+</blockquote>
+
+<h2 id="cómo-llegar-al-hotel-masaya-de-san-agustín">Cómo llegar al Hotel Masaya de San Agustín</h2>
+
+<p><strong>La dirección del Hotel Masaya es en la vereda El Tablón, kilómetro 1, en la vía del Estrecho del Magdalena</strong>. Encontrarás su letrero a mano derecha de la vía.</p>
+
+<p>Debes entrar por el camino que encuentras allí y avanzar hasta el final de ese camino. Está muy bien asfaltado hasta la entrada del hotel.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e25707f01ae31c7%3A0xccd64e01b1e32fe2!2sMasaya%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1656429101495!5m2!1ses-419!2sco" width="400" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><em>Ubicación del hotel Masaya en San Agustín</em></p>
+
+<h2 id="datos-de-contacto-del-hotel-masaya">Datos de contacto del Hotel Masaya</h2>
+
+<p><img src="/img/hoteles/hotel-masaya-de-san-agustin.webp" alt="Hotel Masaya en San Agustín Huila" title="Hotel Masaya San Agustín" width="360" height="240" loading="lazy" /></p>
+
+<p>Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo hotel. Contacta directamente con el hotel Masaya. Evita los intermediarios para obtener las mejores ofertas.</p>
+
+<ul>
+  <li><strong>El número de teléfono del Hotel Masaya es <a href="tel:+573124187927" rel="nofollow" target="_blank">(57)3124187927</a> y <a href="tel:+573233630528" rel="nofollow" target="_blank">(57)3233630528</a></strong>.</li>
+  <li><strong>El número de whatsapp del Hotel Masayade es <a href="https://wa.me/573124187927" rel="nofollow" target="_blank">(57)3124187927</a> y <a href="https://wa.me/573233630528" rel="nofollow" target="_blank">(57)3233630528</a>.</strong></li>
+  <li><strong>El correo electrónico del hotel Masaya es <a href="mailto:sanagustin@masaya-experience.com" rel="nofollow" target="_blank">sanagustin@masaya-experience.com</a></strong>.</li>
+</ul>
+
+<blockquote>
+  <p>¿No conoces San Agustín? Mira porqué debería venir a <a href="/visita-san-agustin-huila">conocer San Agustín</a></p>
+</blockquote>
+
+<h2 id="habitaciones-del-hotel-masaya">Habitaciones del hotel Masaya</h2>
+
+<p><strong>El hotel Masaya tiene habitaciones con baño privado y ducha de agua caliente</strong>. Algunas tienen bañeras de hidromasajes. Esta es su oferta de habitaciones:</p>
+
+<ul>
+  <li>Suite con vista a la montaña</li>
+  <li>Habitación Superior con vista a la montaña</li>
+  <li>Habitación Familiar</li>
+  <li>Dormitorio Privado (6 camas)</li>
+  <li>Cama en dormitorio de 6</li>
+  <li>Habitación Estándar</li>
+</ul>
+
+<h2 id="servicios-del-hotel-masaya">Servicios del hotel Masaya</h2>
+
+<p>En San Agustín el hotel Masaya presta los siguientes servicios adicionales a su hospedaje:</p>
+
+<p><img src="/img/hoteles/hotel-masaya.webp" alt="Hotel Masaya en San Agustín" title="Hotel Masaya" width="360" height="240" loading="lazy" /></p>
+
+<ul>
+  <li><strong>Espacios de Relax</strong>. Zonas de terraza compartida y por habitación. Zona de chimenea, espectacular para el frío de la zona.</li>
+  <li><strong>Recepción</strong>. Servicio disponible las 24 horas. También puedes solicitar el servicio de guardaequipaje o pedir información turística.</li>
+  <li><strong>Restaurante</strong>. Puedes contratar tus alimentos. También tienes servicio de bar.</li>
+  <li><strong>Salón de relax</strong>. Puedes practicar yoga con sus clases en el hotel.</li>
+  <li><strong>Servicios de excursione y turismo</strong>. Contrata diferentes paquetes de turismo con el hotel directamente.</li>
+  <li><strong>Servicios de limpieza</strong>. Realizan limpieza diaria a las habitaciones. Te ofrecen servicios de lavandería, planchado en seco y planchado común.</li>
+  <li><strong>Servicios de Transporte</strong>. Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel.</li>
+  <li><strong>Zona parqueadero</strong>. Servicio gratuito con muy buena seguridad.</li>
+  <li><strong>Zona de esparcimiento</strong>. Puedes pasar un rato divertido con juegos de mesa, mesa de billar y mesa de ping pong. Además, pide tus libros favoritos o música para tus niños.</li>
+  <li><strong>Zona WiFi</strong>. Servicio gratuito con muy buena cobertura.</li>
+</ul>
+
+<p>El hotel Masaya también te ofrece las siguientes actividades para amenizar tu estadía en San Agustín:</p>
+
+<ul>
+  <li>Música con artistas tocando en directo.</li>
+  <li>Clases de cocina para los huéspedes dictadas por nuestro chef profesional e invitados.</li>
+  <li>Tour relacionados con la cultura local.</li>
+  <li>Caminatas para conocer los paisajes locales.</li>
+  <li>Puedes contratar un paseo a caballo.</li>
+  <li>Paquetes de turismo en bicicleta a zonas rurales con enfoque aventurero.</li>
+  <li>Mesas de ping pong.</li>
+  <li>Mesas de billar.</li>
+  <li>Sala de juegos de meza para la familia.</li>
+</ul>
+
+<p>Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de <a href="/visita-san-agustin-huila" title="Artículo sobre San Agustín Huila">San Agustín Huila</a>; a 30 minutos el <a href="/parque-arqueologico-san-agustin-huila" title="Artículo sobre el parque arqueológico de San Agustín Huila">Parque Arqueológico de San Agustín</a>; a 30 minutos <a href="/estrecho-rio-magdalena" title="Artículo sobre el Estrecho del Magdalena">el estrecho del Magdalena</a> y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.</p>
+
+<blockquote>
+  <p>¿No conoces San Agustín? Mira porqué debería venir a <a href="/visita-san-agustin-huila">conocer San Agustín</a></p>
+</blockquote>
+
+<h2 id="por-qué-escoger-el-hotel-masaya">¿Por qué escoger el hotel Masaya?</h2>
+
+<p>Los comentarios en Google Maps sobre el hotel siempre destacan 3 aspectos importantes:</p>
+
+<ol>
+  <li>Aunque es uno de los hoteles más costosos de la zona, el hotel Masaya tiene uno de los mejores paisajes de los hoteles locales.</li>
+  <li><strong>El hotel Masaya sí admite mascotas</strong>. Debes preguntar por las condiciones.</li>
+  <li>Los sistemas de seguridad y vigilancia del lugar son sobresalientes.</li>
+</ol>
+
+<p>También, puedes leer las calificaciones que tienen en <a href="https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html" rel="nofollow" target="_blank">Booking</a> y en <a href="https://www.tripadvisor.co/Hotel_Review-g445060-d13154689-Reviews-Masaya_Hostel_San_Agustin-San_Agustin_Huila_Department.html" rel="nofollow" target="_blank">TripAdvisor</a>.</p>
+
+<h3 id="otros-aspectos-sobre-el-hotel-masaya">Otros aspectos sobre el hotel Masaya</h3>
+
+<p>Es un hotel con más de 25 habitaciones y en crecimiento. El hotel mantiene los protocolos de bioseguridad. Recuerda estar dispuesto a colaborar. Otros puntos para tener en cuenta:</p>
+
+<ol>
+  <li>Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.</li>
+  <li>En su sitio web oficial, el sistema de reservas no funciona bien. Mejor contacta con ellos desde los links que te proveemos en este artículo.</li>
+</ol>
+
+<h2 id="preguntas-frecuentes-sobre-el-hotel-masaya">Preguntas frecuentes sobre el hotel Masaya</h2>
+
+<blockquote>
+  <p>Te invitamos a visitar <a href="/estrecho-rio-magdalena">El Estrecho del Magdalena</a></p>
+</blockquote>
+
+<ul>
+  <li>
+    <p><strong>¿Hay restaurantes cerca al hotel Masaya de San Agustin?</strong> Sí. Tienes su propio restaurante. Nosotros te recomendamos el restaurante Al Barril, La Gata Parrilla, Fonte Café y otros más. Mira el artículo <a href="/mejores-restaurantes-san-agustin" title="Artículo sobre los mejores restaurantes de San Agustín">los mejores restaurantes de San Agustín</a>.</p>
+  </li>
+  <li>
+    <p><strong>¿El personal del hotel atiende en diferentes idiomas?</strong> Sí. El personal habla inglés, español y francés.</p>
+  </li>
+  <li>
+    <p><strong>¿Cuánto vale la noche en el hotel Masaya San Agustín?</strong> El promedio de sus precios en el 2023 es de 180000. Siempre varían según la temporada y la oferta de mercado.</p>
+  </li>
+</ul>]]></content><author><name>Julian Franco</name></author><category term="hoteles" /><category term="hoteles" /><summary type="html"><![CDATA[El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena y su arquitectura es hermosa. ¡Conócelo aquí!]]></summary></entry></feed>
