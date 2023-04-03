@@ -46,6 +46,8 @@ La variedad de sus cultivos está posicionando a **Pitalito como la mejor zona c
 
 ### Pitalito, ciudad de baristas reconocidos
 
+{% include cta-hotmart1.html %}
+
 Además de los cafeterías tradicionales, Pitalito también ofrece una variedad de cafés gourmet.
 
 Aquí es donde los baristas de la ciudad tienen un papel principal. Por ejemplo, [el reconocimiento a la barista más joven de Colombia se dió en Pitalito](https://www.radionacional.co/regiones/andina/la-barista-mas-joven-del-pais-esta-en-pitalito-huila){:rel="nofollow noopener noreferrer" target="_blank"}.
