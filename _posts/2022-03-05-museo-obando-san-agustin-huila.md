@@ -33,8 +33,6 @@ Obando en [San Agustín](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))
 
 Aunque es un pequeño lugar de clima frío, también es acogedor, muy pintoresco. Muy agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
 
-![Parque de Obando en San Agustín Huila]({{ 'img/magazine/parque-obando-san-agustin-huila.webp' | relative_url }} "Parque de Obando"){:width="360" height="240" loading="lazy"}
-
 En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y frente a la ventana geográfica de las soledades serranas, hay un Parque y Museo Arqueológico donde puedes conocer y disfrutar de la vida de los habitantes prehispánicos y coloniales del altiboqui del río Magdalena.
 
 **El parque y el museo de Obando es un ascenso vertiginoso al pasado.** Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interes es el mundo pre-Clásico y sus obras artísticas y tecnológicas. O quizás solo quieres tener una parada más en un tour muy conocido en San Agustín, llamado **el anillo turístico**. Obando es una de sus paradas.
@@ -43,7 +41,7 @@ En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y fren
 
 Para llegar hasta Obando solo sigue las siguientes indicaciones:
 
-* Primero, debes tomar la ruta hacia el [estrecho del Magdalena]({{site.baseulr}}/estrecho-rio-magdalena "Estrecho del río Magdalena")
+* Primero, debes tomar la ruta hacia el [estrecho del Magdalena]({{site.baseulr}}/turismo-san-agustin/estrecho-rio-magdalena "Estrecho del río Magdalena")
 * Segundo, al llegar al punto donde está el Estrecho del Magdalena, continúa por la vía sin desviarte.
 * Ahora vas a continuar subiendo por la carretera cerca de unos 10 minutos.
 
@@ -57,7 +55,7 @@ Y eso es todo, ya estarás en el hermoso colorido caserío de Obando en San Agus
 
 El museo arqueológico es interesante porque se va dando una idea de lo que fue la cosmovisión de los pueblos prehispánicos. **El museo tiene reconstrucción de diversas estructuras religiosas y políticas de los distintos pueblos**.
 
->¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de [🎒Carolina Colobon y Nando Prieto](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
+{% include hotmart2.html %}
 
 En este parque y pueblito tienes buenos planes para pasar un rato agradable: la plaza principal, con zonas de descanso y recorridos naturales en sus zonas veredales.
 
@@ -67,9 +65,7 @@ Esta belleza arquitectónica fue construida a través de las donaciones de las f
 
 ## Un paseo de relajación y cultura
 
-Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({{site.baseurl}}/visita-san-agustin-huila).**
-
-![Obando en San Agustín Huila]({{ 'img/magazine/obando-san-agustin.webp' | relative_url }} "Obando San Agustín"){:width="360" height="240" loading="lazy"}
+Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}.**
 
 Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural de la zona. **Por otra parte, tienes la oportunidad de maravillarte con los ecosistemas nacionales de esta zona del cañón del Magdalena**.
 
@@ -81,9 +77,7 @@ Si cuentas con suficiente tiempo para realizar un recorrido completo, incluye el
 
 Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer el Salto del Mortiño con el culumpio más arriesgado del país.
 
->¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo [La laguna del Magdalena]({% post_url 2021-09-09-laguna-del-magdalena %})
+>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
+[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena"){:target="_blank"}
 
 Obando es un lugar rústico. Sin embargo, tiene un encanto muy hermoso. **Lo puedes visitar en cualquier época del año. Sobre todo a mitad de año, por las fiestas culturales del San Pedro, o para fin de año en las fiestas de diciembre**. Es completamente distinto, pero muy especial.
-
-Por último, al llegar a San Agustín, recuerda que te esperamos en la mejor heladería de toda la región, nuestra [heladería GurCoff]({{site.baseurl}}/contacto).
-

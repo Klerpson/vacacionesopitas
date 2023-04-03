@@ -30,7 +30,8 @@ Pitalito tiene una gran cantidad de **cafeterías y bares para disfrutar de un c
 
 La cultura del café en Pitalito es una de las razones por las que esta ciudad se ha convertido en un destino turístico popular. Los cafés aquí son reconocidos por su calidad y notas de sabor únicas. Todas las cafeterías han logrado ofrecer ambientes relajados y acogedores, con música suave y muchos con paisajes hermosos. **Esto hace que la experiencia de tomar un café sea aún más agradable.**
 
->¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo [La laguna del Magdalena]({% post_url 2021-09-09-laguna-del-magdalena %})
+>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
+[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena"){:target="_blank"}
 
 ## Variedades de café en Pitalito
 
@@ -42,8 +43,6 @@ La variedad de sus cultivos está posicionando la ciudad como la mejor zona cafe
 4. **Café caturra**: esta variedad de café se caracteriza por su sabor único y su aroma intenso. Esta variedad también se caracteriza por sus granos grandes, su sabor dulce y su acidez moderada.
 5. **Café borbón rosado**: **El café Borbón Rosado es una variedad de café única y exclusiva**. Su sabor dulce y suave es resultado de un proceso de tostado en el que la temperatura se ajusta a la perfección para preservar la dulzura y suavidad de los granos. El resultado es **un café con notas a chocolate y caramelo, con un toque de ácido y un final suave y sedoso**.
 
-![Entrada al Salto del Mortiño]({{ 'img/magazine/cafe-pitalito-huila.webp' | relative_url }} "Café del Huila"){:width="800" style="aspect-ratio: 16 / 9;" loading="lazy"}
-
 ## Pitalito, ciudad de baristas reconocidos
 
 Además de los cafeterías tradicionales, Pitalito también ofrece una variedad de cafés gourmet. Aquí es donde los baristas de la ciudad tienen un papel principal. Por ejemplo, [el reconocimiento a la barista más joven de Colombia se dió en Pitalito.](https://www.radionacional.co/regiones/andina/la-barista-mas-joven-del-pais-esta-en-pitalito-huila){:rel="nofollow noopener noreferrer" target="_blank"}
@@ -52,9 +51,7 @@ Los baristas de Pitalito experimentan con sabores y recetas únicas para ofrecer
 
 ## El Café de Pitalito tienes que probarlo
 
-Cuando visites Pitalito, puedes encontrar muchas fincas que te ofrecen **experiencias campesinas donde cultivas, cosechas, preparas y tomas un café delicioso**. En nuestro blog hicimos un artículo sobre la finca [Tierra Activa]({{site.baseurl}}/hoteles/finca-tierra-activa-san-agustin-huila) que te ofrece experiencias como esta.
-
-![Entrada al Salto del Mortiño]({{ 'img/magazine/cafe-pitalito-experiencia.webp' | relative_url }} "Experiencia campesina en finca cafetera de Pitalito"){:width="800" style="aspect-ratio: 16 / 9;" loading="lazy"}
+Cuando visites Pitalito, puedes encontrar muchas fincas que te ofrecen **experiencias campesinas donde cultivas, cosechas, preparas y tomas un café delicioso**. En nuestro blog hicimos un artículo sobre la finca [Tierra Activa]({{site.baseurl}}/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila) que te ofrece experiencias como esta.
 
 En Pitalito, el café es más que una bebida, es una forma de vida. La gente aquí se toma el tiempo para disfrutar de su café, disfrutar de la compañía de sus amigos y disfrutar de la cultura cafetera. Los baristas son conocidos por su servicio amable y por su conocimiento profundo del café. Esto hace que la experiencia de tomar café en Pitalito sea única.
 

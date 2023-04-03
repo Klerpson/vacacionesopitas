@@ -28,14 +28,14 @@ Te contaremos las actividades que puedes hacer cuando vengas a visitarlos, cómo
 
 ## El camino hasta el Salto del Mortiño
 
-**Para llegar al Salto del mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/visita-san-agustin-huila) e Isnos, en la vereda El Mortiño.**. Este complejo turístico se encuentra **junto a la cascada El Salto del Mortiño, una caída de agua** catalogada entre las más hermosas de Sudamérica.
+**Para llegar al Salto del mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema "San Agustín Huila"){:target="_blank"} e Isnos, en la vereda El Mortiño.**. Este complejo turístico se encuentra **junto a la cascada El Salto del Mortiño, una caída de agua** catalogada entre las más hermosas de Sudamérica.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.6630613171924!2d-76.21302838479016!3d1.8833470601525717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257114972da5eb%3A0x9c1b9bd07acd0161!2sSalto%20del%20Morti%C3%B1o!5e0!3m2!1ses!2sco!4v1669519733234!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Mapa de Google Maps para llegar al Salto del Mortiño*
 
-![Entrada al Salto del Mortiño]({{ 'img/magazine/salto-mortino-entrada.webp' | relative_url }} "Entrada Salto del Mortiño"){:width="643" height="390" loading="lazy"}
+Justo sobre la vía (a mano derecha si vas desde San Agustín a Isnos, o a manos izquierda en la dirección contraria), verás su letrero enorme invitándore a la aventura. Cuando llegues a ese punto, asegúrate de seguir bien las señales de la entrada al lugar.
 
-Justo sobre la vía (a mano derecha si vas desde San Agustín a Isnos, o a manos izquierda en la dirección contraria), verás su letrero enorme invitándore a la aventura. Cuando llegues a ese punto, asegúrate de seguir bien las señales de la entrada al lugar. En el mismo sitio hay otras fincas que pueden confundirte al llegar. No es difícil entrar. Solo sigue bien las señales.
+En el mismo sitio hay otras fincas que pueden confundirte al llegar. No es difícil entrar. Solo sigue bien las señales.
 
 Por otra parte, **recuerda que la entrada al lugar tiene un costo**. Hasta el año 2022, costaba 5000 la entrada. Con este pago puedes acceder al lugar y disfrutar de sus miradores. Sin embargo, las atracciones de aventura tienen un costo adicional.
 
@@ -45,8 +45,6 @@ Por otra parte, **recuerda que la entrada al lugar tiene un costo**. Hasta el a�
 
 ### El columpio el Vuelo del Halcón
 
-![Culumpio Vuelo del Halcón en el Salto del Mortiño]({{ 'img/magazine/culumpio-vuelo-del-halcon.webp' | relative_url }} "Culumpio Vuelo del Halcón"){:width="600" height="710" loading="lazy"}
-
 **El columpio llamado El vuelo del halcón** es un columpio enorme que, cuando se balancea sobre la cascada del Mortiño, a una altura de unos 215 metros, te regala la más espectacular experiencia llena de adrenalina y de un recuerdo muy difícil de olvidar.
 
 Un cable metálico jala la enorme canasta hasta unos 8 metros de altura. Y cuando te sueltan, sales disparado con todas las ganas de gritar y lanzar al vacío un emocionante grito lleno de adrenalina.
@@ -55,11 +53,10 @@ El columpio El Vuelo del Halcón fue construído con 15 metros de altura. Su eno
 
 ### El puente El Ojo del Halcón
 
-![Puente de cristal en el Salto del Mortiño]({{ 'img/magazine/puente-cristal-salto-mortino.webp' | relative_url }} "Puente de cristal el ojo del Halcón"){:width="800" height="385" loading="lazy"}
-
 Justo a su lado, está el impresionante **puente de cristal llamado El Ojo del Halcón.** Esta estructura es la primera en Colombia en su clase. Como puede imaginarte, es un atractivo único en el país hasta el momento, pues no es solo la estructura, sino el hecho que esté sobre una de las principales caídas de agua del país.
 
->¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo [La laguna del Magdalena]({% post_url 2021-09-09-laguna-del-magdalena %})
+>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
+[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena"){:target="_blank"}
 
 Esta es una plataforma de observación de vidrio templado. Tiene tres capas de armadura y tres capas de blindaje. Es una vista muy, pero muy linda, espectacular! El puente sobresale 12 metros, por lo que puedes observar la caída de agua justo desde arriba. Sí, **desde el puente de cristal El Ojo del Halcón podemos estar sobre la misma cascada del Salto del Mortiño.**
 
@@ -73,21 +70,20 @@ La entrada al culumpio cuesta alrededor de 15000 0 20000 pesos por persona adult
 
 ### Otros actividades en la finca el Salto del Mortiño
 
-![Cauchera gigante en el Salto del Mortiño]({{ 'img/magazine/cauchera-gigante-salto-mortino.webp' | relative_url }} "Cauchera gigante sobre el cañón del Magdalena"){:width="573" height="751" loading="lazy"}
-
 Como es un complejo lleno de aventura, puedes hacer otras cosas. Por ejemplo, **otra actividad extrema es la cauchera humana**, una atracción de más alto impacto. En el centro del complejo se construyó una estructura de 18 metros de alto. Esta te lanza hasta unos 25 metros de altura a una velocidad de 90 kilómetros por hora en promedio.
-
-![Canasta colgante en el Salto del Mortiño]({{ 'img/magazine/canasta-colgante-salto-mortino.webp' | relative_url }} "Canasta colgante sobre el cañón del Magdalena"){:width="800" height="405" loading="lazy"}
 
 También, sobre el cañón del Salto del Mortiño se puede practicar canopy, colgar sobre amacas en el vacío o subirte a la canasta voladora. Con unas líneas reforzadas, te permiten volar y vivir una mezcla de aventura y adrenalina sobre todo el cañón. ¿Te imaginas la foto con esa impresionante vista?
 
->¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de [Hoteles en San Agustín]({{site.baseurl}}/hoteles)
+>¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de hoteles, hostales, fincas y más en San Agustín.  
+[Hoteles en San Agustín]({{site.baseurl}}/hoteles-san-agustin){:target="_blank"}
 
 Finalmente, puedes pausar a tomar los mejores cafés de la zona, comer un rico postre o un buen almuerzo. O quizá, si el frío no es problema para ti, y si el clima te acompaña, tener una deliciosa tarde de piscina, con aguas naturales que corren hacia la cascada.
 
 ## Información importante para visitar el Salto del Mortiño
 
-Para tu confianza, te contamos que la construcción del columpio tiene un contrapeso de cemento fabricado con más de 100 bultos de cemento. Su estructura fue anclado en la roca del cañón. Ambas estructuras se contruyeron con toda la normatividad que exige esta clase de juegos. Además, el complejo te ofrece una póliza que también cubre cualquier accidente en alguna eventualidad, para la que están preparados para evitar al mayor grado posible.
+Para tu confianza, te contamos que la construcción del columpio tiene un contrapeso de cemento fabricado con más de 100 bultos de cemento. Su estructura fue anclado en la roca del cañón. Ambas estructuras se contruyeron con toda la normatividad que exige esta clase de juegos.
+
+Además, el complejo te ofrece una póliza que también cubre cualquier accidente en alguna eventualidad, para la que están preparados para evitar al mayor grado posible.
 
 Otro punto importante es que trates de venir entre semana. Los fines de semana hay mucha afluencia de público. Y como no se pueden replicar tan fácilmente esta clase de estructuras, deberás esperar pacientemente tu turno.
 
