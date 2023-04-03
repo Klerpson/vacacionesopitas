@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/hoteles-san-agustin/hostal-bambu-san-agustin-huila</loc>
-<lastmod>2021-05-25T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/hoteles/hotel-internacional-san-agustin-huila</loc>
-<lastmod>2021-06-02T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo/magia-san-agustin-huila</loc>
+<loc>http://localhost:4000/turismo-san-agustin/magia-san-agustin-huila</loc>
 <lastmod>2021-06-07T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -49,7 +41,15 @@
 <lastmod>2023-02-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/turismo/parque-arqueologico-san-agustin</loc>
+<loc>http://localhost:4000/hoteles-san-agustin/hostal-bambu-san-agustin-huila</loc>
+<lastmod>2023-02-03T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hoteles-san-agustin/hotel-internacional-san-agustin-huila</loc>
+<lastmod>2023-02-04T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/turismo-san-agustin/parque-arqueologico-san-agustin</loc>
 <lastmod>2023-02-11T00:00:00-05:00</lastmod>
 </url>
 <url>

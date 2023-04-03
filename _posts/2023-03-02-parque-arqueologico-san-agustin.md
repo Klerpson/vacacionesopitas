@@ -13,7 +13,7 @@ webps: blog/parque-arqueologico-san-agustin-376.webp
 webpm: blog/parque-arqueologico-san-agustin-600.webp
 webpb: blog/parque-arqueologico-san-agustin-800.webp
 alt: Parque arqueológico de San Agustín Huila
-permalink: turismo/parque-arqueologico-san-agustin
+permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 ---
 El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con **esculturas y monumentos de hace más de 1.800 años**.
 <!-- excerpt -->
@@ -45,10 +45,10 @@ Desde el parque principal de San Agustin Huila, **recorres 3 kilómetros hasta l
 
 Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Página de contacto de la heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="360" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 *Ubicación del parque arqueológico en google maps*
 
-Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles "Hoteles de San Agustín Huila"), [restaurantes]({{site.baseurl}}/mejores-restaurantes-san-agustin) con comida típica y comidas rápidas, entre otros.
+Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"){:target="_blank"}, [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín"){:target="_blank"} con comida típica y comidas rápidas, entre otros.
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de [Hoteles en San Agustín]({{site.baseurl}}/hoteles)
 

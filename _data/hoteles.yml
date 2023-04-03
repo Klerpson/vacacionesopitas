@@ -23,11 +23,11 @@ Hoteles en San Agustín Huila:
       - Parqueadero gratis
       - Hotel de lujo
       - Spa
-  - nombre: Hotel San Agustín Internacional
-    img: hotel-internacional-san-agustin-400px.webp
+  - nombre: Hotel Internacional San Agustín 
+    img: hotel-internacional-san-agustin-huila-376.webp
     alt: Fotografía del Hotel Internacional de San Agustín Huila
     title: Fotografía del Hotel Internacional de San Agustín Huila
-    link: '/hoteles/hotel-internacional-san-agustin-huila'
+    link: '/hoteles-san-agustin/hotel-internacional-san-agustin-huila'
     puntos: 4.3 de 270
     perfil: https://goo.gl/maps/G5ygxCTrTnbbF9P8A
     servicios:
@@ -290,12 +290,12 @@ Fincas en San Agustín Huila:
 
 Hostales en San Agustín Huila:
   - nombre: Hostal Bambú San Agustín
-    img: hostal-bambu-san-agustin-400px.webp
+    img: hostal-bambu-san-agustin-376.webp
     alt: Fotografía del Hostal Bambú de San Agustín Huila
     title: Foto del Hostal Bambú
     puntos: 4.8 de 736 
     perfil: https://goo.gl/maps/f5EEoVWeJgaxWVVt7
-    link: '/hoteles/hostal-bambu-san-agustin-huila'
+    link: '/hoteles-san-agustin/hostal-bambu-san-agustin-huila'
     servicios:
       - Wifi gratis
       - Desayunos

@@ -150,7 +150,9 @@
 }
 
 #breadcrumbs a{
+  text-transform: capitalize;
   color: var(--principal);
+  font-weight: 400;
 }
 
 .post-header {

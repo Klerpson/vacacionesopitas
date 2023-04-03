@@ -10,19 +10,22 @@ jpg: magazine/san-agustin-huila-bienvenida.jpg
 alt: Entrada a San Agustín Huila
 date: 2021-06-07
 background-header: var(--oficial)
-permalink: turismo/magia-san-agustin-huila
+permalink: turismo-san-agustin/magia-san-agustin-huila
 ---
-**San Agustín Huila es un pueblito especial para viajar y descansar.** Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.
-
+**San Agustín Huila es un pueblito especial para viajar y descansar.** Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales.
 <!-- excerpt -->
+
+Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 Este hermoso pueblito es una ciudad ubicada en el departamento del Huila en Colombia. **San Agustín es conocida por sus esculturas de piedra**, que son una de las atracciones turísticas más importantes de la región. Las esculturas se encuentran en diferentes parques arqueológicos cerca de la ciudad y datan de hace más de 1.800 años.
 
 Además de las esculturas, San Agustín también es famosa por su clima cálido y su paisaje montañoso, con cascadas y ríos. Es un lugar popular para la práctica de deportes de aventura como el rafting y el ciclismo de montaña.
 
 Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila: **qué hacer, dónde quedarte, qué puedes disfrutar de su gastronomía** y mucho más. ¡Empecemos!
 
-* Do not remove this line (it will not be displayed)
-{:toc}
 
 ## Cómo llegar a San Agustín Huila
 
