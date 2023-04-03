@@ -82,7 +82,7 @@ Este lujoso hotel te ofrece los siguientes servicios:
 El hotel Internacional San Agustín **tiene 77 habitaciones en total, 27 son para no fumadores**. Todas muy bien equipadas para que recibas un servicio de mucha calidad.
 
 >Visita la Cascada los Tres Chorros para tener un plan lleno de aventura en San Agustín.  
-[Cascada de Los Tres Chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin)
+[Cascada de Los Tres Chorros]({{site.baseurl}}/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin)
 
 ## ¿Por qué destaca el Hotel Internacional San Agustín?
 
