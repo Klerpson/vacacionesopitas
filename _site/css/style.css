@@ -695,56 +695,6 @@ footer section p{
   font-size: .9rem;
 }
 
-/* PAGINA PRINCIPAL DEL BLOG */
-
-.blog-first{
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-  gap: 1.2rem;
-  place-items: center;
-  background-color: var(--complemento2);
-  box-shadow: 0 0 0 100vmax var(--complemento2);
-  clip-path: inset(0 -100vmax);
-  padding: 2rem 0;
-}
-
-.blog-first img{
-  max-width: 100%;
-  border-radius: var(--radius);
-}
-
-.blog-first div {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 1rem;
-}
-
-.blog-first div h3{
-  font-size: 1.5rem;
-  line-height: 1.2;
-}
-
-.blog-first div a,
-.post-content blockquote a{
-  padding: 8px 32px;
-  background-color: var(--principal);
-  color: #fefefe;
-  border-radius: var(--radius);
-  text-decoration: none;
-  box-shadow: var(--shadow);
-  transition: .3s all ease;
-}
-
-.blog-first div a:active{
-  box-shadow: none;
-}
-
-.blog-main h2{
-  margin-top: 3rem;
-}
-
 .blog-posts {
   display: flex;
   flex-wrap: wrap;
@@ -767,7 +717,6 @@ footer section p{
 .blog-posts article a{
   display: grid;
   grid-template-columns: 1fr auto;
-  gap: .5rem;
   place-items: center;
   color: var(--secundario);
   text-decoration: none;
