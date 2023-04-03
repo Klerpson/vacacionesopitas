@@ -4,9 +4,9 @@
     {% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
     <title>{{ page.title}}</title>
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
     <meta name="language" content="es" >
     <meta name="country" content="COL" >
     <meta name="geo.region" content="CO-HUI" >
@@ -238,8 +238,19 @@
     <!-- LINKS -->
     <link rel="preload" href="{{site.baseurl}}/css/style.css" as="style">
     <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
-    <link rel="preload" href="{{site.baseurl}}/css/fonts/styles.css" as="font">
+    <link rel="preload" href="{{site.baseurl}}/css/fonts/styles.css" as="style">
     <link rel="stylesheet" href="{{site.baseurl}}/css/fonts/styles.css">
+    <!-- FUENTES PRELOAD -->
+    <link rel="preload" as="font" href="{{ 'css/fonts/sarala-v5-latin-regular.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/sarala-v5-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/sarala-v5-latin-700.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/sarala-v5-latin-700.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-regular.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff2' | relative_url }}" type="font/woff2" crossorigin>
   </head>
   <!-- Google tag (gtag.js) -->
   <script defer src="https://www.googletagmanager.com/gtag/js?id=G-0B92BGGWF6"></script>

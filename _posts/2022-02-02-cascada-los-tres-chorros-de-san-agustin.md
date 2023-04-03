@@ -5,7 +5,7 @@ description: Los Tres Chorros es una espectacular caída de agua de San Agustín
 h1: Cascada Los Tres Chorros
 h1_alternativo: La cascada de los Tres Chorros en San Agustín
 award: La mejor guía para visitar la cascada de Los Tres Chorros
-date: 2022-01-31
+date: 2022-02-02
 category: turismo
 jpg: blog/tres-chorros-cascada-imponente-san-agustin.jpg
 hero: blog/tres-chorros-cascada-imponente-san-agustin.webp
