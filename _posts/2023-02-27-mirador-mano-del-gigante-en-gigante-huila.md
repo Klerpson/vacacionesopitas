@@ -6,26 +6,28 @@ h1: 'El mirador "La mano del Gigante" en Gigante Huila: ¡aventura y muchas foto
 h1_alternativo: Parque arqueológico de San Agustín Huila
 award: La mejor guía para visitar el parque arqueológico de San Agustín Huila
 category: turismo
-jpg: blog/parque-arqueologico-san-agustin.jpg
-hero: blog/parque-arqueologico-san-agustin.webp
-webps: blog/parque-arqueologico-san-agustin-376.webp
-webpm: blog/parque-arqueologico-san-agustin-600.webp
-webpb: blog/parque-arqueologico-san-agustin-800.webp
-alt: Tazas de café con un paisaje de fondo
+jpg: blog/mirador-mano-del-gigante-huila.jpg
+hero: blog/mirador-mano-del-gigante-huila.webp
+webps: blog/mirador-mano-del-gigante-huila-376.webp
+webpm: blog/mirador-mano-del-gigante-huila-600.webp
+webpb: blog/mirador-mano-del-gigante-huila-800.webp
+alt: Mirador la mano del Gigante
 date: 2023-02-27
-background-header: var(--oficial)
 referencias:
   - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
 excerpt_separator: <!-- excerpt -->
-permalink: turismo/mirador-mano-del-gigante-en-gigante-huila
+permalink: turismo-san-agustin/mirador-mano-del-gigante-en-gigante-huila
 --- 
-"La mano del Gigante" en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador. Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
+"La mano del Gigante" en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador.
 <!-- excerpt -->
+
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Turismo en Gigante Huila
+Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
+
+## El turismo en Gigante Huila
 
 Pero antes de contarte más sobre esta increíble atracción, hablemos un poco del **turismo en Gigante Huila**.
 
@@ -37,9 +39,7 @@ En otras palabras, *Gigante Huila es el destino perfecto para aquellos que busca
 
 ## ¿Necesitas hospedaje en Gigante Huila?
 
->**¿Te gustaría obtener la mejor guía de viajes por Colombia?**  
-Planea tus próximos viajes y *disfrútalos con seguridad y tranquilidad*.  
-[Compra la Guía turística de Colombia](https://go.hotmart.com/M80153395U "Comprar la guía turística de Colombia."){:rel="nofollow noopener noreferrer" target="_blank"}
+{% include cta-hotmart1.html %}
 
 Y cuando vengas, ¿dónde vas a [alojarte en Gigante Huila](https://www.booking.com/searchresults.es.html?aid=306396&label=gigante-NPVifzbX7Y_C7rbzs0hwwAS638077279638%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-405510400211%3Alp20204%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YdnZzv7u3SiOco5fpqS0M1M&sid=2e40722a3292c597967d092624e3142a&city=-585173&redirected=1&redirected_from_city=1&source=city&){:rel="nofollow noopener noreferrer" target="_blank"}? Bueno, ¡tienes muchas opciones! Desde cabañas y alojamientos rurales hasta hoteles y posadas. Si prefieres la tranquilidad del campo, entonces alojarte en una cabaña en las montañas puede ser la mejor opción para ti.
 
@@ -76,6 +76,9 @@ Y si necesitas algo más, **en el lugar hay servicios como restaurante, cafeter�
 
 ## Recomendaciones para venir al mirador de la mano del Gigante
 
+>Haz planes para pasar por el parque arqueológico de San Agustín. Aquí te contamos porqué vale la pena visitarlo  
+[Parque Arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque Arqueológico de San Agustín"){:target="_blank"}
+
 Ten en cuenta las siguientes recomendaciones:
 
 * Te recomendamos **visitar el mirador en la tarde** para disfrutar de la mejor puesta del sol. Es el momento perfecto para disfrutar de los colores anaranjados y rojizos del cielo.
@@ -92,8 +95,8 @@ En el siguiente **video sobre el mirador de la mano del Gigante** podrás ver m�
 
 Ir a la mano del Gigante es la sensación de estar frente a una obra de arte de la naturaleza es indescriptible. Es como si la mano del gigante te estuviera dando la bienvenida a un mundo de ensueño.
 
-**La mezcla de colores y paisajes** que se pueden ver desde allí son simplemente espectaculares. Puedes ver el [río Magdalena]({{'laguna-del-magdalena'|relative_url}} "Estrecho del río Magdalena"){:target="_blank"}, los [cultivos de café]({{'cafe-pitalito-huila'|relative_url}} "Café de Pitalito Huila"){:target="_blank"} y la cordillera de los Andes en su máximo esplendor.
+**La mezcla de colores y paisajes** que se pueden ver desde allí son simplemente espectaculares. Puedes ver el [río Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'|relative_url}} "Laguna del Magdalena"){:target="_blank"}, los [cultivos de café]({{'turismo-san-agustin/cafe-pitalito-huila'|relative_url}} "Café de Pitalito Huila"){:target="_blank"} y la cordillera de los Andes en su máximo esplendor.
 
 En resumen, **el Mirador "La mano del Gigante" en Gigante Huila es un lugar que no puedes perderte si eres una amante de la naturaleza y los paisajes espectaculares**. La vista es impresionante y te aseguramos que te dejará sin palabras.
 
-Así que si pasas por [San Agustín Huila]({{'visita-san-agustin-huila'|relative_url}} "San Agustín Huila"){:target="_blank"} y quieres seguir una gran aventura... ¡No lo pienses más y planifica tu visita al Mirador "La mano del Gigante"!
+Así que si pasas por [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"} y quieres seguir una gran aventura... ¡No lo pienses más y planifica tu visita al Mirador "La mano del Gigante"!
