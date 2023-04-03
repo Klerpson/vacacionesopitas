@@ -16,6 +16,7 @@ date: 2023-02-27
 background-header: var(--oficial)
 referencias:
   - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
+excerpt_separator: <!-- excerpt -->
 permalink: turismo/mirador-mano-del-gigante-en-gigante-huila
 --- 
 "La mano del Gigante" en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador. Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.

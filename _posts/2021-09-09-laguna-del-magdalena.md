@@ -9,7 +9,7 @@ jpg: magazine/laguna-del-magdalena.jpg
 alt: Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena
 background-header: 'var(--oficial)'
 date: 2021-09-09
-intro: La Laguna del Magdalena es el nacimiento del gran Río Magdalena, la mayor fuente del agua dulce para la producción colombiana.
+excerpt_separator: <!-- excerpt -->
 ---
 **La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas**, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.
 
@@ -22,7 +22,7 @@ intro: La Laguna del Magdalena es el nacimiento del gran Río Magdalena, la mayo
 
 Para llegar a la laguna del Magdalena debes transitar un sendero montañoso lleno de aventura. Es trayecto muy largo que toma un par de días.
 
-Puedes llegar desde 2 lugares diferentes: **desde [San Agustín Huila]({% post_url 2021-06-07-magia-san-agustin-huila %}) o desde Popayán.**
+Puedes llegar desde 2 lugares diferentes: **desde [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"} o desde Popayán.**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.175535912642!2d-76.6176436767215!3d1.9347221274314712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2f8f882fdec95f%3A0xbae735e5e975da60!2sLaguna%20Magdalena!5e0!3m2!1ses-419!2sco!4v1656416457521!5m2!1ses-419!2sco" width="400" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Ubicación de la laguna del Magdalena*

@@ -5,7 +5,7 @@ description: El Parque Arqueológico de San Agustín es un conjunto de escultura
 h1: Parque arqueológico de San Agustín - Patrimonio de la humanidad
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
 award: La mejor guía para visitar el parque arqueológico de San Agustín
-date: 2023-02-11
+date: 2023-04-11
 category: turismo
 jpg: blog/parque-arqueologico-san-agustin.jpg
 hero: blog/parque-arqueologico-san-agustin.webp
@@ -13,6 +13,7 @@ webps: blog/parque-arqueologico-san-agustin-376.webp
 webpm: blog/parque-arqueologico-san-agustin-600.webp
 webpb: blog/parque-arqueologico-san-agustin-800.webp
 alt: Parque arqueológico de San Agustín Huila
+excerpt_separator: <!-- excerpt -->
 permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 ---
 El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con **esculturas y monumentos de hace más de 1.800 años**.
@@ -43,14 +44,15 @@ Para llegar al parque debes ubicar el municipio el municipio de San Agustín Hui
 
 Desde el parque principal de San Agustin Huila, **recorres 3 kilómetros hasta llegar al Parque Arqueológico**.
 
-Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Página de contacto de la heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
+Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 *Ubicación del parque arqueológico en google maps*
 
 Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"){:target="_blank"}, [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín"){:target="_blank"} con comida típica y comidas rápidas, entre otros.
 
->¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de [Hoteles en San Agustín]({{site.baseurl}}/hoteles)
+>¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de los hoteles de San Agustín Huila  
+[Hoteles en San Agustín]({{site.baseurl}}/hoteles-san-agustin)
 
 ### Llegar al parque arqueológico desde Bogotá
 
@@ -60,7 +62,8 @@ También, puedes tomar vuelos desde Bogotá. **El aeropuerto más cercano está 
 
 Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos están un poco más retirados de tu destino. Pero igual te ahorrarán mucho tiempo.
 
->En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo. [La magia de San Agustín Huila]({{'turismo/magia-san-agustin-huila'|relative_url}} "Artículo sobre San Agustín Huila")
+>En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo.  
+[La magia de San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}
 
 ### Llegar al parque desde Neiva
 
@@ -111,8 +114,6 @@ Además, hay que tener en cuenta que en temporada normal *el parque arqueológic
 
 ## Información sobre el Parque Arqueológico de San Agustín
 
-![Estatuas del parque arqueológico de San Agustín]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240" loading="lazy"}
-
 **El Parque con las ruinas de San Agustín es una amplia reserva natural del valle alto del río Magdalena**, al suroccidente de Colombia.
 
 Muchos de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar.
@@ -122,8 +123,6 @@ En 1931 se restauraron muchas de sus ruinas. En la actualidad, **el parque arque
 ### El parque arqueológico de San Agustín y sus hallazgos arqueológicos
 
 El parque de San Agustín **es la zona con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura fue *la necrópolis más grande de Suramérica*.
-
-![Estatuas del parque arqueológico de San Agustín Huila]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin-huila.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240" loading="lazy"}
 
 El parque tiene 78 hectáreas pertenecientes a los campesinos de la región. Fueron vendidas al gobierno con el tiempo; y desde 1935, se creó oficialmente el Parque Arqueológico de San Agustín para el público en general.
 
@@ -176,11 +175,9 @@ Este museo te permite apreciar muchas estatuas y herramientas de la época, y mu
 
 #### La Fuente Ceremonial del Lavapatas
 
-![Fuente Lavapatas en el parque arqueológico de San Agustín Huila]({{ 'img/magazine/fuente-lavapatas-parque-arquelogico-san-agustin.webp' | relative_url }} "Fuente Lavapatas"){:width="360" height="240" loading="lazy"}
-
 Una de las creaciones más significativas de la cultura de San Agustín fue **la Fuente Ceremonial de Lavapatas**. Es una obra de ingeniería hidráulica en la que se representaba una serie de figuras talladas, canales y estanques sobre un lecho de roca.
 
-Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida. 
+Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida.
 
 #### El bosque de las estatuas
 
@@ -198,7 +195,8 @@ En este lugar **se encontraron restos de una vivienda, se encontró un fogón y 
 
 En la antigüedad las zonas altas de las montañas eran lugares importantes y estratégicos para el dominio del territorio. En la estrategia de las guerras, eran una enorme ventaja. Lo anterior se debía a que se podía ver todo el panorama completo. Tener esta visibilidad era una ventaja al momento del combate. **Y desde el Alto de Lavapatas se podía tener esa ventaja.**
 
->Haz planes para visitar [El museo de Obando de San Agustín]({{site.baseurl}}/museo-obando-san-agustin-huila)
+>Haz planes para visitar El museo de Obando de San Agustín  
+[El museo de Obando de San Agustín]({{site.baseurl}}/museo-obando-san-agustin-huila)
 
 #### La zona de "Las Mesitas"
 
@@ -208,13 +206,9 @@ Muchas de las esculturas megalíticas revelan un culto hacia la muerte y los asp
 
 Como puedes notar en la siguiente fotografía, **hacían 2 guardianes a los lados y el protector a la mitad, con una cubierta sobre los 3. Así formaban lo que aparentan mesitas**.
 
-![Alto de los Ídolos San Agustín Huila]({{ 'img/magazine/alto-de-los-idolos-san-agustin.webp' | relative_url }} "Alto de los Ídolos"){:width="360" height="240" loading="lazy"}
-
 En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol.
 
 #### El Alto de los Ídolos
-
-![Tumba del parque arqueológico de San Agustín Huila]({{ 'img/magazine/tumba-parque-arqueologico-san-agustin.webp' | relative_url }} "Tumbas del parque arqueológico"){:width="360" height="240" loading="lazy"}
 
 El Alto de los Ídolos es un sitio arqueolgico muy importante para la región. **Se encuentra en el municipio de San Jos de Isnos, a tan solo 20 minutos desde San Agustín**.
 
@@ -242,6 +236,6 @@ En este **video del parque arqueológico de San Agustín** tienes un pequeño ad
 
 **El parque arqueológico de San Agustín Huila, es considerada la joya arqueológica de Colombia**, que nos ofrece además un encuentro inigualable con la naturaleza.
 
-Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocerlo. También, terndrás una cantidad de [atractivos turísticos de San Agustín]({{'visita-san-agustin-huila'|relative_url}} "Turismo en San Agustín Huila"){:target="_blank"}, aún desconocidos para muchos.
+Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocerlo. También, terndrás una cantidad de [atractivos turísticos de San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}, aún desconocidos para muchos.
 
 Mientras tanto, cuéntanos en los comentarios: **¿qué te gustó más del parque arqueológico de San Agustín?**

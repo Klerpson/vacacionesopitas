@@ -18,6 +18,7 @@ referencias:
   - TripAdvisor Hostal Bambú San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d4815502-Reviews-Hostel_Bambu-San_Agustin_Huila_Department.html?m=19905
   - Fotos Hostal Bambú San Agustín: https://www.google.com/maps/place/Hostal+Bambu/@1.8851998,-76.2715695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMEnFvjxDcibdQXoOcdjzHuiIYJmLMTzVQHSw4p!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMEnFvjxDcibdQXoOcdjzHuiIYJmLMTzVQHSw4p%3Dw529-h298-k-no!7i2048!8i1152!4m10!3m9!1s0x0:0xc229ad7209df6a00!5m2!4m1!1i2!8m2!3d1.8851998!4d-76.2715695!14m1!1BCgIgAQ
   - Página web Hostal Bambú: https://hostalbambu.com
+excerpt_separator: <!-- excerpt -->
 permalink: /hoteles-san-agustin/hostal-bambu-san-agustin-huila
 ---
 El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes.
@@ -85,7 +86,7 @@ Este hostal ofrece unos servicios muy familiares. Realmente, su calidad humana d
 >¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de Carolina Colobon y Nando Prieto en su libro Cómo viajar por el mundo  
 [Comprar libro 🎒Cómo viajar por el mundo](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
 
-Este hostal de San Agustín será tu favorito por las siguientes razones:
+Este hostal de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"} será tu favorito por las siguientes razones:
 
 1. **El hostal Bambú está ubicado en la histórica calle de la Locería de San Agustín**. Además del ambiente turístico y colonial, es muy tranquila para el descanso.
 2. Para asegurar tu descanso, tienen una política de no ruidos que molesten a otros huéspedes después de las 10 p.m.
