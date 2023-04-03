@@ -8,7 +8,7 @@ email: contacto@sanagustinhuila.com.co
 
 markdown: kramdown
 
-permalink: :slug/
+permalink: :slug
 
 keep_files: [/img]
 
