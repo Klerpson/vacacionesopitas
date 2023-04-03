@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Los Tres Chorros - ¡Cascada imponente de San Agustín Huila!
-description: Los Tres Chorros es una espectacular caída de agua de San Agustín Huila. ¡Ven a conocer esta reserva rodeada de naturaleza! - Y trae buena cámara
-h1: Cascada Los Tres Chorros
+title: Cascada los Tres Chorros ¡3 cascadas en 1 de San Agustín!
+description: Los Tres Chorros es una espectacular cascada de San Agustín Huila compuesta de 3 caídas de agua. ¡Ven a conocer esta reserva rodeada de naturaleza!
+h1: Los Tres Chorros en San Agustín Huila - 3 caídas de agua en 1
 h1_alternativo: La cascada de los Tres Chorros en San Agustín
 award: La mejor guía para visitar la cascada de Los Tres Chorros
-date: 2022-02-02
+date: 2023-02-22
 category: turismo
 jpg: blog/tres-chorros-cascada-imponente-san-agustin.jpg
 hero: blog/tres-chorros-cascada-imponente-san-agustin.webp
@@ -32,7 +32,9 @@ Tras un paseo de 45 minutos en vehículo y una caminata de 30 minutos por la mon
 
 ### ¿Cómo llegar a la cascada los Tres Chorros?
 
-Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila]({{'turismo/magia-san-agustin-huila'|relative_url}}){:target="_blank"}. **Debes llegar hasta una vereda llamada La Pradera**.
+{% include cta-hotmart1.html %}
+
+Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila]({{'turismo-san-agustin/magia-san-agustin-huila'|relative_url}}){:target="_blank"}. **Debes llegar hasta una vereda llamada La Pradera**.
 
 La vía es una carretera de 20 kilómetros aproximadamente. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
@@ -96,6 +98,8 @@ Para más información sobre el tour a caballo, puedes contactar a esta agencia.
 
 ## ¿Qué puedes hacer en la cascada Los Tres Chorros?
 
+{% include cta-hotmart1.html %}
+
 Para comenzar, disfrutarás del viaje mismo. Durante el recorrido, en **medio de la naturaleza nativa de estas tierras de San Agustín**, se puede observar amplia variedad de aves, fauna y flora, propias de la región y del macizo colombiano.
 
 Esta es una de las razones principales por las que cada año, turistas nacionales y extranjeros, eligen visitar este sitio.
@@ -103,8 +107,6 @@ Esta es una de las razones principales por las que cada año, turistas nacionale
 Así que antes de llegar a la cascada, **prepara tu cámara para entrar en contacto con especies exóticas**, como monos capuchinos; y hermosas aves, como loros y turpiales, que le dan el toque mágico a este lugar.
 
 Tendrás de fondo un hermoso panorama que, en contraste con la luz solar, te dejará un hermoso panorama lleno de luz y  hermosos colores.
-
-{% include cta-hotmart1.html %}
 
 **Las aguas de la cascada los Tres Chorros son frías**. Pero si esto no es un problema para ti, podrás bañar en sus aguas.
 
@@ -114,6 +116,9 @@ Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso
 
 ### ¿Y al salir de la cascada Los Tres Chorros?
 
+>Cuando llegues a San Agustín nuevamente, visita la **Heladería GurCoff**. ¡Es el mejor remate del viaje a San Agustín Huila!  
+[😋🍦Heladería GurCoff](https://gurcoff.com){:target="_blank"}
+
 **Al terminar tu visita a la cascada de Los Tres Chorros, te recomendamos visitar el sitio llamado Las Tapias**. Según la cultura local, es en este lugar donde se fundó el municipio de San Agustín Huila por primera vez. Tiene un impresionante paisaje con bosques de roble.
 
 Además, **podrás hacer una caminata por un sendero precolombino**, con fondos llenos de terrazas artificiales, hechas por los antiguos pobladores para sus cultivos y sus viviendas. Quizá este sea el motivo de su nombre.
@@ -121,9 +126,6 @@ Además, **podrás hacer una caminata por un sendero precolombino**, con fondos 
 Sus ruinas y paisajes te llevará a la época en que los antepasados transitaron y habitaron este lugar.
 
 Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de baño en sus aguas. También se puede **practicar la pesca de la trucha**, pez típico de la zona.
-
->Cuando llegues a San Agustín nuevamente, visita la **Heladería GurCoff**. ¡Es el mejor remate del viaje a San Agustín Huila!  
-[😋🍦Heladería GurCoff](https://gurcoff.com){:target="_blank"}
 
 ## Disfruta la cascada Los Tres Chorros
 
