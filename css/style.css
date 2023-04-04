@@ -1,4 +1,5 @@
 ---
+layout: compress
 ---
 {% include css/universal.css %}
 {% include css/header.css %}
