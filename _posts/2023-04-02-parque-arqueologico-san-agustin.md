@@ -5,7 +5,7 @@ description: El Parque Arqueológico de San Agustín es un conjunto de escultura
 h1: Parque arqueológico de San Agustín - Patrimonio de la humanidad
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
 award: La mejor guía para visitar el parque arqueológico de San Agustín
-date: 2023-04-11
+date: 2023-04-02
 category: turismo
 jpg: blog/parque-arqueologico-san-agustin.jpg
 hero: blog/parque-arqueologico-san-agustin.webp
