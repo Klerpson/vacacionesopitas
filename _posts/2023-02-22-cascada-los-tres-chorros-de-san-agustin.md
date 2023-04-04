@@ -12,7 +12,7 @@ hero: blog/tres-chorros-cascada-imponente-san-agustin.webp
 webps: blog/tres-chorros-cascada-imponente-san-agustin-376.webp
 webpm: blog/tres-chorros-cascada-imponente-san-agustin-600.webp
 webpb: blog/tres-chorros-cascada-imponente-san-agustin-800.webp
-alt: Parque arqueológico de San Agustín Huila
+alt: Cascada Los tres chorros de San Agustín Huila
 permalink: turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin
 ---
 **La cascada Los Tres Chorros es un tesoro de San Agustín**. Muchas de los visitantes de este lugar lo describen como "una de las maravillas naturales de Colombia". Otros dicen que es un "lugar mágico". ¡Realmente es espectacular!
