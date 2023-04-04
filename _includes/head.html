@@ -251,17 +251,15 @@
   <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff2' | relative_url }}" type="font/woff2" crossorigin>
   <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff' | relative_url }}" type="font/woff" crossorigin>
   <link rel="preload" as="font" href="{{ 'css/fonts/trirong-v6-latin-italic.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <!-- Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B6DX0G2KC2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B6DX0G2KC2');
+</script>
   </head>
-  <!-- Google tag (gtag.js) -->
-  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-0B92BGGWF6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-    
-    gtag("config", "G-0B92BGGWF6");
-  </script>
     <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
 </html>
