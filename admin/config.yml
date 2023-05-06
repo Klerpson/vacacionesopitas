@@ -18,7 +18,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'H1', name: 'h1', widget: 'string' }
+      - { label: 'H1 Alternative', name: 'h1_alternativo', widget: 'string' }
       - { label: 'Category', name: 'category', widget: 'string' }
       - { label: 'JPG', name: 'jpg', widget: 'image' }
       - { label: 'Hero', name: 'hero', widget: 'image' }
