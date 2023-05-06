@@ -7,7 +7,7 @@ media_folder: 'site/img/blog'
 public_folder: '/img/blog'
 collections:
   - name: 'blog'
-    label: 'Turismo'
+    label: 'Blog'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
