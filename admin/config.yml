@@ -1,0 +1,31 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'site/img/blog'
+public_folder: '/img/blog'
+collections:
+  - name: 'blog'
+    label: 'Turismo'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'H1', name: 'h1', widget: 'string' }
+      - { label: 'H1', name: 'h1', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'string' }
+      - { label: 'JPG', name: 'jpg', widget: 'image' }
+      - { label: 'Hero', name: 'hero', widget: 'image' }
+      - { label: 'Small', name: 'webps', widget: 'image' }
+      - { label: 'Medium', name: 'webpm', widget: 'image' }
+      - { label: 'Bigger', name: 'webpb', widget: 'image' }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Link', name: 'permalink', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }
