@@ -36,7 +36,7 @@ Así que tendrás muy cerca las tiendas, farmacias o droguerías, panaderías, r
 Los administradores de la casa de huéspedes son tres jóvenes mochileros con una gran experiencia mochilera en todo el mundo. Se esfuerzan a conciencia por ayudarte a sacar el máximo provecho de tu estancia en su hostal.
 
 >Desde el Hostal Bambú llegas fácil al famoso Estrecho del Magdalena. ¡Haz clic para que leas porqué debes incluirlo en tus planes!  
-[Estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena)
+[Estrecho del Magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del río Magdalena")
 
 ### Dirección del Hostal Bambú San Agustín
 

@@ -82,11 +82,11 @@ Este lujoso hotel te ofrece los siguientes servicios:
 El hotel Internacional San Agustín **tiene 77 habitaciones en total, 27 son para no fumadores**. Todas muy bien equipadas para que recibas un servicio de mucha calidad.
 
 >Visita la Cascada los Tres Chorros para tener un plan lleno de aventura en San Agustín.  
-[Cascada de Los Tres Chorros]({{site.baseurl}}/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin)
+[Cascada de Los Tres Chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %} "Cascada Tres Chorros")
 
 ## ¿Por qué destaca el Hotel Internacional San Agustín?
 
-1. Si tu [visita a San Agustín Huila]({{'turismo-san-agustin/magia-san-agustin-huila'|relative_url}} "San Agustín Huila"){:target="_blank"} incluye conocer el [Parque Arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque Arqueológico San Agustín Huila"){:target="_blank"}, desde el hotel Internacional llegar al parque solo te tomará entre 20 y 30 minutos caminando.
+1. Si tu [visita a San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila") incluye conocer el [Parque Arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque Arqueológico San Agustín Huila"), desde el hotel Internacional llegar al parque solo te tomará entre 20 y 30 minutos caminando.
 2. Tiene muy buena reputación por la calidad de su atención al público.
 3. No está demás mencionar que en su hospitalidad disponen de estación de bebidas calientes de cortesía.
 4. El hotel Internacional San Agustín está rodeado de hermosos jardines y zonas verdes muy relajantes.
@@ -109,4 +109,4 @@ El hotel Internacional San Agustín **tiene 77 habitaciones en total, 27 son par
 
 También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes). Además, puedes visitar su [página web oficial.](#fuentes)
 
-Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin"){:target="_blank"}.
+Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin").

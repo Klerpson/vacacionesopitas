@@ -34,7 +34,7 @@ Tras un paseo de 45 minutos en vehículo y una caminata de 30 minutos por la mon
 
 {% include cta-hotmart1.html %}
 
-Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila]({{'turismo-san-agustin/magia-san-agustin-huila'|relative_url}}){:target="_blank"}. **Debes llegar hasta una vereda llamada La Pradera**.
+Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila"). **Debes llegar hasta una vereda llamada La Pradera**.
 
 La vía es una carretera de 20 kilómetros aproximadamente. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
@@ -72,7 +72,7 @@ Como te decíamos, es mejor contratar la compañía de guías turísticos. O sen
 Al llegar al sendero, la caminata comienza atravezando por un camino entre antiguas haciendas ganaderas. Luego atravesarás senderos por medio del bosque y descendiendo por la montaña.
 
 >Lee en este artículo porqué debes venir a conocer **la magia de San Agustín Huila**  
-[San Agustín Huila]({{site.baseurl}}/turismo/magia-san-agustin-huila){:target="_blank"}
+[San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila")
 
 **El grado de dificultad de la caminata hasta la cascada Los Tres Chorros es bajo**. Tiene una duración aproximada de 1 hora en promedio. Esto depende de las condiciones físicas de los turistas.
 
@@ -117,7 +117,7 @@ Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso
 ### ¿Y al salir de la cascada Los Tres Chorros?
 
 >Cuando llegues a San Agustín nuevamente, visita la **Heladería GurCoff**. ¡Es el mejor remate del viaje a San Agustín Huila!  
-[😋🍦Heladería GurCoff](https://gurcoff.com){:target="_blank"}
+[😋🍦Heladería GurCoff](https://gurcoff.com)
 
 **Al terminar tu visita a la cascada de Los Tres Chorros, te recomendamos visitar el sitio llamado Las Tapias**. Según la cultura local, es en este lugar donde se fundó el municipio de San Agustín Huila por primera vez. Tiene un impresionante paisaje con bosques de roble.
 
