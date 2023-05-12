@@ -3,7 +3,7 @@ footer {
   gap: 2rem;
   place-items: center;
   font-size: 0.7rem;
-  padding: 0 16px 2rem;
+  padding: 2rem 16px;
   background: rgb(1,180,40);
 background: linear-gradient(352deg, rgba(1,180,40,1) 0%, rgba(255,255,255,1) 23%);
 }
