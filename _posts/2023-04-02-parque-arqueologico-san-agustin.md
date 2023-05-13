@@ -24,12 +24,12 @@ permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 
 ## Cómo llegar al parque arqueológico
 
-Para llegar al parque **primero debes ir hasta el municipio de San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal. **Desde el parque principal** de San Agustin Huila, recorres 3 kilómetros hasta llegar al Parque Arqueológico.
+Para llegar al parque **primero debes ir hasta el municipio de San Agustín Huila**. Después de llegar allí, te diriges hasta la plaza principal. **Desde el parque principal**, recorres 3 kilómetros hasta llegar al Parque Arqueológico.
 
 Puede servirte como punto de referencia llegar hasta la [heladería GurCoff](https://gurcoff.com/contacto "Heladería GurCoff"){:target="_blank"}. Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-*Ubicación del parque arqueológico en google maps*
+*Ubicación del parque arqueológico de San Agustín en google maps*
 
 Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"), [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín") con comida típica y comidas rápidas, entre otros.
 
@@ -100,11 +100,14 @@ Además, hay que tener en cuenta que en temporada normal *el parque arqueológic
 
 ## Qué es el Parque Arqueológico de San Agustín
 
-**El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2** de extensión. Es un lugar de gran importancia cultural y turística. Fue **declarado Patrimonio de la Humanidad por la UNESCO**. Muchos turistas visitan el parque cada año para ver las esculturas y aprender más sobre la historia y la cultura de la región.
+**El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2** de extensión. Es un lugar de gran importancia cultural y turística. Fue **declarado Patrimonio de la Humanidad por la UNESCO**.
 
-**Las esculturas de San Agustín son únicas por su tamaño y por la cantidad de detalles que muestran.** Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas.
+Muchos turistas visitan el parque cada año para ver las esculturas, las lajas de piedra talladas y yacimientos arqueológicos, y para aprender más sobre la historia y la cultura de la región.
+
+**Las esculturas de San Agustín son únicas por su gran tamaño y por la cantidad de detalles que muestran.** Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas.
 
 {% include img-post.html webps="parque-arqueologico-tumbas-376.webp" webpb="parque-arqueologico-tumbas-800.webp" alt="Tumba en el Parque San Agustín" title="Tumba parque arqueológico" %}
+*Uno de los montículos funerarios del parque*
 
 Sus ruinas y estatuas fueron talladas en piedra y están dispersas en varias zonas entre los municipios de San Agustín e Isnos. Aún en lugares cercanos *siguen apareciendo más hallazgos*.
 
@@ -169,9 +172,9 @@ Este museo te permite apreciar muchas estatuas y herramientas de la época, y mu
 
 #### La Fuente Ceremonial del Lavapatas
 
-Una de las creaciones más significativas de la cultura de San Agustín fue **la Fuente Ceremonial de Lavapatas**. Es una obra de ingeniería hidráulica en la que se representaba una serie de figuras talladas, canales y estanques sobre un lecho de roca.
+Una de las creaciones más significativas de la cultura de San Agustín fue **la Fuente Ceremonial de Lavapatas**. Es una obra de ingeniería hidráulica con un sistema de canales en los que se representaba una serie de figuras talladas y estanques sobre un lecho de roca.
 
-Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida.
+En la fuente de lavapatas hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida.
 
 #### El bosque de las estatuas
 
@@ -183,7 +186,7 @@ Estas ruinas son originales, simétricas y perfectamente elaboradas. Además de 
 
 #### El alto del Lavapatas
 
->Haz planes para visitar El museo de Obando de San Agustín  
+>Haz planes para visitar El museo arqueológico de Obando de San Agustín  
 [El museo de Obando de San Agustín]({% post_url 2023-03-05-museo-obando-san-agustin-huila %} "Museo de Obando")
 
 Es uno de los sitios más importantes del parque arqueológico de San Agustín. Está ubicado al final del recorrido, en la cima de una montaña.
@@ -216,7 +219,7 @@ El lugar está rodeado por reductos de bosque natural primario en la que predomi
 
 ## Ven a conocer las ruinas del Parque Arqueológico
 
-**El parque arqueológico de San Agustín Huila, es considerada la joya arqueológica de Colombia**, que nos ofrece además un encuentro inigualable con la naturaleza.
+**El parque arqueológico de San Agustín, en el departamento del Huila, es considerada la joya del patrimonio histórico y arquelógico de Colombia** y de América Latina.
 
 **La gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre, rodeados de profundos cañones, ríos con rápidos y saltos de agua** lo posicionan como un destino turístico hermoso.
 
@@ -224,8 +227,8 @@ Todos estos lugares se prestan para disfrutar de un paseo delicioso. Si eres de 
 
 ### Video de una visita al parque arqueológico
 
-En este **video del parque arqueológico de San Agustín** tienes un pequeño adelanto de lo que disfrutarás en tu visita. Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
+En este video tienes un pequeño adelanto de lo que disfrutarás en tu visita. Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/eGdhBn_WnO8" style="border-radius: 5px; box-shadow: var(--shadow);" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Video de un paseo al parque arqueológico de San Agustín Huila"></iframe>
 
-Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocerlo. También, terndrás una cantidad de [atractivos turísticos de San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"), aún desconocidos para muchos.
+Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocerlo. También, terndrás una cantidad de [atractivos turísticos en el pueblo de San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"), aún desconocidos para muchos. ¡Ven a conocerlos!
