@@ -8,5 +8,6 @@ layout: compress
 {% include css/boton-up.css %}
 {% include css/hoteles.css %}
 {% include css/blog.css %}
+{% include css/gallery-posts.css %}
 {% include css/contacto.css %}
 {% include css/queries.css %}

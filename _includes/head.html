@@ -18,94 +18,55 @@
     <meta http-equiv="Content-Language" content="es">
     <meta name="distribution" content="global">
     <!-- Codigo json para google en los articulos -->
-    {% if page.json %}
+    {% if page.json-tourism %}
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "Place",
-            "@id": "{{site.url}}/#place/",
-            "geo": {
-              "@type": "GeoCoordinates",
-              "latitude": "4.60058",
-              "longitude": "-74.070982"
-            },
-            "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=4.60058,-74.070982",
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "Av. Jimenez De Quesada #4-49 Oficina 505, Bogot\u00e1",
-              "addressLocality": "Bogota",
-              "addressRegion": "Cundinamarca",
-              "addressCountry": "Colombia"
-            }
-          },
-          {
-            "@type": ["TravelAgency", "Organization"],
-            "@id": "{{site.url}}/#organization/",
-            "name": "Aventure Colombia",
-            "url": "{{site.url}}",
-            "sameAs": [
-            "https://www.facebook.com/aventure.colombia/",
-            "https://twitter.com/aventurecol"
+        "@type": "TouristDestination",
+        "name": "{{page.title}}",
+        "description": "{{page.description}}",
+        "url": "{{page.url}}",
+        "touristType": {
+          "@type": "Audience",
+          "audienceType": [
+            "Turismo en Colombia",
+            "Turismo de aventura",
+            "Turismo extremo",
+            "Turismo de aventura",
+            "Turismo arqueológico"
+          ]
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "{{page.latitude}}",
+          "longitude": "{{page.longitude}}"
+        },
+        "includesAttraction": [
+          <!-- {
+            "@type": [
+              "Winery",
+              "TouristAttraction"
             ],
-            "email": "info@aventurecolombia.com",
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "Av. Jimenez De Quesada #4-49 Oficina 505, Bogot\u00e1",
-              "addressLocality": "Bogota",
-              "addressRegion": "Cundinamarca",
-              "addressCountry": "Colombia"
-            },
-            "logo": {
-              "@type": "ImageObject",
-              "@id": "{{site.url}}/#logo/",
-              "url": "{{site.url}}/wp-content/uploads/2020/08/aventure-colombia-logo.png",
-              "contentUrl": "{{site.url}}/wp-content/uploads/2020/08/aventure-colombia-logo.png",
-              "caption": "Aventure Colombia",
-              "inLanguage": "fr-FR"
-            },
-            "openingHours": [
-              "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+            "name": "Bodegas Protos",
+            "sameAs": "http://www.bodegasprotos.com",
+            "image": "https://commons.wikimedia.org/wiki/File%3AFoto_Bodega_Rogers2.jpg"
+          },
+          {
+            "@type": [
+              "Winery",
+              "TouristAttraction"
             ],
-            "location": { "@id": "{{site.url}}/#place/" },
-            "image": { "@id": "{{site.url}}/#logo/" },
-            "telephone": "+ 57 313 510 48 56"
-          },
+            "name": "Bodega Alejandro F. Tinto Pesquera",
+            "sameAs": "http://www.grupopesquera.com",
+            "image": "https://commons.wikimedia.org/wiki/File%3ARibera_Del_Duero_Pesquera.JPG"
+          }, -->
           {
-            "@type": "WebSite",
-            "@id": "{{site.url}}/#website/",
-            "url": "{{site.url}}/",
-            "name": "Aventure Colombia",
-            "publisher": {
-              "@id": "{{site.url}}/#organization/"
-            },
-            "inLanguage": "fr-FR"
-          },
-          {
-            "@type": "ImageObject",
-            "@id": "{{site.url}}/wp-content/uploads/2021/03/Desert-de-Tatacoa-\u00a9-tristan-quevilly.jpg",
-            "url": "{{site.url}}/wp-content/uploads/2021/03/Desert-de-Tatacoa-\u00a9-tristan-quevilly.jpg",
-            "width": "1920",
-            "height": "1280",
-            "caption": "Desierto de la Tatacoa \u00a9 tristan quevilly",
-            "inLanguage": "fr-FR"
-          },
-          {
-            "@type": "WebPage",
-            "@id": "{{site.url}}/desierto-de-tatacoa-guia-de-viaje/#webpage",
-            "url": "{{site.url}}/desierto-de-tatacoa-guia-de-viaje/",
-            "name": "Desierto de Tatacoa : Gu\u00eda de viaje",
-            "datePublished": "2021-04-29T14:49:25-05:00",
-            "dateModified": "2022-09-07T08:03:16-05:00",
-            "isPartOf": { "@id": "{{site.url}}/#website/" },
-            "primaryImageOfPage": {
-              "@id": "{{site.url}}/wp-content/uploads/2021/03/Desert-de-Tatacoa-\u00a9-tristan-quevilly.jpg"
-            },
-            "inLanguage": "fr-FR",
-            "breadcrumb": {
-              "@id": "{{site.url}}/desierto-de-tatacoa-guia-de-viaje/#breadcrumb"
-            }
+            "@type": [
+              "City",
+              "TouristAttraction"
+            ],
+            "name": "{{page.h1}}",
+            "image": "{{site.url}}/img/{{page.jpg}}"
           }
         ]
       }

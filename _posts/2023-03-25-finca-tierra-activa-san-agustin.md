@@ -31,13 +31,13 @@ La finca orgánica Tierra Activa es un alojamiento rural temático y de auténti
 
 Su actividad principal es el agroturismo, con actividades de autoconocimiento y conexión con la naturaleza, para alcanzar un descanso y una experiencia deliciosa y relajante.
 
-Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de [turismo en San Agustín]({{'turismo-san-agustin'|relative_url}} "Turismo en San Agustín Huila"){:target="_blank"} y de hospedaje.
+Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de [turismo en San Agustín]({{'turismo-san-agustin'|relative_url}} "Turismo en San Agustín Huila") y de hospedaje.
 
 ### ¿Cómo llegar hasta el hotel Finca Tierra Activa de San Agustín?
 
 **Para llegar a la Finca Tierra Activa debes ir hasta la vereda Purutal, a 5,5 kilómetros del casco urbano de San Agustín Huila**:
 
-1. Toma la salida hacia [El Estrecho del Magadalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena){:target="_blank"}.
+1. Toma la salida hacia [El Estrecho del Magadalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena).
 2. Llega hasta el conocido y angituo hotel Monasterio de San Agustín.
 3. Continúa tu camino sin desviarte 2 kilómetros más.
 
@@ -55,7 +55,7 @@ Contacta el Hotel Finca Tierra Activa con cualquiera de las siguiente opciones:
 * **LinkedIn**: El perfil de LinkedIn es **[@tierra-activa-3518a4207](https://www.linkedin.com/in/tierra-activa-3518a4207 "LinkedIn del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
 >¿Te gustaría ir a una de las cascadas más impresionantes de San Agustín?  
-[Visita la cascada de Los Tres Chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin)
+[Visita la cascada de Los Tres Chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %} "Cascada Tres Chorros")
 
 ### Servicios de la Finca Tierra Activa de San Agustín
 
@@ -167,9 +167,9 @@ Este tour es apto para familias, parejas, equipos de trabajo y amigos.
 
 {% include hotmart2.html %}
 
-* **¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?** El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({{site.baseurl}}/turismo-san-agustin/parque-arqueologico-san-agustin-huila){:target="_blank"} está a 1 hora también caminando.  
-Además, puedes visitar los atractivos naturales de San Agustín: [la cascada de los Tres Chorros]({{site.baseurl}}/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin){:target="_blank"}, [el Estrecho del Rio Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena){:target="_blank"}, la Laguna de la Magdalena, el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.
-* **¿Hay restaurantes cerca del Hotel Finca Tierra Activa?** Sí. Aunque no están en la misma vereda, todas las opciones están cerca. Puedes ver la sección de [los mejores restaurantes de San Agustín]({{site.baseurl}}/restaurantes-san-agustin){:target="_blank"}.
+* **¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?** El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({{site.baseurl}}/turismo-san-agustin/parque-arqueologico-san-agustin-huila) está a 1 hora también caminando.  
+Además, puedes visitar los atractivos naturales de San Agustín: [la cascada de los Tres Chorros]({{site.baseurl}}/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin), [el Estrecho del Rio Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena), la Laguna de la Magdalena, el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.
+* **¿Hay restaurantes cerca del Hotel Finca Tierra Activa?** Sí. Aunque no están en la misma vereda, todas las opciones están cerca. Puedes ver la sección de [los mejores restaurantes de San Agustín]({{site.baseurl}}/restaurantes-san-agustin).
 * **¿Hablan inglés en el Hotel Finca Tierra Activa?** El hotel te ofrece un servicio de traductor contratado.
 
 ## Escoge el Hotel Finca Tierra Activa de San Agustín
@@ -181,4 +181,4 @@ Además, puedes visitar los atractivos naturales de San Agustín: [la cascada de
 
 También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes). Además, puedes visitar su [página web oficial.](#fuentes)
 
-Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin"){:target="_blank"}.
+Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin").

@@ -39,7 +39,7 @@ Y los diseñadores del lugar cuidaron un especial detalle: **en el hotel Masaya 
 
 {% include cta-hotmart1.html %}
 
-La ubicación del Hotel Masaya es en una vereda de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"} llamada El Tablón.
+La ubicación del Hotel Masaya es en una vereda de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila") llamada El Tablón.
 
 Solo recorres 1 kilómetro desde el casco urbano, en la vía al [Estrecho del Magdalena]({{'turismo-san-agustin/estrecho-rio-magdalena'|relative_url}} "Estrecho del Magdalena"). Y en el camino encontrarás su letrero a mano derecha de la vía.
 
@@ -94,7 +94,7 @@ El hotel Masaya también te ofrece las siguientes actividades para amenizar tu e
 * Mesas de billar.
 * Sala de juegos de meza para la familia.
 
-Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}; a 30 minutos el [Parque Arqueológico de San Agustín]({{site.baseurl}}/turismo-san-agustin/parque-arqueologico-san-agustin-huila "Artículo sobre el parque arqueológico de San Agustín Huila"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
+Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"); a 30 minutos el [Parque Arqueológico de San Agustín]({{site.baseurl}}/turismo-san-agustin/parque-arqueologico-san-agustin-huila "Artículo sobre el parque arqueológico de San Agustín Huila"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
 
 ## Opiniones sobre el hotel Masaya San Agustín
 
@@ -108,4 +108,4 @@ Los comentarios en Google Maps sobre el hotel siempre destacan 3 aspectos import
 
 También, puedes leer las calificaciones que tienen en [Booking](https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html){:rel="nofollow" target="_blank"} y en [TripAdvisor](https://www.tripadvisor.co/Hotel_Review-g445060-d13154689-Reviews-Masaya_Hostel_San_Agustin-San_Agustin_Huila_Department.html){:rel="nofollow" target="_blank"}.
 
-Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin"){:target="_blank"}.
+Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin").
