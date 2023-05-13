@@ -26,12 +26,12 @@ permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 
 Para llegar al parque **primero debes ir hasta el municipio de San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal. **Desde el parque principal** de San Agustin Huila, recorres 3 kilómetros hasta llegar al Parque Arqueológico.
 
-Puede servirte como punto de referencia llegar hasta la [heladería GurCoff](https://gurcoff.com/contacto "Heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
+Puede servirte como punto de referencia llegar hasta la [heladería GurCoff](https://gurcoff.com/contacto "Heladería GurCoff"){:target="_blank"}. Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 *Ubicación del parque arqueológico en google maps*
 
-Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"){:target="_blank"}, [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín"){:target="_blank"} con comida típica y comidas rápidas, entre otros.
+Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"), [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín") con comida típica y comidas rápidas, entre otros.
 
 ### Llegar al parque desde Bogotá
 
@@ -40,7 +40,7 @@ Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hote
 
 Para llegar desde Bogotá puedes **utilizar el transporte terrestre desde Bogotá (9 horas aproximadamente) hasta Pitalito**. Desde allí, toma otro bus hasta San Agustín (30 minutos más).
 
-También, puedes tomar vuelos desde Bogotá. **El aeropuerto más cercano está ubicado en Pitalito, justo en la vía entre Pitalito y San Agustín.**
+También, puedes tomar vuelos desde Bogotá. [El aeropuerto más cercano está ubicado en Pitalito](https://www.aerocivil.gov.co/aeropuertos/Pages/contador-pitalito.aspx){:rel="nofollow noopener noreferrer" target="_blank"}, justo en la vía entre Pitalito y San Agustín.
 
 Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos pueden costar un poco menos, pero están más retirados de tu destino. Pero igual te ahorrarán mucho tiempo.
 
@@ -103,6 +103,8 @@ Además, hay que tener en cuenta que en temporada normal *el parque arqueológic
 **El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2** de extensión. Es un lugar de gran importancia cultural y turística. Fue **declarado Patrimonio de la Humanidad por la UNESCO**. Muchos turistas visitan el parque cada año para ver las esculturas y aprender más sobre la historia y la cultura de la región.
 
 **Las esculturas de San Agustín son únicas por su tamaño y por la cantidad de detalles que muestran.** Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas.
+
+{% include img-post.html webps="parque-arqueologico-tumbas-376.webp" webpb="parque-arqueologico-tumbas-800.webp" alt="Tumba en el Parque San Agustín" title="Tumba parque arqueológico" %}
 
 Sus ruinas y estatuas fueron talladas en piedra y están dispersas en varias zonas entre los municipios de San Agustín e Isnos. Aún en lugares cercanos *siguen apareciendo más hallazgos*.
 
@@ -191,6 +193,8 @@ En este lugar **se encontraron restos de una vivienda, se encontró un fogón y 
 En la antigüedad las zonas altas de las montañas eran lugares importantes y estratégicos para el dominio del territorio. En la estrategia de las guerras, eran una enorme ventaja. Lo anterior se debía a que se podía ver todo el panorama completo. Tener esta visibilidad era una ventaja al momento del combate. **Y desde el Alto de Lavapatas se podía tener esa ventaja.**
 
 #### La zona de "Las Mesitas"
+
+{% include img-post.html webps="parque-arqueologico-mesitas-376.webp" webpb="parque-arqueologico-mesitas-800.webp" alt="Estatuas formando una Mesita en el parque de San Agustín Huila" title="Mesitas en el parque arqueológico" %}
 
 **La zona más grande del parque arqueológico de San Agustín se conoce como Mesitas**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio.
 
