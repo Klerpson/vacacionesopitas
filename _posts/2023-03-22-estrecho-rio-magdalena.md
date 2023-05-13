@@ -24,7 +24,7 @@ El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que 
 
 ## Historia del Estrecho del Magdalena
 
-El Estrecho del Magdalena es una belleza natural ubicada en [San Agustín, Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}.
+El Estrecho del Magdalena es una belleza natural ubicada en [San Agustín, Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila").
 
 Este estrecho es un cañón que se encuentra a lo largo del río Magdalena, que **ha sido moldeado por la erosión y los movimientos tectónicos a lo largo de miles de años**. Es una de las atracciones turísticas más populares de la región.
 
@@ -65,7 +65,7 @@ Para llegar a este punto del río Magdalena, debes partir desde el casco urbano 
 
 Al tiempo que haces el viaje vas a disfrutar de una vista hermosa sobre el recorrido del cañón del Magdalena.
 
-**La salida hacia el estrecho del Magdalena no es la misma salida al [parque arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque arqueológico San Agustín"){:target="_blank"}**:
+**La salida hacia el estrecho del Magdalena no es la misma salida al [parque arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque arqueológico San Agustín")**:
 
 1. Pregunta por la calle de las artesanías. Cuando llegas a la esquina de esta calle, estarás ubicado en la esquina que se conoce como la esquina de los moto-ratones. La dirección es carrera 14 con calle 5.
 2. **Para salir hacia el estrecho del Magdalena continua derecho por la carrera 14**. Esta es la calle que viene desde la iglesia del parque central de San Agustín Huila. Así que cuando estés subiendo por la carrera 14, no te desvíes. Solo sigue derecho.
@@ -77,7 +77,7 @@ Al tiempo que haces el viaje vas a disfrutar de una vista hermosa sobre el recor
 ## ¿Qué puedes hacer en el Estrecho del Magdalena?
 
 >¿Necesitas hotel en San Agustín? Mira nuestra lista sobre los hoteles en San Agustín Huila  
-[Hoteles de San Agustín Huila]({{site.baseurl}}/hoteles-san-agustin){:target="_blank"}
+[Hoteles de San Agustín Huila]({{site.baseurl}}/hoteles-san-agustin)
 
 La gente de la localidad ha organizado este punto de una manera muy atractiva. **Al llegar encontrarás hermosos souvenirs y artesanías de San Agustín Huila.**
 
@@ -90,7 +90,7 @@ Por obvias razones, **en sus orillas no es recomendado hacer camping**. Pero muy
 
 ### Visita el museo de Obando cerca al Estrecho del Magdalena
 
-Unos 2 kilómetros más arriba de este punto, está  [el museo de Obando de San Agustín]({{site.baseurl}}/turismo-san-agustin/museo-obando-san-agustin-huila "Museo de Obando"){:target="_blank"}. Un interesante lugar para conocer más de la cultura que habitó el lugar.
+Unos 2 kilómetros más arriba de este punto, está  [el museo de Obando de San Agustín]({{site.baseurl}}/turismo-san-agustin/museo-obando-san-agustin-huila "Museo de Obando"). Un interesante lugar para conocer más de la cultura que habitó el lugar.
 
 ## Advertencias al visitar el Estrecho del Magdalena
 

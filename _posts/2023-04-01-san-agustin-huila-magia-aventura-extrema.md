@@ -24,11 +24,11 @@ excerpt_separator: <!-- excerpt -->
 
 ## San Agustín: destino turístico poco conocido
 
-Este hermoso pueblito es un municipio ubicado en el departamento del Huila en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocida por sus esculturas de piedra**, que son una de las atracciones turísticas más importantes de la región.
+Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por sus esculturas de piedra**, que son una de las atracciones turísticas más importantes de la región.
 
 Las ruinas de San Agustín se encuentran en diferentes parques arqueológicos cerca de la ciudad y datan de hace más de 1.800 años.
 
-Además de las esculturas, San Agustín también es famosa por su clima templado-frío y su paisaje montañoso, con cascadas y ríos. La razón es que se sitúa sobre el cañón del Magdalena.
+Adicional a las esculturas, **San Agustín también es famosa por su clima templado-frío y su paisaje montañoso**, con cascadas y ríos. Esto se debe a su privilegiada ubicación sobre el cañón del río Magdalena y en medio de los páramos Puracé y Soledad.
 
 Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila: **qué hacer, dónde quedarte, qué puedes disfrutar de su gastronomía** y mucho más. ¡Empecemos!
 
@@ -45,7 +45,7 @@ San Agustín Huila tiene 3 pilares en su oferta turística:
 
 ### 1. El parque arqueológico de San Agustín
 
-**San Agustín Huila es muy reconocido por [el parque arqueológico]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Artículo sobre el Parque Arqueológico"){:target="_blank"}**, donde se conserva muchas esculturas con parte de su historia y cultura. Estas esculturas arqueológicas fueron *declaradas Patrimonio de la Humanidad por la Unesco*.
+**San Agustín Huila es muy reconocido por [el parque arqueológico]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Artículo sobre el Parque Arqueológico")**, donde se conserva muchas esculturas con parte de su historia y cultura. Estas esculturas arqueológicas fueron *declaradas Patrimonio de la Humanidad por la Unesco*.
 
 Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
 
@@ -55,7 +55,7 @@ Así podrás entender mejor la distribución y exhibición de las estatuas, que 
 
 #### El museo de Obando
 
-A solo 10 kilómetros después de San Agustín, puedes encontrar [El Parque Museo de Obando]({{site.baseurl}}/museo-obando-san-agustin-huila "Museo de Obando"){:target="_blank"}. Está en un pueblito rodeado de coloridas casas y un espectacular paisaje de fondo.
+A solo 10 kilómetros después de San Agustín, puedes encontrar [El Parque Museo de Obando]({% post_url 2023-03-05-museo-obando-san-agustin-huila %} "Museo de Obando"). Está en un pueblito rodeado de coloridas casas y un espectacular paisaje de fondo.
 
 En este lugar conocerás un gran tesoro de urnas funerarias, grutas que fueron aposentos sagrados. **Se hizo un museo en el parque central con unas escaleras de concreto que descienden hasta las tumbas.** Y tú puedes acceder a su interior.
 
@@ -71,10 +71,7 @@ Los locales dicen que **desde San Agustín Huila nacen los 4 ríos más importan
 
 #### El estrecho del río Magdalena
 
->Te invitamos a visitar el Estrecho del Magdalena.  
-[El Estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena)
-
-Tienes que venir y visitar el [Estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena "Estrecho del Magdalena"){:target="_blank"}. Por aquí pasa el afluente más grande del país, que abastece al 80% de la población colombiana. ¡Y en este punto **se reduce su paso a solo 2 metros de ancho**!
+Tienes que venir y visitar el [Estrecho del Magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del Magdalena"). Por aquí pasa el afluente más grande del país, que abastece al 80% de la población colombiana. ¡Y en este punto **se reduce su paso a solo 2 metros de ancho**!
 
 #### Las cascadas en San Agustín y sus alrededores
 
@@ -82,9 +79,9 @@ Tienes que venir y visitar el [Estrecho del Magdalena]({{site.baseurl}}/estrecho
 
 Desde San Agustín puedes visitar las siguientes maravillas con cascadas naturales:
 
+* **El Salto el Mortiño**, [con su mirador de cristal y su culumpio al vacío]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada Salto del Mortiño")
 * **El Salto de los Bordones**, una de las cascadas más altas de Colombia
-* **El Salto el Mortiño**, [con su mirador de cristal y su culumpio al vacío]({{'cascada-salto-mortino-isnos'|relative_url}} "Cascada Salto del Mortiño"){:target="_blank"}
-* [La cascada Los Tres Chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin){:target="_blank"}, un rincón preservado naturalmente por su ubicación
+* [La cascada Los Tres Chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %}), un rincón preservado naturalmente por su ubicación
 
 Y como estos hay más caudales con una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
@@ -101,27 +98,25 @@ Con esto en mente, puedes hacer **un tour urbano en San Agustín**. Tendrás her
 >Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de "Como me lance al voluntariado ( guia paso a paso)". Haz clic en el botón para comprar el tuyo.  
 ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
 
-San Agustín Huila tiene lugares extraordinarios para hospedarse. Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
+[San Agustín Huila tiene lugares extraordinarios para hospedarse][hoteles de San Agustín Huila.]({{site.baseurl}}/hoteles-san-agustin). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
 
 La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
 
 O si deseas podrías quedarte en las prácticas **posadas de San Agustín Huila** en el centro urbano. La gran ventaja es que a pesar de que es un lugar turístico, los precios para todos los presupuestos: encuentras **hoteles baratos, hostales económicos, hoteles cómodos y de lujo. Hasta hoteles con piscina!**.
 
-Preparamos para tí una lista con los [hoteles de San Agustín Huila.]({{site.baseurl}}/hoteles-san-agustin){:target="_blank"} Utilízala y escoge el que más te gusta.
-
-## Gastronomía de San Agustín Huila
+## Comer en San Agustín Huila es exquisito
 
 La gastronomía de San Agustín es muy variada, pues tiene una mezcla de muchas culturas. Podrás disfrutar desde el **asado huilense** hasta el típico **caldo de cuchas**; con bebidas tradicionales heredadas de sus aborígenes como lo son **el masato, la chicha y el jugo de gulupa.**
 
 No puedes pasar por San Agustín sin probar las siguientes delicias.
 
-### Las achiras huilenses en San Agustín
+### Las achiras huilenses, perfecto amasijo
 
 La achira es elaborada a partir del almidón de achira o sagú, una planta de origen sudamericano, utilizada por los pueblos prehispánicos de Perú y Colombia.
 
 Se prepara añadiendo queso cuajada fresco, mantequilla y yemas de huevo. Luego se lleva al horno, dando como resultado un delicioso crujiente. **Ese saborcito quesudito crocante con un café cultivado en San Agustín es un antojo delicioso.**
 
-### El café de San Agustín Huila
+### La experiencia del café tipo exportación de la zona
 
 *El café de San Agustín Huila ha sido calificado como uno de los mejores del mundo y el mejor del país*.
 
@@ -129,7 +124,7 @@ Muchas circunstancias están a favor de este logro: su delicioso clima, sus tier
 
 Por ejemplo, **en San Agustín nos sentimos muy orgullosos del Affogato que ofrece [GurCoff](https://gurcoff.com){:target="_blank"}**.
 
-### El asado huilense de San Agustín Huila
+### El delicioso asado huilense
 
 Imagínate un día soleado en el campo, respirando el aire fresco y disfrutando de la vista de las montañas. De repente, empiezas a oler un aroma irresistible. **Es el aroma del asado huilense**, una delicia de la región sur de Colombia.
 
@@ -137,11 +132,22 @@ Este asado se prepara con cortes de carne de res, cerdo y pollo, marinados con u
 
 Cada bocado es una explosión de sabor, **la carne jugosa y tierna impregnada con los sabores de la marinada**. Es una experiencia culinaria que vale la pena probar, especialmente si te gusta la carne asada.
 
-## Cómo llegar a San Agustín Huila
+## Cómo llegar a San Agustín
 
-**Tienes 2 opciones para llegar a San Agustín Huila**: puedes llegar en vehículo por carretera o en avión a los aeropuertos cercanos, y terminar el viaje en transporte público.
+**Tienes 2 opciones para llegar a San Agustín**: puedes llegar en vehículo por carretera o en avión a los aeropuertos cercanos, y terminar el viaje en transporte público.
 
-### Cómo llegar por tierra hasta San Agustín
+### Cómo llegar en avión
+
+Si deseas y puedes hacerlo, **la mejor opción es tomar un avión hasta el aeropuerto de Pitalito**. Este aeropuerto está a solo 20 minutos de distancia en carro.
+
+Estos son los **aeropuertos más cercanos a San Agustín Huila**:
+
+* [Aeropuerto de Pitalito](https://www.aerocivil.gov.co/aeropuertos/Pages/contador-pitalito.aspx){:rel="nofollow noopener noreferrer" target="_blank"}, a media hora de distancia.
+* Aeropuerto de Florencia Caquetá, a dos horas de distancia.
+* Aeropuerto de Villa Garzón Putumayo, a tres horas y media de distancia
+* Aeropuerto de Puerto Asís, a cinco horas de distancia.
+
+### Cómo llegar por tierra
 
 Para llegar a San Agustín Huila puedes utilizar el transporte público. Constantemente llegan empresas como [Coomotors](https://coomotor.com.co/){:target="_blank" rel="nofollow noopener"} y [Taxis Verdes](https://taxisverdes.net/){:target="_blank" rel="nofollow noopener"} desde las principales ciudades del país.
 
@@ -158,17 +164,6 @@ Puede que hagan escala en Pitalito Huila. Luego te llevan hasta la terminal de t
 | Cali - San Agustín Huila | 270km | 7:10 horas | 2 peajes |
 | Popayán - San Agustín Huila | 79km | 3:30 horas | 0 peajes |
 | Mocoa - San Agustín Huila | 156km | 3:30 horas | 0 peajes |
-
-### Cómo llegar en avión hasta San Agustín Huila
-
-Si deseas y puedes hacerlo, **la mejor opción es tomar un avión hasta el aeropuerto de Pitalito**. Este aeropuerto está a solo 20 minutos de distancia en carro.
-
-Estos son los **aeropuertos más cercanos a San Agustín Huila**:
-
-* Aeropuerto de Pitalito, a media hora de distancia.
-* Aeropuerto de Florencia Caquetá, a dos horas de distancia.
-* Aeropuerto de Villa Garzón Putumayo, a tres horas y media de distancia
-* Aeropuerto de Puerto Asís, a cinco horas de distancia.
 
 ## Recomendaciones para visitar San Agustín Huila
 

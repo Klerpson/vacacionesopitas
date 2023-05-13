@@ -131,7 +131,7 @@ Tan importante es este río y su nacimiento, que **en 1979 fue declarado Reserva
 
 Por lo anterior, se vigila y se protege la vida de pumas, tigrillos, venados, cusumbos, coatíes, osos, dantas, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete, entre otros.
 
-Por otra parte, este nacimiento es parte de lo que se conoce como la principal estrella fluvial colombiana del Macizo Colombiano. **Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.**
+Por otra parte, este nacimiento es parte de lo que se conoce como [la principal estrella fluvial colombiana del Macizo Colombiano](https://elcampesino.co/las-estrellas-fluviales-de-colombia/){:rel="nofollow noopener noreferrer" target="_blank"}. **Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.**
 
 ## Ven a la laguna del Magdalena
 
