@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Parque arqueológico de San Agustín Huila
-description: El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos con más de 1800 años y llenos de muchos misterios.
+title: Parque arqueológico de San Agustín ¿Conoces sus misterios?
+description: El Parque Arqueológico de San Agustín es un conjunto de esculturas y ruinas con más de 1800 años y llenos de muchos misterios.
 h1: Parque arqueológico de San Agustín - Patrimonio de la humanidad
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
 award: La mejor guía para visitar el parque arqueológico de San Agustín
@@ -123,7 +123,7 @@ El parque de San Agustín **es la zona con más allazgos arqueológicos de la é
 
 El parque tiene 78 hectáreas pertenecientes a los campesinos de la región. Fueron vendidas al gobierno con el tiempo; y **desde 1935, se creó oficialmente el Parque Arqueológico de San Agustín** para el público en general.
 
-En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de **trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra) trabajaba también la cerámica, la madera y conocía la orfebrería.**
+En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de **trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra y darle figuras de humanos y animales, entre otras) trabajaba también la cerámica, la madera y conocía la orfebrería.**
 
 ### Las zonas del parque arqueológico de San Agustín Huila
 
@@ -201,7 +201,7 @@ En la antigüedad las zonas altas de las montañas eran lugares importantes y es
 
 **La zona más grande del parque arqueológico de San Agustín se conoce como Mesitas**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio.
 
-Muchas de las esculturas megalíticas revelan un culto hacia la muerte y los aspectos funerarios de quienes habitaron el lugar. *Hay varios sectores del parque que se formaron a manera de dolmen.* Esto significa que son momumentos en forma de mesas.
+Muchas de las esculturas megalíticas revelan un culto hacia la muerte y los aspectos funerarios de las comunidades indígenas que habitaron el lugar. *Hay varios sectores del parque que se formaron a manera de dolmen.* Esto significa que son momumentos en forma de mesas.
 
 Como puedes notar en la siguiente fotografía, **hacían 2 guardianes a los lados y el protector a la mitad, con una cubierta sobre los 3. Así formaban lo que aparentan mesitas**.
 
@@ -227,8 +227,8 @@ Todos estos lugares se prestan para disfrutar de un paseo delicioso. Si eres de 
 
 ### Video de una visita al parque arqueológico
 
-En este video tienes un pequeño adelanto de lo que disfrutarás en tu visita. Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
+En este video tienes un pequeño adelanto de lo que disfrutarás en tu visita a este sitio arqueológico. Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/eGdhBn_WnO8" style="border-radius: 5px; box-shadow: var(--shadow);" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Video de un paseo al parque arqueológico de San Agustín Huila"></iframe>
 
-Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocerlo. También, terndrás una cantidad de [atractivos turísticos en el pueblo de San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"), aún desconocidos para muchos. ¡Ven a conocerlos!
+Estamos seguros de que la guía turística de la región es interminable. Aventúrate a conocer más de la cultura agustiniana. También, terndrás una cantidad de [atractivos turísticos en el pueblo de San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"), aún desconocidos para muchos. ¡Ven a conocerlos!
