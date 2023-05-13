@@ -15,7 +15,6 @@ webpb: blog/parque-sumak-san-agustin-huila-800.webp
 alt: Parque arqueológico de San Agustín Huila
 excerpt_separator: <!-- excerpt -->
 permalink: turismo-san-agustin/parque-tematico-sumak-san-agustin
-published: no
 ---
 ¿Estás buscando una experiencia única en contacto con la naturaleza y la cultura de San Agustín Huila? Entonces no puedes perderte el Parque Temático SUMAK, un lugar que te sorprenderá con su amplia variedad de atracciones y actividades para toda la familia.
 <!-- excerpt -->
@@ -108,7 +107,7 @@ Ten presente que el horario de ingreso es **a partir de las 8:00 am.** Luego, el
 
 Te dejamos algunas imágenes para que te animes a visitar esta joya del turismo de San Agustín:
 
-{% include gallery-posts.html %}
+{% include image-gallery.html folder="/img/blog/sumak" %}
 
 ### Otros datos importantes
 
