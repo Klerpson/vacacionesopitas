@@ -155,6 +155,6 @@ Mis derechos como TITULAR del dato son los previstos en la constitución y la le
 
 Otorgo mi consentimiento a Julian Franco para tratar mi información personal, y sensible de acuerdo con la política de tratamiento de datos personales, y por tanto me comprometo a leer el aviso de privacidad y la política mencionada disponible en: sanagustinhuila.com.co/legal
 
-Autorizo a Julian Franco a modificar o actualizar su contenido, a fin de atender reformas legislativas, políticas internas o nuevos requerimientos para la prestación u ofrecimiento de servicios, dando aviso previo por medio de la página web de la compañía, y/o correo electrónico.
+Autorizo a Julian Franco a modificar o actualizar su contenido, a fin de atender reformas legislativas, políticas internas o nuevos requerimientos para la prestación u ofrecimiento de servicios, dando aviso previo por medio de la página web de la compañía, y/o correo electrónico u otras aplicaciones de comunicación digitales.
 
 En caso en que usted no desee que nuestra Heladería acceda, procese y en general use la información que usted nos suministre, sírvase enviar por este mismo medio y dentro de los cinco (5) días siguientes al uso de este sitio web, o del recibo de nuestros correos electrónicos y mensajes de texto de suscripción y registros de sus datos, una comunicación en la que se nos indique que no se autoriza ni el acceso ni el almacenamiento, proceso y uso de dicha información sabiendo que ello ocurrirá conforme a lo recién descrito.
