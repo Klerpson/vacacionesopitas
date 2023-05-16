@@ -7,7 +7,7 @@ noindex: true
 ---
 ## Aviso legal para sitio web de sanagustinhuila.com.co
 
-En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (sanagustinhuila.com) propiedad de Julian Franco, con domicilio San Agustín Huila, carrera 18 5 - 30. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de Julian Franco. Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.
+En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (sanagustinhuila.com) propiedad de Julian Franco, con domicilio San Agustín Huila, carrera 18 5 - 30. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de Julian Franco. **Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.**
 
 ## Información y propiedad intelectual
 
