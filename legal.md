@@ -151,7 +151,7 @@ w. Desarrollo integral del objeto social de la compañía.
 
 El alcance de la autorización comprende la facultad para que Julian Franco le envíe mensajes, notificaciones, información del estado de cuenta, saldos, y demás información relativa al portafolio de servicios de la compañía, a través de correo electrónico u otras aplicaciones de comunicación digitales.
 
-Mis derechos como TITULAR del dato son los previstos en la constitución y la ley, especialmente el derecho a conocer, actualizar, rectificar y suprimir mi información personal; así como el derecho a revocar el consentimiento otorgado para el tratamiento de datos personales, estos los puedo ejercer a través de los canales dispuestos por Julian Franco para la atención al público y observando la política de tratamiento de datos personales de Julian Franco, disponible en sanagustinhuila.com/legal
+Mis derechos como TITULAR del dato son los previstos en la constitución y la ley, especialmente el derecho a conocer, actualizar, rectificar y suprimir mi información personal; así como el derecho a revocar el consentimiento otorgado para el tratamiento de datos personales, estos los puedo ejercer a través de los canales dispuestos por Julian Franco para la atención al público y observando la política de tratamiento de datos personales de Julian Franco, disponible en sanagustinhuila.com.co/legal
 
 Otorgo mi consentimiento a Julian Franco para tratar mi información personal, y sensible de acuerdo con la política de tratamiento de datos personales, y por tanto me comprometo a leer el aviso de privacidad y la política mencionada disponible en: sanagustinhuila.com/legal
 
