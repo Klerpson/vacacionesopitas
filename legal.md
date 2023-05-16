@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-basic
 title: Términos y Codiciones de Uso | sanagustinhuila.com.co
 description: Condiciones de uso de la página sanagustinhuila.com.co
 h1: Término y condiciones, privacidad y aspectos legales del uso de sanagustinhuila.com.co

@@ -161,7 +161,8 @@ header,
 .conclusion,
 .categorias,
 .blog-posts,
-.contacto {
+.contacto,
+.basic {
   width: min(90vw, 1200px);
   margin-inline: auto;
   margin-bottom: 4rem;
@@ -233,4 +234,12 @@ blockquote a:active{
     display: flex;
     flex-wrap: wrap;
     gap: .3rem 1.8rem;
+  }
+  
+  .basic{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    border-bottom: 2px dotted var(--gris1);
+    padding-bottom: 2rem;
   }
