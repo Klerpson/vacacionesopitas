@@ -111,15 +111,15 @@ c. Para la prestación de los servicios de salud a los familiares de los trabaja
 
 d. Para el reconocimiento, protección y ejercicio de los derechos de los accionistas de Julian Franco;
 
-e. Registro de proveedores de la Heladería;
+e. Registro de proveedores de sanagustinhuila.com.co;
 
-f. Registro de clientes de la Heladería;
+f. Registro de clientes de sanagustinhuila.com.co;
 
 g. Proveer los servicios requeridos por sus usuarios;
 
 h. Informar sobre nuevos productos o servicios y/o sobre cambios en los mismos;
 
-i. Envío de correos electrónicos informando el estado del trámite de solicitud de servicios que ofrece la Heladería;
+i. Envío de correos electrónicos informando el estado del trámite de solicitud de servicios que ofrece sanagustinhuila.com.co;
 
 j. Evaluar la calidad del servicio;
 
