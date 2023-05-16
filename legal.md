@@ -153,7 +153,7 @@ El alcance de la autorización comprende la facultad para que Julian Franco le e
 
 Mis derechos como TITULAR del dato son los previstos en la constitución y la ley, especialmente el derecho a conocer, actualizar, rectificar y suprimir mi información personal; así como el derecho a revocar el consentimiento otorgado para el tratamiento de datos personales, estos los puedo ejercer a través de los canales dispuestos por Julian Franco para la atención al público y observando la política de tratamiento de datos personales de Julian Franco, disponible en sanagustinhuila.com.co/legal
 
-Otorgo mi consentimiento a Julian Franco para tratar mi información personal, y sensible de acuerdo con la política de tratamiento de datos personales, y por tanto me comprometo a leer el aviso de privacidad y la política mencionada disponible en: sanagustinhuila.com/legal
+Otorgo mi consentimiento a Julian Franco para tratar mi información personal, y sensible de acuerdo con la política de tratamiento de datos personales, y por tanto me comprometo a leer el aviso de privacidad y la política mencionada disponible en: sanagustinhuila.com.co/legal
 
 Autorizo a Julian Franco a modificar o actualizar su contenido, a fin de atender reformas legislativas, políticas internas o nuevos requerimientos para la prestación u ofrecimiento de servicios, dando aviso previo por medio de la página web de la compañía, y/o correo electrónico.
 
