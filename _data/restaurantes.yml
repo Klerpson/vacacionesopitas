@@ -21,3 +21,77 @@
     - Para llevar y domicilios
     - Desayuno-almuerzo
     - Ideal para ir con niños
+
+- nombre: Casa Blanca Parrilla de Moas
+  img: casa-blanca.webp
+  alt: Almuerzo en restaurante Casa Blanca La Parrilla de Moas de San Agustín
+  title: Casa Blanca Parrilla de Moas
+  puntos: 4.6 de 101
+  perfil: https://goo.gl/maps/dCat8b9BrBF2fLjX9
+  link: https://sites.google.com/view/casablancalaparrillademoas/inicio
+  servicios:
+    - Asientos al aire libre
+    - Para llevar y domicilios
+    - Barra de ensaladas
+    - Música en vivo
+
+- nombre: Leños Garcia
+  img: lenos-garcia.webp
+  alt: Cena en restaurante Leños Garcia de San Agustín
+  title: Leños Garcia
+  puntos: 4.4 de 90
+  perfil: https://goo.gl/maps/2ss1iDB7hjfwGRJU9
+  servicios:
+    - Mesas para grupos
+    - Para llevar y domicilios
+    - Cercano al parque arqueológico
+    - Fogón de leña
+
+- nombre: La Loceria Restaurante
+  img: loceria-restaurante.webp
+  alt: Almuerzo en restaurante La Loceria Restaurante de San Agustín
+  title: La Loceria Restaurante
+  puntos: 4.7 de 71
+  perfil: https://goo.gl/maps/uVnTU16gSfVkc7Rq9
+  servicios:
+    - Para llevar y domicilios
+    - Mesas para grupos
+    - Ideal para ir con niños
+    - Ubicación en calle de la locería
+
+- nombre: Macizo Tradicional
+  img: macizo-tradicional.webp
+  alt: Almuerzo en restaurante Macizo Tradicional de San Agustín
+  title: Macizo Tradicional
+  puntos: 4.8 de 27
+  perfil: https://goo.gl/maps/AawUq6GMaDTtXNi5A
+  servicios:
+    - Asientos al aire libre
+    - Para llevar y domicilios
+    - Gastronomía típica
+    - Música en vivo
+
+- nombre: El Mister Restaurante
+  img: mister-restaurante.webp
+  alt: Almuerzo en restaurante El Mister Restaurante de San Agustín
+  title: El Mister Restaurante
+  puntos: 4.3 de 10
+  perfil: https://goo.gl/maps/MHtA5hdfx3cSFrJMA
+  link: https://yiscan55.wixsite.com/elmister-restaurante
+  servicios:
+    - Asientos al aire libre
+    - Para llevar y domicilios
+    - Tiene Wi-Fi gratis
+    - Cuy y sancocho
+
+- nombre: Restaurante El Fogoncito
+  img: restaurante-fogoncito.webp
+  alt: Almuerzo en restaurante Restaurante El Fogoncito de San Agustín
+  title: Restaurante El Fogoncito
+  puntos: 4.3 de 10
+  perfil: https://goo.gl/maps/xojAAGE4YK5bfFox9
+  servicios:
+    - Mesas para grupos
+    - Ideal para ir con niños
+    - Cercano al parque arqueológico
+    - Fogón de leña
