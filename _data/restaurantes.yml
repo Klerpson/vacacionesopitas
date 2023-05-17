@@ -1,12 +1,12 @@
-- nombre: Hotel Masaya Lodge
-  img: hotel-masaya-san-agustin-376.webp
-  alt: Fotografía del hotel Masaya San Agustín en San Agustín Huila
-  title: Foto del Hotel Masaya de San Agustín Huila
-  puntos: 4.6 de 968
-  perfil: https://goo.gl/maps/ZwKLkqVAH2ufpAnD9
-  link: '/hoteles-san-agustin/hotel-masaya-san-agustin-huila'
+- nombre: La Gata Parrilla
+  img: gata-parrilla.webp
+  alt: Carne asada en la Gata Parrilla San Agustín
+  title: Gata Parrilla
+  puntos: 4.7 de 277
+  perfil: https://goo.gl/maps/yQTf9VioGQC8s3H76
+  # link: '/hoteles-san-agustin/hotel-masaya-san-agustin-huila'
   servicios:
-    - Restaurante
-    - Parqueadero vigilado
-    - Vista al cañón del Magdalena
-    - Cerca al Estrecho y la Chaquira
+    - Asientos al aire libre
+    - Para llevar y domicilios
+    - Buenos cócteles
+    - Tiene Wi-Fi gratis
