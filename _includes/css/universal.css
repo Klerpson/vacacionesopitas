@@ -54,6 +54,7 @@ h3,
 h4 {
   font-family: var(--fuenteTitulos);
   text-transform: initial;
+  max-width: 720px;
 }
 
 h1 {

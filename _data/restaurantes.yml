@@ -4,9 +4,20 @@
   title: Gata Parrilla
   puntos: 4.7 de 277
   perfil: https://goo.gl/maps/yQTf9VioGQC8s3H76
-  # link: '/hoteles-san-agustin/hotel-masaya-san-agustin-huila'
   servicios:
     - Asientos al aire libre
     - Para llevar y domicilios
     - Buenos cócteles
     - Tiene Wi-Fi gratis
+
+- nombre: Casa Grande
+  img: casa-grande.webp
+  alt: Almuerzo en restaurante Casa Grande de San Agustín
+  title: Casa Grande
+  puntos: 4.6 de 245
+  perfil: https://goo.gl/maps/gCEGj3oEMZkEz3oYA
+  servicios:
+    - Asientos al aire libre
+    - Para llevar y domicilios
+    - Desayuno-almuerzo
+    - Ideal para ir con niños
