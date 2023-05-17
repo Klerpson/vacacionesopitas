@@ -4,6 +4,7 @@
   title: Gata Parrilla
   puntos: 4.7 de 277
   perfil: https://goo.gl/maps/yQTf9VioGQC8s3H76
+  link: https://www.lagataparrilla.com/
   servicios:
     - Asientos al aire libre
     - Para llevar y domicilios
@@ -47,6 +48,19 @@
     - Cercano al parque arqueológico
     - Fogón de leña
 
+- nombre: Andrés a la Parrilla
+  img: andres-parrilla.webp
+  alt: Almuerzo en restaurante Andrés a la Parrilla de San Agustín
+  title: Andrés a la Parrilla
+  puntos: 4.5 de 305
+  perfil: https://goo.gl/maps/oCAh2cAo1Ls1XpUw7
+  link: https://sites.google.com/view/andresalaparrilla/inicio
+  servicios:
+    - Mesas para grupos
+    - Para llevar y domicilios
+    - Cercano al parque arqueológico
+    - Menú para niños
+
 - nombre: La Loceria Restaurante
   img: loceria-restaurante.webp
   alt: Almuerzo en restaurante La Loceria Restaurante de San Agustín
@@ -58,6 +72,18 @@
     - Mesas para grupos
     - Ideal para ir con niños
     - Ubicación en calle de la locería
+
+- nombre: Restaurante El Fogón
+  img: restaurante-fogon.webp
+  alt: Almuerzo en restaurante El Fogón de San Agustín
+  title: Restaurante El Fogón
+  puntos: 4.2 de 589
+  perfil: https://goo.gl/maps/pRZiuzSxTQ45yNTx5
+  servicios:
+    - Para llevar
+    - Desayuno-almuerzo
+    - Precios accesibles
+    - Asado huilense
 
 - nombre: Macizo Tradicional
   img: macizo-tradicional.webp
@@ -90,6 +116,18 @@
   title: Restaurante El Fogoncito
   puntos: 4.3 de 10
   perfil: https://goo.gl/maps/xojAAGE4YK5bfFox9
+  servicios:
+    - Mesas para grupos
+    - Ideal para ir con niños
+    - Cercano al parque arqueológico
+    - Fogón de leña
+
+- nombre: Restaurante Pare & Coma
+  img: restaurante-pare-coma.webp
+  alt: Almuerzo en restaurante Restaurante Pare & Coma de San Agustín
+  title: Restaurante Pare & Coma
+  puntos: 4.3 de 7
+  perfil: https://goo.gl/maps/gPLVupcAMdRTpQdg8
   servicios:
     - Mesas para grupos
     - Ideal para ir con niños
