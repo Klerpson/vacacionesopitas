@@ -1,16 +1,14 @@
 ---
 layout: compress
 ---
-<body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript defer><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKGXVGZ"
+{% include head.html %}
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript defer><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKGXVGZ"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-{% include head.html %}
-{% include header.html %}
-
-  {{ content }}
-  <a href="#">{% include boton-up.html %}</a>
-</body>
-
+    {% include header.html %}
+    {{ content }}
+    <a href="#">{% include boton-up.html %}</a>
+  </body>
 </html>
