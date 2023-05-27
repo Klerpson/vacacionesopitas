@@ -21,7 +21,6 @@ permalink: turismo-san-agustin/mirador-mano-del-gigante-en-gigante-huila
 "La mano del Gigante" en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador.
 <!-- excerpt -->
 
-
 * Do not remove this line (it will not be displayed)
 {:toc}
 
