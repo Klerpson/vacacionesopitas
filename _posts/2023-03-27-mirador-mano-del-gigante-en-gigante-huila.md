@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'El Mirador "La mano del Gigante" en Gigante Huila'
+title: "El Mirador 'La mano del Gigante' en Gigante Huila"
 description: '¡Prepárate para una aventura inolvidable en Gigante Huila! Y en este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La mano del Gigante".'
-h1: 'El mirador "La mano del Gigante" en Gigante Huila: ¡aventura y muchas fotografías!'
+h1: "El Mirador 'La mano del Gigante' en Gigante Huila: ¡aventura y muchas fotografías!"
 h1_alternativo: Parque arqueológico de San Agustín Huila
 award: La mejor guía para visitar el parque arqueológico de San Agustín Huila
 category: turismo
