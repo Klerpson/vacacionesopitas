@@ -66,6 +66,9 @@ Te cautivarán con su realismo y te inspirarán a conectarte con la naturaleza d
 
 ## Descubre los secretos ocultos del turismo urbano de San Agustín
 
+>Cuando estés caminando por San Agustín, visita la **Heladería GurCoff**. ¡Es el mejor remate del viaje a San Agustín Huila!  
+[😋🍦Heladería GurCoff](https://gurcoff.com)
+
 Mientras exploras los murales de San Agustín, **te invitamos a detenerte en los detalles y las historias** que se esconden en cada pincelada.
 
 Cada artista ha dejado su huella en estas obras maestras, plasmando su visión y transmitiendo emociones a través de su arte.

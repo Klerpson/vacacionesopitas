@@ -43,6 +43,9 @@ En tiempo estás a 4 horas desde Neiva, la capital del Huila y a 9 horas desde B
 
 ## ¿Cuánto cuesta visitar el parque SUMAK?
 
+>Cuando regreses a San Agustín, visita la **Heladería GurCoff**. ¡Es el mejor remate del viaje a San Agustín Huila!  
+[😋🍦Heladería GurCoff](https://gurcoff.com)
+
 En SUMAK te ofrecen pasaportes de un solo uso para el día de visita. **Puedes ingresar y disfrutar de todas las atracciones del parque**. Los pasaportes *no incluyen el paseo a caballo y ponys*, los cuales se venden directamente en la atracción.
 
 ### Precios de los pasaportes

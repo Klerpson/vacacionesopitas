@@ -94,7 +94,7 @@ Te incluyen el seguro, un buen snack, fotos con dron y Go-Pro. Dependiendo de tu
 
 También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros. Es una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite.
 
-Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama [Disfruta San Agustín.](https://bit.ly/agenciadisfrutasanagustin){:target="_blank" rel="nofollow sponsored"}
+Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama [Walter Tours.](https://api.whatsapp.com/send?phone=+573107728627&text=Hola.%20Quiero%20saber%20m%C3%A1s%20sobre%20el%20turismo%20en%20San%20Agust%C3%ADn%20Huila.%20Vi%20tu%20contacto%20en%20sanagustinhuila.com.co){:target="_blank" rel="nofollow sponsored"}
 
 ## ¿Qué puedes hacer en la cascada Los Tres Chorros?
 
