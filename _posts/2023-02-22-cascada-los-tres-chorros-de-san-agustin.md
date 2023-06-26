@@ -2,7 +2,7 @@
 layout: post
 title: Cascada los Tres Chorros ¡3 cascadas en 1 de San Agustín!
 description: Los Tres Chorros es una espectacular cascada de San Agustín Huila compuesta de 3 caídas de agua. ¡Ven a conocer esta reserva rodeada de naturaleza!
-h1: Los Tres Chorros en San Agustín Huila - 3 caídas de agua en 1
+h1: Cascada Los Tres Chorros de San Agustín Huila
 h1_alternativo: La cascada de los Tres Chorros en San Agustín
 award: La mejor guía para visitar la cascada de Los Tres Chorros
 date: 2023-02-22
@@ -24,48 +24,43 @@ permalink: turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin
 
 ## Los Tres Chorros: imponente cascada con 3 caídas de agua
 
-La cascada Los Tres Chorros es una cascada que es parte del rio Mulales. **Tiene una caída de agua con casi 28 metros que forman 3 chorros paralelos de muy buen caudal**, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.
+{% include cta-hotmart1.html %}
+
+La cascada Los Tres Chorros es una caída de agua que es parte del rio Mulales. **Esta cascada es de casi 28 metros que forman 3 chorros paralelos de muy buen caudal**, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.
 
 Tras un paseo de 45 minutos en vehículo y una caminata de 30 minutos por la montaña, en el fondo del valle y en las montañas, nos encontramos con una expectativa de mundo natural de ensueño.
 
 **Tres ramales de agua clara que forman una cascada se separan, creando una piscina fría en el fondo**. Un lugar de curación y purificación.
 
-### ¿Cómo llegar a la cascada los Tres Chorros?
+## ¿Cómo llegar a la cascada los Tres Chorros?
 
-{% include cta-hotmart1.html %}
+Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila"):
 
-Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila"). **Debes llegar hasta una vereda llamada La Pradera**.
+1. **Debes llegar hasta una vereda llamada La Pradera**. La vía es una carretera de 20 kilómetros aproximadamente. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
+2. Antes de llegar a la vereda La Pradera, encuentras la primera entrada al lado de la carretera. **¡Esta entrada no la recomendamos!** Es un trayecto con senderos más difíciles y más largo. Puedes tardar entre 2 y 3 horas para llegar.
+3. Es mejor avanzar otro poco **hasta llegar hasta la vereda La Pradera**. Pregúntale a la gente de la zona cómo llegar. Son muy amables y buenos guías.
+[Ver en Google Maps](https://goo.gl/maps/V6htCLCwVBHnjwCi6 "Mapa Cascada 3 chorros"){:rel="nofollow noopener noreferrer" class="botones" target="_blank"}
 
-La vía es una carretera de 20 kilómetros aproximadamente. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
-
-Antes de llegar a la vereda La Pradera, encuentras la primera entrada al lado de la carretera. **¡Esta entrada no la recomendamos!** Es un trayecto con senderos más difíciles y más largo. Puedes tardar entre 2 y 3 horas para llegar.
-
-#### La entrada correcta a los Tres Chorros
-
-Es mejor avanzar otro poco para *llegar hasta la vereda La Pradera*. Pregúntale a la gente de la zona cómo llegar. Son muy amables y buenos guías. Es más que recomendado pagar algún guía local que te lleve con tranquilidad.
-
-**Para llegar hasta la cascada Los Tres Chorros solo debes pagar 5000 pesos Colombianos** al propietario de un terreno para pasar por su finca.
+Es más que recomendado **pagar algún guía local** que te lleve con tranquilidad. Para llegar hasta la cascada Los Tres Chorros solo debes pagar 5000 pesos Colombianos al propietario de un terreno para pasar por su finca.
 
 {% include img-post.html webps="paso-a-cascada-tres-chorros-376.webp" webpb="paso-a-cascada-tres-chorros-800.webp" alt="Finca de paso a los Tres Chorros" title="Paso a los Tres Chorros" %}
+*Finca por la que puedes recortar camino a la cascada los Tres Chorros*
 
 La ubicación de la cascada Los Tres Chorros es privilegiada. Está en medio de un exuberante paisaje de bosque, por lo que el paseo hasta este lugar es muy emocionante.
 
 >La cascada Los Tres Chorros es un lugar natural que no es privado. No se cobra entradas. Solo pagas al propietario de una finca para reducir la distancia del trayecto.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3987.646812011777!2d-76.3819676!3d1.890434!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257dd66c3c3a0b%3A0x576b9b0775c17c33!2sCascada%20los%20Tres%20Chorros!5e0!3m2!1ses-419!2sco!4v1621019717679!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-*Ubicación de la cascada Los Tres Chorros en Google Maps. Haz clic en "Cómo llegar"*
-
 ### Transporte público hasta la cascada Los Tres Chorros
 
-Para llegar a los Tres Chorros, en el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte intermunicipal, que te pueden acercar hasta la vereda La Pradera.
+Para llegar a los Tres Chorros, en el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte inter-municipal, que te pueden acercar hasta la vereda La Pradera.
 
-Lo mismo pueden hacer los transportes en motocicleta o "motorratones", como se les conoce localmente. ¡Y hasta puedes llegar en chiva!
+>Lo mismo pueden hacer los transportes en motocicleta o "motorratones", como se les conoce localmente. ¡Y hasta puedes llegar en chiva!
 
 Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata. Sí, como acabas de descubrir, no hay acceso en vehículo hasta la cascada.
 
 Pero, en parte, **esa es una de las razones por la que la cascada Los Tres Chorros es tan hermosa**, por la caminata en los senderos naturales.
 
-#### Caminata hasta la cascada Los Tres Chorros
+### Caminata hasta la cascada Los Tres Chorros
 
 Como te decíamos, es mejor contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los senderos que llegan hasta la cascada.
 
@@ -78,7 +73,7 @@ Al llegar al sendero, la caminata comienza atravezando por un camino entre antig
 
 Cuando llegues al río Mulales, seguirás por la orilla del río, pisando la roca húmeda y evitando las ramas. Finalmente un último descenso por el camino señalado, y ¡allí está!... *la cascada imponente de los Tres Chorros*.
 
-#### Viaja a los Tres Chorros en bicicleta
+### Viaja a los Tres Chorros en bicicleta
 
 {% include img-post.html webps="tres-chorros-cascada-imponente-san-agustin-huila-376.webp" webpb="tres-chorros-cascada-imponente-san-agustin-huila-800.webp" alt="Foto de los Tres Chorros" title="Foto de los Tres Chorros" %}
 
@@ -90,11 +85,11 @@ Por ejemplo, la agencia [Adventure-X-Colombia](https://www.instagram.com/adventu
 
 Te incluyen el seguro, un buen snack, fotos con dron y Go-Pro. Dependiendo de tu capacidad en la bicicleta, así mismo dura el tiempo de esta **excursión a los Tres Chorros**.
 
-#### Visita los Tres Chorros montando caballo
+### Visita los Tres Chorros montando caballo
 
 También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros. Es una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite.
 
-Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama [Walter Tours.](https://api.whatsapp.com/send?phone=+573107728627&text=Hola.%20Quiero%20saber%20m%C3%A1s%20sobre%20el%20turismo%20en%20San%20Agust%C3%ADn%20Huila.%20Vi%20tu%20contacto%20en%20sanagustinhuila.com.co){:target="_blank" rel="nofollow sponsored"}
+Para más información sobre el tour a caballo, escríbenos en nuestra [sección de contacto]({{'contacto'|relative_url}}).
 
 ## ¿Qué puedes hacer en la cascada Los Tres Chorros?
 

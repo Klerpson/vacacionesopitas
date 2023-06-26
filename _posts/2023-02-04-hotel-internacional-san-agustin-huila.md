@@ -52,7 +52,7 @@ Contacta el Hotel Internacional San Agustín con cualquiera de las siguiente opc
 
 * **Número de celular**: El número de celular del Hotel Internacional es **[+573114452615](tel:+573114452615 "Celular del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}** o, también, llama al [+573112644839](tel:+573112644839 "Celular del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**
 * **WhatsApp**: El whatsapp del Hotel Internacional San Agustín es **[+573124332510.](https://wa.me/573124332510 "whatsapp del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**
-* **Facebook**: El perfil de facebook es **[@hotelinternacionalsanagustin](https://www.facebook.com/hotelinternacionalsanagustin/ "Facebook del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **Facebook**: El perfil de Facebook es **[@hotelinternacionalsanagustin](https://www.facebook.com/hotelinternacionalsanagustin/ "Facebook del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
 * **Instagram**: El Instagram del Hotel Internacional es **[@hotelinternacionalsanagustin](https://www.instagram.com/hotelinternacionalsanagustin/ "Instagram del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
 ### ¿Qué servicios ofrece el hotel Internacional San Agustín?
@@ -61,15 +61,15 @@ Este lujoso hotel te ofrece los siguientes servicios:
 
 | Servicio | Descripción |
 |---|---|
-| **Restaurante el arcángel** | Con capacidad para 80 comensales, ofrece una carta de cocina nacional e internacional, utilizando productos locales. También tiene un bar con barra de cocteles |
+| **Restaurante el arcángel** | Con capacidad para 80 comensales, ofrece una carta de cocina nacional e internacional, utilizando productos locales. También tiene un bar con barra de cócteles |
 | **Recepción** | Servicio disponible las 24 horas |
 | **Salón Estrella de los Andes** | Puede recibir hasta 450 personas |
 | **Salón Ave del Paraíso** | Con capacidad de 45 personas |
 | **Salón Cuna de Venus** | Con capacidad de 90 personas |
-| **Guardería** | Con actividades superivisadas para los niños |
+| **Guardería** | Con actividades supervisadas para los niños |
 | **Servicios de limpieza** | Puedes contratar los servicios de lavandería |
 | **Servicios de Transporte** | Puedes contratar el servicio por un cargo adicional |
-| **Temperatura apropiada** | Dispone de calefacción y aire acondiciando en sus instalaciones |
+| **Temperatura apropiada** | Dispone de calefacción y aire acondicionado en sus instalaciones |
 | **Capilla católica** | Disponible para los creyentes católicos y quienes deseen utilizar sus servicios |
 | **Cambios de divisa** | Cambio en dólares y euros |
 | **Tienda de recuerdos** | Puedes comprar regalos con motivos locales para llevar al regresar a casa |
@@ -90,7 +90,7 @@ El hotel Internacional San Agustín **tiene 77 habitaciones en total, 27 son par
 2. Tiene muy buena reputación por la calidad de su atención al público.
 3. No está demás mencionar que en su hospitalidad disponen de estación de bebidas calientes de cortesía.
 4. El hotel Internacional San Agustín está rodeado de hermosos jardines y zonas verdes muy relajantes.
-5. Tiene una muy buena ubicación. Los restaurantes de la zona están cerca.
+5. Tiene una muy buena ubicación. [Los restaurantes de la zona están cerca]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes San Agustín Huila").
 6. Habitaciones con balcón privado para aprovechar al máximo las vistas del lugar.
 7. Puedes pagar con tarjetas Maestro Mastercard, Visa, Diners Club y American Express.
 8. Puedes pedir el reembolso de tu pago hasta un par de días antes del check-in. **El Hotel Internacional San Agustín aplica condiciones a este punto**.

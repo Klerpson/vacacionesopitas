@@ -37,9 +37,9 @@
 
 html {
   scroll-behavior: smooth;
-  line-height: 1.5;
   -webkit-text-size-adjust: 100%;
-  font-size: calc(15px + 0.390625vw)
+  font-size: calc(15px + 0.390625vw);
+  line-height: 1.6;
 }
 
 body {
@@ -55,6 +55,7 @@ h4 {
   font-family: var(--fuenteTitulos);
   text-transform: initial;
   max-width: 720px;
+  letter-spacing: -.9px;
 }
 
 h1 {
@@ -72,9 +73,8 @@ h3 {
 }
 
 p, .post-content li {
-  line-height: 1.326;
   word-wrap: break-word;
-  font-size: .90rem;
+  letter-spacing: -.8px;
 }
 
 pre {
@@ -203,7 +203,8 @@ blockquote{
   color: white;
 }
 
-blockquote a {
+blockquote a,
+.botones {
   margin: 1rem 0 0;
   display: block;
   float: right;
@@ -216,11 +217,13 @@ blockquote a {
   transition: .2s all ease-out;
 }
 
-blockquote a:hover{
+blockquote a:hover,
+.botones:hover{
   box-shadow: var(--shadow);
 }
 
-blockquote a:active{
+blockquote a:active,
+.botones:active{
   box-shadow: none;
  }
  
