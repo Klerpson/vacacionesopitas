@@ -1,95 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/hoteles-san-agustin/akawanka-lodge-san-agustin-huila</loc>
-<lastmod>2023-02-01T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/hoteles-san-agustin/hostal-bambu-san-agustin-huila</loc>
-<lastmod>2023-02-03T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/hoteles-san-agustin/hotel-internacional-san-agustin-huila</loc>
-<lastmod>2023-02-04T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin</loc>
-<lastmod>2023-02-22T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/museo-obando-san-agustin-huila</loc>
-<lastmod>2023-03-05T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/salto-del-mortino-majuestuosidad-emociones</loc>
-<lastmod>2023-03-15T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/hoteles-san-agustin/hotel-masaya-san-agustin-huila</loc>
-<lastmod>2023-03-15T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/estrecho-rio-magdalena</loc>
-<lastmod>2023-03-22T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila</loc>
-<lastmod>2023-03-25T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/cafe-pitalito-huila</loc>
-<lastmod>2023-03-26T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/mirador-mano-del-gigante-en-gigante-huila</loc>
-<lastmod>2023-03-27T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/tursimo-san-agustin/laguna-del-magdalena</loc>
-<lastmod>2023-03-29T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema</loc>
-<lastmod>2023-04-01T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/parque-arqueologico-san-agustin</loc>
-<lastmod>2023-04-02T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/parque-tematico-sumak-san-agustin</loc>
-<lastmod>2023-05-12T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin/turismo-urbano-san-agustin</loc>
-<lastmod>2023-06-12T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/404</loc>
-</url>
-<url>
-<loc>http://localhost:4000/contacto</loc>
-</url>
-<url>
-<loc>http://localhost:4000/gracias</loc>
-</url>
-<url>
-<loc>http://localhost:4000/hoteles-san-agustin</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/legal</loc>
-</url>
-<url>
-<loc>http://localhost:4000/restaurantes-san-agustin</loc>
-</url>
-<url>
-<loc>http://localhost:4000/turismo-san-agustin</loc>
-</url>
-<url>
-<loc>http://localhost:4000/admin/</loc>
-<lastmod>2023-06-12T11:00:02-05:00</lastmod>
-</url>
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/contacto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/gracias</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/restaurantes-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/css/style.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/turismo-urbano-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/parque-tematico-sumak-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/parque-arqueologico-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/tursimo-san-agustin/laguna-del-magdalena</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/mirador-mano-del-gigante-en-gigante-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/cafe-pitalito-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/estrecho-rio-magdalena</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/hoteles-san-agustin/hotel-masaya-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/salto-del-mortino-majuestuosidad-emociones</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/museo-obando-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/hoteles-san-agustin/hotel-internacional-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/hoteles-san-agustin/hostal-bambu-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/hoteles-san-agustin/akawanka-lodge-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
 </urlset>

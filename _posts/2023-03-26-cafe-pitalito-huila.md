@@ -33,7 +33,7 @@ Todas las cafeterías en Pitalito han logrado ofrecer ambientes relajados y acog
 ### Variedades de café en Pitalito
 
 >¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
-[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena"){:target="_blank"}
+[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena")
 
 La variedad de sus cultivos está posicionando a **Pitalito como la mejor zona cafetera en Colombia**. Algunas variedades de grano de café son:
 
@@ -58,13 +58,13 @@ Los baristas de Pitalito experimentan con sabores y recetas únicas para ofrecer
 
 Cuando visites Pitalito, puedes encontrar muchas fincas que te ofrecen **experiencias campesinas donde cultivas, cosechas, preparas y tomas un café delicioso**.
 
-En nuestro blog hicimos un artículo sobre la finca [Tierra Activa de San Agustín]({{site.baseurl}}/hoteles-san-agustin/finca-tierra-activa-san-agustin){:target="_blank"} que te ofrece experiencias como esta.
+En nuestro blog hicimos un artículo sobre la finca [Tierra Activa de San Agustín]({{site.baseurl}}/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila) que te ofrece experiencias como esta.
 
 Los baristas son conocidos por su servicio amable y por su conocimiento profundo del café. Esto hace que la experiencia de tomar café en Pitalito sea única.
 
 >**¿Te gustaría probar el café de San Agustín?** Conoce más de San Agustín Huila, espectacular destino por conocer.  
-[San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}
+[San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila")
 
-Un café que se disfruta mucho es el [Affogato de GurCoff](https://wa.me/p/4796946837050081/573026370737){:rel="nofollow noopener noreferrer" target="_blank"}, una [heladería de Pitalito](https://gurcoff.com){:target="_blank"} que te ofrece una experiencia que vale la pena repetir.
+Un café que se disfruta mucho es el [Affogato de GurCoff](https://wa.me/p/4796946837050081/573026370737){:rel="nofollow noopener noreferrer" target="_blank"}, una [heladería de Pitalito](https://gurcoff.com) que te ofrece una experiencia que vale la pena repetir.
 
 **¿Vienes a probar el mejor café de Colombia en Pitalito?** Seguro que después de probarlo, tomar café para ti no volverá a ser lo mismo.
