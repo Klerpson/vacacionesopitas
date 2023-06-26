@@ -26,11 +26,11 @@ excerpt_separator: <!-- excerpt -->
 
 Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por sus esculturas de piedra**, que son una de las atracciones turísticas más importantes de la región.
 
-Las ruinas de San Agustín se encuentran en diferentes parques arqueológicos cerca de la ciudad y datan de hace más de 1.800 años.
-
 Adicional a las esculturas, **San Agustín también es famosa por su clima templado-frío y su paisaje montañoso**, con cascadas y ríos. Esto se debe a su privilegiada ubicación sobre el cañón del río Magdalena y en medio de los páramos Puracé y Soledad.
 
 Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila: **qué hacer, dónde quedarte, qué puedes disfrutar de su gastronomía** y mucho más. ¡Empecemos!
+
+----
 
 ## ¿Qué puedes hacer en San Agustín Huila?
 
@@ -40,14 +40,14 @@ Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila:
 San Agustín Huila tiene 3 pilares en su oferta turística:
 
 1. El parque arqueológico y sus ruinas
-2. El turismo de aventura en el cañón del Magdalena
-3. Las artesanías inspiradas en la cultura local.
+2. El turismo de aventura y naturaleza en el cañón del Magdalena
+3. Las artesanías inspiradas en la cultura local y el turismo urbano.
 
 ### 1. El parque arqueológico de San Agustín
 
 **San Agustín Huila es muy reconocido por [el parque arqueológico]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Artículo sobre el Parque Arqueológico")**, donde se conserva muchas esculturas con parte de su historia y cultura. Estas esculturas arqueológicas fueron *declaradas Patrimonio de la Humanidad por la Unesco*.
 
-Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
+Las ruinas de San Agustín se encuentran en diferentes parques arqueológicos cerca de la ciudad y datan de hace más de 1.800 años. Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
 
 Puedes hacer el recorrido del parque en caminatas programadas. Te recomendamos adquirir los servicios de los guías del parque, quienes se encargarán de ayudarte a disfrutar plenamente del tour.
 
@@ -61,17 +61,17 @@ En este lugar conocerás un gran tesoro de urnas funerarias, grutas que fueron a
 
 La más grande de las casas del lugar es una choza con techo en paja. Esta choza guarda estatuas pequeñas y medianas en piedra, piezas de alfarería, vasijas de barro y pinturas que evocan en la imaginación y el estilo de vida de nuestros antepasados de la cultura precolombina.
 
-### 2. Sitios turísticos de San Agustín en el cañón del Magdalena
+### 2. Sitios turísticos de San Agustín
 
 >San Agustín Huila es un lugar popular para la práctica de deportes de aventura y turismo extremo, como canopy, amacas y bicicletas al vacío, el puente de cristal, etc.
 
-San Agustín Huila destaca por su vegetación y fauna silvestre, que son el pilar principal de su belleza. Es atravezado por muchas fuentes hídricas y adornado con hermosas caídas de agua.
+San Agustín Huila destaca por su vegetación y fauna silvestre, que son el pilar principal de su belleza. Es atravesado por muchas fuentes hídricas y adornado con hermosas caídas de agua.
 
 Los locales dicen que **desde San Agustín Huila nacen los 4 ríos más importantes de Colombia**: El río Magdalena, el río Cauca, el río Caquetá y el río Patía.
 
 #### El estrecho del río Magdalena
 
-Tienes que venir y visitar el [Estrecho del Magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del Magdalena"). Por aquí pasa el afluente más grande del país, que abastece al 80% de la población colombiana. ¡Y en este punto **se reduce su paso a solo 2 metros de ancho**!
+Tienes que visitar el [Estrecho del Magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del Magdalena"). Por aquí pasa el afluente más grande del país, que abastece al 80% de la población colombiana. ¡Y en este punto **se reduce su paso a solo 2 metros de ancho**!
 
 #### Las cascadas en San Agustín y sus alrededores
 
@@ -79,34 +79,52 @@ Tienes que venir y visitar el [Estrecho del Magdalena]({% post_url 2023-03-22-es
 
 Desde San Agustín puedes visitar las siguientes maravillas con cascadas naturales:
 
-* **El Salto el Mortiño**, [con su mirador de cristal y su culumpio al vacío]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada Salto del Mortiño")
+* **El Salto el Mortiño**, [con su mirador de cristal y su columpio al vacío]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada Salto del Mortiño")
 * **El Salto de los Bordones**, una de las cascadas más altas de Colombia
 * [La cascada Los Tres Chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %}), un rincón preservado naturalmente por su ubicación
 
 Y como estos hay más caudales con una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
-### Turismo en San Agustín de artesanías y arte
+### 3. Turismo en San Agustín de artesanías y arte
 
-Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras. Todas son elaboradas por los artesanos de la localidad.
+Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras. Todas son elaboradas por los artesanos de la localidad. Además, vas a relajarte mucho en sus atractivos cafés y parques.
+
+#### Turismo urbano en San Agustín Huila
 
 **San Agustín Huila tiene una arquitectura colonial hermosa**. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles en adoquines, obras de artesanía local, relieves en muros, etc.
 
+En los últimos años también se ha impulsado [la decoración urbana con murales hermosos](% post_url 2023-06-12-turismo-urbano-san-agustin %). Tienes que hacer el recorrido en todo el pueblo.
+
 Con esto en mente, puedes hacer **un tour urbano en San Agustín**. Tendrás hermosas fotografías que compartir solo saliendo a caminar en el pueblo. También, para un descanso total.
+
+#### La calle de las artesanía de San Agustín
+
+La calle que sale al parque arqueológico es conocida como la calle de las artesanías. Como es de esperar en estos lugares con tanto atractivo turístico, tienes a disposición todo el arte local y colombiano en una variedad de locales.
+
+Desde muy temprano en la mañana hasta las 8p.m. puedes visitar esta calle comercial y llevar un hermoso recuerdo.
+
+#### Nuevo atractivo turístico: el parque Sumak
+
+[El parque Sumak de San Agustín]({% post_url 2023-05-12-parque-tematico-sumak-san-agustin %}) es el nuevo atractivo turístico de este hermoso paraíso. Así que ahora tienes más planes para pasar unas buenas **vacaciones en San Agustín**.
+
+----
 
 ## Los hoteles en San Agustín
 
 >Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de "Como me lance al voluntariado ( guia paso a paso)". Haz clic en el botón para comprar el tuyo.  
 ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
 
-[San Agustín Huila tiene lugares extraordinarios para hospedarse][hoteles de San Agustín Huila.]({{site.baseurl}}/hoteles-san-agustin). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
+[San Agustín Huila tiene lugares extraordinarios para hospedarse]({{site.baseurl}}/hoteles-san-agustin). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
 
 La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
 
 O si deseas podrías quedarte en las prácticas **posadas de San Agustín Huila** en el centro urbano. La gran ventaja es que a pesar de que es un lugar turístico, los precios para todos los presupuestos: encuentras **hoteles baratos, hostales económicos, hoteles cómodos y de lujo. Hasta hoteles con piscina!**.
 
-## Comer en San Agustín Huila es exquisito
+----
 
-La gastronomía de San Agustín es muy variada, pues tiene una mezcla de muchas culturas. Podrás disfrutar desde el **asado huilense** hasta el típico **caldo de cuchas**; con bebidas tradicionales heredadas de sus aborígenes como lo son **el masato, la chicha y el jugo de gulupa.**
+## Los restaurantes en San Agustín Huila
+
+La gastronomía de San Agustín es muy variada, pues tiene una mezcla de muchas culturas. Podrás disfrutar desde el **asado huilense** hasta el típico **caldo de cuchas**; con **bebidas tradicionales** heredadas de sus aborígenes como lo son **el masato, la chicha y el jugo de gulupa.**
 
 No puedes pasar por San Agustín sin probar las siguientes delicias.
 
@@ -128,9 +146,11 @@ Por ejemplo, **en San Agustín nos sentimos muy orgullosos del Affogato que ofre
 
 Imagínate un día soleado en el campo, respirando el aire fresco y disfrutando de la vista de las montañas. De repente, empiezas a oler un aroma irresistible. **Es el aroma del asado huilense**, una delicia de la región sur de Colombia.
 
-Este asado se prepara con cortes de carne de res, cerdo y pollo, marinados con una mezcla de cebolla, ajo, tomate y cilantro. Luego se asa a la parrilla con carbón o en horno de barro, y se sirve con papas, arepa o plátanos.
+Este asado se prepara con **cortes de carne de res, cerdo y pollo, marinados con una mezcla de cebolla, ajo, tomate y cilantro**. Luego se asa a la parrilla con carbón o en horno de barro, y se sirve con papas, arepa o plátanos.
 
 Cada bocado es una explosión de sabor, **la carne jugosa y tierna impregnada con los sabores de la marinada**. Es una experiencia culinaria que vale la pena probar, especialmente si te gusta la carne asada.
+
+----
 
 ## Cómo llegar a San Agustín
 

@@ -73,7 +73,7 @@ Contacta el Hotel Finca Tierra Activa con cualquiera de las siguiente opciones:
 | **Turismo cultural** | Más información sobre nuestros paquetes en la siguiente sección |
 | **Bodega** | Puedes encargar la seguridad de tus pertenencias por un tiempo |
 | **Senderos** | Caminos llenos de experiencias sencillas, pero muy impactantes en tu descanso |
-| **Masajes y aromaterapias** | Puedes contrartar en sus paquetes experenciales |
+| **Masajes y aromaterapias** | Puedes contratar en sus paquetes de turismo |
 | **Casa del árbol** | Construcción sencilla, pero con una de las mejores vistas del paisaje de San Agustín Huila |
 | **Sala de lectura** | Espacio totalmente adaptado para disfrutar de tu tiempo de lectura |
 
@@ -91,11 +91,11 @@ En las instalaciones del Hotel Tierra Activa puedes solicitar cualquiera de esta
 
 Aprende cómo viven los campesinos de la localidad. Conoce y participa del cultivo de los alimentos nativos y cómo trabaja una familia campesina.
 
-Incluye un recorrido por 3 senderos temáticos: frutas nativas, passifloras y huerta escalonada.
+Incluye un recorrido por 3 senderos temáticos: frutas nativas y huerta escalonada.
 
 * Ingreso y sendero guiado en Tierra Activa
 * Aromática de bienvenida
-* Elaboració participativa artesanal de almuerzo o desayuno campesino
+* Elaboración participativa artesanal de almuerzo o desayuno campesino
 * Recorridos por los senderos temáticos
 * Degustación de frutas nativas y orgánicas
 * Aprendizaje de la cultura campesina con cultivos
@@ -116,7 +116,7 @@ Será realmente otra experiencia para compartir, disfrutar y degustar con una bu
 * Recorrido de conocimiento de las plantas utilizadas dentro del taller
 * Degustación frutas nativas y orgánicas
 * Degustación del producto elaborado en conjunto
-* Bebida de café orgánico en expresso, capuchino, latte o cacao
+* Bebida de café orgánico en expreso, capuchino, latte o cacao
 
 La duración aproximada es de 2 horas. El valor por persona es de 60000. Comienza a las 9a.m. También puedes adicionar desayuno o almuerzo con antelación.
 
@@ -167,8 +167,8 @@ Este tour es apto para familias, parejas, equipos de trabajo y amigos.
 
 {% include hotmart2.html %}
 
-* **¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?** El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({{site.baseurl}}/turismo-san-agustin/parque-arqueologico-san-agustin-huila) está a 1 hora también caminando.  
-Además, puedes visitar los atractivos naturales de San Agustín: [la cascada de los Tres Chorros]({{site.baseurl}}/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin), [el Estrecho del Rio Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena), la Laguna de la Magdalena, el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.
+* **¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?** El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, [la calle de las artesanías]({% post_url 2023-06-12-turismo-urbano-san-agustin %}), restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({{site.baseurl}}/turismo-san-agustin/parque-arqueologico-san-agustin-huila) está a 1 hora también caminando.  
+Además, puedes visitar los atractivos naturales de San Agustín: [la cascada de los Tres Chorros]({{site.baseurl}}/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin), [el Estrecho del Rio Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena), la [Laguna de la Magdalena]({% post_url 2023-03-29-laguna-del-magdalena %}), el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.
 * **¿Hay restaurantes cerca del Hotel Finca Tierra Activa?** Sí. Aunque no están en la misma vereda, todas las opciones están cerca. Puedes ver la sección de [los mejores restaurantes de San Agustín]({{site.baseurl}}/restaurantes-san-agustin).
 * **¿Hablan inglés en el Hotel Finca Tierra Activa?** El hotel te ofrece un servicio de traductor contratado.
 

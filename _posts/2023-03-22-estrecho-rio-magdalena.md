@@ -61,11 +61,9 @@ También, puedes ver muchas fotografía del Estrecho del Magdalena haciendo clic
 
 {% include hotmart2.html %}
 
+La salida hacia el estrecho del Magdalena **NO es la misma salida al [parque arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque arqueológico San Agustín")**. Al tiempo que haces el viaje vas a disfrutar de una vista hermosa sobre el recorrido del cañón del Magdalena.
+
 Para llegar a este punto del río Magdalena, debes partir desde el casco urbano de San Agustín. **Es un viaje de 9 kilómetros solamente. Y puede tomar entre 30 y 45 minutos**.
-
-Al tiempo que haces el viaje vas a disfrutar de una vista hermosa sobre el recorrido del cañón del Magdalena.
-
-**La salida hacia el estrecho del Magdalena no es la misma salida al [parque arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque arqueológico San Agustín")**:
 
 1. Pregunta por la calle de las artesanías. Cuando llegas a la esquina de esta calle, estarás ubicado en la esquina que se conoce como la esquina de los moto-ratones. La dirección es carrera 14 con calle 5.
 2. **Para salir hacia el estrecho del Magdalena continua derecho por la carrera 14**. Esta es la calle que viene desde la iglesia del parque central de San Agustín Huila. Así que cuando estés subiendo por la carrera 14, no te desvíes. Solo sigue derecho.
@@ -107,4 +105,4 @@ En el estrecho del Magdalena es muy común que los más osados intenten pasar de
 
 {% include cta-hotmart1.html %}
 
-Estamos seguros que pasarás un paseo relajante, muy bonito, rodeado de naturaleza y admirado de la imponencia de la naturaleza, expresada en la humildad de un majestuoso río reducido a un pequeño paso, **el Estrecho del Magdalena**.
+Estamos seguros que pasarás un paseo relajante, rodeado y admirado de su imponente naturaleza. Esta es la expresión de humildad de un majestuoso río reducido a un pequeño paso, **el Estrecho del Magdalena**.

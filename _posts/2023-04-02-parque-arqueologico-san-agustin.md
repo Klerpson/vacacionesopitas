@@ -65,6 +65,8 @@ Por otra parte, **la vía que viene desde Popayán Cauca, por el páramo,** tien
 
 Solo *dile al conductor que después del municipio de Isnos, te quedas en el cruce* de la entrada a San Agustín. Si vienes en carro particular, ten en cuenta el cruce para desviarte. Las señales de tránsito te guiarán.
 
+----
+
 ## ¿Cuánto vale la entrada al parque arqueológico?
 
 Según la resolución 070 de 27 de marzo de 2017 se debe cancelar un pasaporte para entrar al parque. Cómpralo solamente en las taquilla de entrada de los parques. *No la compres en otra parte a revendedores*.
@@ -97,6 +99,8 @@ Planea tus próximos viajes y *disfrútalos con seguridad y tranquilidad*.
 De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre a las 8:00 a.m. y la atención al público termina a las 4:00 p.m.**
 
 Además, hay que tener en cuenta que en temporada normal *el parque arqueológico no abre los días martes*. En la temporada alta sí atienden toda la semana.
+
+----
 
 ## Qué es el Parque Arqueológico de San Agustín
 
@@ -216,6 +220,8 @@ El Alto de los Ídolos es una llanura artificial en forma de U**, en la que exis
 El lugar está rodeado por reductos de bosque natural primario en la que predominan muchos arboles frutales. Tiene muchos hallazgos de tumbas simples, tumbas de pozo, tumbas con cámaras laterales de formas variadas, pintadas o acompañadas de un sarcófago monolítico.
 
 **Lo interesante es que se encontraron los cadaveres en muchas posiciones: de pie, tumbado, en posición fetal, etc. Hasta se encontraron funerales colectivos.**
+
+----
 
 ## Ven a conocer las ruinas del Parque Arqueológico
 

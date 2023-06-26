@@ -46,7 +46,8 @@ La variedad de sus cultivos está posicionando a **Pitalito como la mejor zona c
 
 ### Pitalito, ciudad de baristas reconocidos
 
-{% include cta-hotmart1.html %}
+>Cuando llegues a Pitalito, visita la **Heladería GurCoff**. ¡Es el mejor lugar de descanso de tu viaje!  
+[😋🍦Heladería GurCoff](https://gurcoff.com)
 
 Además de los cafeterías tradicionales, Pitalito también ofrece una variedad de cafés gourmet.
 
