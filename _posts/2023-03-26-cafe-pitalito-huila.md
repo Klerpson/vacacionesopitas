@@ -24,11 +24,11 @@ Tomar café en Pitalito, Huila, es toda una experiencia. Esta ciudad colombiana 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## El café en Pitalito es de calidad de exportacións
+## El café en Pitalito es de calidad de exportación
 
 La cultura del café en Pitalito es una de las razones por las que esta ciudad se ha convertido en un destino turístico popular. **Los cafés aquí son reconocidos por su calidad y notas de sabor únicas**.
 
-Todas las cafeterías en Pitalito han logrado ofrecer ambientes relajados y acogedores, con música suave y muchos con paisajes hermosos. La mayoría de estos establecimientos ofrecen una variedad de bebidas de café, desde cappuccinos y latte hasta expresos y mocchachino.
+Todas las cafeterías en Pitalito han logrado ofrecer ambientes relajados y acogedores, con música suave y muchos con paisajes hermosos. La mayoría de estos establecimientos ofrecen una variedad de bebidas de café, desde cappuccinos y latte hasta expresos y mocaccino.
 
 ### Variedades de café en Pitalito
 

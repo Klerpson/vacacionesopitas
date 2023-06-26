@@ -13,7 +13,7 @@ webpm: blog/laguna-del-magdalena-600.webp
 webpb: blog/laguna-del-magdalena-800.webp
 alt: Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena
 date: 2023-03-29
-permalink: /tursimo-san-agustin/laguna-del-magdalena
+permalink: /turismo-san-agustin/laguna-del-magdalena
 excerpt_separator: <!-- excerpt -->
 ---
 La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas.
@@ -105,9 +105,9 @@ Este nombre se debe a la vereda de inicio del siguiente recorrido, llamada Alto 
 
 Cuando lleguen a la vereda El Canelo, pasarás por otro lugar conocido como El Crucero. Luego pasarás por el puente de Barandillas sobre el Rio Magdalena, y después hasta la vereda San Antonio.
 
-**Cuando llegues a San Antonio, podrás contratar hospedaje y alimentacion con los lugareños de la montaña**. Es una oportunidad especial de alimentar tu viaje con las mejores historias y experiencias de tus anfitriones.
+**Cuando llegues a San Antonio, podrás contratar hospedaje y alimentación con los lugareños de la montaña**. Es una oportunidad especial de alimentar tu viaje con las mejores historias y experiencias de tus anfitriones.
 
-Esta hermosa aventura se realiza en 2 dias normalmente. **La primera noche la pasas en el hospedaje de la vereda San Antonio**. En el recorrido del segundo día llegarás al Parque Purace.
+Esta hermosa aventura se realiza en 2 días normalmente. **La primera noche la pasas en el hospedaje de la vereda San Antonio**. En el recorrido del segundo día llegarás al Parque Purace.
 
 Durante todo el camino podrás observar caídas de agua, hermosos paisajes y naturaleza silvestre.
 
@@ -131,7 +131,7 @@ Tan importante es este río y su nacimiento, que **en 1979 fue declarado Reserva
 
 Por lo anterior, se vigila y se protege la vida de pumas, tigrillos, venados, cusumbos, coatíes, osos, dantas, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete, entre otros.
 
-Por otra parte, este nacimiento es parte de lo que se conoce como [la principal estrella fluvial colombiana del Macizo Colombiano](https://elcampesino.co/las-estrellas-fluviales-de-colombia/){:rel="nofollow noopener noreferrer" target="_blank"}. **Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.**
+Por otra parte, este nacimiento es parte de lo que se conoce como [la principal estrella fluvial colombiana del Macizo Colombiano](https://elcampesino.co/las-estrellas-fluviales-de-colombia/){:rel="nofollow noopener noreferrer" target="_blank"}. **Desde aquí se originan los ríos Magdalena, Caquetá, Patía, Cauca y sus afluentes.**
 
 ## Ven a la laguna del Magdalena
 

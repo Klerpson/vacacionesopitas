@@ -31,7 +31,7 @@ En este hotel **tendrás una de las mejores panorámicas de todo San Agustín Hu
 
 ## ¿Cómo es el Hotel Akawanka Lodge de San Agustín?
 
-**El hotel Akawanka ofrece una temática Eco Logde**. Se enfoca en guardar un equilibrio entre presentar y conservar indentidad cultural ancestral de San Agustín, al tiempo que respeta la historia natural del ambiente local y la conservación de los ecosistemas.
+**El hotel Akawanka ofrece una temática Eco Logde**. Se enfoca en guardar un equilibrio entre presentar y conservar identidad cultural ancestral de San Agustín, al tiempo que respeta la historia natural del ambiente local y la conservación de los ecosistemas.
 
 >Desde el Hotel Akawanka estás muy cerca al Parque Arqueológico de San Agustín. Haz clic para ver porqué debería conocerlo  
 [Parque Arqueológico de San Agustín]({{site.baseurl}}/hotel-akawanka-lodge-san-agustin-huila)
