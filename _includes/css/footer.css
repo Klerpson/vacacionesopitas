@@ -35,8 +35,7 @@ footer div{
 }
 
 footer div img{
-  justify-self: center;
-  aspect-ratio: 16 / 9;
+  align-self: center;
 }
 
 footer section p{
