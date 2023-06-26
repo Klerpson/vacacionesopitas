@@ -64,7 +64,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
   <p>Lee en nuestro blog todo sobre el turismo en San Agustín Huila y sus alrededores. San Agustín tiene muchos destinos turísticos ideales para tus vacaciones.</p>
   {% assign post1 = site.posts[0] %}
       <article>
-        <a href="{{site.baseurl}}{{ post1.url }}">
+        <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">
           <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
           <h4>{{ post1.h1 }}</h4>
         </a>
@@ -72,7 +72,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
       </article>
       {% assign post2 = site.posts[1] %}
       <article>
-        <a href="{{site.baseurl}}{{ post2.url }}">
+        <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">
           <img src="{{ site.baseurl }}/img/{{ post2.webps }}" alt="{{ post2.alt }}" loading="lazy">
           <h4>{{ post2.h1 }}</h4>
         </a>
@@ -80,7 +80,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
       </article>
       {% assign post3 = site.posts[2] %}
       <article>
-        <a href="{{site.baseurl}}{{ post3.url }}">
+        <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">
           <img src="{{ site.baseurl }}/img/{{ post3.webps }}" alt="{{ post3.alt }}" loading="lazy">
           <h4>{{ post3.h1 }}</h4>
         </a>
@@ -88,7 +88,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
       </article>
       {% assign post4 = site.posts[3] %}
       <article>
-        <a href="{{site.baseurl}}{{ post4.url }}">
+        <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">
           <img src="{{ site.baseurl }}/img/{{ post4.webps }}" alt="{{ post4.alt }}" loading="lazy">
           <h4>{{ post4.h1 }}</h4>
         </a>
@@ -96,7 +96,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
       </article>
       {% assign post5 = site.posts[4] %}
       <article>
-        <a href="{{site.baseurl}}{{ post5.url }}">
+        <a href="{{site.baseurl}}{{ post5.url }}" title="{{post5.title}}">
           <img src="{{ site.baseurl }}/img/{{ post5.webps }}" alt="{{ post5.alt }}" loading="lazy">
           <h4>{{ post5.h1 }}</h4>
         </a>
@@ -104,7 +104,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
       </article>
       {% assign post6 = site.posts[5] %}
       <article>
-        <a href="{{site.baseurl}}{{ post6.url }}">
+        <a href="{{site.baseurl}}{{ post6.url }}" title="{{post6.title}}">
           <img src="{{ site.baseurl }}/img/{{ post6.webps }}" alt="{{ post6.alt }}" loading="lazy">
           <h4>{{ post6.h1 }}</h4>
         </a>
@@ -134,8 +134,8 @@ h1: San Agustín Huila - Paraíso turístico colombiano
   </li>
 </ul>
 <div>
-  <h2>¿Te gusta viajar por Colombia?<br>En San Agustín Huila la pasarás muy bien</h2>
-  <p><span class="destacado">Escríbenos por WhatsApp</span> y te recomendaremos todo lo que necesitas para que tengas las mejores vacaciones de tu vida.<br><a href="{{site.whatsapp}}">Escribir por WhatsApp</a></p>
+  <h2>¿Te gustaría visitar San Agustín Huila?</h2>
+  <p>Escríbenos en nuestra sección de <b>Contacto</b>. Envíanos tus inquietudes o solicitudes. ¡Será un placer tenerte por aquí!<br><a href="{{'contacto'|relative_url}}">Página de Contacto</a></p>
 </div>
 </section>
 
