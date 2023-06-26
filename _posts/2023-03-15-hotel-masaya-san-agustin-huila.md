@@ -72,10 +72,10 @@ Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo 
 En San Agustín el hotel Masaya presta los siguientes servicios adicionales a su hospedaje:
 
 * **Espacios de Relax**. Zonas de terraza compartida y por habitación. Zona de chimenea, espectacular para el frío de la zona.
-* **Recepción**. Servicio disponible las 24 horas. También puedes solicitar el servicio de guardaequipaje o pedir información turística.
+* **Recepción**. Servicio disponible las 24 horas. También puedes solicitar el servicio de guarda equipaje o pedir información turística.
 * **Restaurante**. Puedes contratar tus alimentos. También tienes servicio de bar.
 * **Salón de relax**. Puedes practicar yoga con sus clases en el hotel.
-* **Servicios de excursione y turismo**. Contrata diferentes paquetes de turismo con el hotel directamente.
+* **Servicios de excursiones y turismo**. Contrata diferentes paquetes de turismo con el hotel directamente.
 * **Servicios de limpieza**. Realizan limpieza diaria a las habitaciones. Te ofrecen servicios de lavandería, planchado en seco y planchado común.
 * **Servicios de Transporte**. Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel.
 * **Zona parqueadero**. Servicio gratuito con muy buena seguridad.
