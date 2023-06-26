@@ -36,9 +36,9 @@ Obando en [San Agustín](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))
 
 Aunque es un pequeño lugar de clima frío, también es acogedor, muy pintoresco. Muy agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
 
-En [el municipio de San Agustín]({{'turismo-san-agustin/magia-san-agustin-huila'|relative_url}} "San Agustín Huila"){:target="_blank"}, al lado del [estrecho del río Magdalena]({{'turismo-san-agustin/estrecho-rio-magdalena'|relative_url}} "Estrecho del Magdalena San Agustín Huila"){:target="_blank"} y frente a la ventana geográfica de las soledades serranas, encuentras este hermoso lugar.
+En [el municipio de San Agustín]({{'turismo-san-agustin/magia-san-agustin-huila'|relative_url}} "San Agustín Huila"), al lado del [estrecho del río Magdalena]({{'turismo-san-agustin/estrecho-rio-magdalena'|relative_url}} "Estrecho del Magdalena San Agustín Huila") y frente a la ventana geográfica de las soledades serranas, encuentras este hermoso lugar.
 
-**El parque y el museo de Obando es un ascenso vertiginoso al pasado.** Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interes es el mundo pre-Clásico y sus obras artísticas y tecnológicas.
+**El parque y el museo de Obando es un ascenso vertiginoso al pasado.** Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interés es el mundo pre-Clásico y sus obras artísticas y tecnológicas.
 
 O quizás solo quieres tener una parada más en un tour muy conocido en San Agustín, llamado **el anillo turístico**. Obando es una de sus paradas.
 
@@ -46,9 +46,9 @@ O quizás solo quieres tener una parada más en un tour muy conocido en San Agus
 
 Para llegar hasta el museo de Obando en San Agustín, solo sigue las siguientes indicaciones:
 
-1. Toma la ruta hacia el punto conocido como El Estecho del Magdalena.
+1. Toma la ruta hacia el punto conocido como El Estrecho del Magdalena.
 2. Al llegar a este punto, continúa por la vía sin desviarte unos 10 minutos.
-3. Encontrarás un pequeño cacerío, que es el corregimiento de Obando. En su plaza central está el museo.
+3. Encontrarás un pequeño caserío, que es el corregimiento de Obando. En su plaza central está el museo.
 
 Te compartimos el mapa para que puedas pedir las indicaciones a Google maps. Toca la opción de las indicaciones en el botón "Cómo llegar".
 
@@ -70,7 +70,7 @@ El objetivo siempre ha sido describir y preservar la historia del departamento d
 
 ## Un paseo de relajación y cultura
 
-Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}.**
+Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila").**
 
 Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural de la zona. **Por otra parte, tienes la oportunidad de maravillarte con los ecosistemas nacionales de esta zona del cañón del Magdalena**.
 
@@ -80,9 +80,9 @@ El lugar es bello y completamente seguro. Se recomienda ir con un guía, puesto 
 
 Si cuentas con suficiente tiempo para realizar un recorrido completo, incluye el museo y alguna actividad física. **Te recomendamos sus balcones naturales con sus espectaculares vistas.**
 
-Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer [el Salto del Mortiño]({{'turismo-san-agustin/cascada-salto-mortino-isnos'|relative_url}} "Cascada el Salto del Mortiño"){:target="_blank"} con uno de los culumpios más extremos del país.
+Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer [el Salto del Mortiño]({{'turismo-san-agustin/cascada-salto-mortino-isnos'|relative_url}} "Cascada el Salto del Mortiño") con uno de los columpios más extremos del país.
 
 >¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
-[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena"){:target="_blank"}
+[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena")
 
 Obando es un lugar rústico. Sin embargo, tiene un encanto muy hermoso. Lo puedes visitar en cualquier época del año. **Sobre todo a mitad de año, por las fiestas culturales del San Pedro, o para fin de año en las fiestas de diciembre**. Es completamente distinto, pero muy especial.

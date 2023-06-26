@@ -18,6 +18,6 @@ Desde las atracciones más populares, *como el [Parque Arqueológico de San Agus
 
 >Nuestro equipo se asegura de que tengas toda la información que necesitas para disfrutar al máximo de tu visita.
 
-No olvides seguir leyendo nuestro blog para obtener información actualizada y útil sobre el turismo en San Agustín Huila. Nos enorgullece ofrecer contenido de alta calidad y estamos comprometidos a hacer que tu experiencia de viaje sea inolvidable.
+No olvides seguir leyendo nuestro blog para obtener **información actualizada y útil sobre el turismo en San Agustín Huila**. Nos enorgullece ofrecer contenido de alta calidad y estamos comprometidos a hacer que tu experiencia de viaje sea inolvidable.
 
 Gracias por visitarnos y esperamos oír de ti pronto. ¡Feliz viaje a San Agustín!
