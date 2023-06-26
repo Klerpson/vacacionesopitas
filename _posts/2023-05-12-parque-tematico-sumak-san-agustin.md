@@ -22,11 +22,11 @@ permalink: turismo-san-agustin/parque-tematico-sumak-san-agustin
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## ¿Qué es SUMAK Parque Temático?
+## ¿Qué es el parque SUMAK?
 
 En el primer parque temático de San Agustín podrás disfrutar de **una amplia variedad de actividades para todos los gustos**. Desde shows folklóricos y musicales hasta paseos en cuatrimotos y tirolesas, pasando por acuarios, jardines exóticos y granjas de especies vacunas, caprinas y menores... ***en SUMAK hay algo para todos***.
 
-## ¿Cómo llegar a SUMAK Parque Temático?
+## ¿Cómo llegar a parque temático SUMAK?
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7975.359391115744!2d-76.27996363611936!3d1.8760645155141056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257b3b64a99fd3%3A0x52bda5edcd7a48bb!2sSUMAK!5e0!3m2!1ses-419!2sco!4v1683939635529!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Haz clic en las indicaciones para que tu dispositivo GPS te muestre la ruta*
