@@ -24,10 +24,6 @@ permalink: turismo-san-agustin/parque-tematico-sumak-san-agustin
 
 ## ¿Qué es SUMAK Parque Temático?
 
-El parque SUMAK es un proyecto que nació con el objetivo de **promover el turismo sostenible en [San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín") y, al mismo tiempo, preservar la cultura y la naturaleza** de la región.
-
-El nombre quechua SUMAK significa lo ideal, lo hermoso, lo bueno, la realización; y kawsay, es la vida, en referencia a una vida digna, en armonía y equilibrio con el universo y el ser humano. El nombre se toma de las palabras SUMAK kawsay que transmite la plenitud de la vida. Y esto refleja muy bien la visión del parque: **ser un lugar donde la belleza natural y cultural de Huila se unen armoniosamente** para ofrecer una experiencia única a los visitantes.
-
 En el primer parque temático de San Agustín podrás disfrutar de **una amplia variedad de actividades para todos los gustos**. Desde shows folklóricos y musicales hasta paseos en cuatrimotos y tirolesas, pasando por acuarios, jardines exóticos y granjas de especies vacunas, caprinas y menores... ***en SUMAK hay algo para todos***.
 
 ## ¿Cómo llegar a SUMAK Parque Temático?
@@ -40,6 +36,8 @@ SUMAK Parque Temático está ubicado a 5 minutos de la plaza de mercado de San A
 Si viajas desde la ciudad de Neiva, debes tomar la carretera Panamericana hasta llegar a Pitalito. Luego, debes tomar la carretera a San Agustín y seguir las señalizaciones hacia el parque.
 
 En tiempo estás a 4 horas desde Neiva, la capital del Huila y a 9 horas desde Bogotá D.C. Capital de Colombia.
+
+----
 
 ## ¿Cuánto cuesta visitar el parque SUMAK?
 
@@ -100,7 +98,13 @@ El pasaporte que ofrece el parque SUMAK tienes las siguientes condiciones:
 * Si adquiere "Pasaporte infantil" al ingresar al parque se validará la estatura de sus hijos.
 * Todas las atracciones tienen restricción de estatura. Para mayor información consulte en cada atracción.
 
+----
+
 ## Información general del parque SUMAK
+
+El parque SUMAK es un proyecto que nació con el objetivo de **promover el turismo sostenible en [San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín") y, al mismo tiempo, preservar la cultura y la naturaleza** de la región.
+
+El nombre quechua SUMAK significa lo ideal, lo hermoso, lo bueno, la realización; y kawsay, es la vida, en referencia a una vida digna, en armonía y equilibrio con el universo y el ser humano. El nombre se toma de las palabras SUMAK kawsay que transmite la plenitud de la vida. Y esto refleja muy bien la visión del parque: **ser un lugar donde la belleza natural y cultural de Huila se unen armoniosamente** para ofrecer una experiencia única a los visitantes.
 
 ### Horarios en que puedes disfrutar del parque
 
@@ -122,6 +126,8 @@ Antes de llegar a SUMAK Parque Temático, es importante que tengas en cuenta alg
 * No olvides llevar tu cámara fotográfica para capturar los mejores momentos de tu visita.
 * Si deseas hacer uso del servicio de casilleros para guardar tus pertenencias, tendrás que pagar una tarifa adicional.
 * Si tienes alguna restricción de movilidad, te recomendamos que consultes con el personal del parque para que puedan orientarte en las actividades que puedes realizar.
+
+----
 
 ## Reserva tu aventura en SUMAK Parque Temático ahora
 
