@@ -36,7 +36,7 @@ Obando en [San Agustín](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))
 
 Aunque es un pequeño lugar de clima frío, también es acogedor, muy pintoresco. Muy agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
 
-En [el municipio de San Agustín]({{'turismo-san-agustin/magia-san-agustin-huila'|relative_url}} "San Agustín Huila"), al lado del [estrecho del río Magdalena]({{'turismo-san-agustin/estrecho-rio-magdalena'|relative_url}} "Estrecho del Magdalena San Agustín Huila") y frente a la ventana geográfica de las soledades serranas, encuentras este hermoso lugar.
+En [el municipio de San Agustín]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila"), al lado del [estrecho del río Magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del Magdalena San Agustín Huila") y frente a la ventana geográfica de las soledades serranas, encuentras este hermoso lugar.
 
 **El parque y el museo de Obando es un ascenso vertiginoso al pasado.** Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interés es el mundo pre-Clásico y sus obras artísticas y tecnológicas.
 
@@ -70,7 +70,7 @@ El objetivo siempre ha sido describir y preservar la historia del departamento d
 
 ## Un paseo de relajación y cultura
 
-Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila").**
+Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila").**
 
 Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural de la zona. **Por otra parte, tienes la oportunidad de maravillarte con los ecosistemas nacionales de esta zona del cañón del Magdalena**.
 
@@ -80,7 +80,7 @@ El lugar es bello y completamente seguro. Se recomienda ir con un guía, puesto 
 
 Si cuentas con suficiente tiempo para realizar un recorrido completo, incluye el museo y alguna actividad física. **Te recomendamos sus balcones naturales con sus espectaculares vistas.**
 
-Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer [el Salto del Mortiño]({{'turismo-san-agustin/cascada-salto-mortino-isnos'|relative_url}} "Cascada el Salto del Mortiño") con uno de los columpios más extremos del país.
+Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer [el Salto del Mortiño]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada el Salto del Mortiño") con uno de los columpios más extremos del país.
 
 >¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
 [La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena")

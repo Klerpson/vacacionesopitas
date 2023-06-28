@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jun 2023 17:43:14 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2023 17:43:14 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2023 18:02:21 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2023 18:02:21 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -754,7 +754,7 @@ Planea tus próximos viajes y &lt;em&gt;disfrútalos con seguridad y tranquilida
 
 &lt;p&gt;&lt;strong&gt;San Agustín Huila tiene una arquitectura colonial hermosa&lt;/strong&gt;. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles en adoquines, obras de artesanía local, relieves en muros, etc.&lt;/p&gt;
 
-&lt;p&gt;En los últimos años también se ha impulsado &lt;a href=&quot;% post_url 2023-06-12-turismo-urbano-san-agustin %&quot;&gt;la decoración urbana con murales hermosos&lt;/a&gt;. Tienes que hacer el recorrido en todo el pueblo.&lt;/p&gt;
+&lt;p&gt;En los últimos años también se ha impulsado &lt;a href=&quot;/turismo-san-agustin/turismo-urbano-san-agustin&quot; title=&quot;Turismo urbano San Agustín&quot;&gt;la decoración urbana con murales hermosos&lt;/a&gt;. Tienes que hacer el recorrido en todo el pueblo.&lt;/p&gt;
 
 &lt;p&gt;Con esto en mente, puedes hacer &lt;strong&gt;un tour urbano en San Agustín&lt;/strong&gt;. Tendrás hermosas fotografías que compartir solo saliendo a caminar en el pueblo. También, para un descanso total.&lt;/p&gt;
 
@@ -1211,8 +1211,8 @@ Planea tus próximos viajes y &lt;em&gt;disfrútalos con seguridad y tranquilida
 &lt;h3 id=&quot;variedades-de-café-en-pitalito&quot;&gt;Variedades de café en Pitalito&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.&lt;br /&gt;
-&lt;a href=&quot;turismo-san-agustin/laguna-del-magdalena&quot; title=&quot;Laguna del Magdalena&quot;&gt;La laguna del Magdalena&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.
+&lt;a href=&quot;/turismo-san-agustin/laguna-del-magdalena&quot; title=&quot;Laguna del Magdalena&quot;&gt;La laguna del Magdalena&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;La variedad de sus cultivos está posicionando a &lt;strong&gt;Pitalito como la mejor zona cafetera en Colombia&lt;/strong&gt;. Algunas variedades de grano de café son:&lt;/p&gt;
@@ -1302,7 +1302,7 @@ Planea tus próximos viajes y &lt;em&gt;disfrútalos con seguridad y tranquilida
 
 &lt;ol&gt;
   &lt;li&gt;Toma la salida hacia &lt;a href=&quot;/turismo-san-agustin/estrecho-rio-magdalena&quot;&gt;El Estrecho del Magadalena&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Llega hasta el conocido y angituo hotel Monasterio de San Agustín.&lt;/li&gt;
+  &lt;li&gt;Llega hasta el conocido y antiguo hotel Monasterio de San Agustín.&lt;/li&gt;
   &lt;li&gt;Continúa tu camino sin desviarte 2 kilómetros más.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -1507,9 +1507,9 @@ Planea tus próximos viajes y &lt;em&gt;disfrútalos con seguridad y tranquilida
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?&lt;/strong&gt; El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, &lt;a href=&quot;/turismo-san-agustin/turismo-urbano-san-agustin&quot;&gt;la calle de las artesanías&lt;/a&gt;, restaurantes y todo el comercio. &lt;a href=&quot;/turismo-san-agustin/parque-arqueologico-san-agustin-huila&quot;&gt;El Parque Arqueológico de San Agustín&lt;/a&gt; está a 1 hora también caminando.&lt;br /&gt;
-Además, puedes visitar los atractivos naturales de San Agustín: &lt;a href=&quot;/turismo-san-agustin/cascada-los-tres-chorros-de-san-agustin&quot;&gt;la cascada de los Tres Chorros&lt;/a&gt;, &lt;a href=&quot;/turismo-san-agustin/estrecho-rio-magdalena&quot;&gt;el Estrecho del Rio Magdalena&lt;/a&gt;, la &lt;a href=&quot;/turismo-san-agustin/laguna-del-magdalena&quot;&gt;Laguna de la Magdalena&lt;/a&gt;, el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;¿Hay restaurantes cerca del Hotel Finca Tierra Activa?&lt;/strong&gt; Sí. Aunque no están en la misma vereda, todas las opciones están cerca. Puedes ver la sección de &lt;a href=&quot;/restaurantes-san-agustin&quot;&gt;los mejores restaurantes de San Agustín&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?&lt;/strong&gt; El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, &lt;a href=&quot;/turismo-san-agustin/turismo-urbano-san-agustin&quot;&gt;la calle de las artesanías&lt;/a&gt;, restaurantes y todo el comercio. &lt;a href=&quot;/turismo-san-agustin/parque-arqueologico-san-agustin&quot;&gt;El Parque Arqueológico de San Agustín&lt;/a&gt; está a 1 hora también caminando.&lt;br /&gt;
+Además, puedes visitar los atractivos naturales de San Agustín: &lt;a href=&quot;/turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin&quot; title=&quot;Cascada Tres Chorros&quot;&gt;la cascada de los Tres Chorros&lt;/a&gt;, &lt;a href=&quot;/turismo-san-agustin/estrecho-rio-magdalena&quot; title=&quot;Estrecho Magdalena&quot;&gt;el Estrecho del Rio Magdalena&lt;/a&gt;, la &lt;a href=&quot;/turismo-san-agustin/laguna-del-magdalena&quot; title=&quot;Laguna del Magdalena&quot;&gt;Laguna de la Magdalena&lt;/a&gt;, el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;¿Hay restaurantes cerca del Hotel Finca Tierra Activa?&lt;/strong&gt; Sí. Aunque no están en la misma vereda, todas las opciones están cerca. Puedes ver la sección de &lt;a href=&quot;/restaurantes-san-agustin&quot; title=&quot;Restaurantes San Agustín&quot;&gt;los mejores restaurantes de San Agustín&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;¿Hablan inglés en el Hotel Finca Tierra Activa?&lt;/strong&gt; El hotel te ofrece un servicio de traductor contratado.&lt;/li&gt;
 &lt;/ul&gt;
 

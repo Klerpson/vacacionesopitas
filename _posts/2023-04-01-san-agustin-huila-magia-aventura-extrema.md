@@ -93,7 +93,7 @@ Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas 
 
 **San Agustín Huila tiene una arquitectura colonial hermosa**. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles en adoquines, obras de artesanía local, relieves en muros, etc.
 
-En los últimos años también se ha impulsado [la decoración urbana con murales hermosos](% post_url 2023-06-12-turismo-urbano-san-agustin %). Tienes que hacer el recorrido en todo el pueblo.
+En los últimos años también se ha impulsado [la decoración urbana con murales hermosos]({% post_url 2023-06-12-turismo-urbano-san-agustin %} "Turismo urbano San Agustín"). Tienes que hacer el recorrido en todo el pueblo.
 
 Con esto en mente, puedes hacer **un tour urbano en San Agustín**. Tendrás hermosas fotografías que compartir solo saliendo a caminar en el pueblo. También, para un descanso total.
 

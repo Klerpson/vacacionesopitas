@@ -32,8 +32,8 @@ Todas las cafeterías en Pitalito han logrado ofrecer ambientes relajados y acog
 
 ### Variedades de café en Pitalito
 
->¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
-[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena")
+>¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.
+[La laguna del Magdalena]({% post_url 2023-03-29-laguna-del-magdalena %} "Laguna del Magdalena")
 
 La variedad de sus cultivos está posicionando a **Pitalito como la mejor zona cafetera en Colombia**. Algunas variedades de grano de café son:
 
