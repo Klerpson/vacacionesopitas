@@ -36,8 +36,8 @@ Su paisaje apacible, tranquilo y fresco se encuentra dentro del perímetro del P
 
 Esto te abre la posibilidad de terminar tu ruta con otros destinos como:
 
-* [El estrecho del magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del Magdalena)
-* [La cascada de los tres chorros](% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin % "Tres Chorros San Agustín")
+* [El estrecho del magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho del Magdalena")
+* [La cascada de los tres chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %} "Tres Chorros San Agustín")
 * El pueblo de [San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %} "San Agustín Huila")
 * Los termales de Coconuco, entre otros.
 
