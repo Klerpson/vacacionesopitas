@@ -1,5 +1,6 @@
 ---
 layout: compress
+noindex: true
 ---
 {% include css/universal.css %}
 {% include css/header.css %}
