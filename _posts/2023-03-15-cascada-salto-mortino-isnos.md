@@ -18,7 +18,7 @@ referencias:
 excerpt_separator: <!-- excerpt -->
 permalink: turismo-san-agustin/salto-del-mortino-majuestuosidad-emociones
 --- 
-El Salto del Mortiño es una finca turística, para los amantes de los deportes extremos y la diversión en parejas, amigos o familiares muy aventureros.
+El Salto de Mortiño es una finca turística, para los amantes de los deportes extremos y la diversión en parejas, amigos o familiares muy aventureros.
 <!-- excerpt -->
 
 Te contaremos las actividades que puedes hacer cuando vengas a visitarlos, cómo llegar y todo lo necesario para que te animes a venir.
@@ -30,9 +30,9 @@ Te contaremos las actividades que puedes hacer cuando vengas a visitarlos, cómo
 
 {% include cta-hotmart1.html %}
 
-Para llegar al Salto del mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema "San Agustín Huila") e Isnos, en la vereda El Mortiño.
+Para llegar al Salto del Mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema "San Agustín Huila") e Isnos, en la vereda El Mortiño.
 
-Este complejo turístico se encuentra **junto a la cascada El Salto del Mortiño**, una caída de agua catalogada entre las más hermosas de Sudamérica.
+Este complejo turístico se encuentra **junto a la cascada El Salto de Mortiño**, una caída de agua catalogada entre las más hermosas de Sudamérica.
 
 Justo sobre la vía (a mano derecha si vas desde San Agustín a Isnos, o a manos izquierda en la dirección contraria), verás su letrero enorme invitándote a la aventura.
 

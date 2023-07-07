@@ -11,7 +11,7 @@ hero: blog/mirador-mano-del-gigante-huila.webp
 webps: blog/mirador-mano-del-gigante-huila-376.webp
 webpm: blog/mirador-mano-del-gigante-huila-600.webp
 webpb: blog/mirador-mano-del-gigante-huila-800.webp
-alt: Mirador la mano del Gigante
+alt: Mirador la mano de Gigante
 date: 2023-03-27
 referencias:
   - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
@@ -56,7 +56,7 @@ El Mirador "La mano del Gigante" se encuentra ubicado a unos 20 minutos en carro
 
 Al llegar a este punto, **deberás subir cerca de 2 kilómetros** hasta la cima de una montaña. Como el acceso es muy empinado, *hay que dejar tu vehículo particular en un parqueadero en la parte baja de la montaña*. Por eso es mejor venir en un transporte público, claro, si el presupuesto te lo permite.
 
-Desde aquí **puedes pagar transporte en vehículos con más tracción**, que cobra 15000 pesos en promedio. También, **puedes hacer una caminata por un sendero de cerca de 40 minutos**. Al bajar, el tiempo es mucho menor. Por esto, te recomendamos bajar caminando.
+Desde aquí **puedes pagar transporte en vehículos con más tracción**, que cobra 15000 pesos en promedio. También, **puedes hacer una caminata por un sendero de cerca de 40 minutos**. Al bajar, el tiempo es mucho menor. Por esto, te recomendamos bajar caminando. Así es más fácil llegar a donde está la Mano del Gigante.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7972.532998113206!2d-75.49886052910924!3d2.417791499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b33a8784635f7%3A0xc4466883657f3f23!2sMirador%20La%20Mano%20del%20Gigante!5e0!3m2!1ses!2sco!4v1677818982556!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Ubicación en Google maps del mirador La mano del Gigante*
@@ -90,7 +90,7 @@ En el siguiente **video sobre el mirador de la mano del Gigante** podrás ver m�
 <iframe width="100%" height="455" src="https://www.youtube-nocookie.com/embed/AbJvSf4voNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 *Créditos del canal [Roadxelmundo](https://www.youtube.com/@roadxelmundo){:rel="nofollow noopener noreferrer" target="_blank"}*
 
-## La mano del Gigante: un mirador espectacular
+## Huila y La mano del Gigante: el mejor mirador
 
 Ir a la mano del Gigante es la sensación de estar frente a una obra de arte de la naturaleza es indescriptible. Es como si la mano del gigante te estuviera dando la bienvenida a un mundo de ensueño.
 

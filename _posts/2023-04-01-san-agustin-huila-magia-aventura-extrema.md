@@ -11,7 +11,7 @@ hero: blog/san-agustin-huila.webp
 webps: blog/san-agustin-huila-376.webp
 webpm: blog/san-agustin-huila-600.webp
 webpb: blog/san-agustin-huila-800.webp
-alt: Entrada a San Agustín Huila
+alt: Entrada a San Agustin Huila
 date: 2023-04-01
 permalink: turismo-san-agustin/san-agustin-huila-magia-aventura-extrema
 excerpt_separator: <!-- excerpt -->
@@ -79,7 +79,7 @@ Tienes que visitar el [Estrecho del Magdalena]({% post_url 2023-03-22-estrecho-r
 
 Desde San Agustín puedes visitar las siguientes maravillas con cascadas naturales:
 
-* **El Salto el Mortiño**, [con su mirador de cristal y su columpio al vacío]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada Salto del Mortiño")
+* **El Salto del Mortiño**, [con su mirador de cristal y su columpio al vacío]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada Salto de Mortiño")
 * **El Salto de los Bordones**, una de las cascadas más altas de Colombia
 * [La cascada Los Tres Chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %}), un rincón preservado naturalmente por su ubicación
 
@@ -93,7 +93,7 @@ Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas 
 
 **San Agustín Huila tiene una arquitectura colonial hermosa**. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles en adoquines, obras de artesanía local, relieves en muros, etc.
 
-En los últimos años también se ha impulsado [la decoración urbana con murales hermosos]({% post_url 2023-06-12-turismo-urbano-san-agustin %} "Turismo urbano San Agustín"). Tienes que hacer el recorrido en todo el pueblo.
+En los últimos años también se ha impulsado [la decoración urbana con murales hermosos]({% post_url 2023-06-12-turismo-urbano-san-agustin %} "Turismo urbano San Agustin"). Tienes que hacer el recorrido en todo el pueblo.
 
 Con esto en mente, puedes hacer **un tour urbano en San Agustín**. Tendrás hermosas fotografías que compartir solo saliendo a caminar en el pueblo. También, para un descanso total.
 
@@ -105,16 +105,16 @@ Desde muy temprano en la mañana hasta las 8p.m. puedes visitar esta calle comer
 
 #### Nuevo atractivo turístico: el parque Sumak
 
-[El parque Sumak de San Agustín]({% post_url 2023-05-12-parque-tematico-sumak-san-agustin %}) es el nuevo atractivo turístico de este hermoso paraíso. Así que ahora tienes más planes para pasar unas buenas **vacaciones en San Agustín**.
+[El parque Sumak de San Agustin]({% post_url 2023-05-12-parque-tematico-sumak-san-agustin %}) es el nuevo atractivo turístico de este hermoso paraíso. Así que ahora tienes más planes para pasar unas buenas **vacaciones en San Agustín**.
 
 ----
 
-## Los hoteles en San Agustín
+## Los hoteles de San Agustín
 
 >Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de "Como me lance al voluntariado ( guia paso a paso)". Haz clic en el botón para comprar el tuyo.  
 ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
 
-[San Agustín Huila tiene lugares extraordinarios para hospedarse]({{site.baseurl}}/hoteles-san-agustin). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
+[San Agustín Huila tiene lugares extraordinarios para hospedarse]({{site.baseurl}}/hoteles-san-agustin "Hoteles San Agustin"). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
 
 La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
 
@@ -140,7 +140,7 @@ Se prepara añadiendo queso cuajada fresco, mantequilla y yemas de huevo. Luego 
 
 Muchas circunstancias están a favor de este logro: su delicioso clima, sus tierras, sus tradiciones en la labor, el apoyo al gremio, la altura sobre el nivel del mar. Factores como estos han permitido este logro en el municipio.
 
-Por ejemplo, **en San Agustín nos sentimos muy orgullosos del Affogato que ofrece [GurCoff](https://gurcoff.com){:target="_blank"}**.
+Por ejemplo, **en San Agustín nos sentimos muy orgullosos del Affogato que ofrece [GurCoff](https://gurcoff.com "GurCoff San Agustin Huila"){:target="_blank"}**.
 
 ### El delicioso asado huilense
 
