@@ -62,7 +62,7 @@ Justo a su lado, está el impresionante **puente de cristal llamado El Ojo del H
 Como puedes imaginarte, es un atractivo único en el país hasta el momento, pues no es solo la estructura, sino el hecho que esté sobre una de las principales caídas de agua del país.
 
 >¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
-[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena")
+[La laguna del Magdalena]({% post_url 2023-03-29-laguna-del-magdalena %} "Laguna del Magdalena")
 
 Esta es una plataforma de observación de vidrio templado. Tiene tres capas de armadura y tres capas de blindaje.
 
