@@ -102,7 +102,7 @@ Además, hay que tener en cuenta que en temporada normal *el parque arqueológic
 
 ----
 
-## Qué es el Parque Arqueológico de San Agustín
+## Qué es el Parque de San Agustín
 
 **El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2** de extensión. Es un lugar de gran importancia cultural y turística. Fue **declarado Patrimonio de la Humanidad por la UNESCO**.
 
@@ -110,7 +110,7 @@ Muchos turistas visitan el parque cada año para ver las esculturas, las lajas d
 
 **Las esculturas de San Agustín son únicas por su gran tamaño y por la cantidad de detalles que muestran.** Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas.
 
-{% include img-post.html webps="parque-arqueologico-tumbas-376.webp" webpb="parque-arqueologico-tumbas-800.webp" alt="Tumba en el Parque San Agustín" title="Tumba parque arqueológico" %}
+{% include img-post.html webps="parque-arqueologico-tumbas-376.webp" webpb="parque-arqueologico-tumbas-800.webp" alt="Tumba en el Parque San Agustín" title="Tumba parque arqueológico san agustin" %}
 *Uno de los montículos funerarios del parque*
 
 Sus ruinas y estatuas fueron talladas en piedra y están dispersas en varias zonas entre los municipios de San Agustín e Isnos. Aún en lugares cercanos *siguen apareciendo más hallazgos*.
@@ -201,7 +201,7 @@ En la antigüedad las zonas altas de las montañas eran lugares importantes y es
 
 #### La zona de "Las Mesitas"
 
-{% include img-post.html webps="parque-arqueologico-mesitas-376.webp" webpb="parque-arqueologico-mesitas-800.webp" alt="Estatuas formando una Mesita en el parque de San Agustín Huila" title="Mesitas en el parque arqueológico" %}
+{% include img-post.html webps="parque-arqueologico-mesitas-376.webp" webpb="parque-arqueologico-mesitas-800.webp" alt="Estatuas formando una Mesita en el parque de San Agustín Huila" title="Piedras mesita parque arqueológico San Agustín" %}
 
 **La zona más grande del parque arqueológico de San Agustín se conoce como Mesitas**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio.
 

@@ -94,7 +94,7 @@ El hotel Masaya también te ofrece las siguientes actividades para amenizar tu e
 * Mesas de billar.
 * Sala de juegos de meza para la familia.
 
-Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"); a 30 minutos el [Parque Arqueológico de San Agustín]({% post_url 2023-04-02-parque-arqueologico-san-agustin %} "Artículo sobre el parque arqueológico de San Agustín Huila"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
+Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"); a 30 minutos el [Parque Arqueológico de San Agustín]({% post_url 2023-04-02-parque-arqueologico-san-agustin %} "Parque arqueológico San Agustín"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
 
 ## Opiniones sobre el hotel Masaya San Agustín
 
