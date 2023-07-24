@@ -83,6 +83,6 @@ Si cuentas con suficiente tiempo para realizar un recorrido completo, incluye el
 Ten por seguro que pasarás un par de horas bien invertidas junto a las personas locales. Además, el anillo turístico te lleva a más actividades como conocer [el Salto del Mortiño]({% post_url 2023-03-15-cascada-salto-mortino-isnos %} "Cascada el Salto del Mortiño") con uno de los columpios más extremos del país.
 
 >¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
-[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'}} "Laguna del Magdalena")
+[La laguna del Magdalena]({{'turismo-san-agustin/laguna-del-magdalena'|relative_url}} "Laguna del Magdalena")
 
 Obando es un lugar rústico. Sin embargo, tiene un encanto muy hermoso. Lo puedes visitar en cualquier época del año. **Sobre todo a mitad de año, por las fiestas culturales del San Pedro, o para fin de año en las fiestas de diciembre**. Es completamente distinto, pero muy especial.
