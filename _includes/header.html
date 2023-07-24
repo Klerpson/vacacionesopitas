@@ -136,8 +136,11 @@
     <h1>{{page.h1}}</h1>
     {% else %}
     <h1>{{page.h1}}</h1>
+    
+    {% if page.hero %}
     {% include img.html hero=page.hero webpb=page.webpb webpm=page.webpm
     webps=page.webps alt=page.alt %} {% endif %} {% if page.url == "/" %}
+    {% endif %}
     <a
       href="{{site.baseurl}}/turismo-san-agustin"
       title="Terminales de Colombia"
