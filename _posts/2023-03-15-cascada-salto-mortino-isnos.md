@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "El Salto del Mortiño ¡Culumpio y puente de cristal extremos!"
-description: "Salto del Mortiño en Isnos Huila: descubre la majestuosidad de este paraíso escondido las emociones del Culumpio Vuelo del Halcón ¡Visítanos ahora!"
-h1: ¡Descubre la majestuosidad del Salto del Mortiño y las emociones del Vuelo del Halcón!
+title: "El Salto del Mortiño ¡Columpio y Puente de Cristal extremos!"
+description: "Salto del Mortiño en Isnos Huila: conoce las emociones del Columpio y el puente de Cristal que están sobre la caída de esta majestuosa cascada."
+h1: El Salto del Mortiño en Isnos Huila - El columpio y el puente de cristal más extremos de Colombia
 h1_alternativo: El Salto del Mortiño
 award: La mejor guía para visitar el Salto del Mortiño
 category: turismo
@@ -11,12 +11,12 @@ hero: blog/salto-mortino-culumpio-puente-cristal.webp
 webps: blog/salto-mortino-culumpio-puente-cristal-376.webp
 webpm: blog/salto-mortino-culumpio-puente-cristal-600.webp
 webpb: blog/salto-mortino-culumpio-puente-cristal-800.webp
-alt: Culumpio Vuelo del Halcón en el Salto del Mortiño
+alt: Columpio Vuelo del Halcón Salto Mortiño
 date: 2023-03-15
 referencias:
   - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
 excerpt_separator: <!-- excerpt -->
-permalink: turismo-san-agustin/salto-del-mortino-majuestuosidad-emociones
+permalink: turismo-san-agustin/salto-del-mortino-columpio-puente-cristal
 --- 
 El Salto de Mortiño es una finca turística, para los amantes de los deportes extremos y la diversión en parejas, amigos o familiares muy aventureros.
 <!-- excerpt -->
@@ -55,24 +55,30 @@ Un cable metálico jala la enorme canasta hasta unos 8 metros de altura. Y cuand
 
 **El columpio El Vuelo del Halcón tiene 15 metros de altura**. Su enorme estructura cumple con todas las normas para que 2 personas disfruten de la mayor aventura del Salto del Mortiño.
 
-### El puente de cristal del Ojo del Halcón
+### El puente de cristal del sobre el Salto de Mortiño
 
-Justo a su lado, está el impresionante **puente de cristal llamado El Ojo del Halcón.** Esta estructura es la primera en Colombia en su clase.
+En este punto de Isnos también está **el puente de cristal llamado El Ojo del Halcón.** Esta estructura es la primera en Colombia en su clase.
+
+Esta es una plataforma de observación de vidrio templado. Tiene tres capas de armadura y tres capas de blindaje.
 
 Como puedes imaginarte, es un atractivo único en el país hasta el momento, pues no es solo la estructura, sino el hecho que esté sobre una de las principales caídas de agua del país.
 
 >¿Sabías sobre el tour al nacimiento del río Magdalena? Léelo en el artículo sobre el nacimiento del río Magdalena.  
 [La laguna del Magdalena]({% post_url 2023-03-29-laguna-del-magdalena %} "Laguna del Magdalena")
 
-Esta es una plataforma de observación de vidrio templado. Tiene tres capas de armadura y tres capas de blindaje.
-
 Es una vista muy, pero muy linda... ¡espectacular! El puente sobresale 12 metros, por lo que puedes observar la caída de agua justo desde arriba. Sí, **desde el puente de cristal El Ojo del Halcón podemos estar sobre la misma cascada del Salto del Mortiño.**
 
-Las fotografías o videos junto con el sonido de la cascada, hacen un dúo perfecto para los recuerdos que llevarás desde el Mirador del Ojo de Halcón.
+Las fotografías del Salto del Mortiño, o los videos junto con el sonido de la cascada, son un dúo perfecto para los recuerdos que llevarás después de visitar estas atracciones extremas en Isnos Huila.
+
+#### Datos y horarios del Salto del Mortiño
 
 La cantidad de personas que ingresan a estos atractivos turísticos pueden ser entre 2 y 20 personas. Se permiten 5 minutos por grupo cuando el flujo de visitantes es alto.
 
-### Precio del puente y del culumpio en el Salto del Mortiño
+Los horarios de atención son de jornada continua, entre las 9 a.m. y las 6 p.m.
+
+-----
+
+## Precio de las principales atracciones del Salto del Mortiño
 
 La entrada a la finca del Salto del Mortiño tiene un costo, hasta el año 2023, de 5000 por persona. Con este pago puedes acceder al lugar y disfrutar de sus miradores. Sin embargo, las atracciones de aventura tienen un costo adicional.
 
@@ -82,7 +88,7 @@ La entrada a la finca del Salto del Mortiño tiene un costo, hasta el año 2023,
 
 Solo puedes acceder sin zapatos. ¡Así que no olvides revisar tus medias!
 
-## Otras actividades en la finca el Salto del Mortiño
+### Otras actividades en la finca el Salto del Mortiño
 
 {% include cta-hotmart1.html %}
 
@@ -99,7 +105,7 @@ Con unas líneas reforzadas, te permiten volar y vivir una mezcla de aventura y 
 
 Finalmente, puedes pausar a tomar los mejores cafés de la zona, comer un rico postre o un buen almuerzo. O quizá, si el frío no es problema para ti, y si el clima te acompaña, tener una deliciosa tarde de piscina, con aguas naturales que corren hacia la cascada.
 
-### Información importante para tu visita en el Salto del Mortiño
+## Información importante para tu visita al Salto del Mortiño
 
 Para tu confianza, te contamos que la construcción del columpio tiene un contrapeso de cemento fabricado con más de 100 bultos de cemento.
 
