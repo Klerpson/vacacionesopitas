@@ -96,7 +96,7 @@ nav a .svg-icon circle {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 376px;
+  width: min(100%, 376px);
   text-align: center;
   border: 1.5px solid var(--gris1);
   border-radius: var(--radius);
