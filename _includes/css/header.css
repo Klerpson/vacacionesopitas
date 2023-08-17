@@ -86,62 +86,30 @@ nav a .svg-icon circle {
 }
 
 .gallery{
-  overflow: auto;
   display: flex;
-  gap: .5rem;
-  scroll-snap-type: x mandatory;
-}
-
-.gallery .item{
-  position: relative;
-  flex-shrink: 0;
-  scroll-snap-align: start;
-  height: 340px;
-  width: min(90%, 600px);
-  background-repeat: no-repeat;
-  border: 1px solid var(--gris1);
-  border-radius: var(--radius);
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
 }
 
 .gallery a{
-  color: var(--accion);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 376px;
+  text-align: center;
+  border: 1.5px solid var(--gris1);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.gallery a img{
+  border-radius: 0 0 12px 12px;
 }
 
 .gallery a h3{
-  background-color: rgba(255, 255, 255, 0.78);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 0.8rem;
-}
-
-.item-1 {
-  background-image: url('/img/blog/parque-arqueologico-san-agustin-600.webp');
-  background-size: cover;
-  background-position: center center;
-}
-
-.item-2 {
-  background-image: url('/img/blog/san-agustin-huila-600.webp');
-  background-size: cover;
-  background-position: center center;
-}
-
-.item-3 {
-  background-image: url('/img/blog/parque-sumak-san-agustin-huila-600.webp');
-  background-size: cover;
-  background-position: center center;
-}
-
-.item-4 {
-  background-image: url('/img/blog/estrecho-rio-magdalena-600.webp');
-  background-size: cover;
-  background-position: center center;
-}
-
-.item-5 {
-  background-image: url('/img/blog/salto-mortino-culumpio-puente-cristal-600.webp');
-  background-size: cover;
-  background-position: center center;
+  font-family: var(--fuenteTexto);
+  margin: 0;
+  padding: 8px;
 }
