@@ -1,20 +1,22 @@
 ---
 layout: post
 title: Descubre San Agustín sobre Dos Ruedas | Daaki Aventura
-description: "¿Listo para un viaje inolvidable? Descubre San Agustín en emocionantes paseos en bicicleta con expertos locales. ¡Reserva y comienza tu aventura!"
+description: ¿Listo para un viaje inolvidable? Descubre San Agustín en
+  emocionantes paseos en bicicleta con expertos locales. ¡Reserva y comienza tu
+  aventura!
 h1: Descubre San Agustín sobre dos ruedas | Daaki Aventura
 h1_alternativo: Descubre San Agustín sobre dos ruedas | Daaki Aventura
 category: turismo
-jpg: blog/turismo-san-agustin-bicicleta.webp
+jpg: /img/blog/turismo-san-agustin-bicicleta.webp
 hero: blog/turismo-san-agustin-bicicleta.webp
-webps: blog/turismo-san-agustin-bicicleta.webp
-webpm: blog/turismo-san-agustin-bicicleta.webp
-webpb: blog/turismo-san-agustin-bicicleta.webp
+webps: /img/blog/turismo-san-agustin-bicicleta.webp
+webpm: /img/blog/turismo-san-agustin-bicicleta.webp
+webpb: /img/blog/turismo-san-agustin-bicicleta.webp
 alt: tour a San Agustín en bicicleta
 date: 2023-08-17T12:06:24.248Z
 permalink: turismo-san-agustin/turismo-san-agustin-en-bicicleta
 ---
-**Explora San Agustín: El Tesoro del Turismo en Colombia**
+## Explora San Agustín: El Tesoro del Turismo en Colombia
 
 Si eres un amante de la aventura y la bicicleta, estás a punto de descubrir el plan perfecto para ti. Daaki Aventura te lleva en emocionantes paseos en bicicleta de montaña a través de los magníficos paisajes de San Agustín, Colombia.
 
