@@ -7,8 +7,8 @@ description: "¿Listo para un viaje inolvidable? Recorre San Agustín en
 h1: Recorre San Agustín sobre dos ruedas | Daaki Aventura
 h1_alternativo: Recorre San Agustín sobre dos ruedas | Daaki Aventura
 category: turismo
-jpg: _site/img/blog/andres-parrilla.webp
-hero: _site/img/blog/cabañas-el-trebol-san-agustin.webp
+jpg: /img/blog/tour-san-agustin-bicicleta.jpg
+hero: /img/blog/tour-san-agustin-bicicleta.webp
 webps: _site/img/blog/cafe-pitalito-huila-376.webp
 webpm: _site/img/blog/cafe-pitalito-huila-800.webp
 webpb: _site/img/blog/estrecho-rio-magdalena-600.webp
@@ -21,7 +21,7 @@ Si eres un amante de la aventura y la bicicleta, estás a punto de descubrir el 
 <!-- excerpt -->
 
 * Do not remove this line (it will not be displayed)
-  {:toc}
+{:toc}
 
 ## Explora San Agustín: el tesoro del turismo en Colombia
 
