@@ -102,6 +102,7 @@ nav a .svg-icon circle {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   overflow: hidden;
+  color: var(--principal);
 }
 
 .gallery a img{
