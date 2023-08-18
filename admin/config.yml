@@ -5,7 +5,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: '/img/blog'
-public_folder: '/_site/img/blog'
+public_folder: 'blog'
 collections:
   - name: 'blog'
     label: 'Blog'
