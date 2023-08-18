@@ -9,9 +9,9 @@ h1_alternativo: Recorre San Agustín sobre dos ruedas | Daaki Aventura
 category: turismo
 jpg: /img/blog/tour-san-agustin-bicicleta.jpg
 hero: /img/blog/tour-san-agustin-bicicleta.webp
-webps: _site/img/blog/cafe-pitalito-huila-376.webp
-webpm: _site/img/blog/cafe-pitalito-huila-800.webp
-webpb: _site/img/blog/estrecho-rio-magdalena-600.webp
+webps: /img/blog/tour-san-agustin-bicicleta-376.webp
+webpm: /img/blog/tour-san-agustin-bicicleta-600.webp
+webpb: /img/blog/tour-san-agustin-bicicleta-800.webp
 alt: Tour bicicleta San Agustín
 date: 2023-08-14T11:50:33.565Z
 permalink: turismo-san-agustin/turismo-san-agustin-bicicleta
