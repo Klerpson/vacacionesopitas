@@ -7,7 +7,7 @@ description: "¿Listo para un viaje inolvidable? Recorre San Agustín en
 h1: Recorre San Agustín sobre dos ruedas | Daaki Aventura
 h1_alternativo: Recorre San Agustín sobre dos ruedas | Daaki Aventura
 category: turismo
-jpg: /_site/img/blog/tour-san-agustin-bicicleta.jpg
+jpg: blog/tour-san-agustin-bicicleta.jpg
 hero: /_site/img/blog/tour-san-agustin-bicicleta.webp
 webps: /_site/img/blog/tour-san-agustin-bicicleta-376.webp
 webpm: /_site/img/blog/tour-san-agustin-bicicleta-600.webp
