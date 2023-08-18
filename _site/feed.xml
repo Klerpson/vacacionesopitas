@@ -5,14 +5,15 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Aug 2023 06:48:42 -0500</pubDate>
-    <lastBuildDate>Fri, 18 Aug 2023 06:48:42 -0500</lastBuildDate>
+    <pubDate>Fri, 18 Aug 2023 06:58:34 -0500</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2023 06:58:34 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
         <title>Recorre San Agustín sobre Dos Ruedas | Daaki Aventura</title>
-        <description>&lt;p&gt;Si eres un amante de la aventura y la bicicleta, estás a punto de descubrir el plan perfecto para ti. Daaki Aventura te lleva en emocionantes paseos en bicicleta de montaña a través de los magníficos paisajes de San Agustín, Colombia.
-&amp;lt;!-* excerpt –&amp;gt;&lt;/p&gt;
+        <description>&lt;p&gt;Si eres un amante de la aventura y la bicicleta, estás a punto de descubrir el plan perfecto para ti. Daaki Aventura te lleva en emocionantes paseos en bicicleta de montaña a través de los magníficos paisajes de San Agustín, Colombia.&lt;/p&gt;
+
+&lt;!-- excerpt --&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#explora-san-agustín-el-tesoro-del-turismo-en-colombia&quot; id=&quot;markdown-toc-explora-san-agustín-el-tesoro-del-turismo-en-colombia&quot;&gt;Explora San Agustín: el tesoro del turismo en Colombia&lt;/a&gt;&lt;/li&gt;
@@ -72,8 +73,8 @@
 &lt;p&gt;Nuestros blogs están diseñados para enriquecer tu experiencia y ayudarte a planificar tu próxima aventura de manera informada y emocionante en San Agustín&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Aug 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/turismo-san-agustin-bicicleta</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/turismo-san-agustin-bicicleta</guid>
+        <link>http://localhost:4000/turismo-san-agustin/turismo-san-agustin-bicicleta</link>
+        <guid isPermaLink="true">http://localhost:4000/turismo-san-agustin/turismo-san-agustin-bicicleta</guid>
         
         
         
