@@ -1,56 +1,51 @@
 ---
+h1_alternativo: La Mano del Gigante, fascinante mirador del Huila
+referencias:
+  - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
 layout: post
-title: "El Mirador 'La mano del Gigante' en Gigante Huila"
-description: '¡Prepárate para una aventura inolvidable en Gigante Huila! Y en este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La mano del Gigante".'
-h1: "El Mirador 'La mano del Gigante' en Gigante Huila: ¡aventura y muchas fotografías!"
-h1_alternativo: Parque arqueológico de San Agustín Huila
-award: La mejor guía para visitar el parque arqueológico de San Agustín Huila
-category: turismo
+title: El Mirador 'La mano del Gigante' en Gigante Huila
+description: '¡Prepárate para una aventura inolvidable en Gigante Huila! Y en
+  este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La
+  mano del Gigante".'
 jpg: blog/mirador-mano-del-gigante-huila.jpg
+webpb: blog/mirador-mano-del-gigante-huila-800.webp
+excerpt_separator: <!-- excerpt -->
+h1: "El Mirador 'La mano del Gigante' en Gigante Huila: ¡aventura y muchas
+  fotografías!"
+category: turismo
 hero: blog/mirador-mano-del-gigante-huila.webp
 webps: blog/mirador-mano-del-gigante-huila-376.webp
 webpm: blog/mirador-mano-del-gigante-huila-600.webp
-webpb: blog/mirador-mano-del-gigante-huila-800.webp
-alt: Mirador la mano de Gigante
+alt: Mano Gigante Huila
 date: 2023-03-27
-referencias:
-  - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
-excerpt_separator: <!-- excerpt -->
 permalink: turismo-san-agustin/mirador-mano-del-gigante-en-gigante-huila
---- 
+award: La mejor guía para visitar el parque arqueológico de San Agustín Huila
+---
+ 
 "La mano del Gigante" en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador.
+
 <!-- excerpt -->
 
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
-Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
+Este mirador lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
 
-## El turismo en Gigante Huila
+## El turismo en la Mano del Gigante
 
-Pero antes de contarte más sobre esta increíble atracción, hablemos un poco del **turismo en Gigante Huila**.
+Este impresionante mirador es el atractivo más importante del **turismo en Gigante Huila**.
 
-¿Te gustan las aventuras y nuevas experiencias? Tienes que venir a Gigante Huila. La región es conocida por su riqueza natural, la cultura y las tradiciones locales, y por supuesto, la deliciosa comida típica.
+¿Te gustan las aventuras y nuevas experiencias? Tienes que venir a visitar la Mano del Gigante. La región es conocida por su riqueza natural, la cultura y las tradiciones locales, y por supuesto, la deliciosa comida típica. Son un complemento para un buen viaje.
 
-Hay muchas actividades turísticas, desde **caminatas por la montaña y paseos en bicicleta hasta visitas a cascadas y ríos**.
+Hay muchas actividades turísticas: **caminatas por la montaña, escenarios para la fotografía con la impresionante vista del lugar, paseos en helicóptero, entre otras**.
 
-En otras palabras, *Gigante Huila es el destino perfecto para aquellos que buscan una escapada única y emocionante*.
+En otras palabras,  la Mano del Gigante *es el destino perfecto para aquellos que buscan una escapada única y emocionante*.
 
-## ¿Necesitas hospedaje en Gigante Huila?
-
-{% include cta-hotmart1.html %}
-
-Y cuando vengas, ¿dónde vas a [alojarte en Gigante Huila](https://www.booking.com/searchresults.es.html?aid=306396&label=gigante-NPVifzbX7Y_C7rbzs0hwwAS638077279638%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-405510400211%3Alp20204%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YdnZzv7u3SiOco5fpqS0M1M&sid=2e40722a3292c597967d092624e3142a&city=-585173&redirected=1&redirected_from_city=1&source=city&){:rel="nofollow noopener noreferrer" target="_blank"}? Bueno, ¡tienes muchas opciones! Desde cabañas y alojamientos rurales hasta hoteles y posadas. Si prefieres la tranquilidad del campo, entonces alojarte en una cabaña en las montañas puede ser la mejor opción para ti.
-
-Ahora, si necesitas *una estadía más económica, cómoda y conveniente*, los hoteles y posadas en el centro del pueblo pueden ser lo que necesitas.
-
-Recuerda que **Gigante Huila es un lugar pequeño**, por lo que no tendrás problemas para desplazarte entre los diferentes alojamientos y atracciones.
-
-## La mano del Gigante: el mirador más importante de Gigante Huila
+## Dónde queda La mano del Gigante Huila
 
 Ahora, volvamos al tema principal: el mirador "La mano del Gigante". Este mirador es una de las atracciones más icónicas de la zona, y una visita obligada para todos los turistas que visitan Gigante Huila.
 
-### ¿Cómo llegar a la mano del Gigante?
+### ¿ Cómo llegas a la mano del Gigante?
 
 El Mirador "La mano del Gigante" se encuentra ubicado a unos 20 minutos en carro desde el pueblo de Gigante. Puedes *pagar un taxi desde el centro del pueblo hasta la entrada del mirador*. Ya te contaremos porqué es lo más recomendado.
 
@@ -59,9 +54,15 @@ Al llegar a este punto, **deberás subir cerca de 2 kilómetros** hasta la cima 
 Desde aquí **puedes pagar transporte en vehículos con más tracción**, que cobra 15000 pesos en promedio. También, **puedes hacer una caminata por un sendero de cerca de 40 minutos**. Al bajar, el tiempo es mucho menor. Por esto, te recomendamos bajar caminando. Así es más fácil llegar a donde está la Mano del Gigante.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7972.532998113206!2d-75.49886052910924!3d2.417791499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b33a8784635f7%3A0xc4466883657f3f23!2sMirador%20La%20Mano%20del%20Gigante!5e0!3m2!1ses!2sco!4v1677818982556!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-*Ubicación en Google maps del mirador La mano del Gigante*
+\*Ubicación en Google maps del mirador La mano del Gigante\*
 
-### Atractivos turísticos de la mano del Gigante
+### ¿﻿Cuál es el precio de la entrada a la montaña de la Mano del Gigante?
+
+Descubre la majestuosidad de la montaña y la vista panorámica desde este mirador, con un pago de **$15,000 pesos moneda colombiana (aproximadamente 3 dólares) por persona**.
+
+En el parque de la Mano del Gigante también ofrecen **estacionamiento seguro por solo $7,000 pesos moneda colombiana** (cerca de 1.4 dólares) que cubre todo el día.
+
+### Qué hacer en la Mano del Gigante
 
 **El principal atractivo de la mano del Gigante es su escultura hecha en pino y eucalipto**, la cual se asemeja a una mano gigante que emerge de la tierra.
 
@@ -75,8 +76,8 @@ Y si necesitas algo más, **en el lugar hay servicios como restaurante, cafeter�
 
 ## Recomendaciones para venir al mirador de la mano del Gigante
 
->Haz planes para pasar por el parque arqueológico de San Agustín. Aquí te contamos porqué vale la pena visitarlo  
-[Parque Arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque Arqueológico de San Agustín")
+> Haz planes para pasar por el parque arqueológico de San Agustín. Aquí te contamos porqué vale la pena visitarlo\
+> [Parque Arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque Arqueológico de San Agustín")
 
 Ten en cuenta las siguientes recomendaciones:
 
@@ -88,7 +89,17 @@ Ten en cuenta las siguientes recomendaciones:
 En el siguiente **video sobre el mirador de la mano del Gigante** podrás ver más sobre estas recomendaciones.
 
 <iframe width="100%" height="455" src="https://www.youtube-nocookie.com/embed/AbJvSf4voNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-*Créditos del canal [Roadxelmundo](https://www.youtube.com/@roadxelmundo){:rel="nofollow noopener noreferrer" target="_blank"}*
+\*Créditos del canal \[Roadxelmundo](https://www.youtube.com/@roadxelmundo){:rel="nofollow noopener noreferrer" target="_blank"}\*
+
+## ¿Necesitas hospedaje en Gigante Huila?
+
+{% include add1.html %}
+
+Y cuando vengas, ¿dónde vas a [alojarte en Gigante Huila](https://www.booking.com/searchresults.es.html?aid=306396&label=gigante-NPVifzbX7Y_C7rbzs0hwwAS638077279638%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-405510400211%3Alp20204%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YdnZzv7u3SiOco5fpqS0M1M&sid=2e40722a3292c597967d092624e3142a&city=-585173&redirected=1&redirected_from_city=1&source=city&){:rel="nofollow noopener noreferrer" target="_blank"}? Bueno, ¡tienes muchas opciones! Desde cabañas y alojamientos rurales hasta hoteles y posadas. Si prefieres la tranquilidad del campo, entonces alojarte en una cabaña en las montañas puede ser la mejor opción para ti.
+
+Ahora, si necesitas *una estadía más económica, cómoda y conveniente*, los hoteles y posadas en el centro del pueblo pueden ser lo que necesitas.
+
+Recuerda que **Gigante Huila es un lugar pequeño**, por lo que no tendrás problemas para desplazarte entre los diferentes alojamientos y atracciones.
 
 ## Huila y La mano del Gigante: el mejor mirador
 
