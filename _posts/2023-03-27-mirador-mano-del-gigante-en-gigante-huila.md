@@ -27,7 +27,7 @@ award: La mejor guía para visitar el parque arqueológico de San Agustín Huila
 <!-- excerpt -->
 
 * Do not remove this line (it will not be displayed)
-  {:toc}
+{:toc}
 
 Este mirador lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
 
@@ -39,13 +39,13 @@ Este impresionante mirador es el atractivo más importante del **turismo en Giga
 
 Hay muchas actividades turísticas: **caminatas por la montaña, escenarios para la fotografía con la impresionante vista del lugar, paseos en helicóptero, entre otras**.
 
-En otras palabras,  la Mano del Gigante *es el destino perfecto para aquellos que buscan una escapada única y emocionante*.
+En otras palabras, la Mano del Gigante *es el destino perfecto para aquellos que buscan una escapada única y emocionante*.
 
 ## Dónde queda La mano del Gigante Huila
 
 Ahora, volvamos al tema principal: el mirador "La mano del Gigante". Este mirador es una de las atracciones más icónicas de la zona, y una visita obligada para todos los turistas que visitan Gigante Huila.
 
-### ¿ Cómo llegas a la mano del Gigante?
+### ¿Cómo llegas a la mano del Gigante?
 
 El Mirador "La mano del Gigante" se encuentra ubicado a unos 20 minutos en carro desde el pueblo de Gigante. Puedes *pagar un taxi desde el centro del pueblo hasta la entrada del mirador*. Ya te contaremos porqué es lo más recomendado.
 
@@ -56,13 +56,13 @@ Desde aquí **puedes pagar transporte en vehículos con más tracción**, que co
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7972.532998113206!2d-75.49886052910924!3d2.417791499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b33a8784635f7%3A0xc4466883657f3f23!2sMirador%20La%20Mano%20del%20Gigante!5e0!3m2!1ses!2sco!4v1677818982556!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 \*Ubicación en Google maps del mirador La mano del Gigante\*
 
-### ¿﻿Cuál es el precio de la entrada a la montaña de la Mano del Gigante?
+### ¿Cuál es el precio de la entrada a la montaña de la Mano del Gigante?
 
 Descubre la majestuosidad de la montaña y la vista panorámica desde este mirador, con un pago de **$15,000 pesos moneda colombiana (aproximadamente 3 dólares) por persona**.
 
 En el parque de la Mano del Gigante también ofrecen **estacionamiento seguro por solo $7,000 pesos moneda colombiana** (cerca de 1.4 dólares) que cubre todo el día.
 
-### Qué hacer en la Mano del Gigante
+### ¿Qué hacer en la Mano del Gigante?
 
 **El principal atractivo de la mano del Gigante es su escultura hecha en pino y eucalipto**, la cual se asemeja a una mano gigante que emerge de la tierra.
 
@@ -91,9 +91,7 @@ En el siguiente **video sobre el mirador de la mano del Gigante** podrás ver m�
 <iframe width="100%" height="455" src="https://www.youtube-nocookie.com/embed/AbJvSf4voNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 \*Créditos del canal \[Roadxelmundo](https://www.youtube.com/@roadxelmundo){:rel="nofollow noopener noreferrer" target="_blank"}\*
 
-## ¿Necesitas hospedaje en Gigante Huila?
-
-{% include add1.html %}
+## ¿Necesitas hospedaje para visitar la Mano del Gigante Huila?
 
 Y cuando vengas, ¿dónde vas a [alojarte en Gigante Huila](https://www.booking.com/searchresults.es.html?aid=306396&label=gigante-NPVifzbX7Y_C7rbzs0hwwAS638077279638%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-405510400211%3Alp20204%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YdnZzv7u3SiOco5fpqS0M1M&sid=2e40722a3292c597967d092624e3142a&city=-585173&redirected=1&redirected_from_city=1&source=city&){:rel="nofollow noopener noreferrer" target="_blank"}? Bueno, ¡tienes muchas opciones! Desde cabañas y alojamientos rurales hasta hoteles y posadas. Si prefieres la tranquilidad del campo, entonces alojarte en una cabaña en las montañas puede ser la mejor opción para ti.
 
@@ -101,7 +99,7 @@ Ahora, si necesitas *una estadía más económica, cómoda y conveniente*, los h
 
 Recuerda que **Gigante Huila es un lugar pequeño**, por lo que no tendrás problemas para desplazarte entre los diferentes alojamientos y atracciones.
 
-## Huila y La mano del Gigante: el mejor mirador
+## La mano del Gigante: el mejor mirador del Huila
 
 Ir a la mano del Gigante es la sensación de estar frente a una obra de arte de la naturaleza es indescriptible. Es como si la mano del gigante te estuviera dando la bienvenida a un mundo de ensueño.
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "El Salto del Mortiño ¡Columpio y Puente de Cristal extremos!"
+title: "Salto del Mortiño ¡Columpio y Puente de Cristal extremos!"
 description: "Salto del Mortiño en Isnos Huila: conoce las emociones del Columpio y el puente de Cristal que están sobre la caída de esta majestuosa cascada."
 h1: El Salto del Mortiño en Isnos Huila - El columpio y el puente de cristal más extremos de Colombia
 h1_alternativo: El Salto del Mortiño
-award: La mejor guía para visitar el Salto del Mortiño
+award: Salto de Mortiño - Columpio | Puente de Cristal
 category: turismo
 jpg: blog/salto-mortino-culumpio-puente-cristal.jpg
 hero: blog/salto-mortino-culumpio-puente-cristal.webp
 webps: blog/salto-mortino-culumpio-puente-cristal-376.webp
 webpm: blog/salto-mortino-culumpio-puente-cristal-600.webp
 webpb: blog/salto-mortino-culumpio-puente-cristal-800.webp
-alt: Columpio Vuelo del Halcón Salto Mortiño
+alt: Salto de Mortiño
 date: 2023-03-15
 referencias:
   - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
