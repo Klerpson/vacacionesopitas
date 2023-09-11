@@ -26,9 +26,6 @@ El hotel Akawanka de San Agustín tiene una ubicación privilegiada hacia la zon
 
 En este hotel **tendrás una de las mejores panorámicas de todo San Agustín Huila**, el paraíso que estás por visitar.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## ¿Cómo es el Hotel Akawanka Lodge de San Agustín?
 
 **El hotel Akawanka ofrece una temática Eco Logde**. Se enfoca en guardar un equilibrio entre presentar y conservar identidad cultural ancestral de San Agustín, al tiempo que respeta la historia natural del ambiente local y la conservación de los ecosistemas.

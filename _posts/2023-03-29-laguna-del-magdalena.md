@@ -21,9 +21,6 @@ La laguna del Magdalena es una reserva espectacular adornada por los frailejones
 Tiene una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Turismo en la Laguna del Magdalena
 
 El turismo de la Laguna del Magdalena es del tipo de aventura y naturaleza, la mayoría intacta a los daños que causa el hombre.
@@ -42,8 +39,6 @@ Esto te abre la posibilidad de terminar tu ruta con otros destinos como:
 * Los termales de Coconuco, entre otros.
 
 ### Precio del tour a la Laguna del Magdalena
-
-{% include cta-hotmart1.html %}
 
 Para visitar este lugar, **los precios varían entre los 70000 COP por día, hasta los 700000 COP en total.**
 
@@ -96,8 +91,6 @@ Para llegar desde San Agustín hasta la Laguna del Magdalena, primero debes hace
 Desde este punto comenzarás una aventura natural en una muy extensa caminata, y contratando los servicios de transporte a caballo.
 
 #### El recorrido hacia la Laguna del Magdalena
-
-{% include hotmart2.html %}
 
 Desde allí caminarás un **sendero conocido como El Camino Nacional o El Camino Nacional de Quinchana**.
 

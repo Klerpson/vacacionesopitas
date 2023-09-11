@@ -23,12 +23,7 @@ El Salto de Mortiño es una finca turística, para los amantes de los deportes e
 
 Te contaremos las actividades que puedes hacer cuando vengas a visitarlos, cómo llegar y todo lo necesario para que te animes a venir.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## El Salto del Mortiño en Isnos
-
-{% include cta-hotmart1.html %}
 
 Para llegar al Salto del Mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema "San Agustín Huila") e Isnos, en la vereda El Mortiño.
 
@@ -89,8 +84,6 @@ La entrada a la finca del Salto del Mortiño tiene un costo, hasta el año 2023,
 Solo puedes acceder sin zapatos. ¡Así que no olvides revisar tus medias!
 
 ### Otras actividades en la finca el Salto del Mortiño
-
-{% include cta-hotmart1.html %}
 
 Como es un complejo lleno de aventura, puedes hacer otras cosas. Por ejemplo, **otra actividad extrema es la cauchera humana**, una atracción de más alto impacto.
 

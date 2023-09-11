@@ -19,9 +19,6 @@ permalink: turismo-san-agustin/parque-tematico-sumak-san-agustin
 ¿Estás buscando una experiencia única en contacto con la naturaleza y la cultura de San Agustín Huila? Entonces no puedes perderte el Parque Temático SUMAK, un lugar que te sorprenderá con su amplia variedad de atracciones y actividades para toda la familia.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## ¿Qué es el parque SUMAK?
 
 En el primer parque temático de San Agustín podrás disfrutar de **una amplia variedad de actividades para todos los gustos**. Desde shows folklóricos y musicales hasta paseos en cuatrimotos y tirolesas, pasando por acuarios, jardines exóticos y granjas de especies vacunas, caprinas y menores... ***en SUMAK hay algo para todos***.
@@ -130,8 +127,6 @@ Antes de llegar a SUMAK Parque Temático, es importante que tengas en cuenta alg
 ----
 
 ## Reserva tu aventura en SUMAK Parque Temático ahora
-
-{% include hotmart2.html %}
 
 Puedes contactar directamente con el parque SUMAK al email [contacto@sumak.com.co](mailto:contacto@sumak.com.co){:rel="nofollow noopener noreferrer" target="_blank"}, o a los celulares [3227697933](tel:573227697933){:rel="nofollow noopener noreferrer" target="_blank"} y [3227697934](tel:573227697934){:rel="nofollow noopener noreferrer" target="_blank"}. Este último también sirve como el [WhatsApp oficial de SUMAK](https://api.whatsapp.com/send?phone=+573227697934&text=Hola.%20Le%C3%AD%20sobre%20SUMAK%20en%20sanagustinhuila.com.co%20y%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20info%20){:rel="nofollow noopener noreferrer" target="_blank"}. Su página web oficial es [sumak.com.co](https://sumak.com.co/){:rel="nofollow noopener noreferrer" target="_blank"}.
 

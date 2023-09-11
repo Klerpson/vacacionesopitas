@@ -24,9 +24,6 @@ El [hotel Masaya](https://www.masaya-experience.com/san-agustin/ "Página web de
 
 El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## El Hotel Masaya
 
 Esta cadena hotelera **diseñó sus construcciones en San Agustín basándose en un modelo de chozas de las culturas indígenas de la localidad**. Tienen una maloca hermosa (Una maloca es una vivienda indígena construida con pilares sobre los cuales hay un techo de fina paja).
@@ -36,8 +33,6 @@ El hotel Masaya es una propiedad enorme. Su ubicación te brinda unas vistas her
 Y los diseñadores del lugar cuidaron un especial detalle: **en el hotel Masaya puedes disfrutar las vistas desde casi cualquiera de los edificios de las instalaciones del hotel.**
 
 ### Cómo llegar al Hotel Masaya de San Agustín
-
-{% include cta-hotmart1.html %}
 
 La ubicación del Hotel Masaya es en una vereda de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila") llamada El Tablón.
 
@@ -97,8 +92,6 @@ El hotel Masaya también te ofrece las siguientes actividades para amenizar tu e
 Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"); a 30 minutos el [Parque Arqueológico de San Agustín]({% post_url 2023-04-02-parque-arqueologico-san-agustin %} "Parque arqueológico San Agustín"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/turismo-san-agustin/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
 
 ## Opiniones sobre el hotel Masaya San Agustín
-
-{% include hotmart2.html %}
 
 Los comentarios en Google Maps sobre el hotel siempre destacan 3 aspectos importantes:
 

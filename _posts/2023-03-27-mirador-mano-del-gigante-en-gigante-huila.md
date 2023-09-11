@@ -26,9 +26,6 @@ award: La mejor guía para visitar el parque arqueológico de San Agustín Huila
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 Este mirador lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
 
 ## El turismo en la Mano del Gigante

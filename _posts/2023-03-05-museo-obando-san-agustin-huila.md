@@ -23,16 +23,11 @@ El museo de Obando Huila es un Parque y Museo Arqueológico donde puedes conocer
 
 Obando en San Agustín es famoso por su museo arqueológico. Se encuentra en un corregimiento a 20 minutos desde el municipio.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Historia del museo de Obando en San Agustín Huila
 
 El museo fue inaugurado en el año 2011. Cuenta con pinturas rupestres, visitas guiadas y un parque famoso por sus tumbas. **En el museo de Obando puede observar varias piezas tibetanas, samburíes, antigüedades prehispánicas y de época colonial.**
 
 Obando en [San Agustín](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow" target:"_blank"} es un lugar privilegiado para la admiración y aprecio. **Es rico en su patrimonio arqueológico indígena colombiano**. Da a conocer la grandiosidad del pasado de nuestros ancestros, transmitiendo vitalidad y argumento cultural.
-
-{% include cta-hotmart1.html %}
 
 Aunque es un pequeño lugar de clima frío, también es acogedor, muy pintoresco. Muy agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
 
@@ -65,8 +60,6 @@ En este parque tienes buenos planes para pasar un rato agradable: la plaza princ
 Esta belleza arquitectónica fue construida a través de las donaciones de las familias del mismo municipio, la colaboración del arte local, pastores y gobernadores.
 
 El objetivo siempre ha sido describir y preservar la historia del departamento de Huila y su cultura.
-
-{% include hotmart2.html %}
 
 ## Un paseo de relajación y cultura
 

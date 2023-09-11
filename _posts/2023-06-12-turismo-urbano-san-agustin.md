@@ -19,12 +19,7 @@ permalink: turismo-san-agustin/turismo-urbano-san-agustin
 En el corazón de San Agustín, Huila, se encuentra una expresión artística en murales que cautivan los sentidos y cuentan historias fascinantes.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Explora los murales que celebran la cultura y naturaleza de San Agustín
-
-{% include cta-hotmart1.html %}
 
 **Los murales pintados en las paredes y postes de nuestro pueblo son un tesoro escondido** que te invita a sumergirte en la magia de nuestra cultura y la belleza de nuestra naturaleza.
 

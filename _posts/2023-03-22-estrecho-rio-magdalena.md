@@ -19,9 +19,6 @@ excerpt_separator: <!-- excerpt -->
 El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que **este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Historia del Estrecho del Magdalena
 
 El Estrecho del Magdalena es una belleza natural ubicada en [San Agustín, Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila").
@@ -58,8 +55,6 @@ Un gran espectáculo en las épocas de lluvia, es observar la capacidad del río
 También, puedes ver muchas fotografía del Estrecho del Magdalena haciendo clic para ver su [perfil de Google Maps en este enlace](https://www.google.com/maps/place/Estrecho+del+R%C3%ADo+Magdalena/@1.9277391,-76.2980586,3a,97.4y,90t/data=!3m8!1e2!3m6!1sAF1QipPA3jw6yr8wylqIL2N4JuooPIp3ay3xH6jhhal-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPA3jw6yr8wylqIL2N4JuooPIp3ay3xH6jhhal-%3Dw118-h86-k-no!7i720!8i522!4m7!3m6!1s0x8e257be14f0de709:0x859adf81823fc461!8m2!3d1.9277391!4d-76.2980586!10e5!16s%2Fg%2F11t1j3w62k){:rel="nofollow noopener noreferrer" target="_blank"}.
 
 ## Cómo llegar al estrecho del río Magdalena
-
-{% include hotmart2.html %}
 
 La salida hacia el estrecho del Magdalena **NO es la misma salida al [parque arqueológico de San Agustín]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Parque arqueológico San Agustín")**. Al tiempo que haces el viaje vas a disfrutar de una vista hermosa sobre el recorrido del cañón del Magdalena.
 
@@ -102,7 +97,5 @@ En el estrecho del Magdalena es muy común que los más osados intenten pasar de
 *Por favor, acata las recomendaciones y **no intentes saltar en el Estrecho del Magdalena***
 
 ## Ven al Estrecho del Río Magdalena
-
-{% include cta-hotmart1.html %}
 
 Estamos seguros que pasarás un paseo relajante, rodeado y admirado de su imponente naturaleza. Esta es la expresión de humildad de un majestuoso río reducido a un pequeño paso, **el Estrecho del Magdalena**.

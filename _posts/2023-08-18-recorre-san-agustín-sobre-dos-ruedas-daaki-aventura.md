@@ -20,12 +20,7 @@ Si eres un amante de la aventura y la bicicleta, estás a punto de descubrir el 
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Explora San Agustín: el tesoro del turismo en Colombia
-
-{% include hotmart2.html %}
 
 Nuestro paquete de aventura ha sido diseñado para ofrecerte todo lo que necesitas. ¿Te preocupa la logística? No te preocupes, nosotros nos encargamos de todo para que puedas relajarte y disfrutar al máximo.
 

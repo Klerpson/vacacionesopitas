@@ -24,9 +24,6 @@ excerpt_separator: <!-- excerpt -->
 La finca orgánica Tierra Activa es un alojamiento rural temático y de auténticas experiencias campesinas.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## La Finca Tierra Activa
 
 Su actividad principal es el agroturismo, con actividades de autoconocimiento y conexión con la naturaleza, para alcanzar un descanso y una experiencia deliciosa y relajante.
@@ -82,8 +79,6 @@ En **la Finca Tierra Activa dispondrás de 4 habitaciones con la temática de lo
 El costo por persona incluye 1 desayuno, 1 sesión de aromaterapia, 1 tour experiencia campesina, wifi, cocina, baños privados con ducha caliente y te de bienvenida.
 
 ### Paquetes de experiencias en el Hotel Tierra Activa
-
-{% include cta-hotmart1.html %}
 
 En las instalaciones del Hotel Tierra Activa puedes solicitar cualquiera de estas experiencias:
 
@@ -164,8 +159,6 @@ La duración aproximada es de 2 horas. El valor por persona es de 40000. Comienz
 Este tour es apto para familias, parejas, equipos de trabajo y amigos.
 
 ### Preguntas sobre el Hotel Finca Tierra Activa
-
-{% include hotmart2.html %}
 
 * **¿Qué lugares puedo visitar cerca al Hotel Finca Tierra Activa?** El casco urbano está a 45 minutos a pie. Allí está el Museo Precolombino Villa Real, [la calle de las artesanías]({% post_url 2023-06-12-turismo-urbano-san-agustin %}), restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({% post_url 2023-04-02-parque-arqueologico-san-agustin %}) está a 1 hora también caminando.  
 Además, puedes visitar los atractivos naturales de San Agustín: [la cascada de los Tres Chorros]({% post_url 2023-02-22-cascada-los-tres-chorros-de-san-agustin %} "Cascada Tres Chorros"), [el Estrecho del Rio Magdalena]({% post_url 2023-03-22-estrecho-rio-magdalena %} "Estrecho Magdalena"), la [Laguna de la Magdalena]({% post_url 2023-03-29-laguna-del-magdalena %} "Laguna del Magdalena"), el Cañón del Rio Magdalena, el Parque Natural de las Palmas, la Reserva Natural Portal del Oso y el Parque Natural Nacional Puracé.

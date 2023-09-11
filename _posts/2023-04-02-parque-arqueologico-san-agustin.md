@@ -19,10 +19,7 @@ permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 **El Parque Arqueológico de San Agustín es un conjunto de esculturas y ruinas prehispánicas** ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con esculturas y monumentos de hace más de 1.800 años.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-## Cómo llegar al parque arqueológico
+## Cómo llegar hasta el parque arqueológico
 
 Para llegar al parque **primero debes ir hasta el municipio de San Agustín Huila**. Después de llegar allí, te diriges hasta la plaza principal. **Desde el parque principal**, recorres 3 kilómetros hasta llegar al Parque Arqueológico.
 
@@ -33,7 +30,15 @@ Puede servirte como punto de referencia llegar hasta la [heladería GurCoff](htt
 
 Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"), [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín") con comida típica y comidas rápidas, entre otros.
 
-### Llegar al parque desde Bogotá
+### Cómo llegar desde diferentes ciudades
+
+Para que no te pierdas en el camino, aquí tienes un cuadro comparativo con las opciones de transporte desde las principales ciudades:
+
+| Ciudad de Origen | Medio de Transporte | Tiempo Aproximado | Costo Aproximado |
+|------------------|---------------------|-------------------|------------------|
+| Bogotá           | Vuelo + Bus         | 5 horas           | $100 - $150      |
+| Cali             | Bus                 | 4 horas           | $50 - $80        |
+| Medellín         | Vuelo + Bus         | 6 horas           | $120 - $170      |
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de los hoteles de San Agustín Huila  
 [Hoteles en San Agustín]({{site.baseurl}}/hoteles-san-agustin)
@@ -43,9 +48,6 @@ Para llegar desde Bogotá puedes **utilizar el transporte terrestre desde Bogot�
 También, puedes tomar vuelos desde Bogotá. [El aeropuerto más cercano está ubicado en Pitalito](https://www.aerocivil.gov.co/aeropuertos/Pages/contador-pitalito.aspx){:rel="nofollow noopener noreferrer" target="_blank"}, justo en la vía entre Pitalito y San Agustín.
 
 Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos pueden costar un poco menos, pero están más retirados de tu destino. Pero igual te ahorrarán mucho tiempo.
-
->En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo.  
-[La magia de San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}
 
 ### Llegar al parque desde Neiva
 
@@ -100,9 +102,28 @@ De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre 
 
 Además, hay que tener en cuenta que en temporada normal *el parque arqueológico no abre los días martes*. En la temporada alta sí atienden toda la semana.
 
+### Descubre las zonas menos conocidas
+
+No te quedes solo con lo básico. Aquí tienes una lista para explorar las joyas escondidas del parque:
+
+* **Bosque de las Estatuas**: Esculturas misteriosas en un entorno natural.
+* **Fuente de Lavapatas**: Grabados en roca junto a un arroyo tranquilo.
+* **Alto de los Ídolos**: Menos concurrido pero igual de impresionante.
+
+### Enriquece tu visita con estos recursos
+
+Para que tu experiencia sea completa, aquí tienes una lista de recursos que te recomendamos:
+
+1. **Libro "Misterios de San Agustín"**: Disponible en la tienda del parque.
+2. **Aplicación móvil del Parque**: Guía audiovisual para tu recorrido.
+3. **Redes Sociales del Parque**: Síguenos para descuentos y eventos especiales.
+
 ----
 
 ## Qué es el Parque de San Agustín
+
+>En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo.  
+[La magia de San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}
 
 **El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2** de extensión. Es un lugar de gran importancia cultural y turística. Fue **declarado Patrimonio de la Humanidad por la UNESCO**.
 
@@ -128,6 +149,8 @@ El parque de San Agustín **es la zona con más allazgos arqueológicos de la é
 El parque tiene 78 hectáreas pertenecientes a los campesinos de la región. Fueron vendidas al gobierno con el tiempo; y **desde 1935, se creó oficialmente el Parque Arqueológico de San Agustín** para el público en general.
 
 En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de **trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra y darle figuras de humanos y animales, entre otras) trabajaba también la cerámica, la madera y conocía la orfebrería.**
+
+Por supuesto, Julian. Aquí te dejo las secciones adicionales pero con un enfoque más didáctico, utilizando listas y cuadros comparativos para hacer la información más accesible y fácil de digerir. 📊
 
 ### Las zonas del parque arqueológico de San Agustín Huila
 

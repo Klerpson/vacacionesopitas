@@ -25,16 +25,11 @@ El Hotel Internacional San Agustín está ubicado en medio de un paisaje natural
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## ¿Cómo es el Hotel Internacional San Agustín?
 
 El nombre del Hotel Internacional San Agustín se debe a **la arquitectura de sus construcciones inspiradas en diferentes países.** También, tiene construcciones inspiradas en la arquitectura colombiana precolombina, colonial, republicana y contemporánea.
 
 Para ser más específicos, sus diseños son: la Maloka Tipo Indígena, la Pagoda Oriental, el Estilo Americano, el Estilo Mediterráneo y el Estilo Escandinavo.
-
-{% include cta-hotmart1.html %}
 
 **En el Hotel Internacional San Agustín es predominante el ambiente artístico en su decoración.** Las pinturas de las paredes tienen relación directa con la arquitectura de cada edificio.
 

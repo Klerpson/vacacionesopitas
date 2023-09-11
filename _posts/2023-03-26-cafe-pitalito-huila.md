@@ -21,9 +21,6 @@ excerpt_separator: <!-- excerpt -->
 Tomar café en Pitalito, Huila, es toda una experiencia. Esta ciudad colombiana es conocida por sus cafés de alta calidad y su vibrante cultura generada alrededor de este producto.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## El café en Pitalito es de calidad de exportación
 
 La cultura del café en Pitalito es una de las razones por las que esta ciudad se ha convertido en un destino turístico popular. **Los cafés aquí son reconocidos por su calidad y notas de sabor únicas**.

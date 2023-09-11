@@ -19,9 +19,6 @@ excerpt_separator: <!-- excerpt -->
 **San Agustín Huila es un pueblito especial para viajar y descansar.** Sus hermosos paisajes del macizo colombiano; sus estructuras coloniales; su clima fresco y su cultura. ¡Todo te va a encantar!
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## San Agustín: destino turístico poco conocido
 
 Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por sus esculturas de piedra**, que son una de las atracciones turísticas más importantes de la región.

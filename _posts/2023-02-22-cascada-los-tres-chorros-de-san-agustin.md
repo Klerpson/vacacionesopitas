@@ -19,12 +19,7 @@ permalink: turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Los Tres Chorros: imponente cascada con 3 caídas de agua
-
-{% include cta-hotmart1.html %}
 
 La cascada Los Tres Chorros es una caída de agua que es parte del rio Mulales. **Esta cascada es de casi 28 metros que forman 3 chorros paralelos de muy buen caudal**, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.
 
@@ -92,8 +87,6 @@ También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorro
 Para más información sobre el tour a caballo, escríbenos en nuestra [sección de contacto]({{'contacto'|relative_url}}).
 
 ## ¿Qué puedes hacer en la cascada Los Tres Chorros?
-
-{% include cta-hotmart1.html %}
 
 Para comenzar, disfrutarás del viaje mismo. Durante el recorrido, en **medio de la naturaleza nativa de estas tierras de San Agustín**, se puede observar amplia variedad de aves, fauna y flora, propias de la región y del macizo colombiano.
 

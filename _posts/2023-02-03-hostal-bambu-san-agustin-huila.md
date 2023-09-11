@@ -24,9 +24,6 @@ permalink: /hoteles-san-agustin/hostal-bambu-san-agustin-huila
 El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes.
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Así es el hostal Bambú de San Agustín
 
 **El hostal Bambú de San Agustín tiene una ubicación privilegiada**, a pocas calles de la plaza principal del pueblo.
