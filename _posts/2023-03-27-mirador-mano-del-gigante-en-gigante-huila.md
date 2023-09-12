@@ -4,14 +4,11 @@ referencias:
   - Fotos Google maps: https://www.google.com/maps/place/Salto+El+Morti%C3%B1o/@1.88762,-76.2170648,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-NGxHgFZijFTmCcjP_MmZLmss4tcFoiV5xb5V%3Dw224-h298-k-no!7i1200!8i1600!4m8!3m7!1s0x8e25716c1b260971:0x7b971d85fae7fa6d!8m2!3d1.88762!4d-76.2170648!14m1!1BCgIgAQ!16s%2Fg%2F11j90yl_p1?authuser=0&hl=es
 layout: post
 title: El Mirador 'La mano del Gigante' en Gigante Huila
-description: '¡Prepárate para una aventura inolvidable en Gigante Huila! Y en
-  este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La
-  mano del Gigante".'
+description: '¡Prepárate para una aventura inolvidable en Gigante Huila! Y en este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La mano del Gigante".'
 jpg: blog/mirador-mano-del-gigante-huila.jpg
 webpb: blog/mirador-mano-del-gigante-huila-800.webp
 excerpt_separator: <!-- excerpt -->
-h1: "El Mirador 'La mano del Gigante' en Gigante Huila: ¡aventura y muchas
-  fotografías!"
+h1: "El Mirador 'La mano del Gigante' en Gigante Huila: ¡aventura y muchas fotografías!"
 category: turismo
 hero: blog/mirador-mano-del-gigante-huila.webp
 webps: blog/mirador-mano-del-gigante-huila-376.webp
@@ -87,6 +84,50 @@ En el siguiente **video sobre el mirador de la mano del Gigante** podrás ver m�
 
 <iframe width="100%" height="455" src="https://www.youtube-nocookie.com/embed/AbJvSf4voNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 \*Créditos del canal \[Roadxelmundo](https://www.youtube.com/@roadxelmundo){:rel="nofollow noopener noreferrer" target="_blank"}\*
+
+### Cómo prepararte para la caminata hasta el mirador
+
+Si estás pensando en hacer la caminata hasta el mirador "La Mano del Gigante", es crucial que te prepares adecuadamente.
+
+Haz esta **checklist de preparación para visitar la Mano de Gigante:**
+
+* **Zapatos cómodos y resistentes**: Para navegar por el terreno accidentado.
+* **Botella de agua**: Mantente hidratado.
+* **Bocadillos ligeros**: Para mantener tu energía.
+* **Cámara o smartphone**: No querrás perderte las fotos.
+
+### La mejor hora para visitar
+
+Si quieres capturar la mejor luz para tus fotos y evitar las multitudes, considera visitar el mirador durante las primeras horas de la mañana o justo antes del atardecer. Estos son los momentos en que el sol ilumina el paisaje de una manera verdaderamente mágica, y es probable que tengas el lugar casi para ti solo.
+
+| Mañana temprano | Atardecer |
+| --- | ---|
+| Menos gente | Luz dorada |
+| Mejor luz para fotos | Menos calor |
+
+### Actividades cercanas para completar tu día
+
+Si te quedas con ganas de más después de tu visita al mirador, hay muchas otras actividades cercanas que puedes disfrutar:
+
+1. **[Parque Arqueológico de San Agustín]({% post_url 2023-04-02-parque-arqueologico-san-agustin %})**: Para un toque de historia y cultura.
+2. **Restaurantes locales**: Prueba la cocina de la región.
+3. **Tiendas de souvenirs**: Lleva un recuerdo a casa.
+
+### Consejos para fotógrafos aficionados
+
+No necesitas ser un fotógrafo profesional para capturar la belleza de "La Mano del Gigante". Sin embargo, si quieres llevar tus fotos al siguiente nivel, aquí te dejamos unos tips para aplicar en el mirador de la Mano del Gigante:
+
+* **Usa un trípode**: Para estabilizar tus fotos.
+* **Ángulos variados**: No te quedes solo con las tomas frontales.
+* **Aplicaciones de edición**: Para realzar colores y detalles.
+
+## ¿Por qué "La Mano del Gigante" es un must para los amantes de la naturaleza?
+
+Si eres un apasionado de la naturaleza, este mirador es el lugar perfecto para ti. Mira estas **razones para visitar la Mano del Gigante:**
+
+* **Vistas panorámicas**: Ideal para los amantes de los paisajes.
+* **Flora y fauna locales**: Conecta con la naturaleza.
+* **Desconexión**: Un respiro del bullicio de la vida cotidiana.
 
 ## ¿Necesitas hospedaje para visitar la Mano del Gigante Huila?
 
