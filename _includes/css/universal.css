@@ -170,7 +170,8 @@ header,
 .categorias,
 .blog-posts,
 .contacto,
-.basic {
+.basic,
+.cta {
   width: min(95vw, 1200px);
   margin-inline: auto;
   margin-bottom: 4rem;
@@ -253,4 +254,23 @@ blockquote a:active,
     gap: 2rem;
     border-bottom: 2px dotted var(--gris1);
     padding-bottom: 2rem;
+  }
+
+  .cta a{
+    display: block;
+    width: max-content;
+    border-radius: var(--radius);
+    padding: 12px 20px;
+    background-color: white;
+    border: 2px solid var(--accion);
+    color: var(--accion);
+    text-decoration: none;
+    transition: all .2s ease-in;
+    margin-inline: auto;
+    box-shadow: var(--shadow);
+  }
+  
+  .cta a:hover{
+    background-color: var(--accion);
+    color: white;
   }

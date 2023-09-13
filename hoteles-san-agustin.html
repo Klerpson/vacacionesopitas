@@ -15,6 +15,8 @@ permalink: /hoteles-san-agustin
   </lord-icon>
 </section>
 
+{% include cta.html %}
+
 <main class="hoteles">
   {% for item in site.data.hoteles %} {% assign cat = item[0] %}
   <h2>{{ cat }}</h2>

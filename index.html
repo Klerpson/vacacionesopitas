@@ -10,6 +10,7 @@ h1: San Agustín Huila - Paraíso turístico colombiano
   </p>
 </section>
 
+{% include cta.html %}
 <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-39.78,26.16 C262.69,228.47 216.42,-18.23 608.07,110.05 L560.10,195.89 L0.00,150.00 Z" style="stroke: none; fill: #2F7CBA;"></path></svg></div>
 <div>
 <section class="cta-home">
@@ -58,7 +59,6 @@ h1: San Agustín Huila - Paraíso turístico colombiano
     src="{{'img/blog/san-agustin-parajes-800.webp'|relative_url}}" alt="Turistas en San Agustín Huila" loading="lazy">
   </div>
 </section>
-
 <section class="blog-home">
   <h2>La guía del turismo en San Agustín</h2>
   <p>Lee en nuestro blog todo sobre el turismo en San Agustín Huila y sus alrededores. San Agustín tiene muchos destinos turísticos ideales para tus vacaciones.</p>
@@ -93,9 +93,9 @@ h1: San Agustín Huila - Paraíso turístico colombiano
           <h4>{{ post4.h1 }}</h4>
         </a>
           {{ post4.excerpt | truncate: 80 | markdownify}}
-      </article>
-      {% assign post5 = site.posts[4] %}
-      <article>
+        </article>
+        {% assign post5 = site.posts[4] %}
+        <article>
         <a href="{{site.baseurl}}{{ post5.url }}" title="{{post5.title}}">
           <img src="{{ site.baseurl }}/img/{{ post5.webps }}" alt="{{ post5.alt }}" loading="lazy">
           <h4>{{ post5.h1 }}</h4>
@@ -145,11 +145,12 @@ h1: San Agustín Huila - Paraíso turístico colombiano
   <p><strong>Tres zonas arqueológicas han sido declaradas Patrimonio Histórico y Cultural de la Humanidad por la UNESCO,</strong> lo que atrae a turistas de todo el mundo. Además, la cultura y la naturaleza son también parte esencial de la región, siendo posible disfrutar de actividades como el agroturismo o las rutas de aventura.</p>
   <p>En esta página web se tratarán los aspectos más importantes de San Agustín de Huila, para descubrir cómo es este lugar y <a href="{% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %}">por qué resulta tan interesante para los turistas.</a></p>
   {% include img.html webps="san-agustin-huila-376.webp" webpm="san-agustin-huila-600.webp" webpb="san-agustin-huila-800.webp" hero="san-agustin-huila.webp" alt="Turista en San Agustín Huila" title="Turista en San Agustín" %}
+  {% include cta.html %}
 </main>
 
 <section class="cta-home">
   <q>Ven a San Agustín, Huila, y descubre un lugar mágico donde la historia y la naturaleza se entrelazan de manera única. En los Parques Arqueológicos de San Agustín y Tierradentro, podrás caminar entre gigantes de piedra creados hace miles de años por una civilización ancestral.<br><br>
-  Además, disfrutarás de una naturaleza deslumbrante con cascadas, ríos cristalinos y bosques frondosos. Te invitamos a conocer la alegría y el espíritu acogedor de la gente huilense y a sentirte parte de una comunidad que ama su historia y su tierra. ¡No te lo pierdas, San Agustín te espera con los brazos abiertos!</q>
+    Además, disfrutarás de una naturaleza deslumbrante con cascadas, ríos cristalinos y bosques frondosos. Te invitamos a conocer la alegría y el espíritu acogedor de la gente huilense y a sentirte parte de una comunidad que ama su historia y su tierra. ¡No te lo pierdas, San Agustín te espera con los brazos abiertos!</q>
 </section>
 
 
