@@ -24,6 +24,10 @@ permalink: /hoteles-san-agustin/hostal-bambu-san-agustin-huila
 El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes.
 <!-- excerpt -->
 
+<div class="cta">
+  <a href="https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FHostal-Bambu%2CSan-Agust%C3%ADn%2CColombia-c303950-h838036-details%2F1rooms%2F2adults" rel="nofollow sponsored" target="_blank">🎒 Contrata con el Hostal Bambú</a>
+</div>
+
 ## Así es el hostal Bambú de San Agustín
 
 **El hostal Bambú de San Agustín tiene una ubicación privilegiada**, a pocas calles de la plaza principal del pueblo.
@@ -80,10 +84,11 @@ Este hostal ofrece unos servicios muy familiares. Realmente, su calidad humana d
 
 ## ¿Por qué escoger el Hostal Bambú de San Agustín?
 
->¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de Carolina Colobon y Nando Prieto en su libro Cómo viajar por el mundo  
-[Comprar libro 🎒Cómo viajar por el mundo](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
-
 Este hostal de [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"} será tu favorito por las siguientes razones:
+
+<div class="cta">
+  <a href="https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FHostal-Bambu%2CSan-Agust%C3%ADn%2CColombia-c303950-h838036-details%2F1rooms%2F2adults" rel="nofollow sponsored" target="_blank">🎒 Contrata con el Hostal Bambú</a>
+</div>
 
 1. **El hostal Bambú está ubicado en la histórica calle de la Locería de San Agustín**. Además del ambiente turístico y colonial, es muy tranquila para el descanso.
 2. Para asegurar tu descanso, tienen una política de no ruidos que molesten a otros huéspedes después de las 10 p.m.
@@ -107,6 +112,8 @@ Los comentarios sobre el hostal Bamú siempre destacan 3 aspectos importantes qu
 * **Su terraza con vista al pueblo es perfecta para los atardeceres, la lectura y la meditación**.
 * Su **estética con murales decorados** que relajan y generan un ambiente muy acogedor.
 
-También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes).
+<div class="cta">
+  <a href="https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FHostal-Bambu%2CSan-Agust%C3%ADn%2CColombia-c303950-h838036-details%2F1rooms%2F2adults" rel="nofollow sponsored" target="_blank">🎒 Contrata con el Hostal Bambú</a>
+</div>
 
 Si deseas ver más hoteles, sigue navegando en nuestra página de [hoteles de San Agustín Huila]({{'hoteles-san-agustin'|relative_url}} "Hoteles San Agustin"){:target="_blank"}.
