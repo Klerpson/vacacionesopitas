@@ -16,29 +16,35 @@ date: 2023-04-01
 permalink: turismo-san-agustin/san-agustin-huila-magia-aventura-extrema
 excerpt_separator: <!-- excerpt -->
 ---
-**San Agustín Huila es un pueblito especial para viajar y descansar.** Sus hermosos paisajes del macizo colombiano; sus estructuras coloniales; su clima fresco y su cultura. ¡Todo te va a encantar!
+**Descubre San Agustín Huila, el destino turístico ideal en Colombia para viajes de aventura y relajación.** Sus hermosos paisajes del macizo colombiano; sus estructuras coloniales; su clima fresco y su cultura. ¡Todo te va a encantar!
 <!-- excerpt -->
 
-## San Agustín: destino turístico poco conocido
+## San Agustín Huila: destino turístico poco conocido
 
-Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por sus esculturas de piedra**, que son una de las atracciones turísticas más importantes de la región.
+Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por:
 
-Adicional a las esculturas, **San Agustín también es famosa por su clima templado-frío y su paisaje montañoso**, con cascadas y ríos. Esto se debe a su privilegiada ubicación sobre el cañón del río Magdalena y en medio de los páramos Puracé y Soledad.
+* **Esculturas de Piedra**: Conoce el arte ancestral de la región.
+* **Clima Templado-Frío**: Perfecto para una escapada de fin de semana.
+* **Paisaje Montañoso**: Ideal para los amantes del senderismo.
+* **Sus cascadas y ríos**: Practica deportes extremos y visita lugares con vistas hermosas.
+
+>Si vienes a San Agustín, tienes que probar el mejor helado de yogur de toda Colombia!!!  
+[Heladería GurCoff de San Agustín](https://gurcoff.com){:target="_blank"}
+
+Esto se debe a su privilegiada ubicación sobre el cañón del río Magdalena y en medio de los páramos Puracé y Soledad.
 
 Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila: **qué hacer, dónde quedarte, qué puedes disfrutar de su gastronomía** y mucho más. ¡Empecemos!
 
 ----
 
-## ¿Qué puedes hacer en San Agustín Huila?
-
->Si vienes a San Agustín, tienes que probar el mejor helado de yogur de toda Colombia!!!  
-[Heladería GurCoff de San Agustín](https://gurcoff.com){:target="_blank"}
+## Top 3 Actividades Imperdibles Que Puedes Hacer en San Agustín Huila
 
 San Agustín Huila tiene 3 pilares en su oferta turística:
 
-1. El parque arqueológico y sus ruinas
-2. El turismo de aventura y naturaleza en el cañón del Magdalena
-3. Las artesanías inspiradas en la cultura local y el turismo urbano.
+1. [El parque arqueológico y sus ruinas](#1-el-parque-arqueológico-de-san-agustín)
+2. [El turismo de aventura y naturaleza en el cañón del Magdalena](#2-sitios-turísticos-de-san-agustín)
+3. [Las artesanías inspiradas en la cultura local y el turismo urbano](#3-turismo-en-san-agustín-de-artesanías-y-arte)
+{:class="seccion"}
 
 ### 1. El parque arqueológico de San Agustín
 
@@ -111,7 +117,7 @@ Desde muy temprano en la mañana hasta las 8p.m. puedes visitar esta calle comer
 >Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de "Como me lance al voluntariado ( guia paso a paso)". Haz clic en el botón para comprar el tuyo.  
 ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
 
-[San Agustín Huila tiene lugares extraordinarios para hospedarse]({{site.baseurl}}/hoteles-san-agustin "Hoteles San Agustin"). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
+San Agustín Huila tiene lugares extraordinarios para hospedarse. [Haz clic aquí para ver las mejores opciones de alojamiento]({{site.baseurl}}/hoteles-san-agustin "Hoteles San Agustin"). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
 
 La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
 

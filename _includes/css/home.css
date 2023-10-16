@@ -3,24 +3,19 @@
 background: #9DC5BB;
 box-shadow:  20px 20px 60px #85a79f,
              -20px -20px 60px #b5e3d7;
-padding: 4rem 16px;
+padding: 2em;
 display: grid;
 place-items: center;
 gap: 1.5rem;
+text-align: center;
 }
 
 .intro h4{
   text-align: center;
 }
 
-.intro p{
-  width: min(80%, 720px);
-  margin-bottom: 1.2rem;
-  text-align: center;
-}
-
 .intro a{
-  color: #ee334c;
+  color: var(--secundario);
 }
 
 .intro div{
@@ -194,3 +189,10 @@ margin: 0;
   padding: 1rem 0 0;
   display: inline-block;
   }
+
+.seccion{
+  background-color: var(--complemento2);
+  box-shadow: 0 0 0 100vmax var(--complemento2);
+  clip-path: inset(0 -100vmax);
+  padding: 2em 0;
+}
