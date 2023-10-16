@@ -19,9 +19,9 @@ excerpt_separator: <!-- excerpt -->
 **Descubre San Agustín Huila, el destino turístico ideal en Colombia para viajes de aventura y relajación.** Sus hermosos paisajes del macizo colombiano; sus estructuras coloniales; su clima fresco y su cultura. ¡Todo te va a encantar!
 <!-- excerpt -->
 
-## San Agustín Huila: destino turístico poco conocido
+## San Agustín Huila: destino turístico que debes conocer
 
-Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por:
+Este hermoso pueblito es un municipio ubicado en el departamento del Huila, en Colombia. [San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)){:rel="nofollow noopener noreferrer" target="_blank"} es conocido por:
 
 * **Esculturas de Piedra**: Conoce el arte ancestral de la región.
 * **Clima Templado-Frío**: Perfecto para una escapada de fin de semana.
