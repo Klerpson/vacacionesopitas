@@ -3,7 +3,7 @@
   border-radius: 32px;
   background: var(--complemento2);
   box-shadow: var(--shadow);
-  padding: 2em;
+  padding: 4em 2em;
   display: grid;
   place-items: center;
   gap: 1.5rem;
@@ -114,7 +114,7 @@
   box-shadow: var(--shadow)
 }
 
-.blog-home a,
+.blog-home a:not(.cta a),
 .conclusion a {
   color: var(--accion);
 }
@@ -182,12 +182,6 @@
 
 .conclusion div:last-child h2 {
   margin: 0;
-}
-
-.conclusion div:last-child a {
-  color: var(--secundario);
-  padding: 1rem 0 0;
-  display: inline-block;
 }
 
 .seccion {

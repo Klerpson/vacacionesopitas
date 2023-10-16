@@ -73,7 +73,8 @@ h3 {
   font-size: 1.3rem;
 }
 
-p, .post-content li {
+p,
+.post-content li {
   word-wrap: break-word;
   letter-spacing: -.8px;
 }
@@ -178,7 +179,7 @@ header,
   margin-bottom: 4rem;
 }
 
-.destacado{
+.destacado {
   background-image: url('/img/underline-text-img.png');
 }
 
@@ -203,7 +204,7 @@ SVG Icons - svgicons.sparkk.fr
   stroke-width: 1;
 }
 
-blockquote{
+blockquote {
   border: .8px solid var(--gris1);
   border-radius: var(--radius);
   padding: 2em;
@@ -229,49 +230,49 @@ blockquote a,
 }
 
 blockquote a:hover,
-.botones:hover{
+.botones:hover {
   box-shadow: var(--shadow);
 }
 
 blockquote a:active,
-.botones:active{
+.botones:active {
   box-shadow: none;
- }
- 
- table tr{
-   border-bottom: 2px solid var(--gris1);
-   display: block;
-   margin-bottom: .625em;
-  }
+}
 
-  table th,
-  table tr{
-    display: flex;
-    flex-wrap: wrap;
-    gap: .3rem 1.8rem;
-  }
-  
-  .basic{
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    border-bottom: 2px dotted var(--gris1);
-    padding-bottom: 2rem;
-  }
+table tr {
+  border-bottom: 2px solid var(--gris1);
+  display: block;
+  margin-bottom: .625em;
+}
 
-  .cta a{
-    display: block;
-    width: max-content;
-    border-radius: var(--radius);
-    padding: 12px 20px;
-    background-color: var(--accion);
-    color: white;
-    text-decoration: none;
-    transition: all .1s ease-in-out;
-    margin-inline: auto;
-  }
-  
-  .cta a:hover{
-    box-shadow: var(--shadow);
-    transform: scale(1.025);
-  }
+table th,
+table tr {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem 1.8rem;
+}
+
+.basic {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  border-bottom: 2px dotted var(--gris1);
+  padding-bottom: 2rem;
+}
+
+.cta a {
+  display: block;
+  width: max-content;
+  border-radius: var(--radius);
+  padding: 12px 20px;
+  background-color: var(--accion);
+  color: white;
+  text-decoration: none;
+  transition: all .1s ease-in-out;
+  margin-inline: auto;
+}
+
+.cta a:hover {
+  box-shadow: var(--shadow);
+  transform: scale(1.025);
+}
