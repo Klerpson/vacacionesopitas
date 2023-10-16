@@ -1,24 +1,24 @@
-.intro{
+/* Intro es la sección del diseño que muestra un texto informativo sin CTA */
+.intro {
   border-radius: 32px;
-background: #9DC5BB;
-box-shadow:  20px 20px 60px #85a79f,
-             -20px -20px 60px #b5e3d7;
-padding: 2em;
-display: grid;
-place-items: center;
-gap: 1.5rem;
-text-align: center;
-}
-
-.intro h4{
+  background: var(--complemento2);
+  box-shadow: var(--shadow);
+  padding: 2em;
+  display: grid;
+  place-items: center;
+  gap: 1.5rem;
   text-align: center;
 }
 
-.intro a{
+.intro h4 {
+  text-align: center;
+}
+
+.intro a {
   color: var(--secundario);
 }
 
-.intro div{
+.intro div {
   width: min(80%, 800px);
   display: flex;
   justify-content: center;
@@ -28,7 +28,7 @@ text-align: center;
   line-height: 1;
 }
 
-.cta-home{
+.cta-home {
   position: relative;
   background-color: var(--secundario);
   box-shadow: 0 0 0 100vmax var(--secundario);
@@ -42,35 +42,35 @@ text-align: center;
   overflow: visible;
 }
 
-.cta-home div{
+.cta-home div {
   display: grid;
   gap: 2rem;
   width: min(100%, 480px);
 }
 
-.cta-home div img{
+.cta-home div img {
   border-radius: 16px 30%;
   box-shadow: var(--shadow);
   max-width: 100%;
   align-self: center;
 }
 
-.cta-home div h2{
+.cta-home div h2 {
   align-self: flex-end;
 }
 
-.cta-home div ul{
+.cta-home div ul {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  gap:  1rem;
+  gap: 1rem;
 }
 
-.cta-home div a{
+.cta-home div a {
   color: var(--accion);
 }
 
-.cta-home div ul li{
+.cta-home div ul li {
   flex: 1 0 120px;
   background-color: #fefefe;
   display: grid;
@@ -81,13 +81,13 @@ text-align: center;
   place-items: center;
 }
 
-.cta-home div ul li span{
+.cta-home div ul li span {
   font-size: 2rem;
   font-weight: 700;
   font-family: var(--fuenteGraficas);
 }
 
-.cta-home q{
+.cta-home q {
   width: min(100%, 1200px);
   text-align: center;
 }
@@ -100,26 +100,26 @@ text-align: center;
   justify-content: space-between;
 }
 
-.blog-home h2{
+.blog-home h2 {
   width: 100%;
 }
 
-.blog-home article{
+.blog-home article {
   width: min(100%, 360px);
 }
 
-.blog-home img{
+.blog-home img {
   width: 100%;
   border-radius: var(--radius);
   box-shadow: var(--shadow)
 }
 
 .blog-home a,
-.conclusion a{
+.conclusion a {
   color: var(--accion);
 }
 
-.conclusion{
+.conclusion {
   background-color: var(--complemento2);
   box-shadow: 0 0 0 100vmax var(--complemento2);
   clip-path: inset(0 -100vmax);
@@ -128,11 +128,11 @@ text-align: center;
   gap: 1.5rem;
 }
 
-.conclusion h2{
+.conclusion h2 {
   max-width: 720px;
 }
 
-.conclusion ul{
+.conclusion ul {
   background-color: var(--complemento2);
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -141,56 +141,56 @@ text-align: center;
   border-radius: var(--radius);
 }
 
-.conclusion ul li{
+.conclusion ul li {
   padding: .5rem;
 }
 
-.conclusion ul li:not(li:last-child){
+.conclusion ul li:not(li:last-child) {
   border-right: 1px solid var(--gris2);
 }
 
-.conclusion ul li span:not(p span){
+.conclusion ul li span:not(p span) {
   font-size: 2rem;
   font-weight: 700;
   font-family: var(--fuenteGraficas);
 }
 
-.conclusion ul li a{
+.conclusion ul li a {
   color: var(--accion);
 }
 
 .conclusion ul li p,
-.conclusion div:last-child p{
+.conclusion div:last-child p {
   font-weight: 300;
 }
 
-.conclusion ol li{
+.conclusion ol li {
   list-style: decimal;
   margin-left: 1.8rem;
 }
 
-.conclusion ol li::marker{
+.conclusion ol li::marker {
   font-size: 1.5rem;
 }
 
-.conclusion div:last-child{
+.conclusion div:last-child {
   display: grid;
   gap: 1rem;
   place-items: center;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
-.conclusion div:last-child h2{
-margin: 0;
+.conclusion div:last-child h2 {
+  margin: 0;
 }
 
-.conclusion div:last-child a{
+.conclusion div:last-child a {
   color: var(--secundario);
   padding: 1rem 0 0;
   display: inline-block;
-  }
+}
 
-.seccion{
+.seccion {
   background-color: var(--complemento2);
   box-shadow: 0 0 0 100vmax var(--complemento2);
   clip-path: inset(0 -100vmax);
