@@ -64,7 +64,7 @@ En este lugar conocerás un gran tesoro de urnas funerarias, grutas que fueron a
 
 La más grande de las casas del lugar es una choza con techo en paja. Esta choza guarda estatuas pequeñas y medianas en piedra, piezas de alfarería, vasijas de barro y pinturas que evocan en la imaginación y el estilo de vida de nuestros antepasados de la cultura precolombina.
 
-### 2. Sitios turísticos de San Agustín
+### 2. Sitios turísticos de San Agustín: turismo de aventura y naturaleza en el cañón del Magdalena
 
 >San Agustín Huila es un lugar popular para la práctica de deportes de aventura y turismo extremo, como canopy, amacas y bicicletas al vacío, el puente de cristal, etc.
 
@@ -88,11 +88,11 @@ Desde San Agustín puedes visitar las siguientes maravillas con cascadas natural
 
 Y como estos hay más caudales con una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
-### 3. Turismo en San Agustín de artesanías y arte
+### 3. Las artesanías inspiradas en la cultura local y el turismo urbano de San Agustín
 
 Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras. Todas son elaboradas por los artesanos de la localidad. Además, vas a relajarte mucho en sus atractivos cafés y parques.
 
-#### Turismo urbano en San Agustín Huila
+#### Tómate fotos hermosas en el turismo urbano en San Agustín Huila
 
 **San Agustín Huila tiene una arquitectura colonial hermosa**. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles en adoquines, obras de artesanía local, relieves en muros, etc.
 
