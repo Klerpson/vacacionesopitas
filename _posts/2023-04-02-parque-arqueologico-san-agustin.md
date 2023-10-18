@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parque Arqueológico de San Agustín ¿Precios? ¿Qué hacer allí?
+title: "Parque Arqueológico San Agustín: Precios, Cómo Llegar y Más"
 description: El Parque Arqueológico de San Agustín. 🗿 Más de 200 esculturas y ruinas con más de 1800 años y llenos de muchos misterios. ¿Quieres entrar GRATIS?
 h1: "Descubre el Parque Arqueológico de San Agustín: Tu Guía Completa para una Aventura Inolvidable en Colombia"
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
@@ -70,9 +70,6 @@ Felicidades, has llegado al Parque Arqueológico de San Agustín. Ahora, prepár
 * Ven desde temprano, porque solo permiten entrar hasta las 3 p.m.
 {:class="seccion"}
 
-Tienes razón, Julian. Me emocioné con las tablas, pero hay otras formas de presentar la info de manera clara y concisa. Para los horarios, podríamos usar una lista con iconos o simplemente resaltar la información clave con negritas y bullet points. Aquí te muestro cómo quedaría con bullet points:
-
-----
 
 ## Horarios del Parque Arqueológico de San Agustín: Planifica Tu Visita 🕒
 
@@ -83,7 +80,7 @@ Tienes razón, Julian. Me emocioné con las tablas, pero hay otras formas de pre
 
 **Nota Rápida**: En temporada alta, no hay días de cierre. En temporada baja, el parque cierra los martes. Así que planea tu visita en consecuencia.
 
-----
+>¿Quieres conseguir la mejor oferta en hoteles de San Agustín Huila? {% include cta.html texto="Ofertas de Hoteles San Agustín"%}
 
 ## Descubre las zonas menos conocidas del parque
 
