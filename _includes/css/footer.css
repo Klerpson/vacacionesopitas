@@ -41,3 +41,7 @@ footer div img{
 footer section p{
   font-size: .7rem;
 }
+
+footer section p a{
+  color: var(--secundario);
+}

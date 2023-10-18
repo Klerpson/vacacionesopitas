@@ -9,20 +9,14 @@
     <div>
       <h4>Sitios turísticos</h4>
       <a href="{{ site.baseurl }}/turismo-san-agustin/parque-arqueologico-san-agustin">Parque arqueológico de San Agustín</a>
-      <a href="{{ site.baseurl }}/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema">San Agustín Huila: magia y aventura</a>
-      <a href="{{ site.baseurl }}/turismo-san-agustin/laguna-del-magdalena">La laguna del Magdalena</a>
-      <a href="{{ site.baseurl }}/turismo-san-agustin" title="Turismo en San Agustín">→ Más sobre TURISMO</a>
+      <a href="{% post_url 2023-03-27-mirador-mano-del-gigante-en-gigante-huila %}">Mano del Gigante</a>
+      <a href="{% post_url 2023-03-15-cascada-salto-mortino-isnos %}">Salto del Mortiño</a>
     </div>
     <div>
-      <h4>Lo último de sanagustinhuila.com.co</h4>
-      {% assign post1 = site.posts[0] %}
-      <a href="{{site.baseurl}}{{ post1.url }}">{{ post1.h1 | truncate: 45}}</a>
-      {% assign post2 = site.posts[1] %}
-      <a href="{{site.baseurl}}{{ post2.url }}">{{ post2.h1 | truncate: 45}}</a>
-      {% assign post3 = site.posts[2] %}
-      <a href="{{site.baseurl}}{{ post3.url }}">{{ post3.h1 | truncate: 45}}</a>
-      {% assign post4 = site.posts[3] %}
-      <a href="{{site.baseurl}}{{ post4.url }}">{{ post4.h1 | truncate: 45}}</a>
+      <h4>Visita a San Agustín</h4>
+      <a href="{{'turismo-san-agustin'|relative_url}}" title="Turismo San Agustín">Turismo</a>
+      <a href="{{'hoteles-san-agustin'|relative_url}}" title="Hoteles San Agustín">Hoteles</a>
+      <a href="{{'restaurantes-san-agustin'|relative_url}}" title="Restaurantes San Agustín">Restaurantes</a>
     </div>
     <!-- <div>
       <h4>Síguenos</h4>

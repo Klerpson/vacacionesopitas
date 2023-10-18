@@ -13,14 +13,18 @@ h1: San Agustín Huila - Planes, turismo y mucho por hacer
     style="width:50px;height:50px">
   </lord-icon>
 </section>
+<div class="blog-home">
+  {% include cta.html texto="¿Buscas hotel en San Agustín?" %}
+</div>
 
 <main class="blog-posts wrapper">
-  <h2>Lugares para visitar en San Agustín y sus alrededores</h2>
+
+  <h3>Lugares para visitar en San Agustín y sus alrededores</h3>
 {% for post in site.posts %}
 {% if post.category == "turismo"%}
   <article>
     <a href="{{post.url}}" title="{{post.title}}">
-      <h3>{{post.h1 | truncate: 60}}</h3>
+      <h4>{{post.h1 | truncate: 60}}</h4>
       <img src="{{site.baseurl}}/img/{{post.webps}}" alt="{{post.alt}}" loading="lazy" width="120">
     </a>
   </article>
@@ -32,16 +36,14 @@ h1: San Agustín Huila - Planes, turismo y mucho por hacer
 
 
 <div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #DEE5E5;"></path></svg></div>
-<section class="conclusion">
+<section class="conclusion wrapper">
   <h2>En San Agustín encontrarás descanso y aventura</h2>
-<p>Los paisajes naturales que rodean a San Agustín son simplemente espectaculares. Desde la <strong>Cascada del Mortiño, la Cueva de los Guácharos, el Alto de los Ídolos hasta el Bosque de las Estatuas</strong>, cada lugar es una experiencia única que te dejará maravillado.</p>
-<p>Pero, si eres amante del turismo de aventura, en San Agustín también encontrarás actividades como <strong>rafting, canotaje, caminatas ecológicas, y muchos más</strong>.</p>
-<p>Además, los <strong><a href="{{'restaurantes-san-agustin'|relative_url}}" title="Restaurantes de San Agustín Huila">restaurantes de San Agustín</a> son deliciosos</strong>. Sus cartas y servicio siempre están evolucionando. Y por supuesto, no te puedes perder el café, producto estrella de la región.</p>
-<p>No lo pienses más, ¡visita San Agustín Huila y descubre la magia de este destino turístico único en Colombia! Con su rica historia, paisajes impresionantes y actividades de aventura, <a href="/" title="Inicio sanagustinhuila.com">San Agustín te espera</a> con los brazos abiertos para que vivas una experiencia inolvidable.</p>
-<div>
-  <h2>¿Te ayudamos a preparar tu viaje a San Agustín?</h2>
-  <p><span class="destacado">Escríbenos por WhatsApp</span> y te recomendaremos todo lo que necesitas para que tengas las mejores vacaciones de tu vida.<br><a href="{{site.whatsapp}}">Escribir por WhatsApp</a></p>
-</div>
+  <p>Los paisajes naturales que rodean a San Agustín son simplemente espectaculares. Desde la <strong>Cascada del Mortiño, la Cueva de los Guácharos, el Alto de los Ídolos hasta el Bosque de las Estatuas</strong>, cada lugar es una experiencia única que te dejará maravillado.</p>
+  <p>Pero, si eres amante del turismo de aventura, en San Agustín también encontrarás actividades como <strong>rafting, canotaje, caminatas ecológicas, y muchos más</strong>.</p>
+  <p>Además, los <strong><a href="{{'restaurantes-san-agustin'|relative_url}}" title="Restaurantes de San Agustín Huila">restaurantes de San Agustín</a> son deliciosos</strong>. Sus cartas y servicio siempre están evolucionando. Y por supuesto, no te puedes perder el café, producto estrella de la región.</p>
+  <p>No lo pienses más, ¡visita San Agustín Huila y descubre la magia de este destino turístico único en Colombia! Con su rica historia, paisajes impresionantes y actividades de aventura, <a href="/" title="Inicio sanagustinhuila.com">San Agustín te espera</a> con los brazos abiertos para que vivas una experiencia inolvidable.</p>
+  <h2>¿Ya tienes hotel dónde llegar en San Agustín?</h2>
+  {% include cta.html texto="¿Buscas hotel en San Agustín?" %}
 </section>
 
 {% include footer.html %}
