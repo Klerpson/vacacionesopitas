@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parque Arqueológico San Agustín: Precios, Cómo Llegar y Más"
-description: El Parque Arqueológico de San Agustín. 🗿 Más de 200 esculturas y ruinas con más de 1800 años y llenos de muchos misterios. ¿Quieres entrar GRATIS?
+description: "Descubre todo sobre el Parque Arqueológico de San Agustín: precios, FAQ y más. ¡Haz clic para planificar tu aventura ahora!"
 h1: "Descubre el Parque Arqueológico de San Agustín: Tu Guía Completa para una Aventura Inolvidable en Colombia"
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
 award: La mejor guía para visitar el parque arqueológico de San Agustín
