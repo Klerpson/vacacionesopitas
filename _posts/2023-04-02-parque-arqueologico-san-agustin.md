@@ -2,7 +2,7 @@
 layout: post
 title: Parque Arqueológico de San Agustín ¿Precios? ¿Qué hacer allí?
 description: El Parque Arqueológico de San Agustín. 🗿 Más de 200 esculturas y ruinas con más de 1800 años y llenos de muchos misterios. ¿Quieres entrar GRATIS?
-h1: Parque Arqueológico de San Agustín Huila, Patrimonio de la humanidad
+h1: "Descubre el Parque Arqueológico de San Agustín: Tu Guía Completa para una Aventura Inolvidable en Colombia"
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
 award: La mejor guía para visitar el parque arqueológico de San Agustín
 date: 2023-04-02
@@ -16,56 +16,28 @@ alt: Parque arqueológico de San Agustín Huila
 excerpt_separator: <!-- excerpt -->
 permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 ---
-**El Parque Arqueológico de San Agustín es un conjunto de esculturas y ruinas prehispánicas** ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con esculturas y monumentos de hace más de 1.800 años.
+Bienvenido a la guía definitiva del Parque Arqueológico de San Agustín, una de las maravillas culturales más impresionantes de Colombia y de toda América Latina.
 <!-- excerpt -->
 
-## ¿Cómo puedes llegar hasta el Parque Arqueológico?
+¿Quieres saber **cómo llegar, qué hacer y cómo sacar el máximo provecho** de tu visita? ¡Estás en el lugar correcto! Aquí te ofrecemos todos los detalles, desde los costos de entrada hasta los secretos mejor guardados del parque.
 
-Para llegar al parque **primero debes ir hasta el municipio de San Agustín Huila**. Después de llegar allí, te diriges hasta la plaza principal. **Desde el parque principal**, recorres 3 kilómetros hasta llegar al Parque Arqueológico.
+Prepárate para embarcarte en una aventura que te llevará a través de la historia, la cultura y los paisajes asombrosos que este Patrimonio de la Humanidad de la UNESCO tiene para ofrecer.
 
-Puede servirte como punto de referencia llegar hasta la [heladería GurCoff](https://gurcoff.com/contacto "Heladería GurCoff"){:target="_blank"}. Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
+Claro, Julian. Una tabla haría que la información sea aún más fácil de escanear. Aquí te muestro cómo quedaría:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-*Ubicación del parque arqueológico de San Agustín en google maps*
+---
 
-Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"), [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín") con comida típica y comidas rápidas, entre otros.
+## Cómo Llegar al Parque Arqueológico de San Agustín: Tu Ruta Paso a Paso
 
-### Cómo llegar al parque de San Agustín desde diferentes ciudades
+| Ciudad de Origen  | Medio de Transporte | Detalles |
+|-------------------|---------------------|----------|
+| **Desde Bogotá**  | Vuelo + Bus         | **Tiempo Aproximado**: 5 horas<br>**Costo Aproximado**: $100 - $150 |
+| **Desde Cali**    | Bus                 | **Tiempo Aproximado**: 4 horas<br>**Costo Aproximado**: $50 - $80  |
+| **Desde Medellín**| Vuelo + Bus         | **Tiempo Aproximado**: 6 horas<br>**Costo Aproximado**: $120 - $170 |
+| **Desde Neiva**   | Ruta en Carro       | **Ruta**: Neiva - Pitalito - San Agustín<br>**Tiempo Aproximado**: 4 horas |
+| **Desde Popayán o Mocoa** | Ruta en Carro | **Ruta**: Popayán/Mocoa - Pitalito - San Agustín<br>**Tiempo Aproximado**: 5 horas |
 
-Para que no te pierdas en el camino, aquí tienes un cuadro comparativo con las opciones de transporte desde las principales ciudades:
-
-| Ciudad de Origen | Medio de Transporte | Tiempo Aproximado | Costo Aproximado |
-|------------------|---------------------|-------------------|------------------|
-| Bogotá           | Vuelo + Bus         | 5 horas           | $100 - $150      |
-| Cali             | Bus                 | 4 horas           | $50 - $80        |
-| Medellín         | Vuelo + Bus         | 6 horas           | $120 - $170      |
-
->¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de los hoteles de San Agustín Huila  
-[Hoteles en San Agustín]({{site.baseurl}}/hoteles-san-agustin)
-
-Para llegar desde Bogotá puedes **utilizar el transporte terrestre desde Bogotá (9 horas aproximadamente) hasta Pitalito**. Desde allí, toma otro bus hasta San Agustín (30 minutos más).
-
-También, puedes tomar vuelos desde Bogotá. [El aeropuerto más cercano está ubicado en Pitalito](https://www.aerocivil.gov.co/aeropuertos/Pages/contador-pitalito.aspx){:rel="nofollow noopener noreferrer" target="_blank"}, justo en la vía entre Pitalito y San Agustín.
-
-Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos pueden costar un poco menos, pero están más retirados de tu destino. Pero igual te ahorrarán mucho tiempo.
-
-### Llegar al parque desde Neiva
-
-La ruta al **parque arqueológico desde Neiva es de 4 horas aproximadamente**, pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.
-
-Por lo tanto, **desde la ciudad de Neiva, la ruta es Neiva - Pitalito - San Agustín**.
-
-### Llegar al parque desde Popayán o Mocoa
-
-**La ruta desde la ciudad de Mocoa es llegando primero a la ciudad de Pitalito, y finalmente hasta San Agustín.** Son 5 horas de viaje aproximadamente.
-
-Esta es la misma ruta que recorres si tomas un vuelo hasta los aeropuertos del Putumayo. Luego viajarás por una difícil vía hasta el municipio de Pitalito.
-
-Por otra parte, **la vía que viene desde Popayán Cauca, por el páramo,** tiene un largo trayecto sin pavimentar. Son aproximadamente 4 horas.
-
->Si vienes por el páramo, desde la ciudad de Popayán, no será necesario llegar hasta Pitalito.
-
-Solo *dile al conductor que después del municipio de Isnos, te quedas en el cruce* de la entrada a San Agustín. Si vienes en carro particular, ten en cuenta el cruce para desviarte. Las señales de tránsito te guiarán.
+**Consejo Pro**: Si estás en Bogotá, considera tomar un vuelo hasta Pitalito. Ahorrarás tiempo y podrás empezar tu aventura más rápido.
 
 ----
 

@@ -251,6 +251,12 @@ table tr {
   justify-content: space-between;
 }
 
+table th,
+table td{
+  flex: 0 1 280px;
+  max-width: 100%;
+}
+
 .basic {
   display: flex;
   flex-direction: column;
