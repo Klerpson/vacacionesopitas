@@ -6,20 +6,16 @@
   --secundario: #2F7CBA;
   --complemento1: #9dc5bb;
   --complemento2: #DEE5E5;
-
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
   --grisFuentes: #111413;
-
   /*** FUENTES ***/
   --fuenteTitulos: 'Sarala', sans-serif;
   --fuenteTexto: 'Trykker', serif;
-
   /* BORDERS */
   --radius: 12px;
-
   /* SOMBRA */
   --shadow: 0 2px 8px rgba(22, 22, 22, .3);
 }
@@ -38,46 +34,45 @@
 html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
-  font-size: calc(15px + 0.390625vw);
-  line-height: 1.6;
 }
 
 body {
+  line-height: 1.6;
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTexto);
   color: var(--grisFuentes);
   background-color: #fefefe;
+  font-size: calc(15px + 0.390625vw);
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4, h5{
   font-family: var(--fuenteTitulos);
-  text-transform: initial;
-  max-width: 720px;
-  letter-spacing: -.9px;
+  line-height: 1.24;
 }
 
 h1 {
-  font-size: 1.8rem;
-  line-height: 1.2;
+  font-size: clamp(2.2rem, 1.982rem + 1.09vw, 2.8rem);
+  margin: 0;
 }
 
 h2 {
-  font-size: 1.6rem;
-  line-height: 1.2;
+  font-size: clamp(1.86rem, 1.678rem + 0.91vw, 2.36rem);
   text-align: center;
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: clamp(1.4rem, 1.233rem + 0.84vw, 1.86rem);
 }
 
+h4 {
+  font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
+}
+
+h5,
 p,
-.post-content li {
+li {
   word-wrap: break-word;
-  letter-spacing: -.8px;
+  font-size: clamp(1rem, 0.942rem + 0.29vw, 1.16rem);
 }
 
 pre {
@@ -89,6 +84,7 @@ a {
   font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
   font-weight: 900;
+  color: var(--accion);
 }
 
 hr {
@@ -167,15 +163,14 @@ li {
 }
 
 .wrapper {
-  width: min(95vw, 1200px);
+  width: min(95%, 1128px);
   margin-inline: auto;
   margin-bottom: 4rem;
 }
 
-.destacado {
-  background-image: url('/img/underline-text-img.png');
+.flow>*+*:not(h1) {
+  margin-top: 1em;
 }
-
 
 /* -----
 SVG Icons - svgicons.sparkk.fr
@@ -218,18 +213,24 @@ blockquote a,
   padding: 12px 22px;
   border-radius: 12px;
   box-shadow: none;
-  transition: .2s all ease-out;
+  transition: .1s all ease-out;
   font-family: var(--fuenteTitulos);
 }
 
 blockquote a:hover,
 .botones:hover {
   box-shadow: var(--shadow);
+  transform: scale(1.016);
 }
 
 blockquote a:active,
 .botones:active {
   box-shadow: none;
+}
+
+.boton_1 a{
+  color: white;
+  text-decoration: none;
 }
 
 table tr {
@@ -253,19 +254,9 @@ table tr {
   padding-bottom: 2rem;
 }
 
-.cta a {
-  display: block;
-  width: max-content;
-  border-radius: var(--radius);
-  padding: 12px 20px;
-  background-color: var(--accion);
-  color: white;
-  text-decoration: none;
-  transition: all .1s ease-in-out;
-  margin-inline: auto;
-}
-
-.cta a:hover {
-  box-shadow: var(--shadow);
-  transform: scale(1.025);
+.seccion {
+  background-color: var(--complemento2);
+  box-shadow: 0 0 0 100vmax var(--complemento2);
+  clip-path: inset(0 -100vmax);
+  padding: 2em 0;
 }

@@ -14,10 +14,6 @@
   text-align: center;
 }
 
-.intro a {
-  color: var(--secundario);
-}
-
 .intro div {
   width: min(80%, 800px);
   display: flex;
@@ -44,8 +40,9 @@
 
 .cta-home div {
   display: grid;
-  gap: 2rem;
+  gap: 1em;
   width: min(100%, 480px);
+  place-items: center;
 }
 
 .cta-home div img {
@@ -55,19 +52,11 @@
   align-self: center;
 }
 
-.cta-home div h2 {
-  align-self: flex-end;
-}
-
 .cta-home div ul {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-}
-
-.cta-home div a {
-  color: var(--accion);
 }
 
 .cta-home div ul li {
@@ -87,37 +76,42 @@
   font-family: var(--fuenteGraficas);
 }
 
-.cta-home q {
-  width: min(100%, 1200px);
-  text-align: center;
+.cta-home p a{
+  color: white;
+}
+
+.cta-home img{
+  width: min(100%, 920px)
 }
 
 .blog-home {
-  margin-top: 4rem;
   display: flex;
-  gap: 2rem;
+  gap: 2em .8em ;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.blog-home h2 {
-  width: 100%;
+.blog-home > p{
+  max-width: 992px;
+  text-align: center;
 }
-
 
 .blog-home article {
   width: min(100%, 360px);
+  border-bottom: 1px dotted var(--gris1);
+  padding-bottom: 1em;
+}
+
+.blog-home article p{
+  font-weight: bold;
+  margin-top: 12px;
 }
 
 .blog-home img {
   width: 100%;
   border-radius: var(--radius);
-  box-shadow: var(--shadow)
-}
-
-.blog-home a:not(.cta a),
-.conclusion a {
-  color: var(--accion);
+  box-shadow: var(--shadow);
+  object-fit: cover;
 }
 
 .conclusion {
@@ -127,6 +121,7 @@
   padding: 5rem 0;
   display: grid;
   gap: 1.5rem;
+  place-items: center;
 }
 
 .conclusion h2 {
@@ -185,9 +180,3 @@
   margin: 0;
 }
 
-.seccion {
-  background-color: var(--complemento2);
-  box-shadow: 0 0 0 100vmax var(--complemento2);
-  clip-path: inset(0 -100vmax);
-  padding: 2em 0;
-}

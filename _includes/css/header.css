@@ -1,6 +1,7 @@
 header {
   display: grid;
   gap: 2rem;
+  place-items: center;
 }
 
 header .tooltip {
@@ -19,13 +20,8 @@ header .title{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 2em;
   flex-wrap: wrap;
-}
-
-header .title h1{
-  text-transform: initial;
-  width: min(100%, 580px);
 }
 
 header .title a {
@@ -52,7 +48,6 @@ nav a{
   flex: 1 0 80px;
   text-align: center;
   font-size: clamp(14px, 0.9rem, 18px);
-  color: var(--principal);
   text-transform: capitalize;
   display: grid;
   place-items: center;
@@ -88,24 +83,29 @@ nav a .svg-icon circle {
 .gallery{
   display: flex;
   flex-wrap: wrap;
-  gap: 1em;
+  gap: .8em;
   justify-content: center;
+  max-width: 100%;
 }
 
 .gallery a{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  width: min(100%, 376px);
+  flex: 0 1 360px;
+  max-width: 100%;
+  display: grid;
   text-align: center;
   border: 1.5px solid var(--gris1);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   overflow: hidden;
-  color: var(--principal);
+  transition: all .1s ease-in;
+}
+
+.gallery a:hover{
+  transform: scale(1.016);
 }
 
 .gallery a img{
+  max-width: 100%;
   border-radius: 0 0 12px 12px;
 }
 

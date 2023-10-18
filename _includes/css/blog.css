@@ -151,16 +151,7 @@
 }
 
 .post-content {
-  width: min(90vw, 800px);
-  margin-inline: auto;
   margin-bottom: 4rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1.2rem;
-}
-
-.post-content a{
-  color: var(--principal);
 }
 
 .post-content ul li{
@@ -169,7 +160,8 @@
 }
 
 .post-content img{
-  width: min(100%, 800px);
+  max-width: 480px;
+  float: right;
   border-radius: var(--radius);
 }
 
