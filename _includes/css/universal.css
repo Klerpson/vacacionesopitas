@@ -233,6 +233,10 @@ blockquote a:active,
   text-decoration: none;
 }
 
+table{
+  width: 100%;
+}
+
 table tr {
   border-bottom: 2px solid var(--gris1);
   display: block;
@@ -244,6 +248,7 @@ table tr {
   display: flex;
   flex-wrap: wrap;
   gap: .3rem 1.8rem;
+  justify-content: space-between;
 }
 
 .basic {
