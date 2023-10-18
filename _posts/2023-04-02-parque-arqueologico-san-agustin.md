@@ -23,11 +23,21 @@ Bienvenido a la guía definitiva del Parque Arqueológico de San Agustín, una d
 
 Prepárate para embarcarte en una aventura que te llevará a través de la historia, la cultura y los paisajes asombrosos que este Patrimonio de la Humanidad de la UNESCO tiene para ofrecer.
 
-Claro, Julian. Una tabla haría que la información sea aún más fácil de escanear. Aquí te muestro cómo quedaría:
+## 🚗 Cómo Llegar al Parque Arqueológico de San Agustín: Tu Ruta Paso a Paso
 
----
+**Paso 1: Llegar a San Agustín Huila**  
+Primero, dirígete al municipio de San Agustín Huila. Aquí es donde comienza la aventura.  
+**Paso 2: Encuentra la Plaza Principal**  
+Una vez en San Agustín, ve a la plaza principal. Es tu punto de partida para la siguiente etapa del viaje.  
+**Paso 3: Camina o Conduce 3 km**  
+Desde la plaza, tienes un recorrido de 3 km hasta el parque. Es un buen momento para disfrutar del paisaje.  
+**Paso 4: Punto de Referencia - Heladería GurCoff**  
+Si necesitas un punto de referencia, busca la heladería GurCoff. Desde allí, sigue 1.5 km más hasta la entrada del parque.  
+**Paso 5: ¡Has Llegado!**  
+Felicidades, has llegado al Parque Arqueológico de San Agustín. Ahora, prepárate para sumergirte en una experiencia única llena de historia y cultura.
+{:class="seccion"}
 
-## Cómo Llegar al Parque Arqueológico de San Agustín: Tu Ruta Paso a Paso
+### Cómo llegar Desde las Ciudades Principales al Parque Arqueológico San Agustín
 
 | Ciudad de Origen  | Medio de Transporte | Detalles |
 |-------------------|---------------------|----------|
@@ -37,50 +47,54 @@ Claro, Julian. Una tabla haría que la información sea aún más fácil de esca
 | **Desde Neiva**   | Ruta en Carro       | **Ruta**: Neiva - Pitalito - San Agustín<br>**Tiempo Aproximado**: 4 horas |
 | **Desde Popayán o Mocoa** | Ruta en Carro | **Ruta**: Popayán/Mocoa - Pitalito - San Agustín<br>**Tiempo Aproximado**: 5 horas |
 
-**Consejo Pro**: Si estás en Bogotá, considera tomar un vuelo hasta Pitalito. Ahorrarás tiempo y podrás empezar tu aventura más rápido.
+>**Consejo Pro**: Si estás en Bogotá, considera tomar un vuelo hasta Pitalito. Ahorrarás tiempo y podrás empezar tu aventura más rápido.
 
-----
+## ¿Cuánto Cuesta la Aventura? Tarifas de Entrada al Parque Arqueológico de San Agustín
 
-## ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
+| Tipo de Entrada        | Costo Aproximado  | Detalles Adicionales |
+|------------------------|-------------------|----------------------|
+| **Adultos**            | 45,000 COP        | Acceso a todas las áreas del parque |
+| **Estudiantes**        | 15,000 COP        | Debes mostrar tu carnet estudiantil |
+| **Extranjeros**        | 60,000 COP        | Acceso a todas las áreas del parque |
+| **Entrada Gratuita**   | 0 COP             | **Niños menores de 12 años, adultos mayores de 62, personas de la región y miembros de comunidades indígenas** |
 
-Según la resolución 070 de 27 de marzo de 2017 se debe cancelar un pasaporte para entrar al parque. Cómpralo solamente en las taquilla de entrada de los parques. *No la compres en otra parte a revendedores*.
-
-Según la misma resolución, **este pasaporte te sirve para las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**.
-
-El pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes. Según la temporada, el precio puede variar. Las tarifas promedio son las siguientes:
-
-* **Entrada al parque para adultos**: 45.000 mil pesos.
-* **Entrada al parque para estudiantes**: 15.000 mil pesos.
-* **Entrada al parque para extranjeros**: 60.000 mil pesos.
+**Nota**: Los precios pueden variar según la temporada. El pasaporte tiene una validez de 2 días para que disfrutes del parque sin afanes.
 
 >Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes ingresar al Alto de los Ídolos en Isnos.
 
-## ¿Cómo entrar gratis al parque arqueológico San Agustín?
+### ¿Cómo entrar gratis al parque arqueológico San Agustín?
 
-Hay algunas excepciones para no pagar y *entrar gratis a visitar las ruinas de San Agustín*. Son las siguientes:
+¿Te gustaría **entrar gratis al parque arqueológico de San Agustín Huila**? Es muy fácil:
 
-* Niños menores de 12 años
-* Adultos mayores de 62 años
-* Personas oriundas de la región
-* Miembros de comunidades indígenas
+* 🥳 **Los viernes que coinciden con el último viernes de cada mes, el parque permite entrar gratis al parque todo el día**.
+* Ven desde temprano, porque solo permiten entrar hasta las 3 p.m.
+{:class="seccion"}
 
-### Horarios del parque arqueológico
+Tienes razón, Julian. Me emocioné con las tablas, pero hay otras formas de presentar la info de manera clara y concisa. Para los horarios, podríamos usar una lista con iconos o simplemente resaltar la información clave con negritas y bullet points. Aquí te muestro cómo quedaría con bullet points:
 
->**¿Te gustaría obtener la mejor guía de viajes por Colombia?**  
-Planea tus próximos viajes y *disfrútalos con seguridad y tranquilidad*.  
-[Compra la Guía turística de Colombia](https://go.hotmart.com/M80153395U "Comprar la guía turística de Colombia."){:rel="nofollow noopener noreferrer" target="_blank"}
+----
 
-De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre a las 8:00 a.m. y la atención al público termina a las 4:00 p.m.**
+## Horarios del Parque Arqueológico de San Agustín: Planifica Tu Visita 🕒
 
-Además, hay que tener en cuenta que en temporada normal *el parque arqueológico no abre los días martes*. En la temporada alta sí atienden toda la semana.
+- **Abierto de Lunes a Domingo**: De 8:00 a.m. a 4:00 p.m.
+  - 🚨 **Excepción**: Cerrado los martes en temporada baja.
+  
+- **Temporada Alta**: ¡Buenas noticias! El parque está abierto todos los días de 8:00 a.m. a 4:00 p.m.
 
-### Descubre las zonas menos conocidas del parque
+**Nota Rápida**: En temporada alta, no hay días de cierre. En temporada baja, el parque cierra los martes. Así que planea tu visita en consecuencia.
+
+----
+
+## Descubre las zonas menos conocidas del parque
 
 No te quedes solo con lo básico. Aquí tienes una lista para explorar las joyas escondidas del parque:
 
 * **Bosque de las Estatuas**: Esculturas misteriosas en un entorno natural.
 * **Fuente de Lavapatas**: Grabados en roca junto a un arroyo tranquilo.
 * **Alto de los Ídolos**: Menos concurrido pero igual de impresionante.
+
+{% include img-post.html webps="parque-arqueologico-tumbas-376.webp" webpb="parque-arqueologico-tumbas-800.webp" alt="Tumba en el Parque San Agustín" title="Tumba parque arqueológico san agustin" %}
+*Uno de los montículos funerarios del parque*
 
 ### Enriquece tu visita con estos recursos
 
@@ -94,23 +108,16 @@ Para que tu experiencia sea completa, aquí tienes una lista de recursos que te 
 
 ## Pero, ¿Qué es el Parque de San Agustín?
 
->En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo.  
-[La magia de San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}
-
 **El parque arqueológico de San Agustín es una hermosa reserva natural con aproximadamente 2.000 Km2** de extensión. Es un lugar de gran importancia cultural y turística. Fue **declarado Patrimonio de la Humanidad por la UNESCO**.
 
 Muchos turistas visitan el parque cada año para ver las esculturas, las lajas de piedra talladas y yacimientos arqueológicos, y para aprender más sobre la historia y la cultura de la región.
 
+>En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo.  
+[La magia de San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank" class="botones boton_1"}
+
 **Las esculturas de San Agustín son únicas por su gran tamaño y por la cantidad de detalles que muestran.** Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas.
 
-{% include img-post.html webps="parque-arqueologico-tumbas-376.webp" webpb="parque-arqueologico-tumbas-800.webp" alt="Tumba en el Parque San Agustín" title="Tumba parque arqueológico san agustin" %}
-*Uno de los montículos funerarios del parque*
-
 Sus ruinas y estatuas fueron talladas en piedra y están dispersas en varias zonas entre los municipios de San Agustín e Isnos. Aún en lugares cercanos *siguen apareciendo más hallazgos*.
-
->**¿Te gustaría obtener la mejor guía de viajes por Colombia?**  
-Planea tus próximos viajes y *disfrútalos con seguridad y tranquilidad*.  
-[Compra la Guía turística de Colombia](https://go.hotmart.com/M80153395U "Comprar la guía turística de Colombia."){:rel="nofollow noopener noreferrer" target="_blank"}
 
 En el parque puedes hacer **caminatas ecológicas y de interés arqueológico**, con visitas guiadas por sus tres sedes. En la actualidad, **el parque arqueológico tiene casi 300 estatuas** muy bien conservadas para el turismo.
 
@@ -122,22 +129,7 @@ El parque tiene 78 hectáreas pertenecientes a los campesinos de la región. Fue
 
 En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de **trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra y darle figuras de humanos y animales, entre otras) trabajaba también la cerámica, la madera y conocía la orfebrería.**
 
-Por supuesto, Julian. Aquí te dejo las secciones adicionales pero con un enfoque más didáctico, utilizando listas y cuadros comparativos para hacer la información más accesible y fácil de digerir. 📊
-
-### Las zonas más importantes del parque arqueológico de San Agustín Huila
-
->**¿Te gustaría hacer voluntariados y ahorrar costos mientras viajas?**  
-Aprende cómo con el libro "Como me lance al voluntariado - guia paso a paso" [Comprar libro](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
-
-Las concentraciones de los hallazgos de ruinas en el parque de San Agustín son tan grandes, que **se dividieron en 3 zonas principales: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.**
-
-* **La zona de Mesitas** está cerca del sector con más servicios hoteleros, de hostelería y de turismo de la región.
-
-* **La sede del Alto de los Ídolos** son 13 hectáreas, a 18 kilómetros por carretera desde San Agustín y a 8 kilómetros desde la cabecera municipal de Isnos.
-
-* **La sede del Alto de las Piedras** (11 hectáreas) está aún más al norte, a 9 kilómetros por carretera desde Isnos.
-
-En estas 3 zonas se encuentran los siguientes lugares importantes del parque.
+### Descubre las Joyas Escondidas del Parque Arqueológico de San Agustín
 
 #### El Tablón
 
@@ -152,10 +144,6 @@ Es parte del reservorio arqueológico regional y se encuentra a un lado del río
 Parece que tales imágenes tienen relación con registros astrológicos. Y es un balcón espectacular *para ver los amaneceres y atardeceres pintorescos del cañón del Magdalena*.
 
 #### La Pelota
-
->**¿Te gustaría obtener la mejor guía de viajes por Colombia?**  
-Planea tus próximos viajes y *disfrútalos con seguridad y tranquilidad*.  
-[Compra la Guía turística de Colombia](https://go.hotmart.com/M80153395U "Comprar la guía turística de Colombia."){:rel="nofollow noopener noreferrer" target="_blank"}
 
 Esta zona del parque está ubicada en el cerro que lleva ese mismo nombre, *La Pelota*. **Tienes 3 esculturas, 2 con representaciones antroporzoomorfas y 1 zoomorfa conocida como el búho**. Al parecer, en la Mesita B, del parque de las Mesitas, hay una figura de búho igual.
 
@@ -216,11 +204,51 @@ El lugar está rodeado por reductos de bosque natural primario en la que predomi
 
 **Lo interesante es que se encontraron los cadaveres en muchas posiciones: de pie, tumbado, en posición fetal, etc. Hasta se encontraron funerales colectivos.**
 
-----
+---
 
-## Ven a Conocer las Ruinas Arqueológicas de San Agustín
+## La Magia Detrás del Parque Arqueológico de San Agustín 🌿
 
-**El parque arqueológico de San Agustín, en el departamento del Huila, es considerada la joya del patrimonio histórico y arquelógico de Colombia** y de América Latina.
+### ¿Qué hace que este parque sea tan especial?
+
+No es solo un parque; es una cápsula del tiempo. Fue declarado Patrimonio de la Humanidad por la UNESCO y es una de las reservas naturales más grandes de Colombia, con aproximadamente 2,000 Km2 de extensión.
+
+### ¿Qué puedo aprender sobre la historia y la cultura de la región?
+
+Este parque es como un libro abierto que te cuenta la historia de las civilizaciones precolombinas que una vez habitaron esta tierra. Las esculturas y monumentos aquí son únicos en su tipo, mostrando una increíble atención al detalle.
+
+### ¿Qué tipo de esculturas encontraré?
+
+Desde representaciones de seres humanos y animales hasta formas geométricas y abstractas. Cada escultura tiene su propia historia y significado, lo que añade una capa extra de misterio y asombro a tu visita.
+
+### ¿Hay más que solo esculturas?
+
+Absolutamente. Además de las esculturas, encontrarás yacimientos arqueológicos, lajas de piedra talladas y mucho más. Es un paraíso para cualquier amante de la historia y la arqueología.
+
+### ¿Qué más sigue siendo descubierto en el parque?
+
+La exploración nunca se detiene. Aún hoy, se siguen haciendo descubrimientos en áreas cercanas, lo que añade más capítulos a la ya rica historia del parque.
+
+### ¿Buscas algo más que las atracciones principales?
+
+No te preocupes, tenemos algunas joyas escondidas que te van a encantar y que te permitirán explorar el parque de una manera única.
+
+### ¿Qué hay en el Bosque de las Estatuas?
+
+Este es un rincón del parque donde encontrarás esculturas misteriosas rodeadas de un entorno natural impresionante. Es el lugar ideal si te gustan los misterios arqueológicos y quieres un respiro de la naturaleza.
+
+### ¿Y la Fuente de Lavapatas?
+
+Es más que un simple arroyo. Aquí encontrarás grabados en roca que datan de épocas antiguas, todo junto a un arroyo tranquilo. Es el lugar perfecto para relajarte, tomar fotos y sumergirte en la historia.
+
+### ¿Algo menos concurrido pero igual de genial?
+
+Definitivamente, el Alto de los Ídolos. Es menos visitado pero ofrece vistas igual de impresionantes y una rica historia que te dejará asombrado.
+
+## ¿Cómo puedo enriquecer mi visita?
+
+1. **Libro “Misterios de San Agustín”**: Este libro te dará un profundo conocimiento de la historia y los misterios del parque.
+2. **Aplicación móvil del Parque**: Una guía audiovisual que te acompañará durante tu recorrido, ofreciéndote datos interesantes en tiempo real.
+3. **Redes Sociales del Parque**: Sígueles para estar al día con descuentos y eventos especiales que podrían hacer tu visita aún más emocionante.
 
 **La gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre, rodeados de profundos cañones, ríos con rápidos y saltos de agua** lo posicionan como un destino turístico hermoso.
 

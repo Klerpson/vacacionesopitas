@@ -141,19 +141,24 @@
   height: 32px;
 }
 
-.post-content {
-  margin-bottom: 4rem;
-}
-
 .post-content ul li{
   list-style: square;
   margin-left: 1.2rem;
 }
 
 .post-content img{
-  max-width: 480px;
+  max-width: 100%;
   float: right;
   border-radius: var(--radius);
+}
+
+.post-content h2,
+.post-content h3{
+  max-width: 800px;
+}
+
+.post-content h2{
+  margin-inline: auto;
 }
 
 #fuentes a{
