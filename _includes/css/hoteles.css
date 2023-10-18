@@ -1,7 +1,5 @@
 .hoteles{
-  margin-inline: auto;
-  padding: 1.5rem 16px;
-  width: min(100%, 1200px);
+  padding-top: 4em;
   display: grid;
   gap: 1.5rem;
 }
@@ -9,13 +7,9 @@
 .hoteles div{
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 1em;
   justify-content: center;
   align-items: baseline;
-}
-
-.hoteles div{
-  color: var(--grisFuentes);
 }
 
 .hoteles div article{
@@ -23,11 +17,11 @@
   background-color: white;
   width: min(100%, 320px);
   display: grid;
-  justify-content: left;
   overflow: hidden;
-  border-radius: 12px;
-  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  border: 1.2px solid var(--gris1);
   padding-bottom: .7rem;
+  align-items: center;
 }
 
 .hoteles div article span{
@@ -39,6 +33,16 @@
   right: 0;
   background-color: rgba(0, 0, 0, 0.7);
   font-weight: 700;
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+.hoteles div article > a:not(.botones){
+  display: block;
+  padding: 0 .5rem;
+  line-height: 1.1;
+  font-size: .9rem;
 }
 
 .hoteles div article img{
@@ -46,10 +50,9 @@
 }
 
 .hoteles div article h3{
-  line-height: 1.1;
+  font-size: 1.2rem;
   color: var(--secundario);
-  text-align: center;
-  padding: .7rem;
+  padding: .7rem 0 0 .7rem;
 }
 
 .hoteles div article ul {
@@ -59,21 +62,13 @@
   flex-direction: column;
 }
 
-
 .hoteles div article ul li{
-  font-size: .9rem;
+  font-size: 1rem;
   list-style: none;
 }
 
-.hoteles div article ul a{
-  color: var(--accion);
-  text-align: right;
-}
-
-.hoteles div article > a{
-  display: block;
-  padding: 0 .5rem;
-  color: var(--accion);
-  line-height: 1.1;
-  font-size: .9rem;
+.hoteles div article .botones{
+  margin: 0 1em;
+  text-align: center;
+  font-size: 1.2rem;
 }

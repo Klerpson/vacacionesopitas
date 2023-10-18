@@ -2,10 +2,10 @@
 layout: default
 title: "• Hoteles • Fincas • Cabañas y más en San Agustín Huila"
 description: "Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza 🌄. Entra y escoge el tuyo"
-h1: "Hoteles en San Agustín Huila:<br>✓ Hostales ✓ Fincas ✓ Cabañas. Escoge tu favorito"
+h1: "Hoteles en San Agustín Huila: Fincas - Hostales - Cabañas"
 permalink: /hoteles-san-agustin
 ---
-<section class="intro">
+<section class="intro wrapper">
   <p>Los hoteles de San Agustín y Pitalito Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. <strong>Aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.</strong></p>
   <lord-icon
   src="https://cdn.lordicon.com/albqovim.json"
@@ -14,10 +14,11 @@ permalink: /hoteles-san-agustin
     style="width:50px;height:50px">
   </lord-icon>
 </section>
+<div class="blog-home">
+  {% include cta.html texto="Compara y asegura tu hotel" %}
+</div>
 
-{% include cta.html texto="🏕️ Compara y asegura tu hotel" %}
-
-<main class="hoteles">
+<main class="hoteles wrapper flow">
   {% for item in site.data.hoteles %} {% assign cat = item[0] %}
   <h2>{{ cat }}</h2>
   <div>
@@ -26,9 +27,7 @@ permalink: /hoteles-san-agustin
       <img src="{{site.baseurl}}/img/blog/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="240"/>
       {% if hotel.perfil %}
       <a href="{{hotel.perfil}}" rel="nofollow noreferrer" title="{{hotel.title}} en Google" target="_blank">
-      <span>
-          {{hotel.puntos}} opiniones en Google
-        </span>
+      <span>{{hotel.puntos}} opiniones en Google</span>
       </a>
       {% endif %}
       <h3>{{hotel.nombre}}</h3>
@@ -38,30 +37,22 @@ permalink: /hoteles-san-agustin
         <li>✓ {{servicio}}</li>
         {% endfor %}
         {% endif %} {% if hotel.link %}
-        <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow">Conoce el hotel</a>
         {% endif %}
       </ul>
+      <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow sponsored" class="botones boton_1">Mira los precios del hotel</a>
     </article>
     {% endfor %}
   </div>
   {% endfor %}
 </main>
 
-<section class="conclusion">
+<section class="conclusion wrapper">
   <h2>Hoteles en San Agustín Huila a tu medida</h2>
     <p>Muchos hospedajes de San Agustín son opciones muy accesibles y cómodas. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos.</p>
     <p>Algunos de estos hoteles te ofrecen la opción de prestar un <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank" >servicio de voluntariado</a>. Es especialmente importante para quienes recorren nuestro país o nuestro continente como caminantes o en rutas de bicicletas, o quizá en la experiencia de su vida.</p>
   <h2>¿Ya sabes qué hotel de San Agustín Huila escoger?</h2>
     <p>Cada uno de estos hoteles están siempre en procesos de mejoramiento, y adoptando las tendencias más atractivos del mercado hotelero. Por ejemplo, ya puedes encontrar opciones de <strong>Glamping en San Agustín</strong>. La oferta para el turismo rural es muy fuerte. Y algunos hoteles ya ofrecen planes con experiencias muy interesantes.</p>
     <p>En conclusión, en San Agustín ya puedes encontrar de todo: <strong>hoteles económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al <a href="{{ 'turismo-san-agustin/parque-arqueologico-san-agustin' | relative_url}}">Parque Arqueológico de San Agustín</a> o cerca al <a href="{{ 'turismo-san-agustin/estrecho-rio-magdalena' | relative_url }}">estrecho del Magdalena</a>,</strong>entre otros.</p>
-    
-    <blockquote>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de Carolina Colobon y Nando Prieto en su libro. <strong>¡Haz clic y cómpralo ahora!</strong><a href="https://go.hotmart.com/Y72308599B?dp=1" rel="nofollow sponsored" target="_blank" >🎒Como viajar por el mundo</a></blockquote>
-    <h2>Hoteles en Pitalito Huila para pasarla bien</h2>
-    <p>Pitalito cuentan con una amplia variedad de opciones de alojamiento para turistas. Hay hoteles de diferentes categorías y estilos, desde hoteles de lujo hasta hostales económicos.</p> 
-    <p>Algunos de los hoteles más conocidos de Pitalito incluyen el Hotel San Felipe, el Hotel El Bosque y el Hotel Los Laureles.</p>
-    <p>Los hoteles de Pitalito también tienen opciones de alojamiento alternativas, como <strong>casas de huéspedes, casas rurales y cabañas</strong>. Estas opciones pueden ser una buena opción para aquellos que buscan un alojamiento más privado o que quieren tener más espacio y comodidades.</p> 
-    <h2>¿Ya escogiste un hotel de San Agustín o Pitalito?</h2>
-    <p>En general, San Agustín y Pitalito ofrecen una amplia variedad de opciones de alojamiento para todos los gustos y presupuestos, por lo que es fácil encontrar el lugar perfecto para tu viaje.</p>
 </section>
 
 {% include footer.html %}
