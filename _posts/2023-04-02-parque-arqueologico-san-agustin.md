@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parque arqueológico de San Agustín ¿Conoces sus misterios?
+title: Parque Arqueológico de San Agustín ¿Por Qué Debes Conocerlo?
 description: El Parque Arqueológico de San Agustín es un conjunto de esculturas y ruinas con más de 1800 años y llenos de muchos misterios.
 h1: Parque arqueológico de San Agustín - Patrimonio de la humanidad
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
