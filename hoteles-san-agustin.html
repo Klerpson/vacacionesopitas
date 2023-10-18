@@ -25,21 +25,18 @@ permalink: /hoteles-san-agustin
     {% for hotel in site.data.hoteles[cat] %}
     <article>
       <img src="{{site.baseurl}}/img/blog/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="240"/>
-      {% if hotel.perfil %}
       <a href="{{hotel.perfil}}" rel="nofollow noreferrer" title="{{hotel.title}} en Google" target="_blank">
       <span>{{hotel.puntos}} opiniones en Google</span>
       </a>
-      {% endif %}
       <h3>{{hotel.nombre}}</h3>
-      {% if hotel.servicios %}
       <ul>
         {% for servicio in hotel.servicios %}
         <li>✓ {{servicio}}</li>
         {% endfor %}
-        {% endif %} {% if hotel.link %}
-        {% endif %}
       </ul>
-      <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow sponsored" class="botones boton_1">Mira los precios del hotel</a>
+      {% if hotel.link %}
+      <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow sponsored" class="botones boton_1" target="_blank">Mira los precios del hotel</a>
+      {% endif %}
     </article>
     {% endfor %}
   </div>
