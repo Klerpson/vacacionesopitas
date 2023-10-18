@@ -2,7 +2,7 @@
 layout: post
 title: Parque Arqueológico de San Agustín ¿Precios? ¿Qué hacer allí?
 description: El Parque Arqueológico de San Agustín. 🗿 Más de 200 esculturas y ruinas con más de 1800 años y llenos de muchos misterios. ¿Quieres entrar GRATIS?
-h1: Parque arqueológico de San Agustín - Patrimonio de la humanidad
+h1: Parque Arqueológico de San Agustín Huila, Patrimonio de la humanidad
 h1_alternativo: El parque arqueológico de San Agustín y sus estatuas
 award: La mejor guía para visitar el parque arqueológico de San Agustín
 date: 2023-04-02
