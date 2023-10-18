@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bienvenido a nuestro blog de turismo de San Agustín Huila
-h1: Bienvenido a nuestro blog de turismo de San Agustín Huila
-description: Estamos haciendo el mejor esfuerzo por brindarte la información más completa sobre San Agustín Huila que tú necesitas. ¿Qué más deseas saber? Escríbenos.
+title: Prepara tu Visita a San Agustín Huila con Nosotros
+h1: Prepara tu Visita a San Agustín Huila con Nosotros ¡Escríbenos!
+description: ¿Te gustaría saber más de los hoteles, lugares turísticos y paquetes en San Agustín Huila? Escríbenos.
 ---
 {% include formulario.html %}
 
