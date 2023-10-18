@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include breadcrumbs.html %}
-<main class="post-content">
+<main class="post-content wrapper flow">
   {{ content }}
   {% if page.referencias %}
   <section id="fuentes">
@@ -21,12 +21,15 @@ layout: default
   </section>
   {% endif %}
 </main>
-{% include comentarios.html %}
-<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #DEE5E5;"></path></svg></div>
-<section class="conclusion">
+<section class="cta-home wrapper flow">
   <div>
-    <h2>¿Te gustaría obtener la mejor guía de viajes por Colombia?</h2>
-    <p>Planea tus próximos viajes por Colombia y <span class="destacado">disfrútalos seguro y tranquilo</span>. Haz clic en el enlace para comprar la Guía que necesitas ahora.<br> <a href="https://go.hotmart.com/M80153395U">"Guía Turística de Colombia"</a></p>
+    <h2>San Agustín Huila: Turismo histórico y espiritual</h2>
+    <p>San Agustín de Huila es un lugar turístico muy conocido en Colombia debido a su atractivo histórico y espiritual. Situado en el departamento de Huila, <strong>cuenta con numerosos sitios arqueológicos, entre los que destacan las más de 500 estatuas de origen desconocido que se pueden encontrar en la zona.</strong></p>
+    <p><strong>Tres zonas arqueológicas han sido declaradas Patrimonio Histórico y Cultural de la Humanidad por la UNESCO,</strong> lo que atrae a turistas de todo el mundo. Además, la cultura y la naturaleza son también parte esencial de la región, siendo posible disfrutar de actividades como el agroturismo o las rutas de aventura.</p>
+  </div>
+  <div>
+    <img src="{{site.baseurl}}/img/san-agustin-huila.avif" alt="Pueblo San Agustín Huila">
+    {% include cta.html texto="Buscar hotel en San Agustín" %}
   </div>
 </section>
 
