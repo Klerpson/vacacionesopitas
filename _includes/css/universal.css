@@ -67,6 +67,7 @@ h1 {
 h2 {
   font-size: 1.6rem;
   line-height: 1.2;
+  text-align: center;
 }
 
 h3 {
@@ -165,15 +166,7 @@ li {
   list-style: none;
 }
 
-header,
-.intro,
-.blog-home,
-.conclusion,
-.categorias,
-.blog-posts,
-.contacto,
-.basic,
-.cta {
+.wrapper {
   width: min(95vw, 1200px);
   margin-inline: auto;
   margin-bottom: 4rem;

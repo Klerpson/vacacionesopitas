@@ -109,7 +109,7 @@ nav a .svg-icon circle {
   border-radius: 0 0 12px 12px;
 }
 
-.gallery a h3{
+.gallery a h4{
   font-family: var(--fuenteTexto);
   margin: 0;
   padding: 8px;
