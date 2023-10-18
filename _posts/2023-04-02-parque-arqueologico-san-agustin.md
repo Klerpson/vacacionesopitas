@@ -19,7 +19,7 @@ permalink: turismo-san-agustin/parque-arqueologico-san-agustin
 **El Parque Arqueológico de San Agustín es un conjunto de esculturas y ruinas prehispánicas** ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con esculturas y monumentos de hace más de 1.800 años.
 <!-- excerpt -->
 
-## Cómo llegar hasta el parque arqueológico
+## ¿Cómo puedes llegar hasta el Parque Arqueológico?
 
 Para llegar al parque **primero debes ir hasta el municipio de San Agustín Huila**. Después de llegar allí, te diriges hasta la plaza principal. **Desde el parque principal**, recorres 3 kilómetros hasta llegar al Parque Arqueológico.
 
@@ -30,7 +30,7 @@ Puede servirte como punto de referencia llegar hasta la [heladería GurCoff](htt
 
 Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles]({{'hoteles-san-agustin'|relative_url}} "Hoteles de San Agustín"), [restaurantes]({{'restaurantes-san-agustin'|relative_url}} "Restaurantes de San Agustín") con comida típica y comidas rápidas, entre otros.
 
-### Cómo llegar desde diferentes ciudades
+### Cómo llegar al parque de San Agustín desde diferentes ciudades
 
 Para que no te pierdas en el camino, aquí tienes un cuadro comparativo con las opciones de transporte desde las principales ciudades:
 
@@ -69,7 +69,7 @@ Solo *dile al conductor que después del municipio de Isnos, te quedas en el cru
 
 ----
 
-## ¿Cuánto vale la entrada al parque arqueológico?
+## ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
 
 Según la resolución 070 de 27 de marzo de 2017 se debe cancelar un pasaporte para entrar al parque. Cómpralo solamente en las taquilla de entrada de los parques. *No la compres en otra parte a revendedores*.
 
@@ -83,7 +83,7 @@ El pasaporte tiene una validez de 2 días para que disfrutes de los parque sin a
 
 >Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes ingresar al Alto de los Ídolos en Isnos.
 
-### Entrar gratis al parque arqueológico de San Agustín
+## ¿Cómo entrar gratis al parque arqueológico San Agustín?
 
 Hay algunas excepciones para no pagar y *entrar gratis a visitar las ruinas de San Agustín*. Son las siguientes:
 
@@ -102,7 +102,7 @@ De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre 
 
 Además, hay que tener en cuenta que en temporada normal *el parque arqueológico no abre los días martes*. En la temporada alta sí atienden toda la semana.
 
-### Descubre las zonas menos conocidas
+### Descubre las zonas menos conocidas del parque
 
 No te quedes solo con lo básico. Aquí tienes una lista para explorar las joyas escondidas del parque:
 
@@ -120,7 +120,7 @@ Para que tu experiencia sea completa, aquí tienes una lista de recursos que te 
 
 ----
 
-## Qué es el Parque de San Agustín
+## Pero, ¿Qué es el Parque de San Agustín?
 
 >En el artículo "La magia de San Agustín Huila" encontrarás más información sobre cómo llegar hasta San Agustín. Haz clic en el botón para leerlo.  
 [La magia de San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"}
@@ -152,7 +152,7 @@ En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cul
 
 Por supuesto, Julian. Aquí te dejo las secciones adicionales pero con un enfoque más didáctico, utilizando listas y cuadros comparativos para hacer la información más accesible y fácil de digerir. 📊
 
-### Las zonas del parque arqueológico de San Agustín Huila
+### Las zonas más importantes del parque arqueológico de San Agustín Huila
 
 >**¿Te gustaría hacer voluntariados y ahorrar costos mientras viajas?**  
 Aprende cómo con el libro "Como me lance al voluntariado - guia paso a paso" [Comprar libro](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
@@ -246,7 +246,7 @@ El lugar está rodeado por reductos de bosque natural primario en la que predomi
 
 ----
 
-## Ven a conocer las ruinas del Parque Arqueológico
+## Ven a Conocer las Ruinas Arqueológicas de San Agustín
 
 **El parque arqueológico de San Agustín, en el departamento del Huila, es considerada la joya del patrimonio histórico y arquelógico de Colombia** y de América Latina.
 
