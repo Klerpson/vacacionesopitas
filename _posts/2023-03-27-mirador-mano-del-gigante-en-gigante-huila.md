@@ -24,7 +24,7 @@ Hoy vamos a hablar de "La Mano del Gigante", un destino que está en boca de tod
 
 Este mirador lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras.
 
->## Información rápida sobra la Mano del Gigante  
+>## Información rápida sobra la Mano del Gigante en Colombia  
 ### **¿Qué Hacer en Gigante, Huila?** 🎯  
 Si estás planeando una visita, no te pierdas estas actividades top que puedes hacer en Gigante, Huila: senderismo, gastronomía local, aventura extrema y fotografía.  
 ### **¿Cuánto Cuesta la Entrada a la Mano del Gigante?** 💵  
@@ -50,7 +50,7 @@ El Mirador "La mano del Gigante" se encuentra ubicado a unos 20 minutos en carro
 
 Al llegar a este punto, **deberás subir cerca de 2 kilómetros** hasta la cima de una montaña. Como el acceso es muy empinado, *hay que dejar tu vehículo particular en un parqueadero en la parte baja de la montaña*. Por eso es mejor venir en un transporte público, claro, si el presupuesto te lo permite.
 
-Desde aquí **puedes pagar transporte en vehículos con más tracción**, que cobra 15000 pesos en promedio. También, **puedes hacer una caminata por un sendero de cerca de 40 minutos**. Al bajar, el tiempo es mucho menor. Por esto, te recomendamos bajar caminando. Así es más fácil llegar a donde está la Mano del Gigante.
+Desde aquí **puedes pagar transporte en vehículos con más tracción**, que cobra 15000 pesos en promedio. También, **puedes hacer una caminata por un sendero de cerca de 40 minutos por escaleras hasta la Mano del Gigante**. Al bajar, el tiempo es mucho menor. Por esto, te recomendamos bajar caminando. Así es más fácil llegar a donde está la Mano del Gigante.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7972.532998113206!2d-75.49886052910924!3d2.417791499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b33a8784635f7%3A0xc4466883657f3f23!2sMirador%20La%20Mano%20del%20Gigante!5e0!3m2!1ses!2sco!4v1677818982556!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 \*Ubicación en Google maps del mirador La mano del Gigante\*
@@ -126,7 +126,13 @@ No necesitas ser un fotógrafo profesional para capturar la belleza de "La Mano 
 * **Ángulos variados**: No te quedes solo con las tomas frontales.
 * **Aplicaciones de edición**: Para realzar colores y detalles.
 
-## ¿Por qué "La Mano del Gigante" es un must para los amantes de la naturaleza?
+## ¿Necesitas un hotel después de visitar La Mano del Gigante?
+
+Además de que en el mirador puedes alquilar cabañas u hospedaje, también puedes consultar la lista de hoteles que están en el pueblo de Gigante Huila.
+
+[Buscar hoteles en Gigante](https://kayak.com.co/in?a=kan_273914_584508&lc=es&url=%2Fhotels-dateless%2FGigante%2CColombia-c114894%2F1rooms%2F2adults){:rel="nofollow noopener noreferrer" target="_blank"}{:class="boton boton_1"}
+
+## ¿Por qué debes visitar la montaña "La Mano del Gigante"?
 
 Si eres un apasionado de la naturaleza, este mirador es el lugar perfecto para ti. Mira estas **razones para visitar la Mano del Gigante:**
 
@@ -148,7 +154,7 @@ Recuerda que **Gigante Huila es un lugar pequeño**, por lo que no tendrás prob
 
 ## Preguntas más comunes sobre la Mano del Gigante Huila
 
-### ¿Qué Hacer en Gigante, Huila? 🎯
+### ¿Qué Hacer en La Mano del Gigante en el pueblo de Gigante Huila? 🎯
 
 ## La mano del Gigante: el mejor mirador del Huila
 
