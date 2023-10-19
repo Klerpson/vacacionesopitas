@@ -40,7 +40,7 @@ Hay muchas actividades turísticas: **caminatas por la montaña, escenarios para
 
 En otras palabras, la Mano del Gigante *es el destino perfecto para aquellos que buscan una escapada única y emocionante*.
 
-## Dónde queda La mano del Gigante Huila
+## Dónde está ubicado el monumento La mano del Gigante Huila
 
 Ahora, volvamos al tema principal: el mirador "La mano del Gigante". Este mirador es una de las atracciones más icónicas de la zona, y una visita obligada para todos los turistas que visitan Gigante Huila.
 
@@ -55,7 +55,7 @@ Desde aquí **puedes pagar transporte en vehículos con más tracción**, que co
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7972.532998113206!2d-75.49886052910924!3d2.417791499999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b33a8784635f7%3A0xc4466883657f3f23!2sMirador%20La%20Mano%20del%20Gigante!5e0!3m2!1ses!2sco!4v1677818982556!5m2!1ses!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 \*Ubicación en Google maps del mirador La mano del Gigante\*
 
-### ¿Cuál es el precio de la entrada a la montaña de la Mano del Gigante?
+### ¿Cuál es el precio de la entrada a la montaña La Mano del Gigante?
 
 Puedes disfrutar la majestuosidad de la montaña y la vista panorámica desde este mirador, con un pago de **$15,000 pesos moneda colombiana (aproximadamente 3 dólares) por persona**.
 
