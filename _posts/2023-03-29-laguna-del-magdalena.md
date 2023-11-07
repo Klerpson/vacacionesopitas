@@ -71,7 +71,7 @@ Recuerda tomar las siguientes precauciones en tu viaje:
 
 Para llegar a la laguna del Magdalena debes transitar un sendero montañoso lleno de aventura. **Es trayecto muy largo que puede durar hasta 5 días de viaje de ida y vuelta**.
 
-Puedes llegar desde 2 lugares diferentes: **desde [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila"){:target="_blank"} o desde Popayán.**
+Puedes llegar desde 2 lugares diferentes: **desde [San Agustín Huila]({{'turismo-san-agustin/san-agustin-huila-magia-aventura-extrema'|relative_url}} "San Agustín Huila") o desde Popayán.**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.175535912642!2d-76.6176436767215!3d1.9347221274314712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2f8f882fdec95f%3A0xbae735e5e975da60!2sLaguna%20Magdalena!5e0!3m2!1ses-419!2sco!4v1656416457521!5m2!1ses-419!2sco" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 *Ubicación de la laguna del Magdalena*
