@@ -27,13 +27,8 @@
 .hoteles div article span{
   display: flex;
   padding: 0.7rem;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: rgba(0, 0, 0, 0.7);
   font-weight: 700;
-  color: white;
+  color: var(--accion);
   text-decoration: underline;
   text-decoration-thickness: 2px;
 }

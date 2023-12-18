@@ -14,10 +14,6 @@ permalink: /hoteles-san-agustin
     style="width:50px;height:50px">
   </lord-icon>
 </section>
-<div class="blog-home">
-  {% include cta.html texto="Compara y asegura tu hotel" %}
-</div>
-
 <main class="hoteles wrapper flow">
   {% for item in site.data.hoteles %} {% assign cat = item[0] %}
   <h2>{{ cat }}</h2>
@@ -26,7 +22,6 @@ permalink: /hoteles-san-agustin
     <article>
       <img src="{{site.baseurl}}/img/blog/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="240"/>
       <a href="{{hotel.perfil}}" rel="nofollow noreferrer" title="{{hotel.title}} en Google" target="_blank">
-      <span>{{hotel.puntos}} opiniones en Google</span>
       </a>
       <h3>{{hotel.nombre}}</h3>
       <ul>
@@ -34,9 +29,7 @@ permalink: /hoteles-san-agustin
         <li>✓ {{servicio}}</li>
         {% endfor %}
       </ul>
-      {% if hotel.link %}
-      <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow sponsored" class="botones boton_1" target="_blank">Asegura tu habitación</a>
-      {% endif %}
+      <span>{{hotel.puntos}} opiniones en Google</span>
     </article>
     {% endfor %}
   </div>

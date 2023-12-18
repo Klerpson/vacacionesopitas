@@ -20,23 +20,21 @@ h1: Los restaurantes de San Agustín Huila bien recomendados
     {% for restaurante in site.data.restaurantes %}
     <article>
       <img src="{{site.baseurl}}/img/blog/{{restaurante.img}}" alt="{{restaurante.alt}}" title="{{restaurante.title}}" loading="lazy" width="320" height="240"/>
-      {% if restaurante.perfil %}
-      <a href="{{restaurante.perfil}}" rel="nofollow noreferrer" title="{{restaurante.title}} en Google" target="_blank">
-      <span>
-          {{restaurante.puntos}} opiniones en Google
-        </span>
-      </a>
-      {% endif %}
       <h3>{{restaurante.nombre}}</h3>
       {% if restaurante.servicios %}
       <ul>
         {% for servicio in restaurante.servicios %}
         <li>✓ {{servicio}}</li>
         {% endfor %}
-        {% endif %} {% if restaurante.link %}
-        <a href="{{restaurante.link}}" rel="nofollow sponsored">Conoce el restaurante</a>
         {% endif %}
       </ul>
+      {% if restaurante.perfil %}
+      <a href="{{restaurante.perfil}}" rel="nofollow noreferrer" title="{{restaurante.title}} en Google" target="_blank">
+        <span>
+          {{restaurante.puntos}} opiniones en Google
+        </span>
+      </a>
+      {% endif %}
     </article>
     {% endfor %}
   </div>
