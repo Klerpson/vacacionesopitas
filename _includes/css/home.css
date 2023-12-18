@@ -57,10 +57,12 @@
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+  width: min(100%, 400px);
+  align-items: center;
 }
 
 .cta-home div ul li {
-  flex: 1 0 120px;
+  flex: 0 1 120px;
   background-color: #fefefe;
   display: grid;
   padding: .7rem;

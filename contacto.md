@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page-basic
 title: Prepara tu Visita a San Agustín Huila con Nosotros
 h1: Prepara tu Visita a San Agustín Huila con Nosotros ¡Escríbenos!
 description: ¿Te gustaría saber más de los hoteles, lugares turísticos y paquetes en San Agustín Huila? Escríbenos.
