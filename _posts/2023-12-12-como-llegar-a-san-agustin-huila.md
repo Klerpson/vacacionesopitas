@@ -13,10 +13,10 @@ webpb: blog/terminal-transporte-san-agustin-huila-800.webp
 alt: Terminal buses San Agustín
 permalink: turismo-san-agustin/como-llegar-a-san-agustin-huila
 ---
-San Agustín Huila, un rincón lleno de encanto en los Andes Colombianos, es un destino turístico que cautiva con sus paisajes impresionantes, su rica cultura y su legado arqueológico. Descubre **cómo llegar a este paraíso natural** y sumérgete en la magia de sus atracciones.
+[San Agustín Huila]({% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %}), un rincón lleno de encanto en los Andes Colombianos, es un destino turístico que cautiva con sus paisajes impresionantes, su rica cultura y su [legado arqueológico]({% post_url 2023-04-02-parque-arqueologico-san-agustin %}). Descubre **cómo llegar a este paraíso natural** y sumérgete en la magia de sus atracciones.
 <!-- excerpt -->
 
-## Cómo llegar a San Agustín
+## Cómo llegar a San Agustín Huila
 
 **Tienes 2 opciones para llegar a San Agustín**: puedes llegar en vehículo por carretera o en avión a los aeropuertos cercanos, y terminar el viaje en transporte público.
 
@@ -91,4 +91,4 @@ Enclavado en los Andes Colombianos, [San Agustín Huila](/) se destaca por su de
 
 Este lugar, hogar de gente amable y hospitalaria, te invita a explorar un pasado remoto donde una de las culturas más importantes dejó un legado escultórico impresionante, testamento del culto funerario y su comprensión única de la naturaleza.
 
-Con estas opciones detalladas, ahora tienes la guía perfecta para llegar a San Agustín Huila y sumergirte en la belleza natural, las actividades culturales y el legado arqueológico que hacen de este destino un lugar único en Colombia. ¡Prepárate para vivir una experiencia inolvidable!
+Con estas opciones detalladas, ahora tienes la guía perfecta para llegar a San Agustín Huila y sumergirte en la belleza natural, [las actividades culturales]({% post_url 2023-06-12-turismo-urbano-san-agustin %}) y el legado arqueológico que hacen de este destino un lugar único en Colombia. ¡Prepárate para vivir una experiencia inolvidable!

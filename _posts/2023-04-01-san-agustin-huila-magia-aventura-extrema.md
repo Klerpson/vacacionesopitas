@@ -16,7 +16,7 @@ date: 2023-04-01
 permalink: turismo-san-agustin/san-agustin-huila-magia-aventura-extrema
 excerpt_separator: <!-- excerpt -->
 ---
-**Descubre San Agustín Huila, el destino turístico ideal en Colombia para viajes de aventura y relajación.** Sus hermosos paisajes del macizo colombiano; sus estructuras coloniales; su clima fresco y su cultura. ¡Todo te va a encantar!
+**Descubre [San Agustín Huila](/), el destino turístico ideal en Colombia para viajes de aventura y relajación.** Sus hermosos paisajes del macizo colombiano; sus estructuras coloniales; su clima fresco y su cultura. ¡Todo te va a encantar!
 <!-- excerpt -->
 
 ## San Agustín Huila: destino turístico que debes conocer
