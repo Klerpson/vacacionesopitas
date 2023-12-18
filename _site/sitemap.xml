@@ -61,6 +61,12 @@
   
   
       <url>
+        <loc>http://localhost:4000/turismo-san-agustin/como-llegar-a-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>http://localhost:4000/turismo-san-agustin/turismo-san-agustin-bicicleta</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
