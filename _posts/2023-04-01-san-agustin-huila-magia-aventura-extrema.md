@@ -48,6 +48,9 @@ San Agustín Huila tiene 3 pilares en su oferta turística:
 
 ### 1. El parque arqueológico de San Agustín
 
+>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de "Como me lance al voluntariado ( guia paso a paso)". Haz clic en el botón para comprar el tuyo.  
+["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
+
 **San Agustín Huila es muy reconocido por [el parque arqueológico]({{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}} "Artículo sobre el Parque Arqueológico")**, donde se conserva muchas esculturas con parte de su historia y cultura. Estas esculturas arqueológicas fueron *declaradas Patrimonio de la Humanidad por la Unesco*.
 
 Las ruinas de San Agustín se encuentran en diferentes parques arqueológicos cerca de la ciudad y datan de hace más de 1.800 años. Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
@@ -110,12 +113,10 @@ Desde muy temprano en la mañana hasta las 8p.m. puedes visitar esta calle comer
 
 [El parque Sumak de San Agustin]({% post_url 2023-05-12-parque-tematico-sumak-san-agustin %}) es el nuevo atractivo turístico de este hermoso paraíso. Así que ahora tienes más planes para pasar unas buenas **vacaciones en San Agustín**.
 
-----
+>Para saber **cómo llegar a San Agustín** desde cualquier ciudad de Colombia, mira el siguiente artículo  
+[Cómo llegar a San Agustín]({% post_url 2023-12-12-como-llegar-a-san-agustin-huila %})
 
 ## Los hoteles de San Agustín
-
->Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de "Como me lance al voluntariado ( guia paso a paso)". Haz clic en el botón para comprar el tuyo.  
-["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
 
 San Agustín Huila tiene lugares extraordinarios para hospedarse. [Haz clic aquí para ver las mejores opciones de alojamiento]({{site.baseurl}}/hoteles-san-agustin "Hoteles San Agustin"). Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.**
 
@@ -154,39 +155,6 @@ Este asado se prepara con **cortes de carne de res, cerdo y pollo, marinados con
 Cada bocado es una explosión de sabor, **la carne jugosa y tierna impregnada con los sabores de la marinada**. Es una experiencia culinaria que vale la pena probar, especialmente si te gusta la carne asada.
 
 ----
-
-## Cómo llegar a San Agustín
-
-**Tienes 2 opciones para llegar a San Agustín**: puedes llegar en vehículo por carretera o en avión a los aeropuertos cercanos, y terminar el viaje en transporte público.
-
-### Cómo llegar en avión
-
-Si deseas y puedes hacerlo, **la mejor opción es tomar un avión hasta el aeropuerto de Pitalito**. Este aeropuerto está a solo 20 minutos de distancia en carro.
-
-Estos son los **aeropuertos más cercanos a San Agustín Huila**:
-
-* [Aeropuerto de Pitalito](https://www.aerocivil.gov.co/aeropuertos/Pages/contador-pitalito.aspx){:rel="nofollow noopener noreferrer" target="_blank"}, a media hora de distancia.
-* Aeropuerto de Florencia Caquetá, a dos horas de distancia.
-* Aeropuerto de Villa Garzón Putumayo, a tres horas y media de distancia
-* Aeropuerto de Puerto Asís, a cinco horas de distancia.
-
-### Cómo llegar por tierra
-
-Para llegar a San Agustín Huila puedes utilizar el transporte público. Constantemente llegan empresas como [Coomotors](https://coomotor.com.co/){:target="_blank" rel="nofollow noopener"} y [Taxis Verdes](https://taxisverdes.net/){:target="_blank" rel="nofollow noopener"} desde las principales ciudades del país.
-
-Por ejemplo, hay una línea de camionetas de [Cootranslaboyana](https://www.cootranslaboyana.com.co/){:target="_blank" rel="nofollow noopener"} que salen cada 30 minutos del terminal de transporte de Pitalito. **No te recomiendo viajar en la parte de atrás. Es bastante incómodo.**
-
-Puede que hagan escala en Pitalito Huila. Luego te llevan hasta la terminal de transporte de San Agustín.
-
-#### Distancias desde San Agustín Huila a Bogotá, Cali, Neiva, Popayán y Mocoa
-
-| Punto de partida | Kilómetro | Tiempo | Peajes |
-| --- | --- | --- | --- |
-| Neiva - San Agustín Huila | 220km | 4:30 horas | 2 peajes |
-| Bogotá - San Agustín Huila | 533km | 9:30 horas | 8 peajes, tristemente |
-| Cali - San Agustín Huila | 270km | 7:10 horas | 2 peajes |
-| Popayán - San Agustín Huila | 79km | 3:30 horas | 0 peajes |
-| Mocoa - San Agustín Huila | 156km | 3:30 horas | 0 peajes |
 
 ## Recomendaciones para visitar San Agustín Huila
 
