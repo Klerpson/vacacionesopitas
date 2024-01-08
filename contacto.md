@@ -12,7 +12,7 @@ Estamos encantados de que te hayas tomado el tiempo para visitar nuestra página
 
 Si tienes alguna pregunta, comentario o sugerencia, por favor no dudes en contactarnos **a través de nuestro formulario de contacto**. Estamos aquí para ayudarte en todo lo que podamos. Nos esforzamos por responder a todas las consultas en un plazo de 24 a 48 horas.
 
-Nuestro [blog sobre San Agustín](/) está dedicado a proporcionar a nuestros lectores información detallada y precisa sobre **todo lo relacionado con el turismo en San Agustín Huila**.
+Nuestro [blog sobre San Agustín]({{site.baseurl}}) está dedicado a proporcionar a nuestros lectores información detallada y precisa sobre **todo lo relacionado con el turismo en San Agustín Huila**.
 
 Desde las atracciones más populares, *como el [Parque Arqueológico de San Agustín]({% post_url 2023-04-02-parque-arqueologico-san-agustin %}) y [el Salto del Mortiño]({% post_url 2023-03-15-cascada-salto-mortino-isnos %}), hasta consejos útiles para viajar y [alojarse en la zona]({{'hoteles-san-agustin'|relative_url}})*.
 

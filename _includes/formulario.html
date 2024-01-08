@@ -1,6 +1,6 @@
 <div class="flow conclusion">
   <h2>Contáctanos para más información</h2>
-  <form class="form" name="contact" method="post" netlify onsubmit="submit" data-netlify-honeypot="bot-field" action="/gracias" id="formulario">
+  <form class="form" name="contact" method="post" netlify onsubmit="submit" data-netlify-honeypot="bot-field" action="{{'gracias'|relative_url}}" id="formulario">
   <input name="bot-field" class="d-none" style="display: none;">
   <div class="form__group">
     <label class="form__label" for="form-name">Escribe tu nombre</label>
@@ -17,6 +17,5 @@
   <div class="form__group">
     <button class="botones" type="submit">Enviar</button>
   </div>
-  <input type="hidden" value="{{ site.baseurl }}/contacto/gracias/" />
 </form>
 </div>
