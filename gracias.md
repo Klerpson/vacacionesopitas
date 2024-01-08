@@ -3,7 +3,7 @@ layout: post
 title: Gracias por escribir a sanagustinhuila.com.co
 h1: Gracias por escribir a sanagustinhuila.com.co
 description: Ya tenemos tu información. La trataremos siguiendo nuestra política de privacidad. Te escribiremos prontamente.
-permalink: /gracias
+noindex: true
 ---
 ## ¡Gracias por contactarnos!
 
