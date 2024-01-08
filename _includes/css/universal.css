@@ -221,6 +221,7 @@ blockquote a:hover,
 .botones:hover {
   box-shadow: var(--shadow);
   transform: scale(1.016);
+  background-color: #015f16;
 }
 
 blockquote a:active,

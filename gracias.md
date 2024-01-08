@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gracias por escribir a sanagustinhuila.com.co
-h1: Gracias por escribir a sanagustinhuila.com.co
+h1: Gracias por escribir a nuestro buzón de contacto
 description: Ya tenemos tu información. La trataremos siguiendo nuestra política de privacidad. Te escribiremos prontamente.
 noindex: true
 ---
