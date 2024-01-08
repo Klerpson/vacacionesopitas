@@ -29,8 +29,7 @@
   padding: 0.7rem;
   font-weight: 700;
   color: var(--accion);
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
+  font-size: 1rem;
 }
 
 .hoteles div article > a:not(.botones){
