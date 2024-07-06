@@ -1,6 +1,6 @@
-baseurl: ''
-url: 'https://sanagustinhuila.com.co'
-name: 'sanagustinhuila.com.co'
+baseurl: '/'
+url: ''
+name: 'Blog San Agustín'
 author: Julian Franco
 email: contacto@sanagustinhuila.com.co
 # instagram: https://www.instagram.com/terminaldetransporte/
