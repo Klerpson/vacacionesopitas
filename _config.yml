@@ -1,8 +1,8 @@
-baseurl: '/sanagustin'
-url: ''
-name: 'Blog San Agustín'
+baseurl: ''
+url: 'https://vacacionesopitas.com'
+name: 'Vacaciones Opitas'
 author: Julian Franco
-email: contacto@sanagustinhuila.com.co
+email: contacto@vacacionesopitas.com
 # instagram: https://www.instagram.com/terminaldetransporte/
 # twitter: https://twitter.com/bloglaterminal
 
