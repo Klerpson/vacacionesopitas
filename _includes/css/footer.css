@@ -5,7 +5,7 @@ footer {
   font-size: 0.7rem;
   padding: 2rem 16px;
   background: rgb(1,180,40);
-background: linear-gradient(352deg, rgba(1,180,40,1) 0%, rgba(255,255,255,1) 23%);
+  background: linear-gradient(352deg, rgba(1,180,40,1) 0%, rgba(255,255,255,1) 23%);
 }
 
 footer h4{

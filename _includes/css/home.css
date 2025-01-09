@@ -28,7 +28,8 @@
   position: relative;
   background-color: var(--secundario);
   box-shadow: 0 0 0 100vmax var(--secundario);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -113,13 +114,15 @@
   width: 100%;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .conclusion {
   background-color: var(--complemento2);
   box-shadow: 0 0 0 100vmax var(--complemento2);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
   padding: 5rem 0;
   display: grid;
   gap: 1.5rem;
