@@ -1,22 +1,18 @@
-/* Variables y reset mantenidos igual */
-
-/* Contenedor */
-.contenedor {
-  width: min(100% - 4rem, 1200px);
-  margin-inline: auto;
-  padding: 0 2rem;
-}
-
-/* Reset básico */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+.wrapper {
+  padding: 8em 0 4em;
+  width: min(calc(100% - 2rem), 1320px);
+  margin-inline: auto;
+}
+
 /* Header */
 .header {
-  padding: 1rem 2rem;
+  padding: 1rem 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -130,10 +126,6 @@
 
 /* Media queries */
 @media (max-width: 1200px) {
-  .hero {
-    grid-template-columns: 1fr;
-  }
-
   .hero__image-container {
     width: 100%;
     height: auto;
@@ -143,10 +135,6 @@
 
 .destino {
   position: relative;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem;
 }
 
 /* Desierto Tatacoa */
@@ -334,9 +322,6 @@
   background: #4CAF50;
   color: white;
   border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   font-size: 24px;
   font-weight: bold;
 }

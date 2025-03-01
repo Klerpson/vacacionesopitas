@@ -1,0 +1,149 @@
+:root {
+  --color-white: #fefefe;
+  --color-main: #1B3764;
+  --color-complement: #006400;
+  --color-fonts: #303030;
+  --color-accent: #1b3764b9;
+  --color-grey: #e7e7e7;
+  --color-grey-1: #7c7a7a;
+  --color-grey-2: #495057;
+  --border-radius: 20px;
+  --shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 
+  0 6px 6px rgba(0, 0, 0, 0.05);
+  --font: "Roboto", sans-serif;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 6em;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--color-fonts);
+  font-family: var(--font);
+  background-color: var(--color-white);
+  font-style: normal;
+  font-optical-sizing: auto;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-transform: none;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.12;
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+}
+
+h2 {
+  font-size: clamp(2rem, 1.692rem + 1.54vw, 3rem);
+  color: var(--color-main);
+  max-width: 30ch;
+}
+
+h2::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  background-color: var(--color-accent);
+}
+
+p,
+li {
+  font-size: clamp(1.1rem, 1.1vw, 1.2rem);
+  max-width: 70ch;
+  margin-bottom: 1rem;
+}
+
+li {
+  list-style: none;
+  margin-left: 0.5rem;
+}
+
+a {
+  color: var(--color-grey-2);
+  text-decoration: none;
+  font-weight: 700;
+  transition: all 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+small {
+  font-size: 90%;
+  font-weight: 900;
+  display: block;
+}
+
+img {
+  border-style: none;
+  max-width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.wrapper {
+  padding: 8em 0 4em;
+  width: min(calc(100% - 2rem), 1320px);
+  margin-inline: auto;
+}
+
+.flow > * + * {
+  margin-top: 1em;
+}
+
+.two_columns {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2em;
+
+  div{
+    flex: 1 0 400px;
+    max-width: 100%;
+  }
+}
+
+.two_columns_left {
+  flex-direction: row-reverse;
+}
+
+.three_columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3em;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 4em;
+
+  & > div {
+    position: relative;
+    width: min(100%, 376px);
+    text-align: center;
+    display: grid;
+    gap: 2em;
+    place-items: center;
+    border-radius: var(--radius-cards);
+    overflow: hidden;
+  }
+}

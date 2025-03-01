@@ -1,0 +1,22 @@
+.buttons{
+  position: relative;
+  color: white;
+  display: grid;
+  place-items: center;
+  padding: 1em 2em;
+  width: max-content;
+  z-index: 1;
+}
+
+.buttons::before{
+  content: ""; 
+  background-image: url("/assets/img/boton.svg");
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}

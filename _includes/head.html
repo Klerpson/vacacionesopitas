@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{% if page.seo_description %}{{ page.seo_description | strip_html | strip_newlines | truncate: 155 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="geo.region" content="CO-HUI">
+    <meta name="geo.placename" content="Columbus">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | absolute_url }}">
+    <!-- Locale -->
+    <meta property="og:locale" content="es-CO">
+    
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ '/img/iconified/favicon.ico' | relative_url }}" type="image/x-icon" >
+    <link rel="apple-touch-icon" href="{{ '/img/iconified/apple-touch-icon.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ '/img/iconified/apple-touch-icon-57x57.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ '/img/iconified/apple-touch-icon-72x72.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ '/img/iconified/apple-touch-icon-76x76.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ '/img/iconified/apple-touch-icon-114x114.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ '/img/iconified/apple-touch-icon-120x120.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ '/img/iconified/apple-touch-icon-144x144.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ '/img/iconified/apple-touch-icon-152x152.png' | relative_url }}" >
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/img/iconified/apple-touch-icon-180x180.png' | relative_url }}" >
+    <!-- Theme color -->
+    <meta name="theme-color" content="#1B3764">
+    <!-- Generator -->
+    <meta name="generator" content="Jekyll {{ jekyll.version }}">
+    <!-- Preconexiones optimizadas -->
+    <link rel="preconnect" href="https://maps.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!-- Consent Mode Configuration -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'analytics_storage': 'denied',
+        'wait_for_update': 500
+      });
+      </script>
+  
+  <!-- Google Tag Manager -->
+    
+    <!-- Precarga de recursos específicos para servicios -->
+    {% if page.hero %}
+    <link rel="preload" as="image" href="{{ page.hero | relative_url }}" imagesizes="100vw">
+    {% endif %}
+    <link rel="preload" href="{{ 'style.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ 'style.css' | relative_url }}"></noscript>
+    <!-- Structured Data -->
+  </head>
