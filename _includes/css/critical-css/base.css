@@ -77,10 +77,6 @@ li {
   margin-bottom: 1rem;
 }
 
-li {
-  list-style: none;
-  margin-left: 0.5rem;
-}
 
 a {
   color: var(--color-grey-2);
@@ -89,11 +85,6 @@ a {
   transition: all 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-small {
-  font-size: 90%;
-  font-weight: 900;
-  display: block;
-}
 
 img {
   border-style: none;
@@ -114,36 +105,10 @@ img {
 
 .two_columns {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
   gap: 2em;
 
   div{
     flex: 1 0 400px;
     max-width: 100%;
-  }
-}
-
-.two_columns_left {
-  flex-direction: row-reverse;
-}
-
-.three_columns {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 3em;
-  justify-content: center;
-  align-items: flex-start;
-  margin-bottom: 4em;
-
-  & > div {
-    position: relative;
-    width: min(100%, 376px);
-    text-align: center;
-    display: grid;
-    gap: 2em;
-    place-items: center;
-    border-radius: var(--radius-cards);
-    overflow: hidden;
   }
 }

@@ -1,0 +1,34 @@
+li {
+  list-style: none;
+  margin-left: 0.5rem;
+}
+
+small {
+  font-size: 90%;
+  font-weight: 900;
+  display: block;
+}
+
+.two_columns_left {
+  flex-direction: row-reverse;
+}
+
+.three_columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3em;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 4em;
+
+  & > div {
+    position: relative;
+    width: min(100%, 376px);
+    text-align: center;
+    display: grid;
+    gap: 2em;
+    place-items: center;
+    border-radius: var(--radius-cards);
+    overflow: hidden;
+  }
+}

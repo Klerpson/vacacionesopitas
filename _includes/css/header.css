@@ -1,59 +1,49 @@
 .hero {
   position: relative;
-  height: 80dvh;
+  height: max-content;
 
-  section{
-    height: 100%;
-    padding: 0;
-    
-    div{
-      height: 100%;
-      z-index: 10;
-    }
+  .two_columns{
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 10;
    
-  }
-
-  .hero_column_1{
-    display: grid;
-    align-content: end;
-    background-color: #ffffffc2;
-    padding: 0 12px;
-    border-radius: var(--border-radius);
-
-    .hero_secondary_button{
-      font-weight: 700;
-      color: var(--color-main);
-      padding: 1em 2em;
-    }
-
-    h1, p{
-      max-width: 560px;
-    }
-  }
-
-  .hero_column_2{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: flex-end;
-
-    img{
-      width: min(100%, 120px);
-    }
-
-    .places{
-      padding: 4px 12px;
+    .hero_column_1{
+      padding: 0 12px;
+      display: grid;
+      align-content: end;
+      background-color: #ffffffc2;
       border-radius: var(--border-radius);
-      background-color: var(--color-accent);
-      color: white;
-      font-weight: 700;
-      font-size: 16px;
-      line-height: 1.2;
-      transform: rotate(-90deg) translateY(2em);
-      transform-origin: left bottom;
-      width: max-content;
+  
+      .hero_secondary_button{
+        font-weight: 700;
+        color: var(--color-main);
+        padding: 1em 2em;
+      }
+  
+      h1, p{
+        max-width: 560px;
+      }
+    }
+  
+    .hero_column_2{
+      padding: 0 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+  
+      .places{
+        padding: 4px 12px;
+        border-radius: var(--border-radius);
+        background-color: var(--color-accent);
+        color: white;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 1.2;
+        width: max-content;
+      }
     }
   }
+
 
   .image_hero{
     position: absolute;
@@ -61,37 +51,6 @@
     right: 0;
     z-index: 1;
   }
-}
-
-/* Header */
-.header {
-  display: flex;
-  align-items: flex-end;
-}
-
-.menu-toggle {
-  width: 30px;
-  height: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.menu-toggle span {
-  width: 100%;
-  height: 3px;
-  background-color: #4CAF50;
-}
-
-.nav {
-  display: flex;
-  gap: 2rem;
-  align-items: center;
-}
-
-.nav a {
-  color: #333;
-  text-decoration: none;
 }
 
 /* Hero Section */
