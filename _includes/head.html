@@ -34,27 +34,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <!-- Consent Mode Configuration -->
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      
-      gtag('consent', 'default', {
-        'ad_storage': 'denied',
-        'ad_user_data': 'denied',
-        'ad_personalization': 'denied',
-        'analytics_storage': 'denied',
-        'wait_for_update': 500
-      });
-      </script>
-  
-  <!-- Google Tag Manager -->
     
     <!-- Precarga de recursos específicos para servicios -->
     {% if page.hero %}
     <link rel="preload" as="image" href="{{ page.hero | relative_url }}" imagesizes="100vw">
     {% endif %}
-    <link rel="preload" href="{{ 'style.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="{{ 'style.css' | relative_url }}"></noscript>
+    {% capture critical_css %}
+    {% include css/critical-css/base.css %}
+    {% endcapture %}
+    <style>{{ critical_css }}</style>
+
+    <link rel="preload" href="{{ '/assets/css/styles.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}"></noscript>
     <!-- Structured Data -->
   </head>

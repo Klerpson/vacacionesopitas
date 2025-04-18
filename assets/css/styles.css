@@ -1,7 +1,7 @@
 ---
 layout: compress
 ---
-{% include css/base.css %}
+{% include css/universal.css %}
 {% include css/nav.css %}
 {% include css/boton.css %}
 {% include css/header.css %}
