@@ -1,7 +1,16 @@
 nav{
+  position: relative;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 0;
+
+  .logo_inicio{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+  }
 }
 
 #menuToggle

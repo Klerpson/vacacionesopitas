@@ -3,7 +3,6 @@
   height: max-content;
 
   .two_columns{
-    flex-wrap: wrap;
     position: relative;
     z-index: 10;
    
@@ -26,30 +25,10 @@
     }
   
     .hero_column_2{
-      padding: 0 12px;
       display: flex;
       justify-content: space-between;
       align-items: flex-end;
-  
-      .places{
-        padding: 4px 12px;
-        border-radius: var(--border-radius);
-        background-color: var(--color-accent);
-        color: white;
-        font-weight: 700;
-        font-size: 16px;
-        line-height: 1.2;
-        width: max-content;
-      }
     }
-  }
-
-
-  .image_hero{
-    position: absolute;
-    top: 0;
-    right: 0;
-    z-index: 1;
   }
 }
 
