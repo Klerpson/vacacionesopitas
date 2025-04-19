@@ -1,12 +1,13 @@
 :root {
   --color-white: #fefefe;
-  --color-main: #1B3764;
-  --color-complement: #006400;
+  --color-accion: #00447c;
+  --color-main: #102d44;
+  --color-complement: #5bad40;
   --color-fonts: #303030;
   --color-accent: #1b3764b9;
-  --color-grey: #e7e7e7;
-  --color-grey-1: #7c7a7a;
-  --color-grey-2: #495057;
+  --color-grey: #f3f1f1;
+  --color-grey-1: #c9cace;
+  --color-grey-2: #76777d;
   --border-radius: 20px;
   --shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 
   0 6px 6px rgba(0, 0, 0, 0.05);
@@ -44,32 +45,49 @@ h3,
 h4,
 h5 {
   text-transform: none;
-  font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1.12;
   margin-bottom: 1em;
 }
 
 h1 {
-  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-size: clamp(3rem, 2.52rem + 2.4vw, 4.5rem);
+  color: var(--color-accent);
+  font-weight: 900;
 }
 
 h2 {
+  position: relative;
   font-size: clamp(2rem, 1.692rem + 1.54vw, 3rem);
   color: var(--color-main);
   max-width: 20ch;
 }
 
+h2::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: -60px;
+  transform: translateY(-10%);
+  width: 320px;
+  height: 196px;
+  background-image: url('/assets/img/background-subtitles.avif');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: -1;
+  opacity: 0.8;
+}
+
 p,
 li {
-  font-size: clamp(1.1rem, 1.1vw, 1.2rem);
+  font-size: clamp(1.125rem, 1.085rem + 0.2vw, 1.25rem);
   max-width: 50ch;
   margin-bottom: 1rem;
 }
 
 
 a {
-  color: var(--color-grey-2);
+  color: var(--color-accion);
   text-decoration: none;
   font-weight: 700;
   transition: all 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275);

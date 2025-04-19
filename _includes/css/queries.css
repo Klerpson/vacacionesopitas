@@ -4,3 +4,16 @@
     padding: 0;
   } 
 }
+
+@media (min-width: 768px) {
+  .experiencias {
+    background-image: url('/assets/img/mapa-del-huila.avif');
+  }
+}
+
+@media (min-width: 992px) {
+  .fotos div{
+    background-color: transparent;
+    padding: 0;
+  }
+}

@@ -15,12 +15,17 @@ ol li{
 
 small {
   font-size: 90%;
-  font-weight: 900;
   display: block;
 }
 
 .flow > * + * {
   margin-top: 4em;
+}
+
+.center{
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
 .seccion{
@@ -52,7 +57,7 @@ small {
 }
 
 .places{
-  padding: 4px 12px;
+  padding: 12px 20px;
   border-radius: var(--border-radius);
   background-color: var(--color-accent);
   color: white;
@@ -70,5 +75,38 @@ small {
   &.right{
     place-content: flex-end;
     place-items: flex-end;
+  }
+
+  &.left{
+    place-content: flex-start;
+    place-items: flex-start;
+  }
+}
+
+.footer{
+  background-color: #5bad4061;
+  box-shadow: 0 0 0 100vmax #5bad4061;
+  clip-path: inset(0 -100vmax);
+  width: min(calc(100% - 2rem), 992px);
+  margin-inline: auto;
+  padding: 120px 0 4em;
+  display: grid;
+  place-items: center;
+  gap: 3em;
+  text-align: center;
+
+  h2:before{
+    display: none;
+  }
+  
+  p{
+    font-size: 1.2em;
+    max-width: 100%;
+  }
+
+  .footer-closing{
+    font-weight: 700;
+    font-style: italic;
+    text-transform: uppercase;
   }
 }

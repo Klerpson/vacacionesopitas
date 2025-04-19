@@ -13,12 +13,6 @@
       background-color: #ffffffc2;
       border-radius: var(--border-radius);
   
-      .hero_secondary_button{
-        font-weight: 700;
-        color: var(--color-main);
-        padding: 1em 2em;
-      }
-  
       h1, p{
         max-width: 560px;
       }
@@ -31,9 +25,6 @@
     }
   }
 }
-
-/* Hero Section */
-
 
 .hero__text {
   padding-right: 2rem;
