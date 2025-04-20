@@ -17,9 +17,10 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-# Block known malicious bots and crawlers
 User-agent: AhrefsBot
-Disallow: /
+Allow: /
+
+# Block known malicious bots and crawlers
 
 User-agent: SemrushBot
 Disallow: /
@@ -102,9 +103,8 @@ Disallow: /tmp/
 Allow: /img/*.avif$ 
 Allow: /img/*.jpg$
 Allow: /img/*.png$
-Disallow: /css/
-Disallow: /js/
-Disallow: /fonts/
+Allow: /css/
+Allow: /js/
 
 # Critical files
 Allow: /sitemap.xml

@@ -56,7 +56,7 @@ h1 {
   font-weight: 900;
 }
 
-h2 {
+h2{
   position: relative;
   font-size: clamp(2rem, 1.692rem + 1.54vw, 3rem);
   color: var(--color-main);
@@ -140,4 +140,12 @@ img {
   position: absolute;
   top: 5em;
 
+}
+
+.text_background {
+  padding: 20px;
+  display: grid;
+  align-content: end;
+  background-color: #ffffffc2;
+  border-radius: var(--border-radius);
 }

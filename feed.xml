@@ -75,8 +75,8 @@ layout: null
           {% endfor %}
         {% endif %}
         
-        {% if post.social_description %}
-        <media:credit role="description">{{ post.social_description | xml_escape }}</media:credit>
+        {% if post.description %}
+        <media:credit role="description">{{ post.description | xml_escape }}</media:credit>
         {% endif %}
       </item>
     {% endfor %}

@@ -1,28 +1,23 @@
 .hero {
   position: relative;
+  height: -webkit-max-content;
+  height: -moz-max-content;
   height: max-content;
 
-  .two_columns{
+  .two_columns {
     position: relative;
     z-index: 10;
-   
-    .hero_column_1{
-      padding: 0 12px;
-      display: grid;
-      align-content: end;
-      background-color: #ffffffc2;
-      border-radius: var(--border-radius);
-  
-      h1, p{
-        max-width: 560px;
-      }
+
+    h1,
+    p {
+      max-width: 560px;
     }
-  
-    .hero_column_2{
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-end;
-    }
+  }
+
+  .hero_column_2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
   }
 }
 
@@ -32,7 +27,7 @@
 
 .hero__text h1 {
   font-size: 3.5rem;
-  color: #1B3764;
+  color: #1b3764;
   margin-bottom: 1.5rem;
 }
 
