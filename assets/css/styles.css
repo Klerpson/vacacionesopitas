@@ -5,5 +5,6 @@ layout: compress
 {% include css/nav.css %}
 {% include css/boton.css %}
 {% include css/header.css %}
+{% include css/testimonios.css %}
 {% include css/paginas.css %}
 {% include css/queries.css %}

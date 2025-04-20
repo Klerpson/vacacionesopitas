@@ -9,6 +9,10 @@
   .experiencias {
     background-image: url('/assets/img/mapa-del-huila.avif');
   }
+
+  .testimonios_secundarios{
+    min-height: 40dvh;
+  }
 }
 
 @media (min-width: 992px) {

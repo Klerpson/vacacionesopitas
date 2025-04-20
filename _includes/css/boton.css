@@ -30,17 +30,29 @@
   z-index: -1;
 }
 
-.boton_secundario{
-  padding: 2em 3em;
+.boton_secundario {
+  padding: 2em 2em 1em;
   font-size: 20px;
   color: var(--color-accion);
-  text-decoration: underline;
-  text-decoration-color: var(--color-complement);
-  text-decoration-thickness: 4px;
-  text-underline-position: above;
-  text-underline-offset: 4px;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  transition: all 0.3s ease;
+  max-width: max-content;
+}
 
-  &:hover{
+.boton_secundario::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 4px;
+  width: 50%;
+  height: 4px;
+  background-color: var(--color-complement);
+  transform: translateX(-50%);
+  transition: width 0.3s ease;
+}
 
-  }
+.boton_secundario:hover::after {
+  width: 100%;
 }
