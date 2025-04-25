@@ -149,3 +149,76 @@ img {
   background-color: #ffffffc2;
   border-radius: var(--border-radius);
 }
+
+/* WhatsApp Button */
+.boton-whatsapp {
+  position: fixed;
+  bottom: 8rem;
+  right: 12px;
+  z-index: 100;
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) 0.5s 6 alternate-reverse both;
+  animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) 0.5s 6 alternate-reverse both;
+  transition: all .2s ease-in-out;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  text-decoration: none;
+}
+
+.boton-whatsapp:hover {
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+  filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+  transform: scale(1.05);
+}
+
+/* Keyframes for the animation */
+@-webkit-keyframes scale-up-center {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+@keyframes scale-up-center {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+/* scroll top */
+.boton-up {
+  position: fixed;
+  right: 15px;
+  bottom: 48px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-accion);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  transition: all 300ms ease-in;
+  z-index: 5;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.boton-up.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.boton-up:hover {
+  transform: scale(1.1);
+}
+
+/* Asegurarse de que el icono sea blanco */
+.boton-up svg {
+  color: white;
+}
