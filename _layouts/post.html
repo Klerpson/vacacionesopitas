@@ -1,0 +1,228 @@
+---
+layout: default
+---
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+<main class="post-page">
+  <article class="blog-post">
+    <header class="post-header">
+      <div class="wrapper">
+        {% if page.categories %}
+        <div class="post-categories">
+          {% for category in page.categories %}
+          <a href="/{{ current_lang }}/blog/category/{{ category | slugify }}/" class="category-tag">{{ category }}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+        
+        <h1>{{ page.title }}</h1>
+        
+        <div class="post-meta">
+          <div class="post-date">
+            <span class="icon">{% include icons/calendar.html %}</span>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+              {% assign m = page.date | date: "%-m" %}
+              {% case current_lang %}
+                {% when 'es' %}
+                  {{ page.date | date: "%-d" }} de 
+                  {% case m %}
+                    {% when '1' %}enero
+                    {% when '2' %}febrero
+                    {% when '3' %}marzo
+                    {% when '4' %}abril
+                    {% when '5' %}mayo
+                    {% when '6' %}junio
+                    {% when '7' %}julio
+                    {% when '8' %}agosto
+                    {% when '9' %}septiembre
+                    {% when '10' %}octubre
+                    {% when '11' %}noviembre
+                    {% when '12' %}diciembre
+                  {% endcase %}
+                  {{ page.date | date: "%Y" }}
+                {% when 'it' %}
+                  {{ page.date | date: "%-d" }} 
+                  {% case m %}
+                    {% when '1' %}gennaio
+                    {% when '2' %}febbraio
+                    {% when '3' %}marzo
+                    {% when '4' %}aprile
+                    {% when '5' %}maggio
+                    {% when '6' %}giugno
+                    {% when '7' %}luglio
+                    {% when '8' %}agosto
+                    {% when '9' %}settembre
+                    {% when '10' %}ottobre
+                    {% when '11' %}novembre
+                    {% when '12' %}dicembre
+                  {% endcase %}
+                  {{ page.date | date: "%Y" }}
+                {% when 'de' %}
+                  {{ page.date | date: "%-d" }}. 
+                  {% case m %}
+                    {% when '1' %}Januar
+                    {% when '2' %}Februar
+                    {% when '3' %}März
+                    {% when '4' %}April
+                    {% when '5' %}Mai
+                    {% when '6' %}Juni
+                    {% when '7' %}Juli
+                    {% when '8' %}August
+                    {% when '9' %}September
+                    {% when '10' %}Oktober
+                    {% when '11' %}November
+                    {% when '12' %}Dezember
+                  {% endcase %}
+                  {{ page.date | date: "%Y" }}
+                {% else %}
+                  {{ page.date | date: "%B %-d, %Y" }}
+              {% endcase %}
+            </time>
+          </div>
+          
+          {% if page.author %}
+          <div class="post-author">
+            <span class="icon">{% include icons/user.html %}</span>
+            <span>{{ page.author }}</span>
+          </div>
+          {% endif %}
+          
+          {% if page.reading_time %}
+          <div class="reading-time">
+            <span class="icon">{% include icons/clock.html %}</span>
+            <span>
+              {% case current_lang %}
+                {% when 'es' %}{{ page.reading_time }} min de lectura
+                {% when 'it' %}{{ page.reading_time }} min di lettura
+                {% when 'de' %}{{ page.reading_time }} Min Lesezeit
+                {% else %}{{ page.reading_time }} min read
+              {% endcase %}
+            </span>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      
+      {% if page.image %}
+      <div class="post-featured-image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" width="1200" height="600">
+      </div>
+      {% endif %}
+    </header>
+    
+    <div class="wrapper">
+      <div class="two_columns post-content">
+        <div class="post-body">
+          {{ content }}
+          
+          {% if page.tags %}
+          <div class="post-tags">
+            <span class="tags-title">
+              {% case current_lang %}
+                {% when 'es' %}Etiquetas:
+                {% when 'it' %}Tag:
+                {% when 'de' %}Tags:
+                {% else %}Tags:
+              {% endcase %}
+            </span>
+            {% for tag in page.tags %}
+            <a href="/{{ current_lang }}/blog/tag/{{ tag | slugify }}/" class="tag">#{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+          
+          <div class="post-share">
+            <span class="share-title">
+              {% case current_lang %}
+                {% when 'es' %}Comparte:
+                {% when 'it' %}Condividi:
+                {% when 'de' %}Teilen:
+                {% else %}Share:
+              {% endcase %}
+            </span>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer" class="share-button facebook">
+              {% include icons/facebook.html %}
+            </a>
+            <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener noreferrer" class="share-button twitter">
+              {% include icons/twitter.html %}
+            </a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}" target="_blank" rel="noopener noreferrer" class="share-button linkedin">
+              {% include icons/linkedin.html %}
+            </a>
+            <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer" class="share-button whatsapp">
+              {% include icons/whatsapp.html %}
+            </a>
+          </div>
+        </div>
+        
+        <aside class="post-sidebar">
+          {% if page.author_bio %}
+          <div class="text_background author-bio">
+            <h3>
+              {% case current_lang %}
+                {% when 'es' %}Sobre el autor
+                {% when 'it' %}Sull'autore
+                {% when 'de' %}Über den Autor
+                {% else %}About the author
+              {% endcase %}
+            </h3>
+            {% if page.author_image %}
+            <img src="{{ page.author_image | relative_url }}" alt="{{ page.author }}" class="author-image">
+            {% endif %}
+            <p>{{ page.author_bio }}</p>
+          </div>
+          {% endif %}
+          
+          <div class="text_background post-cta">
+            <h3>
+              {% case current_lang %}
+                {% when 'es' %}¿Estás planeando un viaje a Huila?
+                {% when 'it' %}Stai pianificando un viaggio a Huila?
+                {% when 'de' %}Planst du eine Reise nach Huila?
+                {% else %}Planning a trip to Huila?
+              {% endcase %}
+            </h3>
+            <p>
+              {% case current_lang %}
+                {% when 'es' %}Contacta con nuestros expertos y diseña la aventura perfecta.
+                {% when 'it' %}Contatta i nostri esperti e progetta l'avventura perfetta.
+                {% when 'de' %}Kontaktiere unsere Experten und plane das perfekte Abenteuer.
+                {% else %}Contact our experts and design the perfect adventure.
+              {% endcase %}
+            </p>
+            <a href="/{{ current_lang }}/contact/" class="buttons">
+              {% case current_lang %}
+                {% when 'es' %}Contactar ahora
+                {% when 'it' %}Contatta ora
+                {% when 'de' %}Jetzt kontaktieren
+                {% else %}Contact now
+              {% endcase %}
+            </a>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </article>
+  
+  {% if site.related_posts %}
+  <section class="related-posts">
+    <div class="wrapper flow">
+      <h2>
+        {% case current_lang %}
+          {% when 'es' %}Artículos relacionados
+          {% when 'it' %}Articoli correlati
+          {% when 'de' %}Ähnliche Artikel
+          {% else %}Related articles
+        {% endcase %}
+      </h2>
+      
+      <div class="two_columns post-cards">
+        {% assign posts = site.posts | where: "lang", current_lang | limit: 3 %}
+        {% for post in posts %}
+        {% include post-card.html post=post %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+</main>

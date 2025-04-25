@@ -1,0 +1,9 @@
+{% capture critical_css %}
+/* Base styles */
+{% include critical-css/base.css %}
+{% endcapture %}
+
+<style>{{ critical_css }}</style>
+
+<link rel="preload" href="{{ 'assets/css/styles.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}"></noscript>

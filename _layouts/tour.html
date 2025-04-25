@@ -1,0 +1,220 @@
+---
+layout: default
+---
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+<main class="tour-page">
+  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+    <div class="wrapper">
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+      
+      {% if page.duration or page.price %}
+      <div class="two_columns tour-highlights">
+        {% if page.duration %}
+        <div class="highlight">
+          <span class="icon">{% include icons/clock.html %}</span>
+          <span class="text">
+            {% case current_lang %}
+              {% when 'es' %}{{ page.duration }} días
+              {% when 'it' %}{{ page.duration }} giorni
+              {% when 'de' %}{{ page.duration }} Tage
+              {% else %}{{ page.duration }} days
+            {% endcase %}
+          </span>
+        </div>
+        {% endif %}
+        
+        {% if page.price %}
+        <div class="highlight">
+          <span class="icon">{% include icons/price-tag.html %}</span>
+          <span class="text">{{ page.price }}</span>
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </section>
+
+  <div class="wrapper">
+    <div class="two_columns tour-content">
+      <article class="tour-description">
+        {{ content }}
+        
+        {% if page.itinerary %}
+        <section class="itinerary flow">
+          <h2>
+            {% case current_lang %}
+              {% when 'es' %}Itinerario
+              {% when 'it' %}Itinerario
+              {% when 'de' %}Reiseplan
+              {% else %}Itinerary
+            {% endcase %}
+          </h2>
+          
+          <div class="itinerary-timeline">
+            {% for day in page.itinerary %}
+            <div class="day">
+              <div class="day-header">
+                <h3>{{ day.title }}</h3>
+              </div>
+              <div class="day-content">
+                <p>{{ day.description }}</p>
+                
+                {% if day.activities %}
+                <ul class="activities">
+                  {% for activity in day.activities %}
+                  <li>{{ activity }}</li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </section>
+        {% endif %}
+        
+        {% if page.gallery %}
+        <section class="gallery flow">
+          <h2>
+            {% case current_lang %}
+              {% when 'es' %}Galería
+              {% when 'it' %}Galleria
+              {% when 'de' %}Galerie
+              {% else %}Gallery
+            {% endcase %}
+          </h2>
+          
+          <div class="gallery-grid">
+            {% for image in page.gallery %}
+            <a href="{{ image.url | relative_url }}" class="gallery-item" data-lightbox="tour-gallery" data-title="{{ image.alt }}">
+              <img src="{{ image.thumbnail | relative_url }}" alt="{{ image.alt }}" loading="lazy">
+            </a>
+            {% endfor %}
+          </div>
+        </section>
+        {% endif %}
+      </article>
+      
+      <aside class="tour-sidebar">
+        <div class="text_background tour-details">
+          <h3>
+            {% case current_lang %}
+              {% when 'es' %}Detalles del tour
+              {% when 'it' %}Dettagli del tour
+              {% when 'de' %}Tour-Details
+              {% else %}Tour details
+            {% endcase %}
+          </h3>
+          
+          <ul>
+            {% if page.included %}
+            <li>
+              <strong>
+                {% case current_lang %}
+                  {% when 'es' %}Incluye
+                  {% when 'it' %}Include
+                  {% when 'de' %}Inklusive
+                  {% else %}Includes
+                {% endcase %}
+              </strong>
+              <ul class="details-list">
+                {% for item in page.included %}
+                <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </li>
+            {% endif %}
+            
+            {% if page.not_included %}
+            <li>
+              <strong>
+                {% case current_lang %}
+                  {% when 'es' %}No incluye
+                  {% when 'it' %}Non include
+                  {% when 'de' %}Exklusive
+                  {% else %}Not included
+                {% endcase %}
+              </strong>
+              <ul class="details-list">
+                {% for item in page.not_included %}
+                <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </li>
+            {% endif %}
+            
+            {% if page.difficulty %}
+            <li>
+              <strong>
+                {% case current_lang %}
+                  {% when 'es' %}Dificultad
+                  {% when 'it' %}Difficoltà
+                  {% when 'de' %}Schwierigkeit
+                  {% else %}Difficulty
+                {% endcase %}
+              </strong>
+              <span>{{ page.difficulty }}/5</span>
+            </li>
+            {% endif %}
+            
+            {% if page.recommended_items %}
+            <li>
+              <strong>
+                {% case current_lang %}
+                  {% when 'es' %}Qué llevar
+                  {% when 'it' %}Cosa portare
+                  {% when 'de' %}Was mitzubringen ist
+                  {% else %}What to bring
+                {% endcase %}
+              </strong>
+              <ul class="details-list">
+                {% for item in page.recommended_items %}
+                <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </li>
+            {% endif %}
+          </ul>
+        </div>
+        
+        <div class="booking-cta">
+          <a href="/{{ current_lang }}/contact/" class="buttons">
+            {% case current_lang %}
+              {% when 'es' %}Reserva ahora
+              {% when 'it' %}Prenota ora
+              {% when 'de' %}Jetzt buchen
+              {% else %}Book now
+            {% endcase %}
+          </a>
+        </div>
+      </aside>
+    </div>
+    
+    {% if page.related_tours %}
+    <section class="related-tours flow">
+      <h2>
+        {% case current_lang %}
+          {% when 'es' %}Tours relacionados
+          {% when 'it' %}Tour correlati
+          {% when 'de' %}Ähnliche Touren
+          {% else %}Related tours
+        {% endcase %}
+      </h2>
+      
+      <div class="two_columns tour-cards">
+        {% for tour_ref in page.related_tours %}
+          {% assign tour_collection = 'tours_' | append: current_lang %}
+          {% assign tour = site[tour_collection] | where: "ref", tour_ref | first %}
+          {% if tour %}
+            {% include tour-card.html tour=tour %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </div>
+</main>

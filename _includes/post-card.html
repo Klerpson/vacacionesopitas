@@ -1,0 +1,82 @@
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+<div class="card post-card">
+  <div class="card-image">
+    <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
+    {% if post.categories.first %}
+    <div class="card-badge category-badge">{{ post.categories.first }}</div>
+    {% endif %}
+  </div>
+  <div class="card-content">
+    <div class="post-meta-mini">
+      <span class="post-date">
+        {% assign m = post.date | date: "%-m" %}
+        {% case current_lang %}
+          {% when 'es' %}
+            {{ post.date | date: "%-d" }} de 
+            {% case m %}
+              {% when '1' %}enero
+              {% when '2' %}febrero
+              {% when '3' %}marzo
+              {% when '4' %}abril
+              {% when '5' %}mayo
+              {% when '6' %}junio
+              {% when '7' %}julio
+              {% when '8' %}agosto
+              {% when '9' %}septiembre
+              {% when '10' %}octubre
+              {% when '11' %}noviembre
+              {% when '12' %}diciembre
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+          {% when 'it' %}
+            {{ post.date | date: "%-d" }} 
+            {% case m %}
+              {% when '1' %}gennaio
+              {% when '2' %}febbraio
+              {% when '3' %}marzo
+              {% when '4' %}aprile
+              {% when '5' %}maggio
+              {% when '6' %}giugno
+              {% when '7' %}luglio
+              {% when '8' %}agosto
+              {% when '9' %}settembre
+              {% when '10' %}ottobre
+              {% when '11' %}novembre
+              {% when '12' %}dicembre
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+          {% when 'de' %}
+            {{ post.date | date: "%-d" }}. 
+            {% case m %}
+              {% when '1' %}Januar
+              {% when '2' %}Februar
+              {% when '3' %}März
+              {% when '4' %}April
+              {% when '5' %}Mai
+              {% when '6' %}Juni
+              {% when '7' %}Juli
+              {% when '8' %}August
+              {% when '9' %}September
+              {% when '10' %}Oktober
+              {% when '11' %}November
+              {% when '12' %}Dezember
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
+          {% else %}
+            {{ post.date | date: "%B %-d, %Y" }}
+        {% endcase %}
+      </span>
+    </div>
+    <h3>{{ post.title }}</h3>
+    <p>{{ post.description | truncate: 120 }}</p>
+    <a href="{{ post.url | relative_url }}" class="boton_secundario">
+      {% case current_lang %}
+        {% when 'es' %}Leer más
+        {% when 'it' %}Leggi di più
+        {% when 'de' %}Weiterlesen
+        {% else %}Read more
+      {% endcase %}
+    </a>
+  </div>
+</div>

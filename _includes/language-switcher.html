@@ -1,0 +1,141 @@
+{% assign current_lang = page.lang | default: site.default_lang %}
+{% assign ref_id = page.ref | default: page.url %}
+
+{% if ref_id %}
+  <!-- Buscar traducciones en todas las colecciones -->
+  {% assign translation_pages = site.pages | where: "ref", ref_id %}
+  {% assign translation_posts = site.posts | where: "ref", ref_id %}
+  
+  <!-- Tours en diferentes idiomas -->
+  {% if site.tours_en %}
+    {% assign tours_en = site.tours_en | where: "ref", ref_id %}
+  {% else %}
+    {% assign tours_en = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.tours_es %}
+    {% assign tours_es = site.tours_es | where: "ref", ref_id %}
+  {% else %}
+    {% assign tours_es = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.tours_it %}
+    {% assign tours_it = site.tours_it | where: "ref", ref_id %}
+  {% else %}
+    {% assign tours_it = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.tours_de %}
+    {% assign tours_de = site.tours_de | where: "ref", ref_id %}
+  {% else %}
+    {% assign tours_de = "" | split: "," %}
+  {% endif %}
+  
+  <!-- Destinos en diferentes idiomas -->
+  {% if site.destinations_en %}
+    {% assign destinations_en = site.destinations_en | where: "ref", ref_id %}
+  {% else %}
+    {% assign destinations_en = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.destinations_es %}
+    {% assign destinations_es = site.destinations_es | where: "ref", ref_id %}
+  {% else %}
+    {% assign destinations_es = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.destinations_it %}
+    {% assign destinations_it = site.destinations_it | where: "ref", ref_id %}
+  {% else %}
+    {% assign destinations_it = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.destinations_de %}
+    {% assign destinations_de = site.destinations_de | where: "ref", ref_id %}
+  {% else %}
+    {% assign destinations_de = "" | split: "," %}
+  {% endif %}
+  
+  <!-- Experiencias en diferentes idiomas -->
+  {% if site.experiences_en %}
+    {% assign experiences_en = site.experiences_en | where: "ref", ref_id %}
+  {% else %}
+    {% assign experiences_en = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.experiences_es %}
+    {% assign experiences_es = site.experiences_es | where: "ref", ref_id %}
+  {% else %}
+    {% assign experiences_es = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.experiences_it %}
+    {% assign experiences_it = site.experiences_it | where: "ref", ref_id %}
+  {% else %}
+    {% assign experiences_it = "" | split: "," %}
+  {% endif %}
+  
+  {% if site.experiences_de %}
+    {% assign experiences_de = site.experiences_de | where: "ref", ref_id %}
+  {% else %}
+    {% assign experiences_de = "" | split: "," %}
+  {% endif %}
+  
+  {% assign all_pages = translation_pages | concat: translation_posts 
+    | concat: tours_en | concat: tours_es | concat: tours_it | concat: tours_de 
+    | concat: destinations_en | concat: destinations_es | concat: destinations_it | concat: destinations_de 
+    | concat: experiences_en | concat: experiences_es | concat: experiences_it | concat: experiences_de %}
+{% endif %}
+
+<div class="language-switcher">
+  <div class="current-language">
+    {% case current_lang %}
+      {% when 'en' %}🇬🇧 English
+      {% when 'es' %}🇪🇸 Español
+      {% when 'it' %}🇮🇹 Italiano
+      {% when 'de' %}🇩🇪 Deutsch
+    {% endcase %}
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+  </div>
+  
+  <div class="language-options">
+    {% if all_pages.size > 0 %}
+      <!-- Páginas con traducciones -->
+      {% for lang in site.languages %}
+        {% assign translation = all_pages | where: "lang", lang | first %}
+        {% if translation %}
+          <a href="{{ translation.url | relative_url }}" class="language-option {% if lang == current_lang %}active{% endif %}" lang="{{ lang }}" hreflang="{{ lang }}">
+            {% case lang %}
+              {% when 'en' %}🇬🇧 English
+              {% when 'es' %}🇪🇸 Español
+              {% when 'it' %}🇮🇹 Italiano
+              {% when 'de' %}🇩🇪 Deutsch
+            {% endcase %}
+          </a>
+        {% else %}
+          <!-- Sin traducción para este idioma, ir a la página principal del idioma -->
+          <a href="/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="language-option" lang="{{ lang }}" hreflang="{{ lang }}">
+            {% case lang %}
+              {% when 'en' %}🇬🇧 English
+              {% when 'es' %}🇪🇸 Español
+              {% when 'it' %}🇮🇹 Italiano
+              {% when 'de' %}🇩🇪 Deutsch
+            {% endcase %}
+          </a>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <!-- Páginas sin información de traducción -->
+      {% for lang in site.languages %}
+        <a href="/{% if lang != 'en' %}{{ lang }}/{% endif %}" class="language-option {% if lang == current_lang %}active{% endif %}" lang="{{ lang }}" hreflang="{{ lang }}">
+          {% case lang %}
+            {% when 'en' %}🇬🇧 English
+            {% when 'es' %}🇪🇸 Español
+            {% when 'it' %}🇮🇹 Italiano
+            {% when 'de' %}🇩🇪 Deutsch
+          {% endcase %}
+        </a>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>

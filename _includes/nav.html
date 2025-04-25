@@ -1,19 +1,211 @@
-<nav role="navigation">
-  <div id="menuToggle">
-    <input type="checkbox" />
-    <span></span>
-    <span></span>
-    <span></span>
-    
-    <ul id="menu">
-      <a href="#"><li>Home</li></a>
-      <a href="#"><li>About</li></a>
-      <a href="#"><li>Info</li></a>
-      <a href="#"><li>Contact</li></a>
-      <a href="#" target="_blank"><li>Show me more</li></a>
-    </ul>
-  </div>
-  <a href="/" class="logo_inicio">
-    <img src="{{'/assets/img/logotipo.svg'|relative_url}}" alt="Logotipo de la agencia de turismo del Huila llamada" title="Turismo en el Huila" loading="eager" fetchpriority="high" decoding="async" width="80" height="48">
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+<div class="banner_nav">
+  <a href="tel:+57{{site.telefono}}" id="lead_llamada" aria-label="{% case current_lang %}{% when 'es' %}Llamar a Colombia Travels{% when 'it' %}Chiama Colombia Travels{% when 'de' %}Rufen Sie Colombia Travels an{% else %}Call Colombia Travels{% endcase %}">
+    <svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="var(--color-complement)" viewBox="0 0 24 24">
+      <path fill="var(--color-complement)" d="m16.1 13.359-.528-.532.529.532Zm.456-.453.529.532-.529-.532Zm2.417-.317-.358.66.358-.66Zm1.91 1.039-.358.659.358-.659Zm.539 3.255.529.532-.53-.532Zm-1.42 1.412-.53-.531.53.531Zm-1.326.67.07.747-.07-.747Zm-9.86-4.238.528-.532-.529.532ZM4.002 5.746l-.749.042.749-.042Zm6.474 1.451.53.532-.53-.532Zm.157-2.654.6-.449-.6.45ZM9.374 2.86l-.601.45.6-.45ZM6.26 2.575l.53.532-.53-.532Zm-1.57 1.56-.528-.531.529.532Zm7.372 7.362.529-.532-.529.532Zm4.566 2.394.456-.453-1.058-1.064-.455.453 1.058 1.064Zm1.986-.643 1.91 1.039.716-1.318-1.91-1.038-.716 1.317Zm2.278 3.103-1.42 1.413 1.057 1.063 1.42-1.412-1.057-1.064Zm-2.286 1.867c-1.45.136-5.201.015-9.263-4.023l-1.057 1.063c4.432 4.407 8.65 4.623 10.459 4.454l-.14-1.494Zm-9.263-4.023c-3.871-3.85-4.512-7.087-4.592-8.492l-1.498.085c.1 1.768.895 5.356 5.033 9.47l1.057-1.063Zm1.376-6.18.286-.286L9.95 6.666l-.287.285 1.057 1.063Zm.515-3.921L9.974 2.41l-1.201.899 1.26 1.684 1.202-.899ZM5.733 2.043l-1.57 1.56 1.058 1.064 1.57-1.56-1.058-1.064Zm4.458 5.44c-.53-.532-.53-.532-.53-.53h-.002l-.003.004a1.064 1.064 0 0 0-.127.157c-.054.08-.113.185-.163.318a2.099 2.099 0 0 0-.088 1.071c.134.865.73 2.008 2.256 3.526l1.058-1.064c-1.429-1.42-1.769-2.284-1.832-2.692-.03-.194.001-.29.01-.312.005-.014.007-.015 0-.006a.276.276 0 0 1-.03.039l-.01.01a.203.203 0 0 1-.01.009l-.53-.53Zm1.343 4.546c1.527 1.518 2.676 2.11 3.542 2.242.443.068.8.014 1.071-.087a1.536 1.536 0 0 0 .42-.236.923.923 0 0 0 .05-.045l.007-.006.003-.003.001-.002s.002-.001-.527-.533c-.53-.532-.528-.533-.528-.533l.002-.002.002-.002.006-.005.01-.01a.383.383 0 0 1 .038-.03c.01-.007.007-.004-.007.002-.025.009-.123.04-.32.01-.414-.064-1.284-.404-2.712-1.824l-1.058 1.064Zm-1.56-9.62C8.954 1.049 6.95.834 5.733 2.044L6.79 3.107c.532-.529 1.476-.475 1.983.202l1.2-.9ZM4.752 5.704c-.02-.346.139-.708.469-1.036L4.163 3.604c-.537.534-.96 1.29-.909 2.184l1.498-.085Zm14.72 12.06c-.274.274-.57.428-.865.455l.139 1.494c.735-.069 1.336-.44 1.784-.885l-1.058-1.063ZM11.006 7.73c.985-.979 1.058-2.527.229-3.635l-1.201.899c.403.539.343 1.246-.085 1.673l1.057 1.063Zm9.52 6.558c.817.444.944 1.49.367 2.064l1.058 1.064c1.34-1.333.927-3.557-.71-4.446l-.716 1.318Zm-3.441-.849c.384-.382 1.002-.476 1.53-.19l.716-1.317c-1.084-.59-2.428-.427-3.304.443l1.058 1.064Z" /></svg>+57 {{site.telefono}}</a>
+  <a href="#" id="lead_whatsapp" rel="nofollow noopener noreferrer" target="_blank" title="{% case current_lang %}{% when 'es' %}WhatsApp Colombia Travels{% when 'it' %}WhatsApp Colombia Travels{% when 'de' %}WhatsApp Colombia Travels{% else %}WhatsApp Colombia Travels{% endcase %}">
+    <svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="var(--color-complement)" viewBox="0 0 24 24">
+      <g fill="var(--color-complement)"> <path d="M6.014 8.006c.114-.904 1.289-2.132 2.22-1.996V6.01c.907.172 1.625 1.734 2.03 2.436.286.509.1 1.025-.167 1.243-.361.29-.926.692-.808 1.095C9.5 11.5 12 14 13.23 14.711c.466.269.804-.44 1.092-.804.21-.28.726-.447 1.234-.171.759.442 1.474.956 2.135 1.534.33.276.408.684.179 1.115-.403.76-1.569 1.76-2.415 1.557C13.976 17.587 8 15.27 6.08 8.558c-.108-.318-.08-.438-.066-.552Z" /><path fill-rule="evenodd" d="M12 23c-1.224 0-1.9-.131-3-.5l-2.106 1.053A2 2 0 0 1 4 21.763V19.5c-2.153-2.008-3-4.323-3-7.5C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11Zm-6-4.37-.636-.593C3.691 16.477 3 14.733 3 12a9 9 0 1 1 9 9c-.986 0-1.448-.089-2.364-.396l-.788-.264L6 21.764V18.63Z" clip-rule="evenodd" /></g></svg>+57 {{site.whatsapp}}</a>
+  <a href="mailto:{{site.email}}" title="Email Colombia Travels" rel="nofollow noopener noreferrer" target="_blank">
+    <svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="var(--color-complement)" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m21 8-3.56 1.978c-1.986 1.103-2.979 1.655-4.03 1.87-.93.192-1.89.192-2.82 0-1.051-.215-2.044-.767-4.03-1.87L3 8m3.2 11h11.6c1.12 0 1.68 0 2.108-.218a2 2 0 0 0 .874-.874C21 17.48 21 16.92 21 15.8V8.2c0-1.12 0-1.68-.218-2.108a2 2 0 0 0-.874-.874C19.48 5 18.92 5 17.8 5H6.2c-1.12 0-1.68 0-2.108.218a2 2 0 0 0-.874.874C3 6.52 3 7.08 3 8.2v7.6c0 1.12 0 1.68.218 2.108a2 2 0 0 0 .874.874C4.52 19 5.08 19 6.2 19Z" /></svg> {{site.email}}</a>
+</div>
+
+<nav aria-label="{% case current_lang %}{% when 'es' %}Navegación principal{% when 'it' %}Navigazione principale{% when 'de' %}Hauptnavigation{% else %}Main navigation{% endcase %}">
+  <input id="nav-toggle" type="checkbox" aria-hidden="true">
+  <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}" title="{% case current_lang %}{% when 'es' %}Página de inicio de Colombia Travels{% when 'it' %}Pagina iniziale di Colombia Travels{% when 'de' %}Startseite von Colombia Travels{% else %}Colombia Travels Homepage{% endcase %}" class="logo-nav">
+    <img src="{{ '/assets/img/colombia-travels-logo.webp' | relative_url }}" alt="{% case current_lang %}{% when 'es' %}Logo Colombia Travels{% when 'it' %}Logo Colombia Travels{% when 'de' %}Logo Colombia Travels{% else %}Colombia Travels Logo{% endcase %}" width="168" height="40" loading="eager">
   </a>
+  <ul class="navegacion" role="menubar">
+    <li class="dropdown" role="none">
+      <span role="menuitem" aria-haspopup="true" aria-expanded="false">
+        {% case current_lang %}
+          {% when 'es' %}Tours
+          {% when 'it' %}Tour
+          {% when 'de' %}Touren
+          {% else %}Tours
+        {% endcase %}
+      </span>
+      <div class="dropdown-content" role="menu" aria-label="submenu">
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}tours/aventura/{% when 'it' %}tour/avventura/{% when 'de' %}touren/abenteuer/{% else %}tours/adventure/{% endcase %}" title="{% case current_lang %}{% when 'es' %}Tours de Aventura{% when 'it' %}Tour di Avventura{% when 'de' %}Abenteuertouren{% else %}Adventure Tours{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Tours de Aventura
+            {% when 'it' %}Tour di Avventura
+            {% when 'de' %}Abenteuertouren
+            {% else %}Adventure Tours
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}tours/cultural/{% when 'it' %}tour/culturale/{% when 'de' %}touren/kulturell/{% else %}tours/cultural/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Tours Culturales
+            {% when 'it' %}Tour Culturali
+            {% when 'de' %}Kulturtouren
+            {% else %}Cultural Tours
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}tours/naturaleza/{% when 'it' %}tour/natura/{% when 'de' %}touren/natur/{% else %}tours/nature/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Tours de Naturaleza
+            {% when 'it' %}Tour della Natura
+            {% when 'de' %}Naturtouren
+            {% else %}Nature Tours
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}tours/{% when 'it' %}tour/{% when 'de' %}touren/{% else %}tours/{% endcase %}" aria-label="{% case current_lang %}{% when 'es' %}Ver todos los tours{% when 'it' %}Vedi tutti i tour{% when 'de' %}Alle Touren ansehen{% else %}View all tours{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Ver todos los tours
+            {% when 'it' %}Vedi tutti i tour
+            {% when 'de' %}Alle Touren ansehen
+            {% else %}View all tours
+          {% endcase %}
+        </a>
+      </div>
+    </li>
+ 
+    <li class="dropdown">
+      <span role="menuitem" aria-haspopup="true" aria-expanded="false">
+        {% case current_lang %}
+          {% when 'es' %}Destinos
+          {% when 'it' %}Destinazioni
+          {% when 'de' %}Reiseziele
+          {% else %}Destinations
+        {% endcase %}
+      </span>
+      <div class="dropdown-content" role="menu" aria-label="submenu">
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}destinos/desierto-tatacoa/{% when 'it' %}destinazioni/deserto-tatacoa/{% when 'de' %}reiseziele/tatacoa-wueste/{% else %}destinations/tatacoa-desert/{% endcase %}" title="{% case current_lang %}{% when 'es' %}Desierto de la Tatacoa{% when 'it' %}Deserto di Tatacoa{% when 'de' %}Tatacoa-Wüste{% else %}Tatacoa Desert{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Desierto de la Tatacoa
+            {% when 'it' %}Deserto di Tatacoa
+            {% when 'de' %}Tatacoa-Wüste
+            {% else %}Tatacoa Desert
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}destinos/san-agustin/{% when 'it' %}destinazioni/san-agustin/{% when 'de' %}reiseziele/san-agustin/{% else %}destinations/san-agustin/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}San Agustín
+            {% when 'it' %}San Agustín
+            {% when 'de' %}San Agustín
+            {% else %}San Agustín
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}destinos/neiva/{% when 'it' %}destinazioni/neiva/{% when 'de' %}reiseziele/neiva/{% else %}destinations/neiva/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Neiva
+            {% when 'it' %}Neiva
+            {% when 'de' %}Neiva
+            {% else %}Neiva
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}destinos/{% when 'it' %}destinazioni/{% when 'de' %}reiseziele/{% else %}destinations/{% endcase %}" aria-label="{% case current_lang %}{% when 'es' %}Ver todos los destinos{% when 'it' %}Vedi tutte le destinazioni{% when 'de' %}Alle Reiseziele ansehen{% else %}View all destinations{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Ver todos los destinos
+            {% when 'it' %}Vedi tutte le destinazioni
+            {% when 'de' %}Alle Reiseziele ansehen
+            {% else %}View all destinations
+          {% endcase %}
+        </a>
+      </div>
+    </li>
+
+    <li class="dropdown">
+      <span role="menuitem" aria-haspopup="true" aria-expanded="false">
+        {% case current_lang %}
+          {% when 'es' %}Experiencias
+          {% when 'it' %}Esperienze
+          {% when 'de' %}Erlebnisse
+          {% else %}Experiences
+        {% endcase %}
+      </span>
+      <div class="dropdown-content" role="menu" aria-label="submenu">
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}experiencias/cafe/{% when 'it' %}esperienze/caffe/{% when 'de' %}erlebnisse/kaffee/{% else %}experiences/coffee/{% endcase %}" title="{% case current_lang %}{% when 'es' %}Experiencias de Café{% when 'it' %}Esperienze di Caffè{% when 'de' %}Kaffeeerlebnisse{% else %}Coffee Experiences{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Experiencias de Café
+            {% when 'it' %}Esperienze di Caffè
+            {% when 'de' %}Kaffeeerlebnisse
+            {% else %}Coffee Experiences
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}experiencias/avistamiento-aves/{% when 'it' %}esperienze/birdwatching/{% when 'de' %}erlebnisse/vogelbeobachtung/{% else %}experiences/birdwatching/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Avistamiento de Aves
+            {% when 'it' %}Birdwatching
+            {% when 'de' %}Vogelbeobachtung
+            {% else %}Birdwatching
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}experiencias/gastronomia/{% when 'it' %}esperienze/gastronomia/{% when 'de' %}erlebnisse/gastronomie/{% else %}experiences/gastronomy/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Gastronomía
+            {% when 'it' %}Gastronomia
+            {% when 'de' %}Gastronomie
+            {% else %}Gastronomy
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}experiencias/{% when 'it' %}esperienze/{% when 'de' %}erlebnisse/{% else %}experiences/{% endcase %}" aria-label="{% case current_lang %}{% when 'es' %}Ver todas las experiencias{% when 'it' %}Vedi tutte le esperienze{% when 'de' %}Alle Erlebnisse ansehen{% else %}View all experiences{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Ver todas las experiencias
+            {% when 'it' %}Vedi tutte le esperienze
+            {% when 'de' %}Alle Erlebnisse ansehen
+            {% else %}View all experiences
+          {% endcase %}
+        </a>
+      </div>
+    </li>
+    
+    <li class="dropdown">
+      <span role="menuitem" aria-haspopup="true" aria-expanded="false">
+        {% case current_lang %}
+          {% when 'es' %}Nosotros
+          {% when 'it' %}Chi siamo
+          {% when 'de' %}Über uns
+          {% else %}About
+        {% endcase %}
+      </span>
+      <div class="dropdown-content" role="menu" aria-label="submenu">
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}nosotros/{% when 'it' %}chi-siamo/{% when 'de' %}uber-uns/{% else %}about/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Sobre Nosotros
+            {% when 'it' %}Chi Siamo
+            {% when 'de' %}Über Uns
+            {% else %}About Us
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}contacto/{% when 'it' %}contatto/{% when 'de' %}kontakt/{% else %}contact/{% endcase %}/">
+          {% case current_lang %}
+            {% when 'es' %}Contacto
+            {% when 'it' %}Contatto
+            {% when 'de' %}Kontakt
+            {% else %}Contact
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}blog/{% when 'it' %}blog/{% when 'de' %}blog/{% else %}blog/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Blog
+            {% when 'it' %}Blog
+            {% when 'de' %}Blog
+            {% else %}Blog
+          {% endcase %}
+        </a>
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}preguntas-frecuentes/{% when 'it' %}domande-frequenti/{% when 'de' %}haufig-gestellte-fragen/{% else %}frequently-asked-questions/{% endcase %}">
+          {% case current_lang %}
+            {% when 'es' %}Preguntas Frecuentes
+            {% when 'it' %}Domande Frequenti
+            {% when 'de' %}Häufig gestellte Fragen
+            {% else %}Frequently Asked Questions
+          {% endcase %}
+        </a>
+      </div>
+    </li>
+
+    <li>
+      {% include language-switcher.html %}
+    </li>
+  </ul>
+
+  <label for="nav-toggle" class="icono-nav">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+  </label>
 </nav>

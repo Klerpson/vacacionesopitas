@@ -1,0 +1,247 @@
+---
+layout: default
+---
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+<main class="contact-page">
+  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+    <div class="wrapper">
+      <h1>
+        {% case current_lang %}
+          {% when 'es' %}Contacto
+          {% when 'it' %}Contatto
+          {% when 'de' %}Kontakt
+          {% else %}Contact
+        {% endcase %}
+      </h1>
+      
+      {% if page.intro_text %}
+      <p class="subtitle">{{ page.intro_text }}</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <div class="wrapper">
+    <div class="two_columns contact-content">
+      <div class="contact-form-container text_background">
+        <h2>
+          {% case current_lang %}
+            {% when 'es' %}Escríbenos
+            {% when 'it' %}Scrivici
+            {% when 'de' %}Schreib uns
+            {% else %}Write to us
+          {% endcase %}
+        </h2>
+        
+        <form action="{{ page.form.success_url | default: '/contact/thank-you/' }}" method="POST" class="contact-form" id="contact-form">
+          <div class="form-group">
+            <label for="name">
+              {% case current_lang %}
+                {% when 'es' %}Nombre
+                {% when 'it' %}Nome
+                {% when 'de' %}Name
+                {% else %}Name
+              {% endcase %}
+            </label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          
+          <div class="form-group">
+            <label for="email">
+              {% case current_lang %}
+                {% when 'es' %}Correo electrónico
+                {% when 'it' %}Email
+                {% when 'de' %}E-mail
+                {% else %}Email
+              {% endcase %}
+            </label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          
+          <div class="form-group">
+            <label for="phone">
+              {% case current_lang %}
+                {% when 'es' %}Teléfono (opcional)
+                {% when 'it' %}Telefono (opzionale)
+                {% when 'de' %}Telefon (optional)
+                {% else %}Phone (optional)
+              {% endcase %}
+            </label>
+            <input type="tel" id="phone" name="phone">
+          </div>
+          
+          <div class="form-group">
+            <label for="interest">
+              {% case current_lang %}
+                {% when 'es' %}Interesado en
+                {% when 'it' %}Interessato a
+                {% when 'de' %}Interessiert an
+                {% else %}Interested in
+              {% endcase %}
+            </label>
+            <select id="interest" name="interest" required>
+              <option value="" disabled selected>
+                {% case current_lang %}
+                  {% when 'es' %}Selecciona una opción
+                  {% when 'it' %}Seleziona un'opzione
+                  {% when 'de' %}Option auswählen
+                  {% else %}Select an option
+                {% endcase %}
+              </option>
+              <option value="tour">
+                {% case current_lang %}
+                  {% when 'es' %}Tour específico
+                  {% when 'it' %}Tour specifico
+                  {% when 'de' %}Spezifische Tour
+                  {% else %}Specific tour
+                {% endcase %}
+              </option>
+              <option value="custom">
+                {% case current_lang %}
+                  {% when 'es' %}Tour personalizado
+                  {% when 'it' %}Tour personalizzato
+                  {% when 'de' %}Individuelle Tour
+                  {% else %}Custom tour
+                {% endcase %}
+              </option>
+              <option value="info">
+                {% case current_lang %}
+                  {% when 'es' %}Información general
+                  {% when 'it' %}Informazioni generali
+                  {% when 'de' %}Allgemeine Informationen
+                  {% else %}General information
+                {% endcase %}
+              </option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label for="message">
+              {% case current_lang %}
+                {% when 'es' %}Mensaje
+                {% when 'it' %}Messaggio
+                {% when 'de' %}Nachricht
+                {% else %}Message
+              {% endcase %}
+            </label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+          </div>
+          
+          <button type="submit" class="buttons">
+            {% case current_lang %}
+              {% when 'es' %}Enviar mensaje
+              {% when 'it' %}Invia messaggio
+              {% when 'de' %}Nachricht senden
+              {% else %}Send message
+            {% endcase %}
+          </button>
+        </form>
+      </div>
+      
+      <div class="contact-info">
+        <div class="text_background info-card">
+          <h3>
+            {% case current_lang %}
+              {% when 'es' %}Información de contacto
+              {% when 'it' %}Informazioni di contatto
+              {% when 'de' %}Kontaktinformationen
+              {% else %}Contact information
+            {% endcase %}
+          </h3>
+          
+          <div class="info-item">
+            <span class="icon">{% include icons/map-pin.html %}</span>
+            <p>{{ page.contact_info.address }}</p>
+          </div>
+          
+          <div class="info-item">
+            <span class="icon">{% include icons/phone.html %}</span>
+            <p>
+              <a href="tel:{{ page.contact_info.phone }}">{{ page.contact_info.phone }}</a>
+            </p>
+          </div>
+          
+          <div class="info-item">
+            <span class="icon">{% include icons/whatsapp.html %}</span>
+            <p>
+              <a href="https://wa.me/{{ page.contact_info.whatsapp | remove: '+' }}" target="_blank" rel="noopener noreferrer">{{ page.contact_info.whatsapp }}</a>
+            </p>
+          </div>
+          
+          <div class="info-item">
+            <span class="icon">{% include icons/mail.html %}</span>
+            <p>
+              <a href="mailto:{{ page.contact_info.email }}">{{ page.contact_info.email }}</a>
+            </p>
+          </div>
+          
+          <div class="info-item">
+            <span class="icon">{% include icons/clock.html %}</span>
+            <p>{{ page.contact_info.hours }}</p>
+          </div>
+        </div>
+        
+        {% if page.map and page.map.latitude and page.map.longitude %}
+        <div class="contact-map">
+          <div id="map" class="map-container" data-lat="{{ page.map.latitude }}" data-lng="{{ page.map.longitude }}" data-zoom="{{ page.map.zoom | default: 15 }}"></div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</main>
+
+{% if page.map and page.map.latitude and page.map.longitude %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const mapElement = document.getElementById('map');
+    if (mapElement) {
+      const lat = parseFloat(mapElement.dataset.lat);
+      const lng = parseFloat(mapElement.dataset.lng);
+      const zoom = parseInt(mapElement.dataset.zoom);
+      
+      function initMap() {
+        const mapOptions = {
+          center: { lat: lat, lng: lng },
+          zoom: zoom,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        
+        const map = new google.maps.Map(mapElement, mapOptions);
+        
+        const marker = new google.maps.Marker({
+          position: { lat: lat, lng: lng },
+          map: map,
+          title: "{{ site.name }}"
+        });
+      }
+      
+      // Cargar API de Google Maps
+      if (typeof google === 'undefined' || typeof google.maps === 'undefined') {
+        const script = document.createElement('script');
+        script.src = `https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap`;
+        script.async = true;
+        script.defer = true;
+        window.initMap = initMap;
+        document.head.appendChild(script);
+      } else {
+        initMap();
+      }
+    }
+  });
+</script>
+{% endif %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('contact-form');
+    
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      // Aquí iría la lógica para enviar el formulario mediante AJAX
+      // Por ahora, simplemente redirigimos a la página de éxito
+      window.location.href = "{{ page.form.success_url | default: '/contact/thank-you/' }}";
+    });
+  });
+</script>
