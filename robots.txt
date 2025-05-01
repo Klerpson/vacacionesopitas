@@ -1,5 +1,5 @@
-# robots.txt for Vacaciones Opitas
-# {{ site.url }}{{ site.baseurl }}/
+# robots.txt for Colombia Travels
+# https://colombiatravels.co/
 
 # Allow legitimate search engines
 User-agent: Googlebot
@@ -21,7 +21,6 @@ User-agent: AhrefsBot
 Allow: /
 
 # Block known malicious bots and crawlers
-
 User-agent: SemrushBot
 Disallow: /
 
@@ -77,18 +76,38 @@ Disallow: /
 # Main rules for all other bots
 User-agent: *
 Allow: /
+Allow: /es/
+Allow: /it/
+Allow: /de/
 Allow: /blog/
+Allow: /es/blog/
+Allow: /it/blog/
+Allow: /de/blog/
+Allow: /tours/
+Allow: /es/tours/
+Allow: /it/tour/
+Allow: /de/touren/
+Allow: /destinations/
+Allow: /es/destinos/
+Allow: /it/destinazioni/
+Allow: /de/reiseziele/
+Allow: /experiences/
+Allow: /es/experiencias/
+Allow: /it/esperienze/
+Allow: /de/erlebnisse/
 
-# Protect sensitive areas
+# Protect sensitive areas and old URLs
 Disallow: /admin/
 Disallow: /includes/
+Disallow: /_includes/
 Disallow: /layouts/
+Disallow: /_layouts/
 Disallow: /data/
+Disallow: /_data/
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /wp-content/
 Disallow: /search
-Disallow: /feed/
 Disallow: /trackback/
 Disallow: /comments/
 Disallow: /*?
@@ -100,24 +119,20 @@ Disallow: /cgi-bin/
 Disallow: /tmp/
 
 # Media and resource protection
-Allow: /img/*.avif$ 
-Allow: /img/*.jpg$
-Allow: /img/*.png$
-Allow: /css/
-Allow: /js/
+Allow: /assets/img/*.avif$ 
+Allow: /assets/img/*.jpg$
+Allow: /assets/img/*.png$
+Allow: /assets/img/*.webp$
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/fonts/
+Allow: /assets/img/
 
 # Critical files
 Allow: /sitemap.xml
-Allow: /feed.xml
-
-# Rate limiting
-Crawl-delay: 10
 
 # Sitemaps
-Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
-
-# Define preferred domain
-Host: {{ site.url | replace: 'https://', '' | replace: 'http://', '' }}
+Sitemap: https://colombiatravels.co/sitemap.xml
 
 # Additional Security Headers (add these to your .htaccess or server config)
 # X-Robots-Tag: noarchive, noimageindex

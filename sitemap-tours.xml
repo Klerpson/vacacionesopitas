@@ -1,0 +1,35 @@
+---
+layout: null
+permalink: /sitemap-tours.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{%- assign all_tours = "" | split: "" -%}
+{%- assign all_tours = all_tours | concat: site.tours_en -%}
+{%- assign all_tours = all_tours | concat: site.tours_es -%}
+{%- assign all_tours = all_tours | concat: site.tours_it -%}
+{%- assign all_tours = all_tours | concat: site.tours_de -%}
+
+{%- for tour in all_tours -%}
+  <url>
+    <loc>{{ site.url }}{{ tour.url | xml_escape }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    {%- if tour.image %}
+    <image:image>
+      <image:loc>{{ site.url }}{{ tour.image | xml_escape }}</image:loc>
+      <image:title>{{ tour.title | xml_escape }}</image:title>
+      {%- if tour.image_alt %}
+      <image:caption>{{ tour.image_alt | xml_escape }}</image:caption>
+      {%- endif %}
+    </image:image>
+    {%- endif %}
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    {% assign versions=all_tours | where:"ref", tour.ref | sort: 'lang' %}{% for version in versions %}{% if version.lang != tour.lang %}
+    <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ version.url }}" />{% endif %}{% endfor %}
+  </url>
+{%- endfor -%}
+</urlset>

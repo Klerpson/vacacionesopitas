@@ -1,0 +1,35 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.name }} - Destinations</title>
+    <description>Explore the most beautiful destinations in Huila, Colombia</description>
+    <link>{{ site.url }}/destinations/</link>
+    <atom:link href="{{ site.url }}/feed-destinations.xml" rel="self" type="application/rss+xml" />
+    
+    {% assign destinations = site.destinations_en %}
+    {% for destination in destinations limit:50 %}
+    <item>
+      <title>{{ destination.title | xml_escape }}</title>
+      <description>{{ destination.description | xml_escape }}</description>
+      <content:encoded><![CDATA[{{ destination.content }}]]></content:encoded>
+      <link>{{ site.url }}{{ destination.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ destination.url }}</guid>
+      
+      {% if destination.image %}
+      <enclosure url="{{ site.url }}{{ destination.image }}" type="image/jpeg" />
+      {% endif %}
+      
+      {% if destination.location %}
+      <dc:coverage>{{ destination.location.city }}, {{ destination.location.region }}</dc:coverage>
+      {% endif %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

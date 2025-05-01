@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /sitemap-posts.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">{% assign posts = site.posts | sort: 'date' | reverse %}{% for post in posts %}
+<url>
+<loc>{{ site.url }}{{ post.url | xml_escape }}</loc>
+<lastmod>{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+{% assign versions=site.posts | where:"ref", post.ref | sort: 'lang' %}{% for version in versions %}{% if version.lang != post.lang %}
+<xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ version.url }}" />{% endif %}{% endfor %}
+</url>{% endfor %}
+</urlset>

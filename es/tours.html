@@ -1,0 +1,138 @@
+---
+layout: default
+title: "Tours por el Huila | Experiencias auténticas de viaje en Colombia"
+description: "Descubre nuestros tours exclusivos por el Huila: aventura, cultura y naturaleza. Recorre el Desierto de la Tatacoa, San Agustín y más con guías bilingües experimentados."
+hero_image: "/assets/img/parque-arqueologico-de-san-agustin-huila-colombia.avif"
+schema_type: "CollectionPage"
+---
+
+<main class="tours-page">
+  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+    <div class="wrapper">
+      <h1>Tours por el Huila</h1>
+      <p class="subtitle">Experiencias únicas que conectan con la naturaleza, historia y cultura huilense</p>
+    </div>
+  </section>
+
+  <div class="wrapper">
+    <section class="flow">
+      <h2>Descubre el auténtico Huila</h2>
+      <div class="two_columns">
+        <div class="flow">
+          <p>El departamento del Huila esconde tesoros culturales y naturales que merecen ser explorados con guías que conocen cada secreto de esta tierra. Nuestros tours están diseñados para ofrecerte experiencias auténticas y memorables, conectando con las tradiciones locales y los paisajes más impresionantes.</p>
+          
+          <p>Desde el misterioso Desierto de la Tatacoa hasta las enigmáticas esculturas de San Agustín, pasando por fincas cafeteras y ríos de aguas cristalinas, te invitamos a descubrir el corazón de Colombia con nosotros.</p>
+        </div>
+        <div class="vertical right">
+          <img src="{{ '/assets/img/desierto-de-la-tatacoa-huila.avif' | relative_url }}" alt="Turistas caminando por el Desierto de la Tatacoa en el Huila" loading="lazy" decoding="async" width="560" height="800">
+          <p class="places">Desierto de la Tatacoa</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="tour-categories flow">
+      <h2>Categorías de tours</h2>
+      
+      <div class="two_columns tour-cards">
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/experiencia-turismo-arqueologico-huila.avif' | relative_url }}" alt="Turismo de aventura en el Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Tours de aventura</h3>
+            <p>Para los amantes de la adrenalina, ofrecemos experiencias que desafían tus límites en los entornos naturales más impresionantes del Huila.</p>
+            <a href="{{ '/tours/aventura/' | relative_url }}" class="buttons">Explorar tours de aventura</a>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/parque-arqueologico-de-san-agustin-huila-colombia.avif' | relative_url }}" alt="Turismo cultural en el Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Tours culturales</h3>
+            <p>Sumérgete en la rica historia y tradiciones del Huila, visitando sitios arqueológicos, pueblos tradicionales y conociendo artesanos locales.</p>
+            <a href="{{ '/tours/cultural/' | relative_url }}" class="buttons">Explorar tours culturales</a>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/paisaje-huila.avif' | relative_url }}" alt="Turismo de naturaleza en el Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Tours de naturaleza</h3>
+            <p>Conecta con los paisajes más impresionantes del Huila, desde el imponente Desierto de la Tatacoa hasta los verdes valles y montañas del Macizo Colombiano.</p>
+            <a href="{{ '/tours/naturaleza/' | relative_url }}" class="buttons">Explorar tours de naturaleza</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="destacados flow">
+      <h2>Tours destacados</h2>
+      
+      <div class="two_columns tour-cards">
+        {% assign featured_tours = site.tours_es | where: "featured", true | limit: 3 %}
+        {% for tour in featured_tours %}
+          <div class="card">
+            <div class="card-image">
+              {% if tour.image %}
+              <img src="{{ tour.image | relative_url }}" alt="{{ tour.title }}" loading="lazy">
+              {% else %}
+              <img src="{{ '/assets/img/desierto-de-la-tatacoa-huila.avif' | relative_url }}" alt="{{ tour.title }}" loading="lazy">
+              {% endif %}
+            </div>
+            <div class="card-content">
+              <h3>{{ tour.title }}</h3>
+              <div class="tour-highlights">
+                {% if tour.duration %}
+                <div class="highlight">
+                  <span class="icon">{% include icons/clock.html %}</span>
+                  <span class="text">{{ tour.duration }} días</span>
+                </div>
+                {% endif %}
+                
+                {% if tour.price %}
+                <div class="highlight">
+                  <span class="icon">{% include icons/price-tag.html %}</span>
+                  <span class="text">{{ tour.price }}</span>
+                </div>
+                {% endif %}
+              </div>
+              <p>{{ tour.excerpt | truncate: 150 }}</p>
+              <a href="{{ tour.url | relative_url }}" class="buttons">Ver detalles</a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="testimonios flow">
+      <h2>Lo que dicen nuestros viajeros</h2>
+      
+      <div class="testimonios_secundarios">
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Turista disfrutando de un tour en San Agustín, Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"Una experiencia increíble en el Desierto de la Tatacoa. Los guías conocen cada rincón y nos contaron historias fascinantes sobre la formación de este paisaje único."</p>
+        </article>
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Viajero compartiendo su experiencia en el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"El recorrido por San Agustín superó mis expectativas. No solo vimos las esculturas, sino que aprendimos sobre la cultura y tradiciones de la región."</p>
+        </article>
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Testimonio de viajero en tour por el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"Los tours de café son una ventana al corazón de Colombia. Probar el café directamente de la finca es una experiencia que todos deberían vivir."</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <div class="wrapper center flow">
+        <h2>¿Listo para vivir una experiencia única?</h2>
+        <p>Déjanos ayudarte a planificar tu próxima aventura por el Huila. Nuestros expertos diseñarán un itinerario a la medida de tus intereses y tiempo disponible.</p>
+        <a href="{{ '/contacto/' | relative_url }}" class="buttons">¡Contacta con nosotros!</a>
+      </div>
+    </section>
+  </div>
+</main>

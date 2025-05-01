@@ -1,0 +1,152 @@
+---
+layout: default
+title: "Destinos turísticos del Huila | Lugares imprescindibles para visitar"
+description: "Conoce los destinos más fascinantes del Huila: el Desierto de la Tatacoa, San Agustín, Neiva y más. Lugares únicos llenos de naturaleza, historia y cultura."
+hero_image: "/assets/img/desierto-de-la-tatacoa-huila.avif"
+schema_type: "CollectionPage"
+---
+
+<main class="destinations-page">
+  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+    <div class="wrapper">
+      <h1>Destinos del Huila</h1>
+      <p class="subtitle">Descubre la diversidad de paisajes, cultura e historia que ofrece esta tierra colombiana</p>
+    </div>
+  </section>
+
+  <div class="wrapper">
+    <section class="flow">
+      <h2>El Huila, un tesoro por descubrir</h2>
+      <div class="two_columns">
+        <div class="flow">
+          <p>El departamento del Huila, ubicado en el suroccidente colombiano, es un territorio privilegiado donde la naturaleza, la historia y la calidez de su gente se combinan para ofrecer experiencias inolvidables. Desde paisajes desérticos hasta exuberantes montañas, pasando por enigmáticos vestigios arqueológicos, el Huila es un destino que cautiva a todo viajero.</p>
+          
+          <p>Te invitamos a explorar los destinos más emblemáticos de esta región, donde cada rincón guarda historias fascinantes y paisajes de ensueño que esperan ser descubiertos.</p>
+        </div>
+        <div class="vertical right">
+          <img src="{{ '/assets/img/paisaje-huila.avif' | relative_url }}" alt="Paisaje montañoso del Huila con el río Magdalena" loading="lazy" decoding="async" width="560" height="800">
+          <p class="places">Paisajes del Huila</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="featured-destinations flow">
+      <h2>Destinos principales</h2>
+      
+      <div class="two_columns destination-cards">
+        <!-- Desierto de la Tatacoa -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/desierto-de-la-tatacoa-huila.avif' | relative_url }}" alt="Formaciones rocosas en el Desierto de la Tatacoa, Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Desierto de la Tatacoa</h3>
+            <p>Un paisaje árido y fascinante que se destaca por sus formaciones geológicas únicas, tonos rojizos y grises. Ideal para la observación astronómica gracias a su cielo despejado y libre de contaminación lumínica.</p>
+            <a href="{{ '/destinos/desierto-tatacoa/' | relative_url }}" class="buttons">Explorar Desierto de la Tatacoa</a>
+          </div>
+        </div>
+        
+        <!-- San Agustín -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/parque-arqueologico-de-san-agustin-huila-colombia.avif' | relative_url }}" alt="Estatuas monolíticas en el Parque Arqueológico de San Agustín" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>San Agustín</h3>
+            <p>Hogar del Parque Arqueológico declarado Patrimonio de la Humanidad por la UNESCO, donde podrás maravillarte con las enigmáticas esculturas y monumentos funerarios de una antigua civilización.</p>
+            <a href="{{ '/destinos/san-agustin/' | relative_url }}" class="buttons">Explorar San Agustín</a>
+          </div>
+        </div>
+        
+        <!-- Neiva -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/fotos-turistas-redes-sociales.avif' | relative_url }}" alt="Ciudad de Neiva, capital del Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Neiva</h3>
+            <p>Capital del departamento y puerta de entrada al Huila, con su vibrante cultura, gastronomía local y el famoso Festival Folclórico y Reinado Nacional del Bambuco que celebra las tradiciones de la región.</p>
+            <a href="{{ '/destinos/neiva/' | relative_url }}" class="buttons">Explorar Neiva</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="other-destinations flow">
+      <h2>Otros destinos por descubrir</h2>
+      
+      <div class="attractions-list">
+        <!-- Rivera - Termales -->
+        <div class="attraction-item two_columns">
+          <div class="attraction-image">
+            <img src="{{ '/assets/img/salto-del-mortino-huila.avif' | relative_url }}" alt="Termales en Rivera, Huila" loading="lazy">
+          </div>
+          <div class="attraction-details">
+            <h3>Rivera y sus termales</h3>
+            <p>Conocida como "El Edén del Huila", esta localidad ofrece aguas termales naturales con propiedades medicinales, perfectas para un día de relax y bienestar.</p>
+          </div>
+        </div>
+        
+        <!-- Estrecho del Magdalena -->
+        <div class="attraction-item two_columns">
+          <div class="attraction-image">
+            <img src="{{ '/assets/img/reserva-quimbo-huila.avif' | relative_url }}" alt="Estrecho del Río Magdalena" loading="lazy">
+          </div>
+          <div class="attraction-details">
+            <h3>Estrecho del Magdalena</h3>
+            <p>El punto donde el río más importante de Colombia reduce su caudal a tan solo 2.20 metros de ancho entre imponentes formaciones rocosas, creando un espectáculo natural único.</p>
+          </div>
+        </div>
+        
+        <!-- Represa El Quimbo -->
+        <div class="attraction-item two_columns">
+          <div class="attraction-image">
+            <img src="{{ '/assets/img/reserva-quimbo-huila.avif' | relative_url }}" alt="Represa El Quimbo en Huila" loading="lazy">
+          </div>
+          <div class="attraction-details">
+            <h3>Represa El Quimbo</h3>
+            <p>Esta impresionante obra de ingeniería ofrece un paisaje espectacular y la posibilidad de realizar actividades náuticas en su embalse, rodeado de naturaleza.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="destination-activities flow">
+      <h2>Actividades destacadas</h2>
+      
+      <div class="highlights-grid two_columns">
+        <div class="highlight-card">
+          <div class="icon">{% include icons/star.html %}</div>
+          <h3>Observación astronómica</h3>
+          <p>El Desierto de la Tatacoa es uno de los mejores lugares en Colombia para contemplar las estrellas, con condiciones óptimas para la astronomía.</p>
+        </div>
+        
+        <div class="highlight-card">
+          <div class="icon">{% include icons/camera.html %}</div>
+          <h3>Fotografía de paisajes</h3>
+          <p>Los contrastes de colores y texturas del Huila ofrecen escenarios perfectos para los amantes de la fotografía de naturaleza y paisajes.</p>
+        </div>
+        
+        <div class="highlight-card">
+          <div class="icon">{% include icons/coffee.html %}</div>
+          <h3>Ruta del café</h3>
+          <p>Visita fincas cafeteras para conocer el proceso de producción del café colombiano y degustar el producto directamente de su origen.</p>
+        </div>
+        
+        <div class="highlight-card">
+          <div class="icon">{% include icons/hiking.html %}</div>
+          <h3>Senderismo</h3>
+          <p>Recorre senderos que te llevan por paisajes impresionantes, desde el contraste árido de La Tatacoa hasta la exuberancia del Macizo Colombiano.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <div class="wrapper center flow">
+        <h2>¿Quieres conocer estos destinos?</h2>
+        <p>Nuestros expertos pueden diseñar un itinerario personalizado para que aproveches al máximo tu visita al Huila, adaptándose a tus intereses y tiempo disponible.</p>
+        <a href="{{ '/contacto/' | relative_url }}" class="buttons">Planifica tu viaje</a>
+      </div>
+    </section>
+  </div>
+</main>

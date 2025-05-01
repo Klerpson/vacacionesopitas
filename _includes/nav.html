@@ -171,7 +171,7 @@
             {% else %}About Us
           {% endcase %}
         </a>
-        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}contacto/{% when 'it' %}contatto/{% when 'de' %}kontakt/{% else %}contact/{% endcase %}/">
+        <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}contacto/{% when 'it' %}contatto/{% when 'de' %}kontakt/{% else %}contact/{% endcase %}">
           {% case current_lang %}
             {% when 'es' %}Contacto
             {% when 'it' %}Contatto

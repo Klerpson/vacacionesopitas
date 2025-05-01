@@ -1,0 +1,133 @@
+---
+layout: default
+title: "Experiencias únicas en el Huila | Café, aves y gastronomía"
+description: "Vive experiencias auténticas en el Huila: tours de café, avistamiento de aves y gastronomía tradicional. Conecta con la cultura y naturaleza colombiana."
+permalink: /experiencias/
+hero_image: "/assets/img/experiencia-finca-cafetera-huila.avif"
+schema_type: "CollectionPage"
+---
+
+<main class="experiences-page">
+  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+    <div class="wrapper">
+      <h1>Experiencias en el Huila</h1>
+      <p class="subtitle">Momentos auténticos que conectan con la esencia de Colombia</p>
+    </div>
+  </section>
+
+  <div class="wrapper">
+    <section class="flow">
+      <h2>Vive el Huila de manera única</h2>
+      <div class="two_columns">
+        <div class="flow">
+          <p>Más allá de visitar lugares, creemos en ofrecer experiencias que te permitan conectar profundamente con la esencia del Huila. Momentos diseñados para despertar los sentidos, aprender de las tradiciones locales y crear recuerdos que perdurarán toda la vida.</p>
+          
+          <p>Desde saborear un café recién cosechado en las montañas huilenses hasta maravillarte con el avistamiento de aves únicas en su hábitat natural, nuestras experiencias te invitan a sumergirte en lo auténtico de esta región colombiana.</p>
+        </div>
+        <div class="vertical right">
+          <img src="{{ '/assets/img/experiencia-finca-cafetera-huila.avif' | relative_url }}" alt="Experiencia de café en finca cafetera del Huila" loading="lazy" decoding="async" width="560" height="800">
+          <p class="places">Experiencia cafetera</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="featured-experiences flow">
+      <h2>Experiencias principales</h2>
+      
+      <div class="two_columns experience-cards">
+        <!-- Experiencia de Café -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/experiencia-finca-cafetera-huila.avif' | relative_url }}" alt="Turista aprendiendo sobre el proceso del café en el Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Experiencias de café</h3>
+            <p>Visita fincas cafeteras donde aprenderás todo sobre el proceso del café, desde la siembra hasta la taza. Participa en la recolección, conoce el procesamiento y degusta variedades especiales cultivadas en las montañas del Huila.</p>
+            <a href="{{ '/experiencias/cafe/' | relative_url }}" class="buttons">Descubrir experiencias de café</a>
+          </div>
+        </div>
+        
+        <!-- Avistamiento de Aves -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/paisaje-huila.avif' | relative_url }}" alt="Avistamiento de aves en el Huila con binoculares" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Avistamiento de aves</h3>
+            <p>El Huila alberga una increíble diversidad de aves, incluyendo especies endémicas. Acompañado por guías especializados, podrás observar coloridas especies en su hábitat natural, desde el Águila Crestada hasta el majestuoso Quetzal.</p>
+            <a href="{{ '/experiencias/avistamiento-aves/' | relative_url }}" class="buttons">Descubrir avistamiento de aves</a>
+          </div>
+        </div>
+        
+        <!-- Gastronomía -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/achiras-del-huila.avif' | relative_url }}" alt="Gastronomía tradicional del Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Gastronomía</h3>
+            <p>Descubre los sabores auténticos del Huila a través de experiencias culinarias que te acercan a la tradición local. Desde talleres de preparación de achiras hasta degustaciones de platos típicos como el asado huilense y la bizcocho de achira.</p>
+            <a href="{{ '/experiencias/gastronomia/' | relative_url }}" class="buttons">Descubrir experiencias gastronómicas</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="experience-highlights flow">
+      <h2>¿Por qué elegir nuestras experiencias?</h2>
+      
+      <div class="two_columns features-grid">
+        <div class="feature-card">
+          <div class="icon">{% include icons/user-group.html %}</div>
+          <h3>Guías locales expertos</h3>
+          <p>Nuestras experiencias son guiadas por locales apasionados que conocen cada secreto de su tierra y comparten historias que no encontrarás en las guías turísticas.</p>
+        </div>
+        
+        <div class="feature-card">
+          <div class="icon">{% include icons/leaf.html %}</div>
+          <h3>Compromiso con la sostenibilidad</h3>
+          <p>Diseñamos cada experiencia con un enfoque sostenible, respetando el entorno natural y contribuyendo positivamente a las comunidades locales.</p>
+        </div>
+        
+        <div class="feature-card">
+          <div class="icon">{% include icons/star.html %}</div>
+          <h3>Autenticidad garantizada</h3>
+          <p>Promovemos encuentros genuinos con la cultura huilense, lejos del turismo masificado, para una conexión real con el destino.</p>
+        </div>
+        
+        <div class="feature-card">
+          <div class="icon">{% include icons/heart.html %}</div>
+          <h3>Experiencias transformadoras</h3>
+          <p>Buscamos que cada experiencia vaya más allá de lo turístico, creando momentos de aprendizaje y crecimiento personal para cada viajero.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="testimonios flow">
+      <h2>Lo que dicen quienes han vivido nuestras experiencias</h2>
+      
+      <div class="testimonios_secundarios">
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Testimonio sobre experiencia cafetera en el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"El tour de café fue revelador. Nunca imaginé todo el trabajo artesanal que hay detrás de una taza. Ahora aprecio muchísimo más el café colombiano."</p>
+        </article>
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Opinión sobre avistamiento de aves en el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"Ver el Quetzal en su hábitat natural fue un sueño cumplido. Los guías sabían exactamente dónde buscar y su conocimiento sobre las aves locales era impresionante."</p>
+        </article>
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Experiencia gastronómica en el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"Aprender a hacer achiras con una familia local fue una de las experiencias más auténticas que he tenido. Me llevo el sabor del Huila en mi corazón."</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <div class="wrapper center flow">
+        <h2>Crea tu propia historia en el Huila</h2>
+        <p>Cada experiencia se puede personalizar según tus intereses. Nuestro equipo está listo para diseñar el momento perfecto que complemente tu viaje por el Huila.</p>
+        <a href="{{ '/contacto/' | relative_url }}" class="buttons">Reserva tu experiencia</a>
+      </div>
+    </section>
+  </div>
+</main>
