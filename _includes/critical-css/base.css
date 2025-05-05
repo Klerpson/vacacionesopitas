@@ -29,7 +29,7 @@ html {
 }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
   color: var(--color-fonts);
   font-family: var(--font);
@@ -104,12 +104,14 @@ img {
 }
 
 .wrapper {
-  padding: 10em 0 4em;
-  width: min(calc(100% - 2rem), 1320px);
+  width: min(calc(100% - 2rem), 1920px);
   margin-inline: auto;
+  padding: 0 0 10em;
 }
 
 .two_columns {
+  width: min(100%, 1920px);
+  position: relative;
   display: flex;
   flex-wrap: wrap;
   gap: 2em;
@@ -117,7 +119,9 @@ img {
   justify-content: space-between;
   
   div{
+    padding: clamp(1.5rem, 1.5rem + 0.5vw, 2rem);
     flex: 1 0 400px;
+    z-index: 10;
     max-width: 100%;
   }
 }

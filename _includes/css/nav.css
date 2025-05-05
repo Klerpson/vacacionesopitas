@@ -1,7 +1,7 @@
 
 /* Banner superior */
 .banner_nav {
-  background-color: var(--accion);
+  background-color: var(--color-grey);
   padding: 0.75rem 0;
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  color: var(--principal);
+  color: var(--color-main);
   text-decoration: none;
   font-size: 0.875rem;
   transition: opacity 0.2s ease;
@@ -32,8 +32,8 @@
 
 .banner_nav svg path,
 .banner_nav svg g {
-  fill: var(--principal);
-  stroke: var(--principal);
+  fill: var(--color-main);
+  stroke: var(--color-main);
 }
 
 /* Navegación principal */
@@ -81,7 +81,7 @@ nav {
 }
 
 .dropdown > span {
-  color: var(--principal);
+  color: var(--color-main);
   font-size: 1rem;
   padding: 0.5rem 0;
   display: inline-block;
@@ -89,7 +89,7 @@ nav {
 }
 
 .dropdown:hover > span {
-  color: var(--accion);
+  color: var(--color-accion);
 }
 
 .dropdown-content {
@@ -117,15 +117,15 @@ nav {
 .dropdown-content a {
   display: block;
   padding: 0.75rem 1.5rem;
-  color: var(--principal);
+  color: var(--color-main);
   text-decoration: none;
   transition: all 0.2s ease;
   font-size: 0.9375rem;
 }
 
 .dropdown-content a:hover {
-  background-color: var(--gris1);
-  color: var(--accion);
+  background-color: var(--color-grey-1);
+  color: var(--color-accion);
 }
 
 /* Selector de idioma */
@@ -133,15 +133,15 @@ nav {
   display: inline-flex;
   align-items: center;
   padding: 0.5rem 1rem;
-  background: var(--gris1);
-  color: var(--principal);
+  background: var(--color-grey-1);
+  color: var(--color-main);
   text-decoration: none;
   border-radius: 4px;
   transition: all 0.2s ease;
 }
 
 .language-switch:hover {
-  background: var(--accion);
+  background: var(--color-accion);
   color: white;
 }
 
@@ -159,7 +159,7 @@ nav {
 .line {
   width: 24px;
   height: 2px;
-  background-color: var(--principal);
+  background-color: var(--color-main);
   margin: 5px 0;
   transition: all 0.3s ease;
 }
@@ -198,7 +198,7 @@ nav {
     width: 100%;
     flex-direction: column;
     align-items: flex-start;
-    border-bottom: 1px solid var(--gris1);
+    border-bottom: 1px solid var(--color-grey);
     padding: 1rem 0;
   }
 
@@ -228,7 +228,7 @@ nav {
   }
 
   .dropdown.active > span {
-    color: var(--accion);
+    color: var(--color-accion);
   }
 
   .dropdown-content a {

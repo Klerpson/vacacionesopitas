@@ -1,0 +1,187 @@
+---
+layout: default
+title: "Tours de aventura en el Huila | Experiencias de adrenalina y naturaleza"
+description: "Descubre nuestros tours de aventura por el Huila: rafting, canopy, senderismo y más. Experiencias llenas de adrenalina en entornos naturales impresionantes."
+hero_image: "/assets/img/experiencia-turismo-arqueologico-huila.avif"
+schema_type: "CollectionPage"
+---
+
+<main class="adventure-tours-page">
+  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+    <div class="wrapper">
+      <h1>Tours de aventura en el Huila</h1>
+      <p class="subtitle">Experiencias llenas de adrenalina en entornos naturales impresionantes</p>
+    </div>
+  </section>
+
+  <div class="wrapper">
+    <section class="flow">
+      <h2>Aventura y naturaleza en estado puro</h2>
+      <div class="two_columns">
+        <div class="flow">
+          <p>El Huila es un paraíso para los amantes de la aventura, con su diversidad de paisajes y entornos naturales que ofrecen el escenario perfecto para actividades que combinan adrenalina y conexión con la naturaleza.</p>
+          
+          <p>Desde el majestuoso río Magdalena donde practicar rafting, hasta los imponentes senderos del Macizo Colombiano para trekking y montañismo, pasando por experiencias únicas como canopy o ciclismo en paisajes de ensueño, nuestros tours de aventura están diseñados para desafiar tus límites mientras te maravillas con la belleza natural del Huila.</p>
+        </div>
+        <div class="vertical right">
+          <img src="{{ '/assets/img/salto-del-mortino-huila.avif' | relative_url }}" alt="Salto del Mortiño, cascada para actividades de aventura en el Huila" loading="lazy" decoding="async" width="560" height="800">
+          <p class="places">Cascada El Salto del Mortiño en Isnos</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="tour-categories flow">
+      <h2>Nuestros tours de aventura</h2>
+      
+      <div class="two_columns tour-cards">
+        <!-- Tour Macizo Extremo -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/experiencia-turismo-arqueologico-huila.avif' | relative_url }}" alt="Actividades de aventura extrema en el Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Macizo Extremo</h3>
+            <div class="tour-highlights">
+              <div class="highlight">
+                <span class="icon">{% include icons/clock.html %}</span>
+                <span class="text">3 días</span>
+              </div>
+              <div class="highlight">
+                <span class="icon">{% include icons/price-tag.html %}</span>
+                <span class="text">Desde $2.583.000</span>
+              </div>
+            </div>
+            <p>Un tour ideal para los amantes de la adrenalina que incluye actividades como canopy, bicicletas aéreas, hamacas sobre el Río Magdalena, torrentismo, columpio extremo y rafting en el majestuoso Río Magdalena.</p>
+            <a href="{{ '/tours/macizo-extremo/' | relative_url }}" class="buttons">Ver detalles</a>
+          </div>
+        </div>
+        
+        <!-- Tour Trekking en el Macizo Colombiano -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/paisaje-huila.avif' | relative_url }}" alt="Trekking en las montañas del Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Trekking en el Macizo Colombiano</h3>
+            <div class="tour-highlights">
+              <div class="highlight">
+                <span class="icon">{% include icons/clock.html %}</span>
+                <span class="text">4 días</span>
+              </div>
+              <div class="highlight">
+                <span class="icon">{% include icons/price-tag.html %}</span>
+                <span class="text">Desde $2.890.000</span>
+              </div>
+            </div>
+            <p>Una aventura de senderismo por los impresionantes paisajes del Macizo Colombiano, conocido como la "Estrella Fluvial Colombiana", donde nacen importantes ríos como el Magdalena, Cauca, Patía y Caquetá.</p>
+            <a href="{{ '/tours/trekking-macizo-colombiano/' | relative_url }}" class="buttons">Ver detalles</a>
+          </div>
+        </div>
+        
+        <!-- Tour Rafting y Kayak -->
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ '/assets/img/reserva-quimbo-huila.avif' | relative_url }}" alt="Rafting en el Río Magdalena, Huila" loading="lazy">
+          </div>
+          <div class="card-content">
+            <h3>Rafting y Kayak en el Magdalena</h3>
+            <div class="tour-highlights">
+              <div class="highlight">
+                <span class="icon">{% include icons/clock.html %}</span>
+                <span class="text">2 días</span>
+              </div>
+              <div class="highlight">
+                <span class="icon">{% include icons/price-tag.html %}</span>
+                <span class="text">Desde $1.750.000</span>
+              </div>
+            </div>
+            <p>Vive la emoción del rafting y kayak en el río más importante de Colombia. Una experiencia llena de adrenalina con rápidos de diferentes niveles, combinada con hermosos paisajes ribereños.</p>
+            <a href="{{ '/tours/rafting-magdalena/' | relative_url }}" class="buttons">Ver detalles</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="adventure-activities flow">
+      <h2>Actividades de aventura</h2>
+      
+      <div class="highlights-grid two_columns">
+        <div class="highlight-card">
+          <div class="icon">{% include icons/rafting.html %}</div>
+          <h3>Rafting</h3>
+          <p>Desciende por los rápidos del Río Magdalena, con niveles para principiantes y expertos, acompañado por guías certificados y equipos de seguridad profesionales.</p>
+        </div>
+        
+        <div class="highlight-card">
+          <div class="icon">{% include icons/canopy.html %}</div>
+          <h3>Canopy</h3>
+          <p>Deslízate por cables suspendidos a gran altura y disfruta de vistas panorámicas sobre los paisajes del Huila, una experiencia que combina adrenalina y belleza natural.</p>
+        </div>
+        
+        <div class="highlight-card">
+          <div class="icon">{% include icons/hiking.html %}</div>
+          <h3>Trekking</h3>
+          <p>Recorre senderos que atraviesan diversos ecosistemas, desde bosques nublados hasta páramos andinos, descubriendo la increíble biodiversidad del Macizo Colombiano.</p>
+        </div>
+        
+        <div class="highlight-card">
+          <div class="icon">{% include icons/cycling.html %}</div>
+          <h3>Ciclomontañismo</h3>
+          <p>Rutas de ciclomontañismo con diferentes niveles de dificultad que te llevan por caminos rurales, atravesando paisajes cafeteros y montañosos con vistas impresionantes.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="testimonios flow">
+      <h2>Experiencias de aventureros</h2>
+      
+      <div class="testimonios_secundarios">
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Aventurero que disfrutó del rafting en el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"El rafting en el Magdalena fue una experiencia increíble. Los guías son muy profesionales y hacen que te sientas seguro mientras disfrutas de la adrenalina."</p>
+        </article>
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Turista haciendo trekking en el Macizo Colombiano" width="240" height="240" loading="lazy" decoding="async">
+          <p>"El trekking por el Macizo Colombiano te conecta con la naturaleza en estado puro. Los paisajes son impresionantes y los guías conocen cada detalle de la flora y fauna local."</p>
+        </article>
+        <article class="testimonio">
+          <img src="{{'/assets/img/turista-en-san-agustin.avif'|relative_url}}" alt="Experiencia de canopy en el Huila" width="240" height="240" loading="lazy" decoding="async">
+          <p>"Las actividades del tour Macizo Extremo superaron mis expectativas. El canopy y el columpio extremo son una descarga de adrenalina con vistas espectaculares."</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="safety-info flow">
+      <h2>Seguridad ante todo</h2>
+      
+      <div class="two_columns">
+        <div class="text_background info-card">
+          <h3>Nuestro compromiso con la seguridad</h3>
+          <p>En nuestros tours de aventura, la seguridad es la prioridad número uno. Trabajamos con guías certificados, utilizamos equipos de calidad con mantenimiento constante y seguimos protocolos rigurosos para cada actividad.</p>
+          <p>Antes de cada experiencia, realizamos una charla informativa completa, verificamos el estado físico de los participantes y nos aseguramos de que comprendan las medidas de seguridad. Todos nuestros tours incluyen seguro médico y contamos con procedimientos de emergencia establecidos.</p>
+        </div>
+        
+        <div class="text_background info-card">
+          <h3>Recomendaciones para aventureros</h3>
+          <ul class="details-list">
+            <li>Sigue siempre las instrucciones de los guías</li>
+            <li>Usa el equipo de protección proporcionado</li>
+            <li>Informa sobre condiciones médicas relevantes</li>
+            <li>Lleva ropa y calzado adecuados para cada actividad</li>
+            <li>Mantente hidratado durante toda la experiencia</li>
+            <li>Respeta tus límites físicos y comunica cualquier incomodidad</li>
+            <li>No te separes del grupo durante las actividades</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <div class="wrapper center flow">
+        <h2>¿Listo para la aventura?</h2>
+        <p>Reserva ahora tu tour de aventura por el Huila y prepárate para vivir experiencias llenas de adrenalina, naturaleza y momentos inolvidables.</p>
+        <a href="{{ '/contacto/' | relative_url }}" class="buttons">¡Reserva tu aventura!</a>
+      </div>
+    </section>
+  </div>
+</main>

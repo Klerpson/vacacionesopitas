@@ -1,42 +1,31 @@
-.experiencias{
-  background-image: url('/assets/img/mapa-del-huila-720.avif');
+.experiencias {
+  background-image: url("/assets/img/mapa-del-huila-720.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
   min-height: 300px;
 
-  .experiencia{
+  .experiencia {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     place-items: center;
     gap: 4em;
 
-    .vertical{
+    .vertical {
       gap: 4em;
-      
-      span{
+
+      span {
         padding: 40px 60px;
         font-size: 4em;
         line-height: 1;
         background-color: var(--color-complement);
         color: white;
         border-radius: 50%;
+        max-width: -webkit-max-content;
+        max-width: -moz-max-content;
         max-width: max-content;
       }
-    } 
+    }
   }
-}
-
-.fotos{
-  position: relative;
-
-  div{
-    padding: 20px;
-    display: grid;
-    align-content: end;
-    background-color: #ffffffc2;
-    border-radius: var(--border-radius);
-    z-index: 100;
-  } 
 }
