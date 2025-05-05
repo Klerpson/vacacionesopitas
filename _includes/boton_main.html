@@ -1,1 +1,10 @@
-<a href="{{'/contacto/'|relative_url}}" title="Contáctanos para tu organizar tu viaje" class="buttons">Solicita tu paquete ahora</a>
+{% assign current_lang = page.lang | default: site.default_lang %}
+
+<a href="{% case current_lang %}{% when 'es' %}{{ '/es/contacto/' | relative_url }}{% when 'it' %}{{ '/it/contatto/' | relative_url }}{% when 'de' %}{{ '/de/kontakt/' | relative_url }}{% else %}{{ '/contact/' | relative_url }}{% endcase %}" title="{% case current_lang %}{% when 'es' %}Contáctanos para organizar tu viaje{% when 'it' %}Contattaci per organizzare il tuo viaggio{% when 'de' %}Kontaktiere uns, um deine Reise zu organisieren{% else %}Contact us to organize your trip{% endcase %}" class="buttons">
+  {% case current_lang %}
+    {% when 'es' %}Solicita tu paquete ahora
+    {% when 'it' %}Richiedi il tuo pacchetto ora
+    {% when 'de' %}Fordere dein Paket jetzt an
+    {% else %}Request your package now
+  {% endcase %}
+</a>

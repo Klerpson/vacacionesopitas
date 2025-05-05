@@ -1,15 +1,50 @@
-  <!-- Footer -->
-  <footer class="footer">
-    <h2>Vacaciones Opitas</h2>
+{% assign current_lang = page.lang | default: site.default_lang %}
 
-      <p>Lorena Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Visitas nuestros perfiles en <a href="#">LinkedIn</a> y en la <a href="#">ficha de Google Business</a>. Escríbenos por WhatsApp:<a href="#">+573200000000</a>, y, por supuesto, aquí están los <a href="#">términos y condiciones</a>, <a href="#">política de privacidad</a> y <a href="#">políticas de cookies</a> de nuestra página web.</p>
+<!-- Footer -->
+<footer class="footer">
+  <h2>
+    {% case current_lang %}
+      {% when 'es' %}Vacaciones Opitas
+      {% when 'it' %}Vacanze nel Huila
+      {% when 'de' %}Huila Urlaub
+      {% else %}Huila Vacations
+    {% endcase %}
+  </h2>
 
-    <p class="footer-closing">¡En tantico nos vemos!</p>
+  <p>
+    {% case current_lang %}
+      {% when 'es' %}
+      Somos expertos en turismo del Huila desde 2017, creando experiencias únicas y memorables para viajeros nacionales e internacionales. Visita nuestros perfiles en <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> y en la <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">ficha de Google Business</a>. Escríbenos por WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, y, por supuesto, aquí están los <a href="/{{ current_lang }}/terminos-y-condiciones/">términos y condiciones</a>, <a href="/{{ current_lang }}/politica-de-privacidad/">política de privacidad</a> y <a href="/{{ current_lang }}/politicas-de-cookies/">políticas de cookies</a> de nuestra página web.
+      
+      {% when 'it' %}
+      Siamo esperti di turismo a Huila dal 2017, creando esperienze uniche e indimenticabili per viaggiatori nazionali e internazionali. Visita i nostri profili su <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> e sulla <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">scheda Google Business</a>. Scrivici su WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, e, naturalmente, qui ci sono i <a href="/it/termini-e-condizioni/">termini e condizioni</a>, la <a href="/it/politica-sulla-privacy/">politica sulla privacy</a> e la <a href="/it/politica-sui-cookie/">politica sui cookie</a> del nostro sito web.
+      
+      {% when 'de' %}
+      Wir sind seit 2017 Experten für Tourismus in Huila und kreieren einzigartige und unvergessliche Erlebnisse für nationale und internationale Reisende. Besuche unsere Profile auf <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> und in unserem <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">Google Business-Eintrag</a>. Schreibe uns über WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, und selbstverständlich findest du hier unsere <a href="/de/allgemeine-geschaftsbedingungen/">Allgemeinen Geschäftsbedingungen</a>, <a href="/de/datenschutzrichtlinie/">Datenschutzrichtlinie</a> und <a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a> unserer Website.
+      
+      {% else %}
+      We have been Huila tourism experts since 2017, creating unique and memorable experiences for both domestic and international travelers. Visit our profiles on <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> and our <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">Google Business listing</a>. Message us on WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, and, of course, here are the <a href="/terms-and-conditions/">terms and conditions</a>, <a href="/privacy-policy/">privacy policy</a>, and <a href="/cookie-policy/">cookie policy</a> for our website.
+    {% endcase %}
+  </p>
 
-    <div class="footer-copyright">
-      ©vacacionesopitas.com 2025 - Todos los derechos reservados. Página realizada por
-      {% if page.url == "/" %}
-      <a href="https://juli.com.co">juli.com.co</a>
-      {% endif %}
-    </div>
-  </footer>
+  <p class="footer-closing">
+    {% case current_lang %}
+      {% when 'es' %}¡En tantico nos vemos!
+      {% when 'it' %}Ci vediamo presto!
+      {% when 'de' %}Bis bald!
+      {% else %}See you soon!
+    {% endcase %}
+  </p>
+
+  <div class="footer-copyright">
+    {% case current_lang %}
+      {% when 'es' %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - Todos los derechos reservados. Página realizada por
+      {% when 'it' %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - Tutti i diritti riservati. Sito web creato da
+      {% when 'de' %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - Alle Rechte vorbehalten. Website erstellt von
+      {% else %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - All rights reserved. Website created by
+    {% endcase %}
+    {% if page.url == "/" %}
+    <a href="https://juli.com.co">juli.com.co</a>
+    {% endif %}
+  </div>
+</footer>

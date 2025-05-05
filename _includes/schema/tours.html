@@ -1,60 +1,90 @@
-{% if page.layout == 'tour' %}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TouristAttraction",
-  "name": "{{ page.title }}",
-  "description": "{{ page.description }}",
-  "url": "{{ site.url }}{{ page.url }}",
-  {% if page.image %}
-  "image": "{{ site.url }}{{ page.image }}",
-  {% endif %}
-  "telephone": "{{ site.telefono }}",
-  {% if page.touristType %}
-  "touristType": "{{ page.touristType }}",
-  {% endif %}
-  {% if page.itinerary %}
-  "itinerary": {
-    "@type": "ItemList",
-    "itemListElement": [
-      {% for item in page.itinerary %}
+  {
+    "@context": "https://schema.org",
+    "@type": "TouristAttraction",
+    "name": "{{ page.title }}",
+    "description": "{{ page.description }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    {% if page.hero_image %}
+    "image": "{{ site.url }}{{ page.hero_image }}",
+    {% endif %}
+    "telephone": "{{ site.telefono }}",
+    {% if page.touristType %}
+    "touristType": "{{ page.touristType }}",
+    {% endif %}
+    {% if page.itinerary %}
+    "itinerary": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {% for day in page.itinerary %}
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index }},
+          "item": {
+            "@type": "TouristDestination",
+            "name": "{{ day.title }}",
+            "description": "{{ day.description }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    },
+    {% endif %}
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ page.location.city | default: 'Huila' }}",
+      "addressRegion": "Huila",
+      "addressCountry": "Colombia"
+    },
+    {% if page.geo %}
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "{{ page.geo.latitude }}",
+      "longitude": "{{ page.geo.longitude }}"
+    },
+    {% endif %}
+    "publicAccess": true,
+    {% if page.offers %}
+    "offers": {
+      "@type": "Offer",
+      "price": "{{ page.offers.price }}",
+      "priceCurrency": "{{ page.offers.currency | default: 'COP' }}",
+      "availability": "https://schema.org/InStock",
+      "validFrom": "{{ page.offers.validFrom | default: site.time | date_to_xmlschema }}"
+    },
+    {% endif %}
+    "isAccessibleForFree": false,
+    "provider": {
+      "@type": "TravelAgency",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}",
+      "logo": "{{ site.url }}{{ site.logo }}"
+    },
+    {% if page.included %}
+    "amenityFeature": [
+      {% for item in page.included %}
       {
-        "@type": "ListItem",
-        "position": {{ forloop.index }},
-        "item": {
-          "@type": "TouristDestination",
-          "name": "{{ item.name }}",
-          "description": "{{ item.description }}"
-        }
+        "@type": "LocationFeatureSpecification",
+        "name": "{{ item }}"
       }{% unless forloop.last %},{% endunless %}
       {% endfor %}
-    ]
-  },
-  {% endif %}
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "{{ page.location.city | default: 'Huila' }}",
-    "addressRegion": "Huila",
-    "addressCountry": "Colombia"
-  },
-  {% if page.geo %}
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "{{ page.geo.latitude }}",
-    "longitude": "{{ page.geo.longitude }}"
-  },
-  {% endif %}
-  "publicAccess": true,
-  {% if page.offers %}
-  "offers": {
-    "@type": "Offer",
-    "price": "{{ page.offers.price }}",
-    "priceCurrency": "{{ page.offers.currency | default: 'COP' }}",
-    "availability": "https://schema.org/InStock",
-    "validFrom": "{{ page.offers.validFrom | default: site.time | date_to_xmlschema }}"
-  },
-  {% endif %}
-  "isAccessibleForFree": false
-}
-</script>
-{% endif %}
+    ],
+    {% endif %}
+    {% if page.duration %}
+    "tourBookingPage": "{{ site.url }}/contacto/",
+    "availableLanguage": ["es", "en"],
+    "tourDuration": "P{{ page.duration }}D",
+    {% endif %}
+    {% if page.difficulty %}
+    "additionalProperty": {
+      "@type": "PropertyValue",
+      "name": "Dificultad",
+      "value": "{{ page.difficulty }}/5"
+    },
+    {% endif %}
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Turistas aventureros"
+    }
+  }
+  </script>

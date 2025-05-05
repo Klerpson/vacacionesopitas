@@ -1,14 +1,119 @@
+{% assign current_lang = page.lang | default: site.default_lang %}
+{% assign layout = page.layout %}
+
+{% case layout %}
+{% when "default" %}
 <header class="hero">
   <section class="wrapper two_columns">
     <div class="text_background">
-      <h1>Ven al Huila, un paraíso de naturaleza y cultura en Colombia</h1>
-      <p>El departamento del Huila te ofrece paisajes impresionantes, sitios arqueológicos únicos y experiencias auténticas que no encontrarás en ningún otro lugar. <strong>Si no lo conoces, este es el momento.</strong> ¡Escríbenos!</p>
+      <h1>
+        {% case current_lang %}
+          {% when 'es' %}Ven al Huila, un paraíso de naturaleza y cultura en Colombia
+          {% when 'it' %}Vieni a Huila, un paradiso di natura e cultura in Colombia
+          {% when 'de' %}Besuche Huila, ein Paradies aus Natur und Kultur in Kolumbien
+          {% else %}Visit Huila, a paradise of nature and culture in Colombia
+        {% endcase %}
+      </h1>
+      <p>
+        {% case current_lang %}
+          {% when 'es' %}El departamento del Huila te ofrece paisajes impresionantes, sitios arqueológicos únicos y experiencias auténticas que no encontrarás en ningún otro lugar. <strong>Si no lo conoces, este es el momento.</strong> ¡Escríbenos!
+          {% when 'it' %}Il dipartimento di Huila ti offre paesaggi impressionanti, siti archeologici unici ed esperienze autentiche che non troverai da nessun'altra parte. <strong>Se non lo conosci, questo è il momento.</strong> Scrivici!
+          {% when 'de' %}Das Department Huila bietet beeindruckende Landschaften, einzigartige archäologische Stätten und authentische Erlebnisse, die du nirgendwo sonst finden wirst. <strong>Wenn du es noch nicht kennst, ist jetzt der richtige Zeitpunkt.</strong> Schreib uns!
+          {% else %}The department of Huila offers you impressive landscapes, unique archaeological sites, and authentic experiences that you won't find anywhere else. <strong>If you haven't visited yet, now is the time.</strong> Write to us!
+        {% endcase %}
+      </p>
       {% include boton_main.html %}
-      <a href="" class="boton_secundario">Lorem ipsum dolor</a>
+      <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}destinos/{% when 'it' %}destinazioni/{% when 'de' %}reiseziele/{% else %}destinations/{% endcase %}" class="boton_secundario">
+        {% case current_lang %}
+          {% when 'es' %}Descubre nuestros destinos
+          {% when 'it' %}Scopri le nostre destinazioni
+          {% when 'de' %}Entdecke unsere Reiseziele
+          {% else %}Discover our destinations
+        {% endcase %}
+      </a>
     </div>
     <div class="hero_column_2">
-      <p class="places">Parque arqueológico de San Agustín Huila</p>
+      <p class="places">
+        {% case current_lang %}
+          {% when 'es' %}Parque arqueológico de San Agustín, Huila
+          {% when 'it' %}Parco archeologico di San Agustín, Huila
+          {% when 'de' %}Archäologischer Park von San Agustín, Huila
+          {% else %}San Agustín Archaeological Park, Huila
+        {% endcase %}
+      </p>
     </div>
   </section>
-  <img src="{{'/assets/img/parque-arqueologico-de-san-agustin-huila-colombia.avif' | relative_url}}" alt="Lorem ipsum dolor sit amet, consectetur adipisicing elit" width="720" height="720" loading="eager" fetchpriority="high" decoding="async" class="image_outer right">
+  <img src="{{ '/assets/img/parque-arqueologico-de-san-agustin-huila-colombia.avif' | relative_url }}" alt="{% case current_lang %}{% when 'es' %}Parque arqueológico de San Agustín en Huila, Colombia{% when 'it' %}Parco archeologico di San Agustín in Huila, Colombia{% when 'de' %}Archäologischer Park von San Agustín in Huila, Kolumbien{% else %}San Agustín Archaeological Park in Huila, Colombia{% endcase %}" width="720" height="720" loading="eager" fetchpriority="high" decoding="async" class="image_outer right">
 </header>
+
+{% when "contact" %}
+<header class="hero">
+  <section class="wrapper two_columns">
+    <div class="text_background">
+      <h1>
+        {% case current_lang %}
+          {% when 'es' %}Contáctanos y viaja con tranquilidad por el Huila
+          {% when 'it' %}Contattaci e viaggia con tranquillità a Huila
+          {% when 'de' %}Kontaktiere uns und reise sorgenfrei durch Huila
+          {% else %}Contact us and travel peacefully through Huila
+        {% endcase %}
+      </h1>
+      <p>
+        {% case current_lang %}
+          {% when 'es' %}Con la experiencia obtenida desde el año 2017, podemos prometerte una experiencia diferente, tranquila y que estamos seguros que vas a repetir
+          {% when 'it' %}Con l'esperienza acquisita dal 2017, possiamo prometterti un'esperienza diversa e serena che siamo sicuri vorrai ripetere
+          {% when 'de' %}Mit unserer Erfahrung seit 2017 können wir dir ein einzigartiges, entspanntes Erlebnis versprechen, das du garantiert wiederholen möchtest
+          {% else %}With our experience since 2017, we can promise you a different, peaceful experience that we're sure you'll want to repeat
+        {% endcase %}
+      </p>
+      {% include boton_main.html %}
+      <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}{% case current_lang %}{% when 'es' %}nosotros/{% when 'it' %}chi-siamo/{% when 'de' %}uber-uns/{% else %}about/{% endcase %}" class="boton_secundario">
+        {% case current_lang %}
+          {% when 'es' %}Consigue más información
+          {% when 'it' %}Ottieni maggiori informazioni
+          {% when 'de' %}Erhalte mehr Informationen
+          {% else %}Get more information
+          {% endcase %}
+      </a>
+    </div>
+    <div class="hero_column_2">
+      <p class="places">
+        {% case current_lang %}
+          {% when 'es' %}Desierto de la Tatacoa, Huila
+          {% when 'it' %}Deserto di Tatacoa, Huila
+          {% when 'de' %}Tatacoa-Wüste, Huila
+          {% else %}Tatacoa Desert, Huila
+        {% endcase %}
+      </p>
+    </div>
+  </section>
+  <img src="{{ '/assets/img/desierto-tatacoa-huila-colombia.avif' | relative_url }}" alt="{% case current_lang %}{% when 'es' %}Desierto de la Tatacoa en Huila, Colombia{% when 'it' %}Deserto di Tatacoa in Huila, Colombia{% when 'de' %}Tatacoa-Wüste in Huila, Kolumbien{% else %}Tatacoa Desert in Huila, Colombia{% endcase %}" width="720" height="720" loading="eager" fetchpriority="high" decoding="async" class="image_outer right">
+</header>
+<!-- 
+{% when "tour" %}
+<header class="hero-section" {% if page.heroimage %}style="background-image: url('{{ page.heroimage | relative_url }}');"{% endif %}>
+  <div class="wrapper">
+    <h1>{{ page.h1 }}</h1>
+    <p class="subtitle">{{ page.subtitle }}</p>
+    {% include boton_main.html %}
+  </div>
+</header> -->
+
+{% when "experience" %}
+<header class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+  <div class="wrapper">
+    <h1>{{ page.h1 }}</h1>
+    <p class="subtitle">{{ page.excerpt }}</p>
+  </div>
+</header>
+
+{% when "destination" %}
+<header class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
+  <div class="wrapper">
+    <h1>{{ page.h1 }}</h1>
+    <p class="subtitle">{{ page.excerpt }}</p>
+  </div>
+</header>
+
+{% else %}
+{% endcase %}
