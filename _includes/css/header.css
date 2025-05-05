@@ -6,7 +6,7 @@
 
     h1,
     p {
-      max-width: 560px;
+      width: min(100%, 80ch);
     }
   }
 }

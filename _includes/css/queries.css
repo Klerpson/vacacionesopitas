@@ -1,15 +1,13 @@
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .experiencias {
     background-image: url('/assets/img/mapa-del-huila.avif');
   }
-
-  .testimonios_secundarios{
-    min-height: 40dvh;
-  }
-}
-@media (min-width: 1024px) {
   .text_background{
     background-color: transparent;
     box-shadow: none;
   }
+
+  .testimonios_principal{
+    flex-wrap: nowrap;
+  }  
 }
