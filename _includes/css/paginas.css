@@ -29,3 +29,14 @@
     }
   }
 }
+
+.conclusion{
+  display: grid;
+  place-items: center;
+  padding: 4em 0;
+  background-color: var(--color-accent);
+  box-shadow: 0 0 0 100vmax var(--color-accent);
+  clip-path: inset(0 -100vmax);
+  color: white;
+  text-align: center;
+}
