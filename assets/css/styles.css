@@ -7,4 +7,5 @@ layout: compress
 {% include css/header.css %}
 {% include css/testimonios.css %}
 {% include css/paginas.css %}
+{% include css/footer.css %}
 {% include css/queries.css %}
