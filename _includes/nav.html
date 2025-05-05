@@ -15,7 +15,7 @@
 <nav aria-label="{% case current_lang %}{% when 'es' %}Navegación principal{% when 'it' %}Navigazione principale{% when 'de' %}Hauptnavigation{% else %}Main navigation{% endcase %}">
   <input id="nav-toggle" type="checkbox" aria-hidden="true">
   <a href="/{% if current_lang != 'en' %}{{ current_lang }}/{% endif %}" title="{% case current_lang %}{% when 'es' %}Página de inicio de Colombia Travels{% when 'it' %}Pagina iniziale di Colombia Travels{% when 'de' %}Startseite von Colombia Travels{% else %}Colombia Travels Homepage{% endcase %}" class="logo-nav">
-    <img src="{{ '/assets/img/colombia-travels-logo.webp' | relative_url }}" alt="{% case current_lang %}{% when 'es' %}Logo Colombia Travels{% when 'it' %}Logo Colombia Travels{% when 'de' %}Logo Colombia Travels{% else %}Colombia Travels Logo{% endcase %}" width="168" height="40" loading="eager">
+    <img src="{{ '/assets/img/logo.avif' | relative_url }}" alt="{% case current_lang %}{% when 'es' %}Logo Colombia Travels{% when 'it' %}Logo Colombia Travels{% when 'de' %}Logo Colombia Travels{% else %}Colombia Travels Logo{% endcase %}" width="168" height="40" loading="eager">
   </a>
   <ul class="navegacion" role="menubar">
     <li class="dropdown" role="none">
