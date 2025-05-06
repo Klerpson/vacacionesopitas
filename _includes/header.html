@@ -89,15 +89,42 @@
   </section>
   <img src="{{ '/assets/img/desierto-tatacoa-huila-colombia.avif' | relative_url }}" alt="{% case current_lang %}{% when 'es' %}Desierto de la Tatacoa en Huila, Colombia{% when 'it' %}Deserto di Tatacoa in Huila, Colombia{% when 'de' %}Tatacoa-Wüste in Huila, Kolumbien{% else %}Tatacoa Desert in Huila, Colombia{% endcase %}" width="720" height="720" loading="eager" fetchpriority="high" decoding="async" class="image_outer right">
 </header>
-<!-- 
+
 {% when "tour" %}
-<header class="hero-section" {% if page.heroimage %}style="background-image: url('{{ page.heroimage | relative_url }}');"{% endif %}>
+
+<header class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
   <div class="wrapper">
-    <h1>{{ page.h1 }}</h1>
-    <p class="subtitle">{{ page.subtitle }}</p>
-    {% include boton_main.html %}
-  </div>
-</header> -->
+      <h1>{{ page.h1 }}</h1>
+      {% if page.subtitle %}
+      <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+      
+      {% if page.duration or page.price %}
+      <div class="two_columns tour-highlights">
+        {% if page.duration %}
+        <div class="highlight">
+          <span class="icon">{% include icons/clock.html %}</span>
+          <span class="text">
+            {% case current_lang %}
+              {% when 'es' %}{{ page.duration }} días
+              {% when 'it' %}{{ page.duration }} giorni
+              {% when 'de' %}{{ page.duration }} Tage
+              {% else %}{{ page.duration }} days
+              {% endcase %}
+            </span>
+          </div>
+          {% endif %}
+        
+        {% if page.price %}
+        <div class="highlight">
+          <span class="icon">{% include icons/price-tag.html %}</span>
+          <span class="text">{{ page.price }}</span>
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </header>
 
 {% when "experience" %}
 <header class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>

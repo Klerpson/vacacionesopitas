@@ -284,8 +284,12 @@ small {
 }
 
 .icon svg {
-  width: 24px;
-  height: 24px;
+  width: 84px;
+  height: 84px;
+
+  fill{
+    color: var(--color-grey);
+  }
 }
 
 /* Estilos para la página de blog */

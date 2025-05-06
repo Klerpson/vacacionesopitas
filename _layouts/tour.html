@@ -3,41 +3,8 @@ layout: default
 ---
 {% assign current_lang = page.lang | default: site.default_lang %}
 
+  
 <main class="tour-page">
-  <section class="hero-section" {% if page.hero_image %}style="background-image: url('{{ page.hero_image | relative_url }}');"{% endif %}>
-    <div class="wrapper">
-      <h1>{{ page.title }}</h1>
-      {% if page.subtitle %}
-      <p class="subtitle">{{ page.subtitle }}</p>
-      {% endif %}
-      
-      {% if page.duration or page.price %}
-      <div class="two_columns tour-highlights">
-        {% if page.duration %}
-        <div class="highlight">
-          <span class="icon">{% include icons/clock.html %}</span>
-          <span class="text">
-            {% case current_lang %}
-              {% when 'es' %}{{ page.duration }} días
-              {% when 'it' %}{{ page.duration }} giorni
-              {% when 'de' %}{{ page.duration }} Tage
-              {% else %}{{ page.duration }} days
-            {% endcase %}
-          </span>
-        </div>
-        {% endif %}
-        
-        {% if page.price %}
-        <div class="highlight">
-          <span class="icon">{% include icons/price-tag.html %}</span>
-          <span class="text">{{ page.price }}</span>
-        </div>
-        {% endif %}
-      </div>
-      {% endif %}
-    </div>
-  </section>
-
   <div class="wrapper">
     <div class="two_columns tour-content">
       <article class="tour-description">
