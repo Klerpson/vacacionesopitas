@@ -1,7 +1,0 @@
-# /security.txt
-Contact: mailto:info@colombiatravels.co
-Expires: 2026-12-31T23:59:59.000Z
-Preferred-Languages: en, es, it, de
-Canonical: https://colombiatravels.co/security.txt
-Policy: https://colombiatravels.co/privacy-policy/
-Hiring: https://colombiatravels.co/about/

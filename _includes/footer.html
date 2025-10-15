@@ -1,50 +1,41 @@
-{% assign current_lang = page.lang | default: site.default_lang %}
-
-<!-- Footer -->
-<footer class="footer">
-  <h2>
-    {% case current_lang %}
-      {% when 'es' %}Vacaciones Opitas
-      {% when 'it' %}Vacanze nel Huila
-      {% when 'de' %}Huila Urlaub
-      {% else %}Huila Vacations
-    {% endcase %}
-  </h2>
-
-  <p>
-    {% case current_lang %}
-      {% when 'es' %}
-      Somos expertos en turismo del Huila desde 2017, creando experiencias únicas y memorables para viajeros nacionales e internacionales. Visita nuestros perfiles en <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> y en la <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">ficha de Google Business</a>. Escríbenos por WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, y, por supuesto, aquí están los <a href="/{{ current_lang }}/terminos-y-condiciones/">términos y condiciones</a>, <a href="/{{ current_lang }}/politica-de-privacidad/">política de privacidad</a> y <a href="/{{ current_lang }}/politicas-de-cookies/">políticas de cookies</a> de nuestra página web.
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
       
-      {% when 'it' %}
-      Siamo esperti di turismo a Huila dal 2017, creando esperienze uniche e indimenticabili per viaggiatori nazionali e internazionali. Visita i nostri profili su <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> e sulla <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">scheda Google Business</a>. Scrivici su WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, e, naturalmente, qui ci sono i <a href="/it/termini-e-condizioni/">termini e condizioni</a>, la <a href="/it/politica-sulla-privacy/">politica sulla privacy</a> e la <a href="/it/politica-sui-cookie/">politica sui cookie</a> del nostro sito web.
+      <div class="footer-section">
+        <h3>{{ site.company.name }}</h3>
+        <p>{{ site.description }}</p>
+        <p><strong>NIT:</strong> {{ site.company.nit }}</p>
+      </div>
       
-      {% when 'de' %}
-      Wir sind seit 2017 Experten für Tourismus in Huila und kreieren einzigartige und unvergessliche Erlebnisse für nationale und internationale Reisende. Besuche unsere Profile auf <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> und in unserem <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">Google Business-Eintrag</a>. Schreibe uns über WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, und selbstverständlich findest du hier unsere <a href="/de/allgemeine-geschaftsbedingungen/">Allgemeinen Geschäftsbedingungen</a>, <a href="/de/datenschutzrichtlinie/">Datenschutzrichtlinie</a> und <a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a> unserer Website.
+      <div class="footer-section">
+        <h4>Destinos Populares</h4>
+        <ul>
+          {% for destino in site.destinos limit: 5 %}
+          <li><a href="{{ destino.url | relative_url }}" title="{{ destino.title }}">{{ destino.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
       
-      {% else %}
-      We have been Huila tourism experts since 2017, creating unique and memorable experiences for both domestic and international travelers. Visit our profiles on <a href="https://www.linkedin.com/company/vacacionesopitas/" target="_blank" rel="noopener">LinkedIn</a> and our <a href="https://g.page/vacacionesopitas" target="_blank" rel="noopener">Google Business listing</a>. Message us on WhatsApp: <a href="https://wa.me/{{ site.whatsapp | remove: '+' }}" target="_blank" rel="noopener">{{ site.whatsapp }}</a>, and, of course, here are the <a href="/terms-and-conditions/">terms and conditions</a>, <a href="/privacy-policy/">privacy policy</a>, and <a href="/cookie-policy/">cookie policy</a> for our website.
-    {% endcase %}
-  </p>
-
-  <p class="footer-closing">
-    {% case current_lang %}
-      {% when 'es' %}¡En tantico nos vemos!
-      {% when 'it' %}Ci vediamo presto!
-      {% when 'de' %}Bis bald!
-      {% else %}See you soon!
-    {% endcase %}
-  </p>
-
-  <div class="footer-copyright">
-    {% case current_lang %}
-      {% when 'es' %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - Todos los derechos reservados. Página realizada por
-      {% when 'it' %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - Tutti i diritti riservati. Sito web creato da
-      {% when 'de' %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - Alle Rechte vorbehalten. Website erstellt von
-      {% else %}©vacacionesopitas.com {{ site.time | date: '%Y' }} - All rights reserved. Website created by
-    {% endcase %}
-    {% if page.url == "/" %}
-    <a href="https://juli.com.co">juli.com.co</a>
-    {% endif %}
+      <div class="footer-section">
+        <h4>Experiencias</h4>
+        <ul>
+          {% for experiencia in site.experiencias limit: 5 %}
+          <li><a href="{{ experiencia.url | relative_url }}" title="{{ experiencia.title }}">{{ experiencia.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Contacto</h4>
+        <p>📧 <a href="mailto:{{ site.company.email }}" title="Envíanos un email">{{ site.company.email }}</a></p>
+        <p>📱 <a href="tel:{{ site.company.phone }}" title="Llámanos ahora">{{ site.company.phone }}</a></p>
+        <p>📍 {{ site.company.address }}</p>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: '%Y' }} {{ site.company.name }}. Todos los derechos reservados.</p>
+    </div>
   </div>
 </footer>

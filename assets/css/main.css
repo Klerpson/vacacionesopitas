@@ -1,0 +1,7 @@
+---
+layout: compress
+---
+{% include css/critical.css %}
+{% include css/header.css %}
+{% include css/hero.css %}
+{% include css/buttons.css %}

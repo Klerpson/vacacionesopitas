@@ -3,12 +3,6 @@
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
-
-    h1,
-    p {
-      width: min(100%, 80ch);
-    }
-  }
 }
 
 .hero__text {
@@ -17,8 +11,9 @@
 
 .hero__text h1 {
   font-size: 3.5rem;
-  color: #1b3764;
+  color: var(--color-grey);
   margin-bottom: 1.5rem;
+  max-width: 80ch;
 }
 
 .hero__text p {
@@ -26,7 +21,6 @@
   line-height: 1.6;
   margin-bottom: 2rem;
 }
-
 
 /* Layouts comunes */
 .hero-section {

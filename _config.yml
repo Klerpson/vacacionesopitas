@@ -1,298 +1,97 @@
 # Configuración básica del sitio
-baseurl: ''
-url: 'https://colombiatravels.co'
-name: 'Colombia Travels'
-email: 'info@colombiatravels.co'
-maps: 'https://maps.app.goo.gl/examplelink'
-direccion: 'Calle 10 # 5-51, Neiva, Huila, Colombia'
-telefono: '+573201234567'
-whatsapp: '+573201234567'
+title: "Huila Viajera - Experiencias Únicas en el Huila, Colombia"
+description: "Descubre el Huila auténtico con Walter Tours. Desierto de La Tatacoa, San Agustín, experiencias gastronómicas y aventura extrema. Tours especializados desde 2024."
+baseurl: ""
+url: "https://colombiatravels.co"
 
-# Información del autor y redes sociales
-author:
-  name: 'Colombia Travels'
-  email: 'info@colombiatravels.co'
-  instagram: 'https://www.instagram.com/colombiatravels.co/'
-  facebook: 'https://www.facebook.com/colombiatravels.co/'
-  twitter: 'https://twitter.com/colombiatravels'
-  job_title: 'Agencia de viajes especializada en turismo del Huila'
-  bio: 'Agencia de viajes especializada en turismo del Huila con guías bilingües y expertos en la región.'
+# SEO y metadatos
+author: "Walter Tours"
+lang: "es-CO"
+timezone: "America/Bogota"
 
-# SEO Configuration
-title: 'Colombia Travels | Authentic Huila Tours & Travel Experiences'
-tagline: 'Discover the hidden treasures of Huila, Colombia'
-description: 'Premium tours and travel experiences in Huila, Colombia. Visit the Tatacoa Desert, San Agustín Archaeological Park, and authentic coffee farms with bilingual guides.'
-description_es: 'Tours y experiencias premium en Huila, Colombia. Visita el Desierto de la Tatacoa, el Parque Arqueológico de San Agustín y auténticas fincas cafeteras con guías bilingües.'
-description_it: 'Tour ed esperienze premium a Huila, Colombia. Visita il Deserto di Tatacoa, il Parco Archeologico di San Agustín e autentiche fattorie di caffè con guide bilingue.'
-description_de: 'Premium-Touren und Reiseerlebnisse in Huila, Kolumbien. Besuchen Sie die Tatacoa-Wüste, den archäologischen Park von San Agustín und authentische Kaffeefarmen mit zweisprachigen Führern.'
-logo: '/assets/img/colombia-travels-logo.webp'
-social:
-  name: 'Colombia Travels'
-  links:
-    - 'https://www.instagram.com/colombiatravels.co/'
-    - 'https://www.facebook.com/colombiatravels.co/'
-    - 'https://twitter.com/colombiatravels'
-
-# Publisher
-publisher:
-  name: 'Colombia Travels'
-  logo: '/assets/img/colombia-travels-logo.webp'
-
+# Configuración Jekyll básica
 markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 12
+paginate_path: "/blog/page:num/"
 
-# Configuración de URLs y colecciones
-permalink: /:categories/:slug/
+# Sin plugins - solo Jekyll básico
+plugins: []
 
-# Configuración de idiomas
-languages: ["en", "es", "it", "de"]
-default_lang: "en"
-
-# Colecciones para cada tipo de contenido e idioma
+# Collections para contenido estructurado
 collections:
-  # Tours por tipo para cada idioma
-  tours_en:
+  destinos:
     output: true
-    permalink: /tours/:slug/
-  tours_es:
+    permalink: /:collection/:name/
+  experiencias:
     output: true
-    permalink: /es/tours/:slug/
-  tours_it:
+    permalink: /:collection/:name/
+  paquetes:
     output: true
-    permalink: /it/tour/:slug/
-  tours_de:
-    output: true
-    permalink: /de/touren/:slug/
-  
-  # Destinos para cada idioma
-  destinations_en:
-    output: true
-    permalink: /destinations/:slug/
-  destinations_es:
-    output: true
-    permalink: /es/destinos/:slug/
-  destinations_it:
-    output: true
-    permalink: /it/destinazioni/:slug/
-  destinations_de:
-    output: true
-    permalink: /de/reiseziele/:slug/
-  
-  # Experiencias para cada idioma
-  experiences_en:
-    output: true
-    permalink: /experiences/:slug/
-  experiences_es:
-    output: true
-    permalink: /es/experiencias/:slug/
-  experiences_it:
-    output: true
-    permalink: /it/esperienze/:slug/
-  experiences_de:
-    output: true
-    permalink: /de/erlebnisse/:slug/
-  
-  # Posts del blog para cada idioma
-  posts:
-    output: true
-  
-  # Redirecciones
-  redirects:
-    output: true
+    permalink: /:collection/:name/
 
-# Valores por defecto para los diferentes tipos de contenido
+# Configuración de layouts por defecto
 defaults:
-  # Default global
   - scope:
       path: ""
-    values:
-      layout: "default"
-      schema_type: "WebPage"
-  
-  # Configuración para cada idioma - Páginas principales
-  - scope:
-      path: "en"
-    values:
-      lang: "en"
-  - scope:
-      path: "es"
-    values:
-      lang: "es"
-  - scope:
-      path: "it"
-    values:
-      lang: "it"
-  - scope:
-      path: "de"
-    values:
-      lang: "de"
-  
-  # Páginas de inicio por idioma
-  - scope:
-      path: "index.html"
-    values:
-      lang: "en"
-  - scope:
-      path: "es/index.html"
-    values:
-      lang: "es"
-  - scope:
-      path: "it/index.html"
-    values:
-      lang: "it"
-  - scope:
-      path: "de/index.html"
-    values:
-      lang: "de"
-  
-  # Posts blog en cada idioma
-  - scope:
-      path: "_posts/en"
+      type: "posts"
     values:
       layout: "post"
-      lang: "en"
-      permalink: /blog/:title/
-      schema_type: "BlogPosting"
-  - scope:
-      path: "_posts/es"
-    values:
-      layout: "post"
-      lang: "es"
-      permalink: /es/blog/:title/
-      schema_type: "BlogPosting"
-  - scope:
-      path: "_posts/it"
-    values:
-      layout: "post"
-      lang: "it"
-      permalink: /it/blog/:title/
-      schema_type: "BlogPosting"
-  - scope:
-      path: "_posts/de"
-    values:
-      layout: "post"
-      lang: "de"
-      permalink: /de/blog/:title/
-      schema_type: "BlogPosting"
-  
-  # Tours por idioma
+      author: "Walter Tours"
   - scope:
       path: ""
-      type: "tours_en"
+      type: "destinos"
     values:
-      layout: "tour"
-      lang: "en"
+      layout: "destino"
+      schema_type: "TouristDestination"
+  - scope:
+      path: ""
+      type: "experiencias"
+    values:
+      layout: "experiencia" 
       schema_type: "TouristAttraction"
   - scope:
       path: ""
-      type: "tours_es"
+      type: "paquetes"
     values:
-      layout: "tour"
-      lang: "es"
-      schema_type: "TouristAttraction"
-  - scope:
-      path: ""
-      type: "tours_it"
-    values:
-      layout: "tour"
-      lang: "it"
-      schema_type: "TouristAttraction"
-  - scope:
-      path: ""
-      type: "tours_de"
-    values:
-      layout: "tour"
-      lang: "de"
-      schema_type: "TouristAttraction"
-  
-  # Destinos por idioma
-  - scope:
-      path: ""
-      type: "destinations_en"
-    values:
-      layout: "destination"
-      lang: "en"
-      schema_type: "Place"
-  - scope:
-      path: ""
-      type: "destinations_es"
-    values:
-      layout: "destination"
-      lang: "es"
-      schema_type: "Place"
-  - scope:
-      path: ""
-      type: "destinations_it"
-    values:
-      layout: "destination"
-      lang: "it"
-      schema_type: "Place"
-  - scope:
-      path: ""
-      type: "destinations_de"
-    values:
-      layout: "destination"
-      lang: "de"
-      schema_type: "Place"
-  
-  # Experiencias por idioma
-  - scope:
-      path: ""
-      type: "experiences_en"
-    values:
-      layout: "experience"
-      lang: "en"
-      schema_type: "TouristAttraction"
-  - scope:
-      path: ""
-      type: "experiences_es"
-    values:
-      layout: "experience"
-      lang: "es"
-      schema_type: "TouristAttraction"
-  - scope:
-      path: ""
-      type: "experiences_it"
-    values:
-      layout: "experience"
-      lang: "it"
-      schema_type: "TouristAttraction"
-  - scope:
-      path: ""
-      type: "experiences_de"
-    values:
-      layout: "experience"
-      lang: "de"
-      schema_type: "TouristAttraction"
+      layout: "paquete"
+      schema_type: "TouristTrip"
 
-# Optimización HTML
-compress_html:
-  endings: ["li", "dt", "dd", "optgroup", "option", "colgroup", "caption", "thead", "tbody", "tfoot", "tr", "td", "th"]
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  ignore:
-    envs: []
-  blanklines: false
-  profile: false
-  startings: []
-
-# Archivos a incluir
-include:
-  - _pages
+# Optimizaciones técnicas
+sass:
+  style: compressed
+  sourcemap: never
 
 # Archivos a excluir
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor
-  - .sass-cache
-  - .jekyll-cache
   - README.md
-  - CHANGELOG.md
-  - LICENSE.md
+  - LICENSE
+  - node_modules
   - package.json
-  - package-lock.json
-  - gulpfile.js
-  - "*.sketch"
-  - "*.fig"
-  - "*.psd"
+  - .git
+  - .gitignore
+
+# Variables del sitio
+company:
+  name: "Walter Tours"
+  nit: "7721644-2"
+  phone: "+57 XXX XXX XXXX"
+  email: "info@waltertours.com"
+  address: "Huila, Colombia"
+  logo: "/assets/images/logo-walter-tours.webp"
+  
+# Schema.org datos base
+schema:
+  type: "TravelAgency"
+  area_served: "Huila, Colombia"
+  founding_date: "2024"
+  
+# GTM y tracking
+gtm_id: "GTM-XXXXXXX"
+
+# Configuración de imágenes
+images_path: "/assets/images/"
+default_image: "/assets/images/og-huila-default.webp"

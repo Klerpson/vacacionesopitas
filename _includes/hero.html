@@ -1,0 +1,78 @@
+<section class="hero {{ include.variant | default: 'default' }}">
+  <div class="container">
+    <div class="hero__content">
+      {% if include.stats or page.hero_stats %}
+      <div class="hero__text">
+      {% else %}
+      <div class="hero__text hero__text--full">
+      {% endif %}
+        <h1 class="hero__title">
+          {% if include.title %}
+            {{ include.title }}
+          {% elsif page.hero_title %}
+            {{ page.hero_title }}
+          {% else %}
+            {{ page.title }}
+          {% endif %}
+        </h1>
+        
+        {% if include.description or page.hero_description %}
+        <p class="hero__description">
+          {{ include.description | default: page.hero_description }}
+        </p>
+        {% endif %}
+        
+        {% if include.stats or page.hero_stats %}
+        <div class="hero__stats">
+          {% assign stats = include.stats | default: page.hero_stats %}
+          {% for stat in stats %}
+          <div class="stat">
+            <span class="stat__number">{{ stat.number }}</span>
+            <span class="stat__label">{{ stat.label }}</span>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        
+        {% if include.buttons or page.hero_buttons %}
+        <div class="hero__actions">
+          {% assign buttons = include.buttons | default: page.hero_buttons %}
+          {% for button in buttons %}
+          <a href="{{ button.url }}" 
+             class="btn btn--{{ button.style | default: 'primary' }}" 
+             title="{{ button.title }}">
+            {{ button.text }}
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+      
+      {% if include.image or page.hero_image %}
+      <div class="hero__media">
+        <img src="{{ include.image | default: page.hero_image }}" 
+             alt="{{ include.image_alt | default: page.hero_image_alt }}" 
+             loading="{% if include.priority %}eager{% else %}lazy{% endif %}"
+             class="hero__image">
+        
+        {% if include.testimonial or page.hero_testimonial %}
+        {% assign testimonial = include.testimonial | default: page.hero_testimonial %}
+        <div class="floating-testimonial">
+          <p class="floating-testimonial__text">{{ testimonial.text }}</p>
+          <cite class="floating-testimonial__author">{{ testimonial.author }}</cite>
+          {% if testimonial.rating %}
+          <div class="floating-testimonial__rating">
+            {% for i in (1..testimonial.rating) %}⭐{% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  
+  {% if include.pattern or page.hero_pattern %}
+  <div class="hero__pattern" aria-hidden="true"></div>
+  {% endif %}
+</section>

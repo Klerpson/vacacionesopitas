@@ -1,0 +1,234 @@
+.hero {
+  --hero-padding: clamp(3rem, 8vw, 6rem) 0 clamp(2rem, 5vw, 4rem);
+  --hero-gap: clamp(2rem, 5vw, 4rem);
+  
+  padding: var(--hero-padding);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Variantes de hero */
+.hero.default {
+  background: linear-gradient(135deg, var(--color-main) 0%, var(--color-accion) 100%);
+  color: var(--color-white);
+}
+
+.hero.light {
+  background: var(--color-grey);
+  color: var(--color-fonts);
+}
+
+.hero.dark {
+  background: var(--color-main);
+  color: var(--color-white);
+}
+
+.hero.gradient {
+  background: linear-gradient(135deg, var(--color-accion) 0%, var(--color-complement) 100%);
+  color: var(--color-white);
+}
+
+/* Layout del hero */
+.hero__content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--hero-gap);
+  align-items: center;
+  position: relative;
+  z-index: 2;
+}
+
+.hero__text--full {
+  grid-column: 1 / -1;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Tipografía del hero */
+.hero__title {
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 700;
+  line-height: 1.1;
+  margin-block-end: 1.5rem;
+}
+
+.hero__description {
+  font-size: clamp(1.125rem, 2.5vw, 1.375rem);
+  line-height: 1.6;
+  margin-block-end: 2rem;
+  opacity: 0.95;
+}
+
+/* Stats del hero */
+.hero__stats {
+  display: flex;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  margin-block-end: 2rem;
+  justify-content: center;
+}
+
+.hero__text:not(.hero__text--full) .hero__stats {
+  justify-content: flex-start;
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat__number {
+  display: block;
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
+  font-weight: 700;
+  color: var(--color-complement);
+}
+
+.hero.light .stat__number {
+  color: var(--color-accion);
+}
+
+.stat__label {
+  font-size: clamp(0.875rem, 2vw, 1rem);
+  opacity: 0.8;
+  font-weight: 500;
+}
+
+/* Acciones del hero */
+.hero__actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.hero__text--full .hero__actions {
+  justify-content: center;
+}
+
+/* Media del hero */
+.hero__media {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.hero__image {
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  box-shadow: 0 1.25rem 2.5rem rgba(0, 0, 0, 0.3);
+  transition: var(--transition);
+}
+
+.hero__image:hover {
+  transform: translateY(-0.25rem);
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.35);
+}
+
+/* Testimonial flotante */
+.floating-testimonial {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  background: var(--color-white);
+  color: var(--color-fonts);
+  padding: 1rem;
+  border-radius: var(--radius);
+  box-shadow: 0 0.625rem 1.875rem rgba(0, 0, 0, 0.2);
+  max-width: 15.625rem;
+  backdrop-filter: blur(10px);
+}
+
+.floating-testimonial__text {
+  font-size: 0.875rem;
+  line-height: 1.4;
+  margin-block-end: 0.5rem;
+}
+
+.floating-testimonial__author {
+  font-size: 0.75rem;
+  opacity: 0.8;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.floating-testimonial__rating {
+  margin-block-start: 0.25rem;
+  font-size: 0.75rem;
+}
+
+/* Patrón de fondo */
+.hero__pattern {
+  position: absolute;
+  inset: 0;
+  background: url('/assets/images/huila-pattern.svg') repeat;
+  opacity: 0.05;
+  z-index: 1;
+}
+
+/* Media queries */
+@media (max-width: 768px) {
+  .hero__content {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .hero__stats {
+    justify-content: center;
+  }
+  
+  .hero__actions {
+    justify-content: center;
+  }
+  
+  .floating-testimonial {
+    position: static;
+    margin-block-start: 1rem;
+    max-width: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero__actions {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero__actions .btn {
+    width: 100%;
+    max-width: 20rem;
+  }
+}
+
+/* Animaciones */
+@media (prefers-reduced-motion: no-preference) {
+  .hero__title {
+    animation: heroSlideUp 0.8s ease-out;
+  }
+  
+  .hero__description {
+    animation: heroSlideUp 0.8s ease-out 0.2s both;
+  }
+  
+  .hero__stats {
+    animation: heroSlideUp 0.8s ease-out 0.4s both;
+  }
+  
+  .hero__actions {
+    animation: heroSlideUp 0.8s ease-out 0.6s both;
+  }
+  
+  .hero__image {
+    animation: heroSlideUp 0.8s ease-out 0.8s both;
+  }
+}
+
+@keyframes heroSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
